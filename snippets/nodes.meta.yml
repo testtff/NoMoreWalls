@@ -1,42 +1,44 @@
 proxies:
-- cipher: aes-128-gcm
-  name: 0,13|🇬🇧 英国2|@ripaojiedian
-  password: shadowsocks
-  port: 443
-  server: 212.102.53.198
-  tfo: false
-  type: ss
-- cipher: rc4-md5
-  name: 0|-https://t.me/MrXbin-15
-  obfs: tls1.2_ticket_auth
-  password: Cskw6d
-  port: 13642
-  protocol: auth_aes128_md5
-  protocol-param: 524959:5u4MZ6
-  server: sjgysy.cdn.node.a.tddns-ounk.com
-  type: ssr
-- cipher: rc4-md5
-  name: 0|-https://t.me/MrXbin-17
-  obfs: tls1.2_ticket_auth
-  password: Cskw6d
-  port: 13448
-  protocol: auth_aes128_md5
-  protocol-param: 524959:5u4MZ6
-  server: sjgysy.cdn.node.a.tddns-ounk.com
-  type: ssr
 - cipher: aes-256-cfb
-  name: 0|-https://t.me/MrXbin-18
+  name: 0|-https://t.me/MrXbin-9
   obfs: tls1.2_ticket_auth
   password: fou8MBGij
   port: 8081
   protocol: origin
   server: us-am3.eqnode.net
   type: ssr
+- cipher: rc4-md5
+  name: 0|-https://t.me/MrXbin-12
+  obfs: tls1.2_ticket_auth
+  password: Cskw6d
+  port: 13498
+  protocol: auth_aes128_md5
+  protocol-param: 524959:5u4MZ6
+  server: xrbsy1.cdn.node.a.tddns-ounk.com
+  type: ssr
+- cipher: rc4-md5
+  name: 0|-https://t.me/MrXbin-13
+  obfs: tls1.2_ticket_auth
+  password: Cskw6d
+  port: 13449
+  protocol: auth_aes128_md5
+  protocol-param: 524959:5u4MZ6
+  server: sjgysy.cdn.node.a.tddns-ounk.com
+  type: ssr
+- cipher: rc4-md5
+  name: 0|-https://t.me/MrXbin-21
+  obfs: tls1.2_ticket_auth
+  password: Cskw6d
+  port: 13262
+  protocol: auth_aes128_md5
+  protocol-param: 524959:5u4MZ6
+  server: xrbsy1.cdn.node.a.tddns-ounk.com
+  type: ssr
 - alterId: 0
   cipher: auto
   h2-opts: {}
   http-opts: {}
-  name: 0|-https://t.me/MrXbin-40
+  name: 0|-https://t.me/MrXbin-33
   network: ws
   port: 2095
   server: 172.64.175.213
@@ -52,7 +54,7 @@ proxies:
   cipher: auto
   h2-opts: {}
   http-opts: {}
-  name: 0|-https://t.me/MrXbin-42
+  name: 0|-https://t.me/MrXbin-34
   network: ws
   port: 2095
   server: 172.64.175.88
@@ -68,7 +70,7 @@ proxies:
   cipher: auto
   h2-opts: {}
   http-opts: {}
-  name: 0|-https://t.me/MrXbin-43
+  name: 0|-https://t.me/MrXbin-36
   network: ws
   port: 30001
   server: 107.167.20.180
@@ -83,11 +85,27 @@ proxies:
       Host: www.15314695.xyz
     path: /path/091615350227
 - name: 8|@Zede_filteri+
-  password: 5c397f7b-3d06-48cc-9147-218109e23a24
-  port: 11402
-  server: 83.147.13.176
+  password: ac1e9da8-a72c-4aa3-b9e5-86c0b3fc8f64
+  port: 30001
+  server: oracle-arm-chuncheon2.lanmaoyun.icu
   skip-cert-verify: true
-  sni: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
+  sni: korea.nodes.lanmaoyun.icu
+  tls: false
+  type: hysteria2
+- name: '8|@Zede_filteri+ #1'
+  password: ac1e9da8-a72c-4aa3-b9e5-86c0b3fc8f64
+  port: 30001
+  server: oracle-arm-frankfurt1.lanmaoyun.icu
+  skip-cert-verify: true
+  sni: frankfurt1.nodes.lanmaoyun.icu
+  tls: false
+  type: hysteria2
+- name: '8|@Zede_filteri+ #2'
+  password: ac1e9da8-a72c-4aa3-b9e5-86c0b3fc8f64
+  port: 30001
+  server: oracle-arm-london1.lanmaoyun.icu
+  skip-cert-verify: true
+  sni: london1.nodes.lanmaoyun.icu
   tls: false
   type: hysteria2
 - name: 8|Irancell-@V2ray_Raha-5
@@ -294,6 +312,13 @@ proxies:
   tls: false
   type: vmess
   uuid: 21a9bff2-72de-4e62-93ff-8b159f66d875
+- cipher: aes-128-gcm
+  name: 13|🇬🇧 英国2|@ripaojiedian
+  password: shadowsocks
+  port: 443
+  server: 212.102.53.198
+  tfo: false
+  type: ss
 - alterId: 0
   cipher: auto
   name: 13|🇮🇹 意大利|@ripaojiedian
