@@ -36,6 +36,30 @@ proxies:
   uuid: 640c1077-d10b-4225-a9fb-d3e9c3ce7a00
 - alterId: 0
   cipher: auto
+  name: 14|香港|@ripaojiedian
+  network: ws
+  port: '12959'
+  server: z3.fragranceninja.com
+  servername: z3.fragranceninja.com
+  tls: true
+  type: vmess
+  uuid: a32313ad-5e39-4f9a-9cad-512041790050
+  ws-opts:
+    headers:
+      Host: z3.fragranceninja.com
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 14|香港3|@ripaojiedian
+  network: tcp
+  port: '45219'
+  server: 103.224.80.27
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: ac134134-87e5-42b5-8805-565395a30acc
+- alterId: 0
+  cipher: auto
   name: 14|香港5|@ripaojiedian
   network: tcp
   port: '2902'

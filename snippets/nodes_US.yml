@@ -26,13 +26,6 @@ proxies:
   server: 23.157.40.113
   tfo: false
   type: ss
-- name: 14|美国|@ripaojiedian
-  network: tcp
-  password: '!!str 3690911436885991424'
-  port: 443
-  server: careful-platypus.opossum872.cfd
-  skip-cert-verify: true
-  type: trojan
 - alterId: 64
   cipher: auto
   name: 14|美国3|@ripaojiedian
