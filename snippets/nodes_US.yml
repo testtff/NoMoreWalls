@@ -1,9 +1,1 @@
-proxies:
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 13|🇺🇸 美国|@ripaojiedian
-  password: shadowsocks
-  port: 443
-  server: 212.102.47.131
-  tfo: false
-  type: ss
+proxies: []
