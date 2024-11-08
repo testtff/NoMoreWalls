@@ -7,12 +7,12 @@ proxies:
   server: 212.102.47.131
   tfo: false
   type: ss
-- cipher: aes-128-gcm
+- cipher: chacha20-ietf
   client-fingerprint: chrome
-  name: 13|🇺🇸 美国3|@ripaojiedian
-  password: shadowsocks
-  port: 443
-  server: 156.146.38.168
+  name: 13|🇺🇸 美国2|@ripaojiedian
+  password: asd123456
+  port: 8388
+  server: 137.175.113.192
   tfo: false
   type: ss
 - alterId: 64
