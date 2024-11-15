@@ -34,23 +34,19 @@ proxies:
   server: 3.38.209.2
   tfo: false
   type: ss
-- name: 14|日本3|@ripaojiedian
-  network: tcp
-  password: 3FxORlYgZBNwDqxCj43X6el8I3EapZSpeD9S5zCF0A2cy8OSCYADn7au3KaRyT
-  port: 443
-  server: demise.meijireform.com
-  type: trojan
 - alterId: 0
   cipher: auto
-  name: 14|日本4|@ripaojiedian
-  network: ws
-  port: '33202'
-  server: yd2.ainivp.com
-  servername: yd2.ainivp.com
-  tls: true
+  name: 14|日本2|@ripaojiedian
+  network: tcp
+  port: '30178'
+  server: 45.159.51.88
+  servername: ''
+  tls: false
   type: vmess
-  uuid: 9204afcd-023e-781f-1abc-c12efccd1344
-  ws-opts:
-    headers:
-      Host: yd2.ainivp.com
-    path: /ray
+  uuid: a0dfa194-ce47-409f-b551-ff520181bfab
+- name: 14|日本3|@ripaojiedian
+  network: tcp
+  password: AlXRB8wqec3pCYZgSNADxROFSEa0Saz3Z6O7u3FjIlDT4eDYxp89aCy35KC2yn
+  port: 443
+  server: nagoya.meijireform.com
+  type: trojan
