@@ -1,13 +1,12 @@
 proxies:
-- cipher: chacha20-ietf-poly1305
-  name: 0|-https://t.me/MrXbin-1
-  password: cvII85TrW6n0OGyfpHVS1u
-  port: 8080
-  server: 45.87.175.178
-  type: ss
-  udp: true
 - cipher: aes-256-cfb
-  name: 0|-https://t.me/MrXbin-12
+  name: 0|-https://t.me/MrXbin-2
+  password: qwerREWQ@@
+  port: 54345
+  server: 221.139.79.57
+  type: ss
+- cipher: aes-256-cfb
+  name: 0|-https://t.me/MrXbin-10
   obfs: tls1.2_ticket_auth
   password: fou8MBGij
   port: 8081
@@ -18,27 +17,11 @@ proxies:
   name: 0|-https://t.me/MrXbin-14
   obfs: tls1.2_ticket_auth
   password: Cskw6d
-  port: 13636
+  port: 13637
   protocol: auth_aes128_md5
   protocol-param: 524959:5u4MZ6
   server: bb29cs.cdn.node.a.tddns-ounk.com
   type: ssr
-- alterId: 0
-  cipher: auto
-  h2-opts: {}
-  http-opts: {}
-  name: 0|-https://t.me/MrXbin-17
-  network: ws
-  port: 2082
-  server: 172.64.194.76
-  servername: ip18.6929198.xyz
-  type: vmess
-  udp: true
-  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
-  ws-opts:
-    headers:
-      Host: ip18.6929198.xyz
-    path: /github.com/Alvin9999
 - alterId: 0
   cipher: auto
   name: '3,4,5|d*********g.com_0 #2'
@@ -111,22 +94,6 @@ proxies:
     path: github.com/Alvin9999
     v2ray-http-upgrade: true
     v2ray-http-upgrade-fast-open: true
-- name: 8|🇹🇷+ConfigV2RayNG+⚡
-  password: 28c05d48e2f470d07a4c392c9bd43849
-  port: 443
-  server: quran.mci.ai
-  skip-cert-verify: false
-  sni: quran.mci.ai
-  tls: false
-  type: hysteria2
-- name: 8|64@ConfigV2RayNG
-  password: 5454c787-fa89-4416-8d3f-0e56d8e0969c
-  port: 28258
-  server: 128.204.223.42
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
 - name: 8|IR-@V2ray_Raha-1
   password: e169856c-7c19-4908-9bdf-448dc846163a
   port: 443
