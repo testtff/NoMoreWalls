@@ -1,19 +1,14 @@
 proxies:
-- cipher: aes-256-cfb
-  client-fingerprint: chrome
-  name: 13|🇸🇬 狮城特殊|@ripaojiedian
-  password: amazonskr05
-  port: 443
-  server: 54.168.231.174
-  tfo: false
-  type: ss
 - alterId: 0
   cipher: auto
-  name: 14|新加坡|@ripaojiedian
+  client-fingerprint: chrome
+  name: 13,14|新加坡|@ripaojiedian
   network: ws
   port: '2086'
   server: cdn2.bpcdn.cc
   servername: ''
+  skip-cert-verify: false
+  tfo: false
   tls: false
   type: vmess
   uuid: 3db2d115-1db9-457d-850f-818b73228f67
@@ -21,3 +16,11 @@ proxies:
     headers:
       Host: sgtxv82wilpfh6a8vm.lovebaipiao.com
     path: /
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
+  name: 13|🇸🇬 狮城特殊|@ripaojiedian
+  password: amazonskr05
+  port: 443
+  server: 54.180.157.150
+  tfo: false
+  type: ss
