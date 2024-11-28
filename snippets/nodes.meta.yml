@@ -1,15 +1,18 @@
 proxies:
 - cipher: rc4-md5
-  name: 0|-https://t.me/MrXbin-8
-  obfs: tls1.2_ticket_auth
-  password: Cskw6d
-  port: 13630
-  protocol: auth_aes128_md5
-  protocol-param: 524959:5u4MZ6
-  server: bb29cs.cdn.node.a.tddns-ounk.com
-  type: ssr
+  name: 0|-https://t.me/MrXbin-1
+  password: 14fFPrbezE3HDZzsMOr6
+  port: 8080
+  server: 193.108.119.230
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: 0|-https://t.me/MrXbin-2
+  password: vntxqHhPINXu5Ag6876fXO
+  port: 1080
+  server: 51.195.220.179
+  type: ss
 - cipher: aes-256-cfb
-  name: 0|-https://t.me/MrXbin-10
+  name: 0|-https://t.me/MrXbin-14
   obfs: tls1.2_ticket_auth
   password: fou8MBGij
   port: 8081
@@ -20,23 +23,7 @@ proxies:
   cipher: auto
   h2-opts: {}
   http-opts: {}
-  name: 0|-https://t.me/MrXbin-16
-  network: ws
-  port: 2095
-  server: 172.64.166.22
-  servername: ip20.6016725.xyz
-  type: vmess
-  udp: true
-  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
-  ws-opts:
-    headers:
-      Host: ip20.6016725.xyz
-    path: /github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  h2-opts: {}
-  http-opts: {}
-  name: 0|-https://t.me/MrXbin-23
+  name: 0|-https://t.me/MrXbin-17
   network: ws
   port: 443
   server: 15.235.83.227
@@ -312,15 +299,13 @@ proxies:
   sni: ELiV2RAY.eliv2.top
   tls: false
   type: hysteria2
-- name: 13,14|香港|@ripaojiedian
-  network: tcp
+- name: 13|🇭🇰 香港|@ripaojiedian
   password: QwwHvrnN
   port: 14505
   server: 36.151.192.242
   skip-cert-verify: true
   type: trojan
-- name: 13,14|香港2|@ripaojiedian
-  network: tcp
+- name: 13|🇭🇰 香港2|@ripaojiedian
   password: QwwHvrnN
   port: 42395
   server: 36.151.192.196
@@ -415,8 +400,7 @@ proxies:
   protocol-param: 102946:2LUBMA
   server: 95b1cd85a0968ff2.cdn.jiashule.com
   type: ssr
-- name: 13,14|韩国|@ripaojiedian
-  network: tcp
+- name: 13|🇰🇷 韩国|@ripaojiedian
   password: QwwHvrnN
   port: 36900
   server: 36.151.192.198
@@ -450,6 +434,20 @@ proxies:
   server: 54.168.231.174
   tfo: false
   type: ss
+- name: 14|香港|@ripaojiedian
+  network: tcp
+  password: QwwHvrnN
+  port: 34185
+  server: 36.151.192.201
+  skip-cert-verify: true
+  type: trojan
+- name: 14|香港2|@ripaojiedian
+  network: tcp
+  password: QwwHvrnN
+  port: 18682
+  server: 36.151.192.203
+  skip-cert-verify: true
+  type: trojan
 - alterId: 64
   cipher: auto
   name: 14|香港3|@ripaojiedian
@@ -460,6 +458,12 @@ proxies:
   tls: false
   type: vmess
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+- name: 14|香港4|@ripaojiedian
+  network: tcp
+  password: 8e588866-1621-45b1-8538-bd68cfd1ead1
+  port: 4438
+  server: hk1.1.vpn.ong
+  type: trojan
 - alterId: 64
   cipher: auto
   name: 14|香港5|@ripaojiedian
@@ -470,26 +474,69 @@ proxies:
   tls: false
   type: vmess
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
-- cipher: rc4-md5
-  name: 14|6aaZ5rivNnxAcmlwYW9qaWVkaWFu
-  obfs: plain
-  obfs-param: MjU1ZTcxMTI1OTguNjYwMmI4NDYzNDY0MTA4NTA2Lm1pY3Jvc29mdC5jb20
-  password: ENZ52K
-  port: '40238'
-  protocol: auth_aes128_md5
-  protocol-param: MTEyNTk4OnZjeTdxaQ
-  server: 28b09af269781f9b.cdn.jiashule.com
-  type: ssr
-- cipher: rc4-md5
-  name: 14|5pel5pysNHxAcmlwYW9qaWVkaWFu
-  obfs: plain
-  obfs-param: N2NjMTUxMDI5NDYuNjYwMmI4NDYzNDY0MTA4NTA2Lm1pY3Jvc29mdC5jb20
-  password: ENZ52K
-  port: '40200'
-  protocol: auth_aes128_md5
-  protocol-param: MTAyOTQ2OjJMVUJNQQ
-  server: 95b1cd85a0968ff2.cdn.jiashule.com
-  type: ssr
+- alterId: 0
+  cipher: auto
+  name: 14|香港7|@ripaojiedian
+  network: ws
+  port: '16622'
+  server: m.cnmjin.net
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 1ba48a0e-af2e-45fb-9e15-2b2d4134657c
+  ws-opts:
+    headers:
+      Host: 3fe454755ea98eaa00f870f7fa2990c7.mobgslb.tbcache.com
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 14|香港9|@ripaojiedian
+  network: ws
+  port: '2086'
+  server: cdn2.bpcdn.cc
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 3db2d115-1db9-457d-850f-818b73228f67
+  ws-opts:
+    headers:
+      Host: hkrg0nf30ik5piq1zr.lovebaipiao.com
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 14|新加坡|@ripaojiedian
+  network: ws
+  port: '2086'
+  server: cdn2.bpcdn.cc
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 3db2d115-1db9-457d-850f-818b73228f67
+  ws-opts:
+    headers:
+      Host: sgtxv82wilpfh6a8vm.lovebaipiao.com
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 14|美国|@ripaojiedian
+  network: ws
+  port: '80'
+  server: 170.114.45.53
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 3db2d115-1db9-457d-850f-818b73228f67
+  ws-opts:
+    headers:
+      Host: us1.849yht89w.jiesk4pdqcqjo16j.xyz
+    path: /
+- name: 14|美国2|@ripaojiedian
+  network: tcp
+  password: 5e2ce79c-170e-484a-8802-40584a1a3a12
+  port: 13020
+  server: naiu-us.05vr9nyqg5.download
+  sni: cloudflare.node-ssl.cdn-alibaba.com
+  type: trojan
 - name: 15|CN_speednode_0008
   password: e62ae9e5-846f-39b0-9617-8fec9572ca8f
   port: 20309

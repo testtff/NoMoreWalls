@@ -1,15 +1,13 @@
 proxies:
 - client-fingerprint: chrome
-  name: 13,14|香港|@ripaojiedian
-  network: tcp
+  name: 13|🇭🇰 香港|@ripaojiedian
   password: QwwHvrnN
   port: 14505
   server: 36.151.192.242
   skip-cert-verify: true
   type: trojan
 - client-fingerprint: chrome
-  name: 13,14|香港2|@ripaojiedian
-  network: tcp
+  name: 13|🇭🇰 香港2|@ripaojiedian
   password: QwwHvrnN
   port: 42395
   server: 36.151.192.196
@@ -72,6 +70,20 @@ proxies:
   server: 183.232.229.165
   tfo: false
   type: ss
+- name: 14|香港|@ripaojiedian
+  network: tcp
+  password: QwwHvrnN
+  port: 34185
+  server: 36.151.192.201
+  skip-cert-verify: true
+  type: trojan
+- name: 14|香港2|@ripaojiedian
+  network: tcp
+  password: QwwHvrnN
+  port: 18682
+  server: 36.151.192.203
+  skip-cert-verify: true
+  type: trojan
 - alterId: 64
   cipher: auto
   name: 14|香港3|@ripaojiedian
@@ -82,6 +94,12 @@ proxies:
   tls: false
   type: vmess
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+- name: 14|香港4|@ripaojiedian
+  network: tcp
+  password: 8e588866-1621-45b1-8538-bd68cfd1ead1
+  port: 4438
+  server: hk1.1.vpn.ong
+  type: trojan
 - alterId: 64
   cipher: auto
   name: 14|香港5|@ripaojiedian
@@ -92,3 +110,31 @@ proxies:
   tls: false
   type: vmess
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+- alterId: 0
+  cipher: auto
+  name: 14|香港7|@ripaojiedian
+  network: ws
+  port: '16622'
+  server: m.cnmjin.net
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 1ba48a0e-af2e-45fb-9e15-2b2d4134657c
+  ws-opts:
+    headers:
+      Host: 3fe454755ea98eaa00f870f7fa2990c7.mobgslb.tbcache.com
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 14|香港9|@ripaojiedian
+  network: ws
+  port: '2086'
+  server: cdn2.bpcdn.cc
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 3db2d115-1db9-457d-850f-818b73228f67
+  ws-opts:
+    headers:
+      Host: hkrg0nf30ik5piq1zr.lovebaipiao.com
+    path: /
