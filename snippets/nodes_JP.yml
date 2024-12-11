@@ -23,6 +23,17 @@ proxies:
   server: j-p04.loveroise.com
   tfo: false
   type: ss
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 13|🇯🇵 日本4|@ripaojiedian
+  port: 38951
+  server: jp1.tiljkc.top
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vmess
+  uuid: 0d849bb5-8663-3958-ae0a-9918d4a95b5e
 - cipher: aes-256-cfb
   client-fingerprint: chrome
   name: 13|🇯🇵 日本特殊|@ripaojiedian
