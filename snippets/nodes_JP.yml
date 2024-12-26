@@ -1,4 +1,12 @@
 proxies:
+- cipher: aes-128-gcm
+  client-fingerprint: chrome
+  name: 13|🇯🇵 日本|@ripaojiedian
+  password: shadowsocks
+  port: 443
+  server: 149.22.87.204
+  tfo: false
+  type: ss
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
@@ -9,7 +17,15 @@ proxies:
   tfo: false
   tls: false
   type: vmess
-  uuid: 84d83b7e-d390-3aee-901b-257a3a2fe79d
+  uuid: 426d4ed6-fde6-3751-9a5b-ec4220c52abb
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
+  name: 13|🇯🇵 日本特殊|@ripaojiedian
+  password: amazonskr05
+  port: 443
+  server: 43.207.232.228
+  tfo: false
+  type: ss
 - alterId: 0
   cipher: auto
   name: 14|日本2|@ripaojiedian
@@ -19,4 +35,4 @@ proxies:
   servername: ''
   tls: false
   type: vmess
-  uuid: 84d83b7e-d390-3aee-901b-257a3a2fe79d
+  uuid: 426d4ed6-fde6-3751-9a5b-ec4220c52abb
