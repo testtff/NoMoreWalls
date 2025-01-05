@@ -22,6 +22,16 @@ proxies:
   tls: false
   type: vmess
   uuid: 64f8f872-fc9b-4782-967f-185c79e3c6a8
+- alterId: 0
+  cipher: auto
+  name: 14|美国2|@ripaojiedian
+  network: tcp
+  port: '8001'
+  server: 38.150.7.183
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 64f8f872-fc9b-4782-967f-185c79e3c6a8
 - name: 15|US_speednode_0061
   password: '!!str 3723507166611775488'
   port: 443

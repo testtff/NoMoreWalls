@@ -7,10 +7,3 @@ proxies:
   server: 54.249.152.9
   tfo: false
   type: ss
-- name: 14|日本3|@ripaojiedian
-  network: tcp
-  password: '!!str 3723507166611775488'
-  port: 443
-  server: smiling-marmoset.boa152.lol
-  sni: smiling-marmoset.boa152.lol
-  type: trojan

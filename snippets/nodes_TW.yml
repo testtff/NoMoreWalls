@@ -24,3 +24,14 @@ proxies:
     headers:
       Host: tr.koxok.us.kg
     path: /?ed=2560
+- name: 14|台湾2|@ripaojiedian
+  network: ws
+  password: ouo
+  port: 26547
+  server: 211.75.73.126
+  sni: tr.koxok.us.kg
+  type: trojan
+  ws-opts:
+    headers:
+      Host: tr.koxok.us.kg
+    path: '%2F%3Fed%3D2560'
