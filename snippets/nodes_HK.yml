@@ -1,15 +1,13 @@
 proxies:
 - client-fingerprint: chrome
-  name: 13,14|香港|@ripaojiedian
-  network: tcp
+  name: 13|🇭🇰 香港|@ripaojiedian
   password: vzhXXZVw
   port: 12524
   server: 36.150.215.222
   skip-cert-verify: true
   type: trojan
 - client-fingerprint: chrome
-  name: 13,14|香港2|@ripaojiedian
-  network: tcp
+  name: 13|🇭🇰 香港2|@ripaojiedian
   password: vzhXXZVw
   port: 51377
   server: 223.113.54.149
@@ -54,8 +52,7 @@ proxies:
   tfo: false
   type: ss
 - client-fingerprint: chrome
-  name: 13,14|香港7|@ripaojiedian
-  network: tcp
+  name: 13|🇭🇰 香港7|@ripaojiedian
   password: 243eab52-9ac1-405c-887c-eb112c0985b8
   port: 443
   server: hk03.trojanyyds.xyz
@@ -73,6 +70,20 @@ proxies:
   tls: false
   type: vmess
   uuid: 6ba78aee-1390-4bbe-9fca-a07c736948cd
+- name: 14|香港|@ripaojiedian
+  network: tcp
+  password: vzhXXZVw
+  port: 36442
+  server: 223.113.54.145
+  skip-cert-verify: true
+  type: trojan
+- name: 14|香港2|@ripaojiedian
+  network: tcp
+  password: vzhXXZVw
+  port: 48544
+  server: 36.150.215.220
+  skip-cert-verify: true
+  type: trojan
 - alterId: 64
   cipher: auto
   name: 14|香港3|@ripaojiedian
@@ -85,21 +96,11 @@ proxies:
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
 - alterId: 64
   cipher: auto
-  name: 14|香港5|@ripaojiedian
+  name: 14|香港4|@ripaojiedian
   network: tcp
-  port: '51704'
+  port: '53002'
   server: 183.236.51.23
   servername: ''
   tls: false
   type: vmess
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
-- alterId: 0
-  cipher: auto
-  name: 14|香港8|@ripaojiedian
-  network: tcp
-  port: '23782'
-  server: 38.147.189.188
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 6ba78aee-1390-4bbe-9fca-a07c736948cd
