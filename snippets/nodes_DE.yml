@@ -1,6 +1,17 @@
 proxies:
 - alterId: 0
   cipher: auto
+  client-fingerprint: chrome
+  name: 13|🇩🇪 德国|@ripaojiedian
+  port: 2082
+  server: 64.225.109.206
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vmess
+  uuid: 48264b45-64b8-4e9f-8a88-cef41f20c736
+- alterId: 0
+  cipher: auto
   name: 14|德国|@ripaojiedian
   network: tcp
   port: '2082'
@@ -9,3 +20,11 @@ proxies:
   tls: false
   type: vmess
   uuid: 48264b45-64b8-4e9f-8a88-cef41f20c736
+- name: 15|DE_speednode_0021
+  password: telegram-id-privatevpns
+  port: 22222
+  server: 63.177.164.167
+  skip-cert-verify: false
+  sni: trojan.burgerip.co.uk
+  type: trojan
+  udp: true
