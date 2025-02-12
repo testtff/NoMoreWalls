@@ -1,36 +1,33 @@
 proxies:
 - cipher: aes-256-cfb
-  name: 0|🇯🇵1 |  5.1MB/s
+  name: 0|🇯🇵1 |  5.9MB/s
   password: amazonskr05
   port: 443
-  server: 13.115.39.161
+  server: 3.112.28.118
   type: ss
-  udp: true
-- name: 0|🇯🇵2 |  2.2MB/s
-  password: a4ed7a0c-d92c-3742-b788-f70385a8e384
-  port: 20139
-  server: gy.58n.net
-  skip-cert-verify: true
-  sni: z139.hongkongnode.top
-  type: trojan
-  udp: true
-- name: 0|🇯🇵3 |  2.3MB/s
-  password: a4ed7a0c-d92c-3742-b788-f70385a8e384
-  port: 41767
-  server: gy.58n.net
-  skip-cert-verify: true
-  sni: x114.flybar.work
-  type: trojan
-  udp: true
 - cipher: aes-256-cfb
   client-fingerprint: chrome
-  name: 0,13|🇯🇵 日本特殊|@ripaojiedian
+  name: 0|🇯🇵2 |  3.1MB/s
   password: amazonskr05
   port: 443
-  server: 43.206.238.113
+  server: 18.179.112.66
+  type: ss
+  udp: true
+- cipher: aes-256-gcm
+  client-fingerprint: chrome
+  name: 0,13|🇯🇵 日本2|@ripaojiedian
+  password: ee2d2b8b-18b0-4fdd-afd1-a7c0030ec635
+  port: 58148
+  server: lm.kaiqsz.com
   tfo: false
   type: ss
   udp: true
+- cipher: aes-256-cfb
+  name: 0|🇯🇵4 |  6.1MB/s
+  password: amazonskr05
+  port: 443
+  server: 52.68.141.225
+  type: ss
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
@@ -42,12 +39,12 @@ proxies:
   tls: false
   type: vmess
   uuid: 0acfdca6-a960-469a-a7b8-2634371fd9d3
-- cipher: aes-256-gcm
+- cipher: aes-256-cfb
   client-fingerprint: chrome
-  name: 13|🇯🇵 日本2|@ripaojiedian
-  password: ee2d2b8b-18b0-4fdd-afd1-a7c0030ec635
-  port: 58148
-  server: lm.kaiqsz.com
+  name: 13|🇯🇵 日本特殊|@ripaojiedian
+  password: amazonskr05
+  port: 443
+  server: 43.206.238.113
   tfo: false
   type: ss
 - alterId: 0
