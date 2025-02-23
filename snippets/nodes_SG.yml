@@ -35,7 +35,7 @@ proxies:
   server: 54.169.104.136
   tfo: false
   type: ss
-- name: 15|SG_speednode_0133
+- name: 15|SG_speednode_0088
   network: ws
   password: Aimer
   port: 2087

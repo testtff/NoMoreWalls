@@ -1,24 +1,9 @@
 proxies:
 - cipher: aes-256-cfb
   client-fingerprint: chrome
-  name: 0|🇰🇷1 |  6.7MB/s
-  password: amazonskr05
-  port: 443
-  server: 54.180.133.38
-  tfo: false
-  type: ss
-- cipher: aes-256-cfb
-  client-fingerprint: chrome
   name: 13|🇰🇷 韩国特殊|@ripaojiedian
   password: amazonskr05
   port: 443
   server: 18.143.149.127
   tfo: false
   type: ss
-- name: 15|KR_speednode_0076
-  password: '!!str 3782591447421952000'
-  port: 443
-  server: equipped-mouse.treefrog761.one
-  skip-cert-verify: true
-  type: trojan
-  udp: true
