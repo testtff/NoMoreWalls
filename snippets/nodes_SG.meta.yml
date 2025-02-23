@@ -1,32 +1,16 @@
 proxies:
-- name: 0|🇸🇬1 |  6.2MB/s
-  password: 5ffcb530-1f7b-3f23-b368-8690903c358f
-  port: 30712
-  server: gy.58n.net
-  skip-cert-verify: true
-  sni: x83.flybar.work
-  type: trojan
-  udp: true
-- cipher: aes-256-cfb
-  name: 0|🇸🇬2 |  4.8MB/s
-  password: amazonskr05
-  port: 443
-  server: 13.229.180.183
+- cipher: aes-128-gcm
+  client-fingerprint: chrome
+  name: 13|🇸🇬 新加坡|@ripaojiedian
+  password: f4cd0a554e9d0558c581
+  plugin: obfs
+  plugin-opts:
+    host: 215996dd9f1c3db1e54b.microsoft.com
+    mode: http
+  port: 45917
+  server: console.03.aliyun.aq.kunlunaqs.com
+  tfo: false
   type: ss
-  udp: true
-- client-fingerprint: chrome
-  name: 0|🇸🇬3 |  4.1MB/s
-  network: ws
-  port: 443
-  server: 104.43.22.149
-  servername: doc.fenmila.me
-  tls: true
-  type: vless
-  uuid: 766a6915-92db-4ea5-c5f4-6ef9e2fc839c
-  ws-opts:
-    headers:
-      Host: doc.fenmila.me
-    path: /bing
 - cipher: aes-256-gcm
   client-fingerprint: chrome
   name: 13|🇸🇬 新加坡2|@ripaojiedian
@@ -121,20 +105,6 @@ proxies:
     headers:
       Host: m.zoom.us
     path: /Free By Tharuwa (0767597317)
-- name: 15|SG_speednode_0125
-  network: ws
-  port: 443
-  server: 8.219.202.145
-  servername: dob.fenmila.me
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  udp: true
-  uuid: 038562dc-6958-4ce7-eae2-887d8a1bee2a
-  ws-opts:
-    headers:
-      Host: dob.fenmila.me
-    path: /bing
 - name: 15|SG_speednode_0130
   network: ws
   port: 8443
