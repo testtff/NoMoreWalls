@@ -1,12 +1,4 @@
 proxies:
-- alterId: 0
-  cipher: auto
-  name: 0|🇭🇰1 |  4.2MB/s
-  port: 19901
-  server: xg.dashuai.cyou
-  tls: false
-  type: vmess
-  uuid: 5fff5cf2-c992-456a-b1c9-a3de4ce09ccc
 - client-fingerprint: chrome
   name: 13,14|香港|@ripaojiedian
   network: tcp
@@ -62,6 +54,14 @@ proxies:
   password: TCEL1H0XD7TWAKI0
   port: 15011
   server: qh62onjn.slashdevslashnetslashtun.net
+  tfo: false
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  client-fingerprint: chrome
+  name: 13|🇭🇰 香港8|@ripaojiedian
+  password: 2be0c954-4291-45ea-b47d-ca713180550b
+  port: 52612
+  server: hk02.x.quickcht3.club
   tfo: false
   type: ss
 - alterId: 0
