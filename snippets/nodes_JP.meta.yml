@@ -1,19 +1,12 @@
 proxies:
-- client-fingerprint: chrome
-  name: 0|🇯🇵1 |  4.3MB/s
-  network: ws
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
+  name: 0|🇯🇵1 |  5.9MB/s
+  password: amazonskr05
   port: 443
-  server: 154.17.31.198
-  servername: usc.xzncr.asia
-  tfo: false
-  tls: true
-  type: vless
+  server: 43.201.0.67
+  type: ss
   udp: true
-  uuid: 704222bd-7eff-4307-ae26-d6a5ab79817a
-  ws-opts:
-    headers:
-      Host: usc.xzncr.asia
-    path: /bing
 - cipher: aes-256-gcm
   client-fingerprint: chrome
   name: 13|🇯🇵 日本|@ripaojiedian
