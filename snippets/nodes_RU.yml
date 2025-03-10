@@ -2,14 +2,17 @@ proxies:
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
-  name: 13|🇷🇺 俄罗斯|@ripaojiedian
+  name: 13,14|俄罗斯|@ripaojiedian
   network: ws
-  port: 23007
+  port: '23007'
   server: 185.22.152.236
+  servername: ''
   skip-cert-verify: false
   tfo: false
   tls: false
   type: vmess
   uuid: b806a6d9-b854-403a-94e7-5fc936a6da2a
   ws-opts:
+    headers:
+      Host: ''
     path: /
