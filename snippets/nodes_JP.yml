@@ -1,25 +1,4 @@
 proxies:
-- cipher: aes-256-cfb
-  client-fingerprint: chrome
-  name: 0|🇯🇵3 |  6.0MB/s
-  password: amazonskr05
-  port: 443
-  server: 43.207.203.164
-  type: ss
-- cipher: aes-256-cfb
-  client-fingerprint: chrome
-  name: 0|🇯🇵13 |  2.5MB/s
-  password: amazonskr05
-  port: 443
-  server: 43.207.150.238
-  type: ss
-- cipher: aes-256-cfb
-  client-fingerprint: chrome
-  name: 0|🇯🇵14 |  1.1MB/s
-  password: amazonskr05
-  port: 443
-  server: 13.112.73.126
-  type: ss
 - cipher: rc4-md5
   client-fingerprint: chrome
   name: 13|🇯🇵 日本|@ripaojiedian
@@ -66,6 +45,14 @@ proxies:
   password: ZR7SOTHAAXO81SAU
   port: 18014
   server: ti3hyra4.slashdevslashnetslashtun.net
+  tfo: false
+  type: ss
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
+  name: 13|🇯🇵 日本特殊|@ripaojiedian
+  password: amazonskr05
+  port: 443
+  server: 54.169.64.23
   tfo: false
   type: ss
 - alterId: 0
