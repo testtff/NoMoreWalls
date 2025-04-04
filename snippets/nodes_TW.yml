@@ -1,12 +1,4 @@
 proxies:
-- alterId: '0'
-  cipher: auto
-  name: 0|🇹🇼1 |  1.0MB/s
-  network: tcp
-  port: '27228'
-  server: 45.121.50.116
-  type: vmess
-  uuid: 1d4d8fb8-c73c-4474-e301-dcb9570943ca
 - cipher: aes-256-gcm
   client-fingerprint: chrome
   name: 13|🇹🇼 台湾|@ripaojiedian
