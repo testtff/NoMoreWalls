@@ -1,19 +1,4 @@
 proxies:
-- alterId: 2
-  cipher: auto
-  name: 0|🇬🇧1 |  4.8MB/s
-  network: ws
-  port: 23613
-  server: 13.mamamajd.site
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 479412b4-406c-3292-937e-c5d3f596d21a
-  ws-opts:
-    headers:
-      Host: 13.mamamajd.site
-    path: /
 - cipher: chacha20-ietf-poly1305
   client-fingerprint: chrome
   name: 13|🇬🇧 英国|@ripaojiedian
