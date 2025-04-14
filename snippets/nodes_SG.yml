@@ -1,4 +1,11 @@
 proxies:
+- name: 0|🇸🇬1 |  3.6MB/s
+  password: VMhGp5wEIyCDf90T
+  port: 38340
+  server: gysz0000.dynu.net
+  skip-cert-verify: true
+  sni: hk39.work.gd
+  type: trojan
 - cipher: chacha20-ietf-poly1305
   client-fingerprint: chrome
   name: 13|🇸🇬 新加坡|@ripaojiedian
@@ -28,6 +35,6 @@ proxies:
   name: 13|🇸🇬 狮城特殊|@ripaojiedian
   password: amazonskr05
   port: 443
-  server: 54.255.246.167
+  server: 13.209.80.28
   tfo: false
   type: ss
