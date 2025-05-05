@@ -42,7 +42,7 @@ proxies:
   server: 13.114.211.183
   tfo: false
   type: ss
-- name: 15|SG_speednode_0021
+- name: 15|SG_speednode_0015
   network: ws
   password: Aimer
   port: 8443
