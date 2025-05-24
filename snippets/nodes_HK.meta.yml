@@ -33,7 +33,7 @@ proxies:
     path: /utvbnrzejpmt
     skip-cert-verify: false
     tls: true
-  port: 57530
+  port: 50197
   server: hkkh11v1.xpmc.cc
   tfo: false
   type: ss
