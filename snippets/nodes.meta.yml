@@ -1657,6 +1657,14 @@ proxies:
         Gecko) Chrome/53.0.2785.143 Safari/537.36
     path: /
   xudp: true
+- name: 8|@drakvpn🐉
+  password: nfsn666
+  port: 8888
+  server: ld-arm.nfsn666.gq
+  skip-cert-verify: true
+  sni: ld-arm.nfsn666.gq
+  tls: false
+  type: hysteria2
 - name: 12|CHANEL@v2rayngzendegimamad_Aq
   password: 3a10983a-d8b3-4b16-b3d5-fe3ed7ec724c
   port: 80
