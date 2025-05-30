@@ -1660,7 +1660,23 @@ proxies:
         Gecko) Chrome/53.0.2785.143 Safari/537.36
     path: /
   xudp: true
-- name: 8|@drakvpn🐉
+- name: '7,12|@drakvpn🐉 #3'
+  password: dongtaiwang.com
+  port: 12904
+  server: 46.17.41.5
+  skip-cert-verify: true
+  sni: apple.com
+  tls: false
+  type: hysteria2
+- name: '8|@drakvpn🐉 #1'
+  password: cdb63ff9-1767-4a35-97e5-900048e4feb2
+  port: 443
+  server: 104.192.92.99
+  skip-cert-verify: true
+  sni: tms.dingtalk.com
+  tls: false
+  type: hysteria2
+- name: '8|@drakvpn🐉 #2'
   password: nfsn666
   port: 8888
   server: ld-arm.nfsn666.gq
