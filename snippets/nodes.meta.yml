@@ -1657,12 +1657,22 @@ proxies:
         Gecko) Chrome/53.0.2785.143 Safari/537.36
     path: /
   xudp: true
-- name: 7|@drakvpn🐉
+- name: '7,12|@drakvpn🐉 #2'
   password: dongtaiwang.com
   port: 12904
   server: 46.17.41.5
   skip-cert-verify: true
   sni: apple.com
+  tls: false
+  type: hysteria2
+- name: 8|未命名
+  obfs: salamander
+  obfs-password: Bia-Telegram__SiNAVM-SiNAVM__Telegram__SiNAVM-SiNAVM
+  password: Bia-SiNAVM-Telegram-SiNAVM-Bia-SiNAVM
+  port: 80
+  server: sinavm.sinavm.ir
+  skip-cert-verify: false
+  sni: sinavm.sinavm.ir
   tls: false
   type: hysteria2
 - name: 8|@drakvpn
