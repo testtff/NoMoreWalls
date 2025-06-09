@@ -1668,14 +1668,6 @@ proxies:
   sni: sinavm.sinavm.ir
   tls: false
   type: hysteria2
-- name: 12|@drakvpn🐉
-  password: dongtaiwang.com
-  port: 12904
-  server: 46.17.41.5
-  skip-cert-verify: true
-  sni: apple.com
-  tls: false
-  type: hysteria2
 - name: 12|CHANEL@v2rayngzendegimamad_Aq
   password: 3a10983a-d8b3-4b16-b3d5-fe3ed7ec724c
   port: 80
