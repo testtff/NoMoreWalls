@@ -40,14 +40,6 @@ proxies:
   skip-cert-verify: true
   sni: www.yrtok.com
   type: trojan
-- cipher: aes-256-cfb
-  client-fingerprint: chrome
-  name: 13|🇰🇷 韩国2|@ripaojiedian
-  password: qwerREWQ@@
-  port: 36379
-  server: p080.panda001.net
-  tfo: false
-  type: ss
 - name: 15|KR_speednode_0023
   network: ws
   port: 21789
