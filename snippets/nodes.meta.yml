@@ -1687,7 +1687,7 @@ proxies:
   name: 13|tg频道:@ripaojiedian
   password: yijian0503
   port: 443
-  server: 54.180.148.149
+  server: 52.79.86.24
   tfo: false
   type: ss
 - name: 13,14,15|CN_speednode_0027
@@ -1701,17 +1701,17 @@ proxies:
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 13|🇭🇰 香港2|@ripaojiedian
-  password: 1450cecfb93f
+  password: 08293b204707
   plugin: v2ray-plugin
   plugin-opts:
-    host: kh36v1.pmxiaonan.xyz
+    host: hk6v1.pmxiaonan.xyz
     mode: websocket
     mux: true
-    path: /simieepvt
+    path: /sclbvcgkp
     skip-cert-verify: false
     tls: true
-  port: 13231
-  server: 121.127.231.217
+  port: 41174
+  server: 156.251.179.79
   tfo: false
   type: ss
 - name: 13,14|香港3|@ripaojiedian
@@ -1732,7 +1732,7 @@ proxies:
   type: trojan
 - alterId: 64
   cipher: auto
-  name: 13|🇭🇰 香港5|@ripaojiedian
+  name: 13|🇸🇬 新加坡3|@ripaojiedian
   port: 31209
   server: 120.232.153.40
   skip-cert-verify: false
@@ -1759,13 +1759,13 @@ proxies:
 - alterId: 0
   cipher: auto
   name: 13|🇭🇰 香港7|@ripaojiedian
-  port: 38993
-  server: 103.224.80.89
+  port: 20332
+  server: 43.247.135.2
   skip-cert-verify: false
   tfo: false
   tls: false
   type: vmess
-  uuid: 6f8c6f30-c726-4916-8f72-04f020c5c12d
+  uuid: 8037ce00-c860-4213-b888-be5c7ed6ea48
 - alterId: 64
   cipher: auto
   name: 13|🇭🇰 香港8|@ripaojiedian
@@ -1776,12 +1776,19 @@ proxies:
   tls: false
   type: vmess
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+- cipher: aes-128-gcm
+  name: 13|🇭🇰 香港9|@ripaojiedian
+  password: rGDbiF7gtx5TWt4r4VjneQ==
+  port: 552
+  server: 156.225.22.213
+  tfo: false
+  type: ss
 - cipher: rc4-md5
   name: 13|🇯🇵 日本|@ripaojiedian
   password: efanccyun
   plugin: obfs
   plugin-opts:
-    host: 202506070920094-hBKKcUGalt.download.microsoft.com
+    host: 202506070920094-qDwEcSPT9B.download.microsoft.com
     mode: http
   port: 8766
   server: cn01.efan8867801.xyz
@@ -1798,7 +1805,7 @@ proxies:
     path: /matwnpkhug
     skip-cert-verify: false
     tls: true
-  port: 35947
+  port: 33604
   server: 43.226.17.11
   tfo: false
   type: ss
@@ -1818,6 +1825,20 @@ proxies:
     headers:
       Host: ocbc.com
     path: /oooo
+- name: 13|🇯🇵 日本4|@ripaojiedian
+  password: c11ff50c-f582-11ee-94df-f23c9164ca5d
+  port: 27233
+  server: c82845c8-sxsxs0-t22tug-1q91p.cm5.cnkuaishou.com
+  skip-cert-verify: false
+  sni: c82845c8-sxsxs0-t22tug-1q91p.cm5.cnkuaishou.com
+  type: trojan
+- cipher: chacha20-ietf-poly1305
+  name: 13|🇯🇵 日本5|@ripaojiedian
+  password: 1a17b19d-4896-4531-af79-6e91d8ef8228
+  port: 9898
+  server: 43.207.233.41
+  tfo: false
+  type: ss
 - alterId: 2
   cipher: auto
   name: 13,14|新加坡|@ripaojiedian
@@ -1857,7 +1878,7 @@ proxies:
   password: efanccyun
   plugin: obfs
   plugin-opts:
-    host: 202506070920094-hBKKcUGalt.download.microsoft.com
+    host: 202506070920094-qDwEcSPT9B.download.microsoft.com
     mode: http
   port: 8774
   server: cn01.efan8867801.xyz
@@ -1895,9 +1916,17 @@ proxies:
     headers:
       Host: v24.heduian.link
     path: /oooo
+- name: 13,14|马来西亚|@ripaojiedian
+  network: tcp
+  password: 2b1ed981-6547-4094-998b-06a3323d6f6c
+  port: 21031
+  server: 120.233.44.201
+  skip-cert-verify: false
+  sni: k54.tudou211.com
+  type: trojan
 - alterId: 64
   cipher: auto
-  name: 14|香港5|@ripaojiedian
+  name: 14|新加坡3|@ripaojiedian
   network: tcp
   port: '31209'
   server: 120.232.153.40
@@ -1909,12 +1938,12 @@ proxies:
   cipher: auto
   name: 14|香港7|@ripaojiedian
   network: tcp
-  port: '38993'
-  server: 103.224.80.89
+  port: '20332'
+  server: 43.247.135.2
   servername: ''
   tls: false
   type: vmess
-  uuid: 6f8c6f30-c726-4916-8f72-04f020c5c12d
+  uuid: 8037ce00-c860-4213-b888-be5c7ed6ea48
 - alterId: 64
   cipher: auto
   name: 14|香港8|@ripaojiedian
@@ -1925,6 +1954,12 @@ proxies:
   tls: false
   type: vmess
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+- name: 14|日本4|@ripaojiedian
+  network: tcp
+  password: c11ff50c-f582-11ee-94df-f23c9164ca5d
+  port: 27233
+  server: c82845c8-sxsxs0-t22tug-1q91p.cm5.cnkuaishou.com
+  type: trojan
 - alterId: 0
   cipher: auto
   name: 14|日本V2|@ripaojiedian
