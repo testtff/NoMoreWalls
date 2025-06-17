@@ -1666,7 +1666,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '8|@Selinc #1'
+- name: 8,12|@drakvpn🐉
   password: dongtaiwang.com
   port: 12904
   server: 46.17.41.5
