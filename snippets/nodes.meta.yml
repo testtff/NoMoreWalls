@@ -1658,15 +1658,7 @@ proxies:
         Gecko) Chrome/53.0.2785.143 Safari/537.36
     path: /
   xudp: true
-- name: 8|@Selinc
-  password: 862e90e1-2f26-4506-b8b9-0adf20da05fc
-  port: 47262
-  server: 40.233.73.221
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
-- name: 8,12|@drakvpn🐉
+- name: 12|@drakvpn🐉
   password: dongtaiwang.com
   port: 12904
   server: 46.17.41.5
