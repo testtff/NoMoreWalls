@@ -5,6 +5,14 @@ proxies:
   port: 15098
   server: 125.141.31.72
   type: ss
+- cipher: aes-256-gcm
+  client-fingerprint: chrome
+  name: 13|🇰🇷 韩国|@ripaojiedian
+  password: dwz1GtF7
+  port: 20406
+  server: 112.54.161.141
+  tfo: false
+  type: ss
 - client-fingerprint: chrome
   name: 13,14|韩国2|@ripaojiedian
   network: tcp
