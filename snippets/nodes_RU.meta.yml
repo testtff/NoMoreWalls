@@ -15,6 +15,14 @@ proxies:
   udp-relay-mode: native
   uuid: f3ba3679-f2f4-465f-92a5-de320b775a88
   version: 5
+- cipher: aes-256-gcm
+  client-fingerprint: chrome
+  name: 13|🇷🇺 俄罗斯|@ripaojiedian
+  password: ae627920168c1cce
+  port: 50120
+  server: 185.22.154.123
+  tfo: false
+  type: ss
 - client-fingerprint: chrome
   name: 15|RU_speednode_0112
   network: ws
