@@ -1683,6 +1683,14 @@ proxies:
   sni: www.apple.com
   tls: false
   type: hysteria2
+- name: 8|@Filter_breaker
+  password: dongtaiwang.com
+  port: 4710
+  server: 108.181.5.130
+  skip-cert-verify: true
+  sni: apple.com
+  tls: false
+  type: hysteria2
 - name: 8,12|@drakvpn🐉
   password: dongtaiwang.com
   port: 12904
