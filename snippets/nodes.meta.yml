@@ -1665,16 +1665,6 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 8|未命名
-  obfs: salamander
-  obfs-password: Bia-Telegram__SiNAVM-SiNAVM__Telegram__SiNAVM-SiNAVM
-  password: Bia-SiNAVM-Telegram-SiNAVM-Bia-SiNAVM
-  port: 80
-  server: sinavm.sinavm.ir
-  skip-cert-verify: false
-  sni: sinavm.sinavm.ir
-  tls: false
-  type: hysteria2
 - name: 8|@meli_proxyy
   password: ca5c8e49-3b25-45f8-9fbb-6dd1806a1444
   port: 30000
