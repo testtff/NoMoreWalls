@@ -1676,6 +1676,13 @@ proxies:
   tls: false
   type: hysteria2
 - name: '8|@meli_proxyy #2'
+  password: Wo9rLCYw6gzcfTgIu11mhBVciVs
+  port: 29282
+  server: 47.74.34.102
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: '8|@meli_proxyy #3'
   obfs: salamander
   obfs-password: qilebcibeMO3IVBnfqal3i
   password: k1sCJ4SJQj
@@ -1684,7 +1691,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '8|@meli_proxyy #3'
+- name: '8|@meli_proxyy #4'
   obfs: salamander
   obfs-password: ywfihi3ohyg9iun3gvu
   password: k1sCJ4SJQj
@@ -1693,7 +1700,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '8|@meli_proxyy #4'
+- name: '8|@meli_proxyy #5'
   obfs: salamander
   obfs-password: 31khbqfou1njilgv2qoih
   password: k1sCJ4SJQj
@@ -1702,7 +1709,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '8|@meli_proxyy #5'
+- name: '8|@meli_proxyy #6'
   obfs: salamander
   obfs-password: Djxsjduwue
   password: k1sCJ4SJQj
