@@ -1657,7 +1657,7 @@ proxies:
         Gecko) Chrome/53.0.2785.143 Safari/537.36
     path: /
   xudp: true
-- name: 8|ff_kikor
+- name: 8|@vpnv2rayNGv
   obfs: salamander
   obfs-password: ywfihi3ohyg9iun3gvu
   password: 3r6PBKy5DX
@@ -1666,7 +1666,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '8|ff_kikor #1'
+- name: '8|@vpnv2rayNGv #1'
   obfs: salamander
   obfs-password: Djxsjduwue
   password: 3r6PBKy5DX
@@ -1675,7 +1675,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: 8|ff_kikor-11726
+- name: '8|@meli_proxyy #2'
   obfs: salamander
   obfs-password: qilebcibeMO3IVBnfqal3i
   password: k1sCJ4SJQj
