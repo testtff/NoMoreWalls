@@ -1682,14 +1682,6 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: 8|@v2ray_configs_pool️France️Par...
-  password: dongtaiwang.com
-  port: 31180
-  server: 51.159.111.32
-  skip-cert-verify: true
-  sni: apple.com
-  tls: false
-  type: hysteria2
 - name: '8|@meli_proxyy #3'
   obfs: salamander
   obfs-password: qilebcibeMO3IVBnfqal3i
