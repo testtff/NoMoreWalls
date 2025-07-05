@@ -1666,7 +1666,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: 8|@vpnv2rayNGv
+- name: 8|@meli_proxyy
   obfs: salamander
   obfs-password: SNLJD19ZejtSdxW4
   password: 0c4c1a89-5645-4fc2-9e3b-ab09aa44e933
@@ -1686,7 +1686,7 @@ proxies:
   sni: h2.gzcloud.shop
   tls: false
   type: hysteria2
-- name: '8|@vpnv2rayNGv #1'
+- name: 8|@vpnv2rayNGv
   obfs: salamander
   obfs-password: ywfihi3ohyg9iun3gvu
   password: 3r6PBKy5DX
@@ -1695,7 +1695,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '8|@vpnv2rayNGv #2'
+- name: '8|@vpnv2rayNGv #1'
   obfs: salamander
   obfs-password: Djxsjduwue
   password: 3r6PBKy5DX
@@ -1704,7 +1704,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '8|@vpnv2rayNGv #3'
+- name: '8|@vpnv2rayNGv #2'
   password: Wo9rLCYw6gzcfTgIu11mhBVciVs
   port: 29282
   server: 47.74.34.102
