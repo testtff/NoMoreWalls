@@ -1712,7 +1712,15 @@ proxies:
   sni: www.google.com
   tls: false
   type: hysteria2
-- name: '8|@meli_proxyy #2'
+- name: 8|USA-Hysteria2-@Filter_breaker
+  password: 627712cf-d0e1-4545-81fb-241e7fda0284
+  port: 443
+  server: 108.181.23.241
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: false
+  type: hysteria2
+- name: 8|🇺🇸USA-Hysteria2-@Filter_breake...
   password: 627712cf-d0e1-4545-81fb-241e7fda0284
   port: 443
   server: 108.181.23.249
@@ -1720,10 +1728,26 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '8|@meli_proxyy #3'
+- name: '8|🇺🇸USA-Hysteria2-@Filter_breake... #1'
+  password: 627712cf-d0e1-4545-81fb-241e7fda0284
+  port: 443
+  server: 108.181.23.255
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: false
+  type: hysteria2
+- name: '8|@meli_proxyy #5'
   password: 627712cf-d0e1-4545-81fb-241e7fda0284
   port: 443
   server: 192.9.176.249
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: false
+  type: hysteria2
+- name: '8|🇺🇸USA-Hysteria2-@Filter_breake... #2'
+  password: 627712cf-d0e1-4545-81fb-241e7fda0284
+  port: 443
+  server: 204.10.194.86
   skip-cert-verify: true
   sni: www.bing.com
   tls: false
@@ -1773,7 +1797,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '8|@vpnv2rayNGv #1'
+- name: '8|@vpnv2rayNGv #5'
   password: Wo9rLCYw6gzcfTgIu11mhBVciVs
   port: 29282
   server: 47.74.34.102
