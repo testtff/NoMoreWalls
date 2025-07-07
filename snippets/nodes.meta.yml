@@ -1770,6 +1770,14 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
+- name: '8|@meli_proxyy #7'
+  password: 8418fb71-419d-4fc3-8b29-d7fee8de76c7
+  port: 443
+  server: 104.168.34.109
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: false
+  type: hysteria2
 - name: '8|@V2rayNG3 #4'
   obfs: salamander
   obfs-password: '@azadi_az_inja_migzare'
@@ -1843,6 +1851,14 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
+- name: '8|@meli_proxyy #8'
+  password: be81e21d-02d8-4a60-a07e-c2202a50a549
+  port: 26923
+  server: yjjdhl.yunjijd.xyz
+  skip-cert-verify: true
+  sni: yjjdhl.yunjijd.xyz
+  tls: false
+  type: hysteria2
 - name: '8|@V2aryng_vpn #5'
   password: dongtaiwang.com
   port: 50850
@@ -1873,6 +1889,14 @@ proxies:
   port: 21779
   server: 34.221.171.77
   skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: '8|@meli_proxyy #9'
+  password: nfsn666
+  port: 8888
+  server: 45.207.222.138
+  skip-cert-verify: true
+  sni: hk.nfsn666.gq
   tls: false
   type: hysteria2
 - name: 12|@drakvpn🐉
