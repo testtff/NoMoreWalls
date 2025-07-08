@@ -1787,7 +1787,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 8|🇺USA-Hysteria2-@Filter_breaker
+- name: 8|🇺🇸USA-Hysteria2-@Filter_breake...
   password: 627712cf-d0e1-4545-81fb-241e7fda0284
   port: 443
   server: 108.181.23.241
@@ -1795,7 +1795,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 8|🇺🇸USA-Hysteria2-@Filter_breake...
+- name: '8|🇺🇸USA-Hysteria2-@Filter_breake... #1'
   password: 627712cf-d0e1-4545-81fb-241e7fda0284
   port: 443
   server: 108.181.23.249
@@ -1803,7 +1803,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '8|🇺🇸USA-Hysteria2-@Filter_breake... #1'
+- name: '8|🇺🇸USA-Hysteria2-@Filter_breake... #2'
   password: 627712cf-d0e1-4545-81fb-241e7fda0284
   port: 443
   server: 108.181.23.255
@@ -1819,7 +1819,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '8|🇺🇸USA-Hysteria2-@Filter_breake... #2'
+- name: '8|🇺🇸USA-Hysteria2-@Filter_breake... #3'
   password: 627712cf-d0e1-4545-81fb-241e7fda0284
   port: 443
   server: 204.10.194.86
