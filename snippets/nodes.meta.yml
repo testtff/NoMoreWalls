@@ -1981,14 +1981,6 @@ proxies:
   sni: yjjdhl.yunjijd.xyz
   tls: false
   type: hysteria2
-- name: 8|@v2rayngzendegimamad
-  password: cfe032e4-1bc3-454f-9d09-301b0aea08ff
-  port: 45979
-  server: 150.230.30.237
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
 - name: '8|@V2aryng_vpn #5'
   password: dongtaiwang.com
   port: 50850
@@ -2037,21 +2029,21 @@ proxies:
   sni: hk.nfsn666.gq
   tls: false
   type: hysteria2
+- name: 8|@HiByeVPNN
+  obfs: salamander
+  obfs-password: The_Sefr-chibegam
+  password: user10.khobbebinSEFRinjast128161
+  port: 443
+  server: lake.zone1.center
+  skip-cert-verify: false
+  tls: false
+  type: hysteria2
 - name: '8|@HiByeVPNN #1'
   obfs: salamander
   obfs-password: mkv_SEfr-salamdash
   password: user10.thisismeSUperkl19201
   port: 443
   server: shade.zone1.center
-  skip-cert-verify: false
-  tls: false
-  type: hysteria2
-- name: '8|@HiByeVPNN #2'
-  obfs: salamander
-  obfs-password: The_Sefr-salamdash
-  password: user11.serverTest1234
-  port: 443
-  server: knock.zone1.center
   skip-cert-verify: false
   tls: false
   type: hysteria2
