@@ -1914,6 +1914,14 @@ proxies:
   skip-cert-verify: false
   tls: false
   type: hysteria2
+- name: 8|Telegram@vmessorg
+  password: JSC7GnvDM4mIitnCZXQo8IKSPs
+  port: 29713
+  server: 13.250.121.168
+  skip-cert-verify: true
+  sni: bing.com
+  tls: false
+  type: hysteria2
 - name: 8|@HIBYEVPNN
   obfs: salamander
   obfs-password: Telegram-->@Ln2Ray
@@ -1924,6 +1932,14 @@ proxies:
   sni: gavazn.55994421.xyz
   tls: false
   type: hysteria2
+- name: '8|Telegram@vmessorg #1'
+  password: cfe032e4-1bc3-454f-9d09-301b0aea08ff
+  port: 45979
+  server: 150.230.30.237
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: false
+  type: hysteria2
 - name: '8|@V2rayNG3 #8'
   password: dongtaiwang.com
   port: 50717
@@ -1932,7 +1948,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '8|@meli_proxyy #1'
+- name: '8|@meli_proxyy #2'
   password: dongtaiwang.com
   port: 30033
   server: 46.17.41.217
@@ -1948,6 +1964,22 @@ proxies:
   server: 62.60.231.189
   skip-cert-verify: true
   sni: www.google.com
+  tls: false
+  type: hysteria2
+- name: '8|@meli_proxyy #3'
+  password: hfWoFliBzz7DzJ4AhSrCpNsiw
+  port: 21779
+  server: 54.212.32.103
+  skip-cert-verify: true
+  sni: bing.com
+  tls: false
+  type: hysteria2
+- name: '8|@meli_proxyy #4'
+  password: nfsn666
+  port: 8888
+  server: 45.207.222.138
+  skip-cert-verify: true
+  sni: hk.nfsn666.gq
   tls: false
   type: hysteria2
 - name: 8|@HiByeVPNN
@@ -1984,6 +2016,14 @@ proxies:
   port: 443
   server: shade.zone1.center
   skip-cert-verify: false
+  tls: false
+  type: hysteria2
+- name: '8|Telegram@vmessorg #2'
+  password: yoP8tOtEhMTSBUPY9LwnHABvFE
+  port: 14933
+  server: 18.136.211.127
+  skip-cert-verify: true
+  sni: bing.com
   tls: false
   type: hysteria2
 - name: 12|@drakvpn🐉
