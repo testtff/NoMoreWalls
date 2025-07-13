@@ -13,6 +13,14 @@ proxies:
     headers:
       Host: broadcastlv.chat.bilibili.com
     path: /
+- name: 7|🇰香港2
+  password: 5d110f18-5a37-4db3-8cf6-f0bced38a1ae
+  port: 443
+  server: 89.185.27.133
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: false
+  type: hysteria2
 - name: 7|🇭🇰香港
   password: Wo9rLCYw6gzcfTgIu11mhBVciVs
   port: 29282
