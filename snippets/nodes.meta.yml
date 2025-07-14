@@ -1705,7 +1705,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '7,8|@meli_proxyy #14'
+- name: 7,8|Telegram@vmessorg
   password: JSC7GnvDM4mIitnCZXQo8IKSPs
   port: 29713
   server: 13.250.121.168
@@ -1759,7 +1759,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '7,8|@meli_proxyy #15'
+- name: '7,8|Telegram@vmessorg #1'
   password: cfe032e4-1bc3-454f-9d09-301b0aea08ff
   port: 45979
   server: 150.230.30.237
@@ -1797,7 +1797,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: '7,8|@meli_proxyy #21'
+- name: '7,8|Telegram@vmessorg #2'
   password: yoP8tOtEhMTSBUPY9LwnHABvFE
   port: 14933
   server: 18.136.211.127
@@ -2120,15 +2120,6 @@ proxies:
   server: 45.207.222.138
   skip-cert-verify: true
   sni: hk.nfsn666.gq
-  tls: false
-  type: hysteria2
-- name: '8|@vpnv2rayNGv #1'
-  obfs: salamander
-  obfs-password: The_Sefr-salamdash
-  password: user12.myserverSEFR097
-  port: 443
-  server: knock.zone1.center
-  skip-cert-verify: false
   tls: false
   type: hysteria2
 - name: 12|@drakvpn🐉
