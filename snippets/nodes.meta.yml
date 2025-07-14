@@ -1943,6 +1943,33 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
+- name: 8|v2raybluecrystal2
+  obfs: salamander
+  obfs-password: v2raybluecrystal
+  password: 6E7ZX07Att
+  port: 19338
+  server: v2raybluecrystal.3dfigures.ir
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: 8|v2raybluecrystal
+  obfs: salamander
+  obfs-password: v2raybluecrystal
+  password: 6E7ZX07Att
+  port: 40408
+  server: v2raybluecrystal.3dfigures.ir
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: 8|v2raybluecrystal3
+  obfs: salamander
+  obfs-password: v2raybluecrystal
+  password: 6E7ZX07Att
+  port: 47294
+  server: v2raybluecrystal.3dfigures.ir
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
 - name: '8|@V2rayNG3 #3'
   password: 75577117-ABCD-DCBA-AAAA-CC777775577B
   port: 7777
