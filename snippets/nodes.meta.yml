@@ -1657,15 +1657,23 @@ proxies:
         Gecko) Chrome/53.0.2785.143 Safari/537.36
     path: /
   xudp: true
-- name: 7|🇯🇵日本
-  password: 2a9b85bd-27cc-4e3b-b77d-54dbe5bc23af
-  port: 443
-  server: aws-linkhy17.liangxin1.xyz
+- name: 7|✅@v2ray_configs_pools
+  password: 2429bee3-e0c1-47dd-b420-75e6512b184b
+  port: 30300
+  server: 40.233.121.211
   skip-cert-verify: true
-  sni: www.apple.com.cn
+  sni: www.bing.com
   tls: false
   type: hysteria2
 - name: 7|未命名
+  password: 2a9b85bd-27cc-4e3b-b77d-54dbe5bc23af
+  port: 443
+  server: aws-linkhy2.liangxin1.xyz
+  skip-cert-verify: true
+  sni: www.tesla.cn
+  tls: false
+  type: hysteria2
+- name: '7|未命名 #1'
   password: 37d19f09-5fa4-4ad0-8484-55050b582a29
   port: 2056
   server: zp1.eyucdn.xyz
@@ -1706,6 +1714,16 @@ proxies:
   tls: false
   type: hysteria2
 - name: '7,8|@meli_proxyy #14'
+  obfs: salamander
+  obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
+  password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
+  port: 35000
+  server: 206.71.158.40
+  skip-cert-verify: false
+  sni: pichondan.com
+  tls: false
+  type: hysteria2
+- name: 7,8|Telegram@vmessorg
   password: JSC7GnvDM4mIitnCZXQo8IKSPs
   port: 29713
   server: 13.250.121.168
@@ -1728,7 +1746,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '7|未命名 #1'
+- name: '7|未命名 #2'
   password: a914681a-8dda-4c98-8468-c313f5539b14
   port: 2056
   server: sg3.eyucdn.xyz
@@ -1759,7 +1777,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '7,8|@meli_proxyy #15'
+- name: '7,8|Telegram@vmessorg #1'
   password: cfe032e4-1bc3-454f-9d09-301b0aea08ff
   port: 45979
   server: 150.230.30.237
@@ -1767,7 +1785,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '7,8|@meli_proxyy #16'
+- name: '7,8|@meli_proxyy #17'
   password: dongtaiwang.com
   port: 4710
   server: 108.181.5.130
@@ -1775,13 +1793,37 @@ proxies:
   sni: apple.com
   tls: false
   type: hysteria2
-- name: '7|未命名 #2'
+- name: '7,8|@meli_proxyy #19'
+  password: dongtaiwang.com
+  port: 30033
+  server: 46.17.41.217
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: false
+  type: hysteria2
+- name: 7,12|@drakvpn🐉
+  password: dongtaiwang.com
+  port: 12904
+  server: 46.17.41.5
+  skip-cert-verify: true
+  sni: apple.com
+  tls: false
+  type: hysteria2
+- name: 7,8|@vipV2rayNGnp
+  password: dongtaiwang.com
+  port: 31180
+  server: 51.159.111.32
+  skip-cert-verify: true
+  sni: apple.com
+  tls: false
+  type: hysteria2
+- name: '7|未命名 #3'
   password: e6d8d743-a9bc-48c9-be99-8f3cc94d16e1
   port: 10086
   server: asg.pagate.top
   tls: false
   type: hysteria2
-- name: '7,8|@meli_proxyy #18'
+- name: 7|@IraneAzad_Net_513
   password: hfWoFliBzz7DzJ4AhSrCpNsiw
   port: 21779
   server: 54.212.32.103
@@ -1797,7 +1839,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: '7,8|@meli_proxyy #20'
+- name: '7,8|Telegram@vmessorg #2'
   password: yoP8tOtEhMTSBUPY9LwnHABvFE
   port: 14933
   server: 18.136.211.127
@@ -1911,6 +1953,13 @@ proxies:
   sni: 1231231.1234567890spcloud.com
   tls: false
   type: hysteria2
+- name: '8|@meli_proxyy #10'
+  password: 65a43b6e-19c5-4fab-b960-d110a07d66a4
+  port: 3234
+  server: 209.141.47.127
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
 - name: 8|v2raybluecrystal2
   obfs: salamander
   obfs-password: v2raybluecrystal
@@ -1946,7 +1995,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '8|@meli_proxyy #10'
+- name: '8|@meli_proxyy #11'
   password: 7fae5f8e-7963-4cbe-ae1a-31cd952573a2
   port: 55000
   server: 139.185.36.59
@@ -1954,7 +2003,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '8|@meli_proxyy #11'
+- name: '8|@meli_proxyy #12'
   password: 7fae5f8e-7963-4cbe-ae1a-31cd952573a2
   port: 55000
   server: 144.24.153.219
@@ -1962,7 +2011,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '8|@meli_proxyy #12'
+- name: '8|@meli_proxyy #13'
   password: 7fae5f8e-7963-4cbe-ae1a-31cd952573a2
   port: 55000
   server: 159.13.34.59
@@ -1970,7 +2019,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '8|@meli_proxyy #13'
+- name: '8|@meli_proxyy #15'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
@@ -2046,20 +2095,27 @@ proxies:
   sni: jnir-1.pichondan.com
   tls: false
   type: hysteria2
+- name: 8|@V2ray_Alpha--All-54
+  password: dongtaiwang.com
+  port: 4710
+  server: 108.181.5.130
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: '8|@meli_proxyy #18'
+  password: dongtaiwang.com
+  port: 50850
+  server: 45.129.2.108
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: false
+  type: hysteria2
 - name: '8|@V2rayNG3 #8'
   password: dongtaiwang.com
   port: 50717
   server: 46.17.41.189
   skip-cert-verify: true
   sni: www.bing.com
-  tls: false
-  type: hysteria2
-- name: 8|@vipV2rayNGnp
-  password: dongtaiwang.com
-  port: 31180
-  server: 51.159.111.32
-  skip-cert-verify: true
-  sni: apple.com
   tls: false
   type: hysteria2
 - name: '8|@V2rayNG3 #9'
@@ -2070,14 +2126,6 @@ proxies:
   server: 62.60.231.189
   skip-cert-verify: true
   sni: www.google.com
-  tls: false
-  type: hysteria2
-- name: '8|@meli_proxyy #19'
-  password: nfsn666
-  port: 8888
-  server: 45.207.222.138
-  skip-cert-verify: true
-  sni: hk.nfsn666.gq
   tls: false
   type: hysteria2
 - name: '8|v2raybluecrystal2 #1'
@@ -2105,14 +2153,6 @@ proxies:
   port: 50757
   server: v2raybluecrystal3.3dfigures.ir
   skip-cert-verify: true
-  tls: false
-  type: hysteria2
-- name: 12|@drakvpn🐉
-  password: dongtaiwang.com
-  port: 12904
-  server: 46.17.41.5
-  skip-cert-verify: true
-  sni: apple.com
   tls: false
   type: hysteria2
 - cipher: aes-256-cfb
