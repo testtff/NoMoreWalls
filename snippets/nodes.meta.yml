@@ -1705,14 +1705,6 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 7|@IraneAzad_Net_509
-  password: 862e90e1-2f26-4506-b8b9-0adf20da05fc
-  port: 47262
-  server: 40.233.73.221
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
 - name: '7,8|@meli_proxyy #2'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
@@ -1721,14 +1713,6 @@ proxies:
   server: 206.71.158.40
   skip-cert-verify: false
   sni: pichondan.com
-  tls: false
-  type: hysteria2
-- name: 7,8|Telegram@vmessorg
-  password: JSC7GnvDM4mIitnCZXQo8IKSPs
-  port: 29713
-  server: 13.250.121.168
-  skip-cert-verify: true
-  sni: bing.com
   tls: false
   type: hysteria2
 - name: 7|🇺🇸
@@ -1777,14 +1761,6 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '7,8|Telegram@vmessorg #1'
-  password: cfe032e4-1bc3-454f-9d09-301b0aea08ff
-  port: 45979
-  server: 150.230.30.237
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
 - name: '7,8|@meli_proxyy #3'
   password: dongtaiwang.com
   port: 4710
@@ -1823,26 +1799,10 @@ proxies:
   server: asg.pagate.top
   tls: false
   type: hysteria2
-- name: 7|@IraneAzad_Net_513
-  password: hfWoFliBzz7DzJ4AhSrCpNsiw
-  port: 21779
-  server: 54.212.32.103
-  skip-cert-verify: true
-  sni: bing.com
-  tls: false
-  type: hysteria2
 - name: 7|新加坡
   password: vlJbyJEtcNjHvV6dnkZ1Z4VjpI
   port: 10264
   server: 13.212.75.22
-  skip-cert-verify: true
-  sni: bing.com
-  tls: false
-  type: hysteria2
-- name: '7,8|Telegram@vmessorg #2'
-  password: yoP8tOtEhMTSBUPY9LwnHABvFE
-  port: 14933
-  server: 18.136.211.127
   skip-cert-verify: true
   sni: bing.com
   tls: false
@@ -1970,6 +1930,14 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
+- name: 8|Telegram@vmessorg
+  password: JSC7GnvDM4mIitnCZXQo8IKSPs
+  port: 29713
+  server: 13.250.121.168
+  skip-cert-verify: true
+  sni: bing.com
+  tls: false
+  type: hysteria2
 - name: '8|@warp_city #1'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
@@ -1987,6 +1955,14 @@ proxies:
   port: 33331
   server: 206.71.158.40
   sni: jnir-1.pichondan.com
+  tls: false
+  type: hysteria2
+- name: '8|Telegram@vmessorg #1'
+  password: cfe032e4-1bc3-454f-9d09-301b0aea08ff
+  port: 45979
+  server: 150.230.30.237
+  skip-cert-verify: true
+  sni: www.bing.com
   tls: false
   type: hysteria2
 - name: 8|@V2ray_Alpha--All-54
@@ -2047,6 +2023,14 @@ proxies:
   port: 50757
   server: v2raybluecrystal3.3dfigures.ir
   skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: '8|Telegram@vmessorg #2'
+  password: yoP8tOtEhMTSBUPY9LwnHABvFE
+  port: 14933
+  server: 18.136.211.127
+  skip-cert-verify: true
+  sni: bing.com
   tls: false
   type: hysteria2
 - cipher: aes-256-cfb
