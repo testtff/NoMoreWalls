@@ -1781,6 +1781,14 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
+- name: 8|@CanfigVip+🍕
+  password: 07c122ad-50b2-4f61-9435-efcf112bb10b
+  port: 56704
+  server: 172.252.236.213
+  skip-cert-verify: false
+  sni: dxobg4azmk.gafnode.sbs
+  tls: false
+  type: hysteria2
 - name: 8|@V2rayNG3
   password: '123456'
   port: 443
@@ -1877,7 +1885,7 @@ proxies:
   sni: shy39.zqjc.cloud
   tls: false
   type: hysteria2
-- name: 8|@CanfigVip+
+- name: '8|@CanfigVip+🍕 #1'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
