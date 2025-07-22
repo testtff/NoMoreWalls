@@ -1893,6 +1893,16 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
+- name: 8|v2ray_market11
+  obfs: salamander
+  obfs-password: xu0SJY749OrXVi27YoOyTS
+  password: 9f60e54d-d835-426a-937d-232d9930b236
+  port: 443
+  server: 213.142.133.2
+  skip-cert-verify: true
+  sni: telewebion.com
+  tls: false
+  type: hysteria2
 - name: '8|@V2rayNG3 #4'
   obfs: salamander
   obfs-password: '@azadi_az_inja_migzare'
@@ -1901,16 +1911,6 @@ proxies:
   server: all-v4.dgi000.store
   skip-cert-verify: false
   sni: all-v4.dgi000.store
-  tls: false
-  type: hysteria2
-- name: 8|@warp_city
-  obfs: salamander
-  obfs-password: '@warp_city'
-  password: '@warp_city'
-  port: 35000
-  server: jnir-5.pichondan.com
-  skip-cert-verify: false
-  sni: pichondan.com
   tls: false
   type: hysteria2
 - name: '8|@V2rayNG3 #5'
@@ -2039,16 +2039,6 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '8|@warp_city #1'
-  obfs: salamander
-  obfs-password: Yet-Another-Public-Config-1
-  password: Yet-Another-Public-Config-1
-  port: 35000
-  server: yapc-1.adamhayward.co.uk
-  skip-cert-verify: false
-  sni: YAPC-1.afshin.ir
-  tls: false
-  type: hysteria2
 - name: 8|Alfa_v2ray_ng
   obfs: salamander
   obfs-password: Alfa_v2ray_ng
@@ -2136,7 +2126,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 8|@vipV2rayNGnp
+- name: 8|@shadoowvpnn🇷
   password: dongtaiwang.com
   port: 31180
   server: 51.159.111.32
@@ -2349,6 +2339,16 @@ proxies:
   port: 50757
   server: v2raybluecrystal3.3dfigures.ir
   skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: '8|@v2ray_market11 #1'
+  obfs: salamander
+  obfs-password: 765894239048dsjkh
+  password: xKiDlrNd3g
+  port: 8080
+  server: 138.199.174.25
+  skip-cert-verify: true
+  sni: www.speedtest.net
   tls: false
   type: hysteria2
 - name: '8|Telegram@vmessorg #2'
