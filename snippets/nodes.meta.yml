@@ -1737,6 +1737,16 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
+- name: 7|@meli_proxyy
+  obfs: salamander
+  obfs-password: LNAnPYDfFyesRAVn
+  password: 656e8471-baf1-4927-afa9-b9cb745df576
+  port: 22111
+  server: uuk1.tok8888.com
+  skip-cert-verify: true
+  sni: uuk1.tok8888.com
+  tls: false
+  type: hysteria2
 - name: 7|美国🇺🇸
   password: RKrGw4dSUwK3YAvqdQI8tcqNl0
   port: 34060
