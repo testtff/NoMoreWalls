@@ -1321,14 +1321,6 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 8|AstroVPN_Official-US
-  password: dongtaiwang.com
-  port: 4710
-  server: 108.181.5.130
-  skip-cert-verify: true
-  sni: apple.com
-  tls: false
-  type: hysteria2
 - client-fingerprint: chrome
   name: 13|🇺🇸 美国|@ripaojiedian
   network: ws
