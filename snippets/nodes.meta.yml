@@ -2006,14 +2006,6 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 8|@shadoowvpnn🇷
-  password: dongtaiwang.com
-  port: 31180
-  server: 51.159.111.32
-  skip-cert-verify: true
-  sni: apple.com
-  tls: false
-  type: hysteria2
 - name: '8|@V2rayNG3 #9'
   obfs: salamander
   obfs-password: dbc688df29e582d3
