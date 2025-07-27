@@ -2099,14 +2099,6 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 8|@v2ray_configs_pool🔷
-  password: dongtaiwang.com
-  port: 31180
-  server: 51.159.111.32
-  skip-cert-verify: true
-  sni: apple.com
-  tls: false
-  type: hysteria2
 - name: 8|v2raybluecrystal4-tur
   obfs: salamander
   obfs-password: xfvg@FFG
@@ -2232,14 +2224,6 @@ proxies:
   port: 37804
   server: v2raybluecrystal-france.v2raybluecrystal2.dynv6.net
   skip-cert-verify: true
-  tls: false
-  type: hysteria2
-- name: 8|🔷🆔@v2ray_configs_pool🔷
-  password: nfsn666
-  port: 8888
-  server: hk.nfsn666.gq
-  skip-cert-verify: true
-  sni: hk.nfsn666.gq
   tls: false
   type: hysteria2
 - name: '8|v2raybluecrystal2 #5'
