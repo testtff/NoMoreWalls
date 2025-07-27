@@ -1114,13 +1114,12 @@ proxies:
   tls: true
   type: socks5
 - auth: 5CBqBh6MeDq6GajcilBiDg==
-  name: '0,8|未命名 #4'
+  name: 0|🇺🇸68 |  2.6MB/s|32%|Netflix|Di...
   password: 5CBqBh6MeDq6GajcilBiDg==
   port: 61001
   server: 192.227.152.86
   skip-cert-verify: true
   sni: 192-227-152-86.nip.io
-  tls: false
   type: hysteria2
 - auth: 14bdcd31-8a9f-4cf1-8fcc-60045900357d
   name: 0|🇺🇸69 |  4.3MB/s|100%|Netflix|O...
@@ -1904,14 +1903,6 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 8|🅼🅴🅷🅳🅸
-  password: 862e90e1-2f26-4506-b8b9-0adf20da05fc
-  port: 54530
-  server: 129.153.59.124
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
 - name: '8|@V2rayNG3 #4'
   obfs: salamander
   obfs-password: '@azadi_az_inja_migzare'
@@ -2011,7 +2002,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '8|🅼🅴🅷🅳🅸 #1'
+- name: '8|未命名 #4'
   obfs: salamander
   obfs-password: Telegram-->@Ln2Ray
   password: Telegram-->@Ln2Ray
@@ -2048,7 +2039,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '8|🅼🅴🅷🅳🅸 #2'
+- name: 8|🅼🅴🅷🅳🅸
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -2058,7 +2049,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '8|🅼🅴🅷🅳🅸 #3'
+- name: '8|🅼🅴🅷🅳🅸 #1'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -2068,17 +2059,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '8|🅼🅴🅷🅳🅸 #4'
-  obfs: salamander
-  obfs-password: Yet-Another-Public-Config-1
-  password: Yet-Another-Public-Config-1
-  port: 36300
-  server: yapc-1.adamhayward.co.uk
-  skip-cert-verify: false
-  sni: YAPC-1.afshin.ir
-  tls: false
-  type: hysteria2
-- name: '8|🅼🅴🅷🅳🅸 #5'
+- name: '8|🅼🅴🅷🅳🅸 #2'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -2088,7 +2069,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '8|🅼🅴🅷🅳🅸 #6'
+- name: '8|🅼🅴🅷🅳🅸 #3'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -2158,7 +2139,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '8|🅼🅴🅷🅳🅸 #7'
+- name: '8|🅼🅴🅷🅳🅸 #4'
   password: dongtaiwang.com
   port: 31180
   server: 51.159.111.32
@@ -2293,7 +2274,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '8|🅼🅴🅷🅳🅸 #8'
+- name: '8|🅼🅴🅷🅳🅸 #5'
   password: nfsn666
   port: 8888
   server: 45.207.222.138
