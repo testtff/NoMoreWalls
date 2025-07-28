@@ -1114,13 +1114,12 @@ proxies:
   tls: true
   type: socks5
 - auth: 5CBqBh6MeDq6GajcilBiDg==
-  name: 0,8|@v2ray_configs_pool🔷
+  name: 0|🇺🇸68 |  2.6MB/s|32%|Netflix|Di...
   password: 5CBqBh6MeDq6GajcilBiDg==
   port: 61001
   server: 192.227.152.86
   skip-cert-verify: true
   sni: 192-227-152-86.nip.io
-  tls: false
   type: hysteria2
 - auth: 14bdcd31-8a9f-4cf1-8fcc-60045900357d
   name: 0|🇺🇸69 |  4.3MB/s|100%|Netflix|O...
@@ -2189,22 +2188,6 @@ proxies:
   port: 37804
   server: v2raybluecrystal-france.v2raybluecrystal2.dynv6.net
   skip-cert-verify: true
-  tls: false
-  type: hysteria2
-- name: 8|🔷🆔@v2ray_configs_pool🔷
-  password: nfsn666
-  port: 8888
-  server: 45.207.222.138
-  skip-cert-verify: true
-  sni: hk.nfsn666.gq
-  tls: false
-  type: hysteria2
-- name: '8|🔷🆔@v2ray_configs_pool🔷 #1'
-  password: nfsn666
-  port: 8888
-  server: hk.nfsn666.gq
-  skip-cert-verify: true
-  sni: hk.nfsn666.gq
   tls: false
   type: hysteria2
 - name: '8|v2raybluecrystal2 #4'
