@@ -54,18 +54,20 @@ proxies:
   tls: false
   type: hysteria2
 - client-fingerprint: chrome
-  name: 13|🇸🇬 新加坡|@ripaojiedian
+  name: 13,14|新加坡|@ripaojiedian
+  network: tcp
   password: d0d08cddacc3190ea81b1b792e1b5fde
-  port: 25618
+  port: 811
   server: 36.151.195.111
   skip-cert-verify: true
   sni: www.baidu.com
   type: trojan
 - client-fingerprint: chrome
-  name: 13|🇸🇬 新加坡2|@ripaojiedian
+  name: 13,14|新加坡2|@ripaojiedian
+  network: tcp
   password: d0d08cddacc3190ea81b1b792e1b5fde
-  port: 9161
-  server: 36.151.195.111
+  port: 443
+  server: 178.128.106.216
   skip-cert-verify: true
   sni: www.baidu.com
   type: trojan
@@ -77,22 +79,6 @@ proxies:
   server: sg.mjt000.com
   skip-cert-verify: false
   sni: sg.mjt000.com
-  type: trojan
-- name: 14|新加坡|@ripaojiedian
-  network: tcp
-  password: d0d08cddacc3190ea81b1b792e1b5fde
-  port: 25618
-  server: 36.151.251.7
-  skip-cert-verify: true
-  sni: www.baidu.com
-  type: trojan
-- name: 14|新加坡2|@ripaojiedian
-  network: tcp
-  password: d0d08cddacc3190ea81b1b792e1b5fde
-  port: 9161
-  server: 36.151.251.7
-  skip-cert-verify: true
-  sni: www.baidu.com
   type: trojan
 - name: 15|SG_speednode_0248
   network: ws
