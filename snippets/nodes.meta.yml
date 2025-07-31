@@ -1834,13 +1834,6 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: 8|@Cook_Vpn
-  password: 5eba9a60-ac9a-435b-a11f-e2b6dea4bd8e
-  port: 21811
-  server: gin.mxtn.net
-  skip-cert-verify: false
-  tls: false
-  type: hysteria2
 - name: '8|@V2rayNG3 #3'
   password: 75577117-ABCD-DCBA-AAAA-CC777775577B
   port: 7777
@@ -2192,7 +2185,7 @@ proxies:
   name: 13|tg频道:@ripaojiedian
   password: amazonskr05
   port: 443
-  server: 13.126.196.58
+  server: 13.201.33.249
   tfo: false
   type: ss
 - alterId: 2
@@ -2239,31 +2232,23 @@ proxies:
 - name: 13,14|香港4|@ripaojiedian
   network: tcp
   password: d0d08cddacc3190ea81b1b792e1b5fde
-  port: 3221
-  server: 36.151.192.243
+  port: 443
+  server: 58.152.30.37
   skip-cert-verify: true
   sni: www.baidu.com
   type: trojan
-- name: 13,14|香港5|@ripaojiedian
-  network: tcp
-  password: d0d08cddacc3190ea81b1b792e1b5fde
-  port: 446
-  server: 36.151.192.243
-  skip-cert-verify: true
-  sni: www.baidu.com
-  type: trojan
-- alterId: 2
+- alterId: 0
   cipher: auto
-  name: 13,14|香港6|@ripaojiedian
+  name: 13,14|香港5|@ripaojiedian
   network: ws
   port: '80'
-  server: hkt.gotochinatown.net
+  server: 212f8cd0-t0bog0-t1nwsn-1la2q.hkt.tcpbbr.net
   servername: ''
   skip-cert-verify: false
   tfo: false
   tls: false
   type: vmess
-  uuid: 9b604194-17b7-11ef-80b0-f23c913c8d2b
+  uuid: 431026c8-7397-11ed-a8bf-f23c91cfbbc9
   ws-opts:
     headers:
       Host: broadcastlv.chat.bilibili.com
@@ -2273,7 +2258,7 @@ proxies:
   password: efanccyun
   plugin: obfs
   plugin-opts:
-    host: 202507282137611-8jv54zz1ja.download.microsoft.com
+    host: 202507282137611-HEnrNCdMfp.download.microsoft.com
     mode: http
   port: 8766
   server: cn01.efan8867801.xyz
@@ -2294,6 +2279,14 @@ proxies:
   server: 137.220.191.40
   tfo: false
   type: ss
+- name: 13,14|日本4|@ripaojiedian
+  network: tcp
+  password: d0d08cddacc3190ea81b1b792e1b5fde
+  port: 1466
+  server: 36.156.102.125
+  skip-cert-verify: true
+  sni: www.baidu.com
+  type: trojan
 - alterId: 0
   cipher: auto
   name: 13|🇯🇵 日本3|@ripaojiedian
@@ -2304,35 +2297,42 @@ proxies:
   tls: false
   type: vmess
   uuid: fea0400c-9dab-4709-a149-9f3144e5a346
-- name: 13,14|日本4|@ripaojiedian
+- name: 13,14|日本5|@ripaojiedian
   network: tcp
   password: d0d08cddacc3190ea81b1b792e1b5fde
-  port: 46135
-  server: 36.151.192.243
+  port: 181
+  server: 36.156.102.125
   skip-cert-verify: true
   sni: www.baidu.com
   type: trojan
 - name: 13,14|韩国|@ripaojiedian
   network: tcp
   password: d0d08cddacc3190ea81b1b792e1b5fde
-  port: 16003
-  server: 36.151.195.111
+  port: 443
+  server: 34.64.53.92
   skip-cert-verify: true
   sni: www.baidu.com
   type: trojan
+- cipher: aes-256-cfb
+  name: 13|🇰🇷 韩国2|@ripaojiedian
+  password: qwerREWQ@@
+  port: 4652
+  server: p141.panda001.net
+  tfo: false
+  type: ss
 - name: 13,14|新加坡|@ripaojiedian
   network: tcp
   password: d0d08cddacc3190ea81b1b792e1b5fde
-  port: 811
-  server: 36.151.195.111
+  port: 443
+  server: 178.128.114.123
   skip-cert-verify: true
   sni: www.baidu.com
   type: trojan
 - name: 13,14|新加坡2|@ripaojiedian
   network: tcp
   password: d0d08cddacc3190ea81b1b792e1b5fde
-  port: 145
-  server: 36.151.195.111
+  port: 443
+  server: 178.128.17.109
   skip-cert-verify: true
   sni: www.baidu.com
   type: trojan
@@ -2361,7 +2361,7 @@ proxies:
   password: efanccyun
   plugin: obfs
   plugin-opts:
-    host: 202507282137611-8jv54zz1ja.download.microsoft.com
+    host: 202507282137611-HEnrNCdMfp.download.microsoft.com
     mode: http
   port: 8774
   server: cn01.efan8867801.xyz
@@ -2370,8 +2370,8 @@ proxies:
 - name: 13,14|美国3|@ripaojiedian
   network: tcp
   password: d0d08cddacc3190ea81b1b792e1b5fde
-  port: 1582
-  server: 36.151.195.111
+  port: 170
+  server: 36.156.102.125
   skip-cert-verify: true
   sni: www.baidu.com
   type: trojan
@@ -2379,7 +2379,7 @@ proxies:
   network: tcp
   password: d0d08cddacc3190ea81b1b792e1b5fde
   port: 443
-  server: 165.22.3.117
+  server: 104.248.68.184
   skip-cert-verify: true
   sni: www.baidu.com
   type: trojan
