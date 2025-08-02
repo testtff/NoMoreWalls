@@ -784,12 +784,13 @@ proxies:
   type: socks5
 - auth: 5CBqBh6MeDq6GajcilBiDg==
   client-fingerprint: chrome
-  name: 0|🇺🇸68 |  2.6MB/s|32%|Netflix|Di...
+  name: 0,7|@Filter_breaker
   password: 5CBqBh6MeDq6GajcilBiDg==
   port: 61001
   server: 192.227.152.86
   skip-cert-verify: true
   sni: 192-227-152-86.nip.io
+  tls: false
   type: hysteria2
 - auth: 14bdcd31-8a9f-4cf1-8fcc-60045900357d
   client-fingerprint: chrome
