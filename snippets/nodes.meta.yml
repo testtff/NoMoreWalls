@@ -1114,13 +1114,12 @@ proxies:
   tls: true
   type: socks5
 - auth: 5CBqBh6MeDq6GajcilBiDg==
-  name: 0,7|@Filter_breaker
+  name: 0|🇺🇸68 |  2.6MB/s|32%|Netflix|Di...
   password: 5CBqBh6MeDq6GajcilBiDg==
   port: 61001
   server: 192.227.152.86
   skip-cert-verify: true
   sni: 192-227-152-86.nip.io
-  tls: false
   type: hysteria2
 - auth: 14bdcd31-8a9f-4cf1-8fcc-60045900357d
   name: 0|🇺🇸69 |  4.3MB/s|100%|Netflix|O...
@@ -1760,7 +1759,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 7|🇬新加坡
+- name: 7|🇸🇬新加坡
   password: e10ea0d5-4244-4aec-9ba0-cafe77cc6d90
   port: 443
   server: aws-linkhy10.liangxin1.xyz
@@ -1806,6 +1805,22 @@ proxies:
   server: 109.120.135.123
   skip-cert-verify: true
   sni: www.google.com
+  tls: false
+  type: hysteria2
+- name: 8|@Daily_Configs
+  password: 68821a5b-49db-49c7-924f-22b1441e5b30
+  port: 443
+  server: 107.173.127.166
+  skip-cert-verify: true
+  sni: api.push.apple.com
+  tls: false
+  type: hysteria2
+- name: '8|@Daily_Configs #1'
+  password: 68821a5b-49db-49c7-924f-22b1441e5b30
+  port: 443
+  server: 198.23.130.211
+  skip-cert-verify: true
+  sni: api.push.apple.com
   tls: false
   type: hysteria2
 - name: '8|@V2rayNG3 #3'
@@ -1877,14 +1892,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 8|@V2ray_confs
-  password: dongtaiwang.com
-  port: 4710
-  server: 108.181.5.130
-  skip-cert-verify: true
-  tls: false
-  type: hysteria2
-- name: 8|@Daily_Configs
+- name: '8|@Daily_Configs #2'
   password: dongtaiwang.com
   port: 22222
   server: 208.87.243.187
@@ -1892,7 +1900,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '8|@V2ray_confs #1'
+- name: 8|@V2ray_cartel
   password: dongtaiwang.com
   port: 50850
   server: 45.129.2.108
@@ -1906,22 +1914,6 @@ proxies:
   server: 46.17.41.189
   skip-cert-verify: true
   sni: www.bing.com
-  tls: false
-  type: hysteria2
-- name: '8|@V2ray_confs #2'
-  password: dongtaiwang.com
-  port: 30033
-  server: 46.17.41.217
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
-- name: '8|@V2ray_confs #3'
-  password: dongtaiwang.com
-  port: 31180
-  server: 51.159.111.32
-  skip-cert-verify: true
-  sni: apple.com
   tls: false
   type: hysteria2
 - name: '8|@V2rayNG3 #9'
