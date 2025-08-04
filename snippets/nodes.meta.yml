@@ -1781,6 +1781,13 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
+- name: 8|@meli_proxyy
+  password: 07a95561-a7c6-40fb-b964-45c83a2833bf
+  port: 51234
+  server: 185.184.70.120
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
 - name: 8|@V2rayNG3
   password: '123456'
   port: 443
@@ -1896,7 +1903,17 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: 8|@meli_proxyy
+- name: '8|@meli_proxyy #1'
+  obfs: salamander
+  obfs-password: Yet-Another-Public-Config-1
+  password: Yet-Another-Public-Config-1
+  port: 36600
+  server: yapc-1.adamhayward.co.uk
+  skip-cert-verify: true
+  sni: YAPC-1.afshin.ir
+  tls: false
+  type: hysteria2
+- name: '8|@meli_proxyy #2'
   password: cf125f42-759d-4112-82c3-014d2ffcb1e7
   port: 1443
   server: 185.85.242.177
@@ -1969,7 +1986,7 @@ proxies:
   sni: www.google.com
   tls: false
   type: hysteria2
-- name: '8|@meli_proxyy #1'
+- name: '8|@meli_proxyy #3'
   password: kWlrCka5jzfKbD2z7ucwANEdZM
   port: 26404
   server: 47.245.53.59
