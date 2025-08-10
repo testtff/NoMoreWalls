@@ -1974,6 +1974,14 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
+- name: 8|@Selinc
+  password: n9OgQprayM
+  port: 443
+  server: android.yas-nowin.ir
+  skip-cert-verify: false
+  sni: android.yas-nowin.ir
+  tls: false
+  type: hysteria2
 - name: 8|@v2rayNGcloud
   password: xnChC7dKZ8
   port: 443
