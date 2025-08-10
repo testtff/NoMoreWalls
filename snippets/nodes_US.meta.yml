@@ -1321,6 +1321,26 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
+- name: 8|美国2
+  obfs: salamander
+  obfs-password: LNAnPYDfFyesRAVn
+  password: 9f2245e8-04fb-488d-80cf-ac8e8b53da82
+  port: 25851
+  server: uuk2.tok8888.com
+  skip-cert-verify: true
+  sni: uuk2.tok8888.com
+  tls: false
+  type: hysteria2
+- name: 8|美国3
+  obfs: salamander
+  obfs-password: LNAnPYDfFyesRAVn
+  password: 9f2245e8-04fb-488d-80cf-ac8e8b53da82
+  port: 21523
+  server: uuk3.tok8888.com
+  skip-cert-verify: true
+  sni: uuk3.tok8888.com
+  tls: false
+  type: hysteria2
 - client-fingerprint: chrome
   name: 13|🇺🇸 美国|@ripaojiedian
   network: ws
