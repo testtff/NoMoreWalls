@@ -1781,7 +1781,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 8|@HiByeVPNN
+- name: 8|@HiByeVPNN👈⚡❤️‍🔥
   password: 07a95561-a7c6-40fb-b964-45c83a2833bf
   port: 51234
   server: 185.184.70.120
@@ -2025,14 +2025,6 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '8|@Daily_Configs #2'
-  password: dongtaiwang.com
-  port: 22222
-  server: 208.87.243.187
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
 - name: 8|@V2ray1_Ng
   password: dongtaiwang.com
   port: 50850
@@ -2067,7 +2059,7 @@ proxies:
   sni: www.google.com
   tls: false
   type: hysteria2
-- name: '8|@Daily_Configs #3'
+- name: '8|@Daily_Configs #2'
   password: kWlrCka5jzfKbD2z7ucwANEdZM
   port: 26404
   server: 47.245.53.59
