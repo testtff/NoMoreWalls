@@ -1657,7 +1657,7 @@ proxies:
         Gecko) Chrome/53.0.2785.143 Safari/537.36
     path: /
   xudp: true
-- name: 7|Hy2-3
+- name: 7|日本Hy2-3
   password: 1c473b13-502d-47eb-8cf8-70a38d56c5bd
   port: 443
   server: jp1.interld123456789.com
@@ -1971,106 +1971,6 @@ proxies:
   server: 185.126.255.78
   skip-cert-verify: false
   sni: real.getafreenode.sbs
-  tls: false
-  type: hysteria2
-- name: '8|未命名 #5'
-  obfs: salamander
-  obfs-password: cP2sbTFOTkuTq1sW
-  password: 9f2245e8-04fb-488d-80cf-ac8e8b53da82
-  port: 25977
-  server: au1.gy6688.xyz
-  skip-cert-verify: true
-  sni: au1.gy6688.xyz
-  tls: false
-  type: hysteria2
-- name: 8|国1
-  obfs: salamander
-  obfs-password: LNAnPYDfFyesRAVn
-  password: 9f2245e8-04fb-488d-80cf-ac8e8b53da82
-  port: 25352
-  server: dg1.gy6688.xyz
-  skip-cert-verify: true
-  sni: dg1.gy6688.xyz
-  tls: false
-  type: hysteria2
-- name: 8|1
-  obfs: salamander
-  obfs-password: LNAnPYDfFyesRAVn
-  password: 9f2245e8-04fb-488d-80cf-ac8e8b53da82
-  port: 24561
-  server: hl1.gy6688.xyz
-  skip-cert-verify: true
-  sni: hl1.gy6688.xyz
-  tls: false
-  type: hysteria2
-- name: 8|大1
-  obfs: salamander
-  obfs-password: LNAnPYDfFyesRAVn
-  password: 9f2245e8-04fb-488d-80cf-ac8e8b53da82
-  port: 21254
-  server: jnd1.gy6688.xyz
-  skip-cert-verify: true
-  sni: jnd1.gy6688.xyz
-  tls: false
-  type: hysteria2
-- name: 8|美国1
-  obfs: salamander
-  obfs-password: LNAnPYDfFyesRAVn
-  password: 9f2245e8-04fb-488d-80cf-ac8e8b53da82
-  port: 22996
-  server: uuk1.tok8888.com
-  skip-cert-verify: true
-  sni: uuk1.tok8888.com
-  tls: false
-  type: hysteria2
-- name: 8|美国2
-  obfs: salamander
-  obfs-password: LNAnPYDfFyesRAVn
-  password: 9f2245e8-04fb-488d-80cf-ac8e8b53da82
-  port: 25851
-  server: uuk2.tok8888.com
-  skip-cert-verify: true
-  sni: uuk2.tok8888.com
-  tls: false
-  type: hysteria2
-- name: 8|美国3
-  obfs: salamander
-  obfs-password: LNAnPYDfFyesRAVn
-  password: 9f2245e8-04fb-488d-80cf-ac8e8b53da82
-  port: 21523
-  server: uuk3.tok8888.com
-  skip-cert-verify: true
-  sni: uuk3.tok8888.com
-  tls: false
-  type: hysteria2
-- name: 8|加1
-  obfs: salamander
-  obfs-password: LNAnPYDfFyesRAVn
-  password: 9f2245e8-04fb-488d-80cf-ac8e8b53da82
-  port: 21190
-  server: xjp1.gy6688.xyz
-  skip-cert-verify: true
-  sni: xjp1.gy6688.xyz
-  tls: false
-  type: hysteria2
-- name: '8|1 #1'
-  obfs: salamander
-  obfs-password: LNAnPYDfFyesRAVn
-  password: 9f2245e8-04fb-488d-80cf-ac8e8b53da82
-  port: 24583
-  server: yd1.gy6688.xyz
-  skip-cert-verify: true
-  sni: yd1.gy6688.xyz
-  tls: false
-  type: hysteria2
-- name: '8|国1 #1'
-  obfs: salamander
-  obfs-password: LNAnPYDfFyesRAVn
-  password: 9f2245e8-04fb-488d-80cf-ac8e8b53da82
-  port: 25060
-  server: yg1.gy6688.xyz
-  skip-cert-verify: true
-  sni: yg1.gy6688.xyz
   tls: false
   type: hysteria2
 - name: '8|@V2rayNG3 #4'
