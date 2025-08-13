@@ -1657,12 +1657,11 @@ proxies:
         Gecko) Chrome/53.0.2785.143 Safari/537.36
     path: /
   xudp: true
-- name: 7|日本Hy2-3
-  password: 1c473b13-502d-47eb-8cf8-70a38d56c5bd
-  port: 443
-  server: jp1.interld123456789.com
+- name: 7|Hysteria
+  password: 1JA6CF8JMUDvoz6zfm5qHwlN3Wo
+  port: 4410
+  server: 43.207.119.98
   skip-cert-verify: true
-  sni: 1231231.1234567890spcloud.com
   tls: false
   type: hysteria2
 - name: 7|🇯🇵日本
@@ -1705,6 +1704,22 @@ proxies:
   sni: zp2.eyujichang.xyz
   tls: false
   type: hysteria2
+- name: 7|香港
+  password: 38589924-caf7-4857-812b-80020febd3ff
+  port: 10880
+  server: ssssssssssssssssssssssssssss-mualhk229.hizui.cn
+  skip-cert-verify: true
+  sni: ssssssssssssssssssssssssssss-mualhk229.hizui.cn
+  tls: false
+  type: hysteria2
+- name: 7|UK
+  password: 3C8h8X6kimbOX68joVe3kTERw
+  port: 7197
+  server: 206.189.20.193
+  skip-cert-verify: true
+  sni: bing.com
+  tls: false
+  type: hysteria2
 - name: 7|SG
   password: 3hszBhqVsUhqOOFWJlev6k6Tkc
   port: 22509
@@ -1721,7 +1736,7 @@ proxies:
   sni: cn.cremedelamer.com
   tls: false
   type: hysteria2
-- name: '7|SG #1'
+- name: '7|未命名 #3'
   password: 5OiuCsPmULZ0lJwts89fegLJE
   port: 17193
   server: 54.169.224.169
@@ -1752,6 +1767,22 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
+- name: 7|US
+  password: HfK3UK4MoXxYUccnp7qzx3Y3o
+  port: 34321
+  server: 209.38.144.136
+  skip-cert-verify: true
+  sni: bing.com
+  tls: false
+  type: hysteria2
+- name: 7|美国
+  password: KYIFgW1don6L8TaDBJHynafxZ0
+  port: 4763
+  server: 47.237.23.83
+  skip-cert-verify: true
+  sni: bing.com
+  tls: false
+  type: hysteria2
 - name: '7|HK #1'
   password: L60nS04NhsoMpN2DDGbnMqLP8DY
   port: 11243
@@ -1776,11 +1807,27 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
+- name: 7|🇸US
+  password: Wjes5mJnUmH7kwzpgZX5d2BeCs
+  port: 13438
+  server: 143.110.156.170
+  skip-cert-verify: true
+  sni: bing.com
+  tls: false
+  type: hysteria2
 - name: 7|🇭🇰香港
   password: Wo9rLCYw6gzcfTgIu11mhBVciVs
   port: 29282
   server: 47.74.34.102
   skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: '7|香港 #1'
+  password: XK52yierGckONMJWbJnuskD3unI
+  port: 12854
+  server: 47.242.195.121
+  skip-cert-verify: true
+  sni: bing.com
   tls: false
   type: hysteria2
 - name: '7|SG #2'
@@ -1791,7 +1838,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: '7|未命名 #3'
+- name: 7|新加坡
   password: a914681a-8dda-4c98-8468-c313f5539b14
   port: 2056
   server: sg3.eyucdn.xyz
@@ -1822,6 +1869,14 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
+- name: 7|🇺🇸美国
+  password: de8854c7-fa17-4266-ae18-50a9732a0c4e
+  port: 3001
+  server: us2.1010991.xyz
+  skip-cert-verify: true
+  sni: us2.1010991.xyz
+  tls: false
+  type: hysteria2
 - name: 7|🇸新加坡
   password: e10ea0d5-4244-4aec-9ba0-cafe77cc6d90
   port: 443
@@ -1836,10 +1891,18 @@ proxies:
   server: asg.pagate.top
   tls: false
   type: hysteria2
-- name: 7|新加坡
+- name: '7|新加坡 #1'
   password: lPK6OZ9ouqyXrCghO6ohUbbN5g
   port: 33131
   server: 8.222.183.55
+  skip-cert-verify: true
+  sni: bing.com
+  tls: false
+  type: hysteria2
+- name: 7|日本
+  password: oATw4IRtuUOozpOLFflGnWjtg
+  port: 18219
+  server: 52.193.71.150
   skip-cert-verify: true
   sni: bing.com
   tls: false
@@ -1852,7 +1915,15 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: '7|新加坡 #1'
+- name: 7|India
+  password: ok6aX0A7QX9SkYo6R0GBBJDUsK4
+  port: 8460
+  server: 143.244.140.87
+  skip-cert-verify: true
+  sni: bing.com
+  tls: false
+  type: hysteria2
+- name: '7|新加坡 #2'
   password: vlJbyJEtcNjHvV6dnkZ1Z4VjpI
   port: 10264
   server: 13.212.75.22
@@ -1950,22 +2021,6 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 8|RGB🚀
-  password: 9c859345-959f-491b-b6fc-65cd7a57aeb3
-  port: 46502
-  server: 172.252.236.213
-  skip-cert-verify: false
-  sni: real.getafreenode.sbs
-  tls: false
-  type: hysteria2
-- name: '8|RGB🚀 #1'
-  password: 9c859345-959f-491b-b6fc-65cd7a57aeb3
-  port: 59494
-  server: 185.126.255.78
-  skip-cert-verify: false
-  sni: real.getafreenode.sbs
-  tls: false
-  type: hysteria2
 - name: '8|@V2rayNG3 #4'
   obfs: salamander
   obfs-password: '@azadi_az_inja_migzare'
@@ -2003,16 +2058,6 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '8|RGB🚀 #2'
-  obfs: salamander
-  obfs-password: Yet-Another-Public-Config-1
-  password: Yet-Another-Public-Config-1
-  port: 36300
-  server: yapc-1.adamhayward.co.uk
-  skip-cert-verify: false
-  sni: YAPC-1.afshin.ir
-  tls: false
-  type: hysteria2
 - name: 8|@Tunder_vpn-WiFi--6
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
@@ -2031,30 +2076,6 @@ proxies:
   sni: de2.587458.xyz
   tls: false
   type: hysteria2
-- name: '8|RGB🚀 #3'
-  password: c6e02cd8-ce11-40f0-afeb-e2c412b6cc3a
-  port: 46502
-  server: 172.252.236.213
-  skip-cert-verify: false
-  sni: real.getafreenode.sbs
-  tls: false
-  type: hysteria2
-- name: '8|RGB🚀 #4'
-  password: c6e02cd8-ce11-40f0-afeb-e2c412b6cc3a
-  port: 59494
-  server: 185.126.255.78
-  skip-cert-verify: false
-  sni: real.getafreenode.sbs
-  tls: false
-  type: hysteria2
-- name: 8|@V2rayBaaz
-  password: dongtaiwang.com
-  port: 63015
-  server: 108.181.5.130
-  skip-cert-verify: true
-  sni: apple.com
-  tls: false
-  type: hysteria2
 - name: 8|@V2ray1_Ng
   password: dongtaiwang.com
   port: 50850
@@ -2067,14 +2088,6 @@ proxies:
   password: dongtaiwang.com
   port: 50717
   server: 46.17.41.189
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
-- name: 8|rya
-  password: dongtaiwang.com
-  port: 5355
-  server: 51.159.111.32
   skip-cert-verify: true
   sni: www.bing.com
   tls: false
@@ -2109,14 +2122,6 @@ proxies:
   password: xnChC7dKZ8
   port: 443
   server: 91.98.34.130
-  skip-cert-verify: false
-  sni: android.yas-nowin.ir
-  tls: false
-  type: hysteria2
-- name: '8|@V2rayBaaz #2'
-  password: zPb5RRsckD
-  port: 443
-  server: android.yas-nowin.ir
   skip-cert-verify: false
   sni: android.yas-nowin.ir
   tls: false

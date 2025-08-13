@@ -1,44 +1,10 @@
 proxies:
-- name: 8|RGB🚀
-  password: 9c859345-959f-491b-b6fc-65cd7a57aeb3
-  port: 46502
-  server: 172.252.236.213
-  skip-cert-verify: false
-  sni: real.getafreenode.sbs
-  tls: false
-  type: hysteria2
-- name: '8|RGB🚀 #1'
-  password: 9c859345-959f-491b-b6fc-65cd7a57aeb3
-  port: 59494
-  server: 185.126.255.78
-  skip-cert-verify: false
-  sni: real.getafreenode.sbs
-  tls: false
-  type: hysteria2
-- name: '8|RGB🚀 #2'
-  obfs: salamander
-  obfs-password: Yet-Another-Public-Config-1
-  password: Yet-Another-Public-Config-1
-  port: 36300
-  server: yapc-1.adamhayward.co.uk
-  skip-cert-verify: false
-  sni: YAPC-1.afshin.ir
-  tls: false
-  type: hysteria2
-- name: '8|RGB🚀 #3'
-  password: c6e02cd8-ce11-40f0-afeb-e2c412b6cc3a
-  port: 46502
-  server: 172.252.236.213
-  skip-cert-verify: false
-  sni: real.getafreenode.sbs
-  tls: false
-  type: hysteria2
-- name: '8|RGB🚀 #4'
-  password: c6e02cd8-ce11-40f0-afeb-e2c412b6cc3a
-  port: 59494
-  server: 185.126.255.78
-  skip-cert-verify: false
-  sni: real.getafreenode.sbs
+- name: 7|UK
+  password: 3C8h8X6kimbOX68joVe3kTERw
+  port: 7197
+  server: 206.189.20.193
+  skip-cert-verify: true
+  sni: bing.com
   tls: false
   type: hysteria2
 - name: 15|GB_speednode_0047

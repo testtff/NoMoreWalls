@@ -45,7 +45,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: '7|SG #1'
+- name: '7|未命名 #3'
   password: 5OiuCsPmULZ0lJwts89fegLJE
   port: 17193
   server: 54.169.224.169
@@ -61,6 +61,14 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
+- name: 7|新加坡
+  password: a914681a-8dda-4c98-8468-c313f5539b14
+  port: 2056
+  server: sg3.eyucdn.xyz
+  skip-cert-verify: true
+  sni: sg3.eyucdn.xyz
+  tls: false
+  type: hysteria2
 - name: 7|🇸新加坡
   password: e10ea0d5-4244-4aec-9ba0-cafe77cc6d90
   port: 443
@@ -69,7 +77,7 @@ proxies:
   sni: www.teslaautomation.de
   tls: false
   type: hysteria2
-- name: 7|新加坡
+- name: '7|新加坡 #1'
   password: lPK6OZ9ouqyXrCghO6ohUbbN5g
   port: 33131
   server: 8.222.183.55
@@ -77,7 +85,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: '7|新加坡 #1'
+- name: '7|新加坡 #2'
   password: vlJbyJEtcNjHvV6dnkZ1Z4VjpI
   port: 10264
   server: 13.212.75.22
