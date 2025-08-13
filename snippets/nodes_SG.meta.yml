@@ -45,7 +45,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: '7|未命名 #3'
+- name: '7|未命名 #2'
   password: 5OiuCsPmULZ0lJwts89fegLJE
   port: 17193
   server: 54.169.224.169
@@ -69,7 +69,7 @@ proxies:
   sni: sg3.eyucdn.xyz
   tls: false
   type: hysteria2
-- name: 7|🇸新加坡
+- name: 7|🇸🇬新加坡
   password: e10ea0d5-4244-4aec-9ba0-cafe77cc6d90
   port: 443
   server: aws-linkhy10.liangxin1.xyz

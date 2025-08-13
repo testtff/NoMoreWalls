@@ -1664,6 +1664,14 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
+- name: 7|Hy2-3
+  password: 1c473b13-502d-47eb-8cf8-70a38d56c5bd
+  port: 443
+  server: jp1.interld123456789.com
+  skip-cert-verify: true
+  sni: 1231231.1234567890spcloud.com
+  tls: false
+  type: hysteria2
 - name: 7|🇯🇵日本
   password: 2a9b85bd-27cc-4e3b-b77d-54dbe5bc23af
   port: 443
@@ -1728,7 +1736,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: '7|未命名 #2'
+- name: 7|🇺🇸
   password: 51de9de9-3445-4dd3-8ac9-f42dc0baa230
   port: 443
   server: 129.146.215.233
@@ -1736,7 +1744,7 @@ proxies:
   sni: cn.cremedelamer.com
   tls: false
   type: hysteria2
-- name: '7|未命名 #3'
+- name: '7|未命名 #2'
   password: 5OiuCsPmULZ0lJwts89fegLJE
   port: 17193
   server: 54.169.224.169
@@ -1877,7 +1885,7 @@ proxies:
   sni: us2.1010991.xyz
   tls: false
   type: hysteria2
-- name: 7|🇸新加坡
+- name: 7|🇸🇬新加坡
   password: e10ea0d5-4244-4aec-9ba0-cafe77cc6d90
   port: 443
   server: aws-linkhy10.liangxin1.xyz
@@ -1885,7 +1893,7 @@ proxies:
   sni: www.teslaautomation.de
   tls: false
   type: hysteria2
-- name: '7|未命名 #4'
+- name: '7|未命名 #3'
   password: e6d8d743-a9bc-48c9-be99-8f3cc94d16e1
   port: 10086
   server: asg.pagate.top
@@ -2072,6 +2080,16 @@ proxies:
   port: 44929
   server: p1.punchline.ir
   skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: '8|@Daily_Configs #2'
+  obfs: salamander
+  obfs-password: aA@8795
+  password: FREEEE_7.87958795
+  port: 443
+  server: 91.107.251.13
+  skip-cert-verify: true
+  sni: fast.com
   tls: false
   type: hysteria2
 - name: '8|RGB🚀 #2'

@@ -1313,6 +1313,14 @@ proxies:
   sni: f7c80a8d-svc1s0-t28b6o-ef48.los.gotochinatown.net
   tls: true
   type: socks5
+- name: 7|🇺🇸
+  password: 51de9de9-3445-4dd3-8ac9-f42dc0baa230
+  port: 443
+  server: 129.146.215.233
+  skip-cert-verify: true
+  sni: cn.cremedelamer.com
+  tls: false
+  type: hysteria2
 - name: 7|US
   password: HfK3UK4MoXxYUccnp7qzx3Y3o
   port: 34321
