@@ -15,7 +15,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 7|HK
+- name: 7|⏰58@oneclickvpnkeys
   password: Cyi3TPih9FtQRwsZAh8aT6ynGJk
   port: 2166
   server: 54.169.144.240
