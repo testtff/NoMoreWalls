@@ -500,14 +500,6 @@ proxies:
   sni: fast.com
   tls: false
   type: hysteria2
-- name: 8|@Academi_vpn6
-  password: c5c2bdda-30f9-4252-b074-1f515e38adde
-  port: 1443
-  server: de2.587458.xyz
-  skip-cert-verify: false
-  sni: de2.587458.xyz
-  tls: false
-  type: hysteria2
 - name: 8|@Selinc
   password: dongtaiwang.com
   port: 63015
