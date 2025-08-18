@@ -128,6 +128,16 @@ proxies:
   sni: hsxg.huasuan666.top
   tls: false
   type: hysteria2
+- name: 7|2@oneclickvpnkeys
+  obfs: salamander
+  obfs-password: GdQ4bgvT8RFwuWi2
+  password: 8864aa9f-7517-4fd5-aef1-32050eb3095d
+  port: 30205
+  server: net2025.afsharidempire.uk
+  skip-cert-verify: true
+  sni: net2025.afsharidempire.uk
+  tls: false
+  type: hysteria2
 - name: 7|HK
   password: Cyi3TPih9FtQRwsZAh8aT6ynGJk
   port: 2166
