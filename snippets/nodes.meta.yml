@@ -465,14 +465,6 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: 8|@ELFV2RAY
-  password: J7VnJazPBw
-  port: 443
-  server: 91.98.34.130
-  skip-cert-verify: false
-  sni: android.yas-nowin.ir
-  tls: false
-  type: hysteria2
 - name: 8|@Selinc
   password: dongtaiwang.com
   port: 63015
