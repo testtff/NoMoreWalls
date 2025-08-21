@@ -38,7 +38,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 7|🇰香港
+- name: 7|🇭🇰香港
   password: Wo9rLCYw6gzcfTgIu11mhBVciVs
   port: 29282
   server: 47.74.34.102
@@ -53,7 +53,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 7|🇭🇰香港
+- name: '7|🇭🇰香港 #1'
   password: b57bbf70-8958-4ae5-b6fd-bcf39b81900c
   port: 63518
   server: ovo.5188666.xyz
@@ -68,7 +68,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '7|🇭🇰香港 #1'
+- name: '7|🇭🇰香港 #2'
   password: de8854c7-fa17-4266-ae18-50a9732a0c4e
   port: 3001
   server: hk1.1010991.xyz
@@ -208,3 +208,11 @@ proxies:
   tls: false
   type: vmess
   uuid: 0bfc8acf-ac40-45c1-8dde-7f3417621286
+- name: 15|HK_speednode_0020
+  password: <password>
+  port: 8443
+  server: dd902adc-sxc9s0-t1bnjq-1krtb.hkt.cdnhuawei.com
+  tls: true
+  type: http
+  udp: true
+  username: 60f6b4c4-9d70-11ed-a4d2-f23c9164ca5d
