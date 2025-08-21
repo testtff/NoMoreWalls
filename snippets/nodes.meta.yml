@@ -97,9 +97,25 @@ proxies:
 - name: 7|SG
   password: 3hszBhqVsUhqOOFWJlev6k6Tkc
   port: 22509
+  server: 47.129.224.62
+  skip-cert-verify: true
+  sni: bing.com
+  tls: false
+  type: hysteria2
+- name: '7|SG #1'
+  password: 3hszBhqVsUhqOOFWJlev6k6Tkc
+  port: 22509
   server: 54.255.144.66
   skip-cert-verify: true
   sni: bing.com
+  tls: false
+  type: hysteria2
+- name: 7|FR
+  password: 45b46edb-679b-4ea5-befd-88c05bb94f80
+  port: 2056
+  server: de.eyucdn.xyz
+  skip-cert-verify: true
+  sni: de.eyucdn.xyz
   tls: false
   type: hysteria2
 - name: 7|🇺🇸
@@ -108,6 +124,14 @@ proxies:
   server: 129.146.215.233
   skip-cert-verify: true
   sni: cn.cremedelamer.com
+  tls: false
+  type: hysteria2
+- name: '7|SG #2'
+  password: 5OiuCsPmULZ0lJwts89fegLJE
+  port: 17193
+  server: 52.221.210.182
+  skip-cert-verify: true
+  sni: bing.com
   tls: false
   type: hysteria2
 - name: '7|未命名 #2'
@@ -140,6 +164,22 @@ proxies:
   server: hsels.huasuan666.top
   skip-cert-verify: true
   sni: hsels.huasuan666.top
+  tls: false
+  type: hysteria2
+- name: '7|UK #1'
+  password: 7GEEGxAfgQaVPQX0PGk7lIuj3I
+  port: 10820
+  server: 158.41.110.234
+  skip-cert-verify: true
+  sni: bing.com
+  tls: false
+  type: hysteria2
+- name: 7|DE
+  password: 7JnRmdeMP4gsvp0nXjYofBNvsdk
+  port: 7414
+  server: 3.75.180.49
+  skip-cert-verify: true
+  sni: bing.com
   tls: false
   type: hysteria2
 - name: 7|🍰28@oneclickvpnkeys
@@ -185,7 +225,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 7|美国
+- name: 7|🇸🇬SG
   password: KYIFgW1don6L8TaDBJHynafxZ0
   port: 4763
   server: 47.237.23.83
@@ -250,6 +290,14 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
+- name: '7|SG #4'
+  password: XON4wZ0sXe1YaqFY2FeM7uZY4
+  port: 15221
+  server: 122.248.205.111
+  skip-cert-verify: true
+  sni: bing.com
+  tls: false
+  type: hysteria2
 - name: 7|🍰30@oneclickvpnkeys
   password: Y5kSCRNcOSz5YQUkjehzVXeT2mk
   port: 19298
@@ -266,6 +314,14 @@ proxies:
   server: yapc-1.adamhayward.co.uk
   skip-cert-verify: true
   sni: YAPC-1.afshin.ir
+  tls: false
+  type: hysteria2
+- name: 7|🇺
+  password: a52663f7-bd8e-4553-a5de-ff6403a0ccfc
+  port: 443
+  server: 192.9.165.40
+  skip-cert-verify: true
+  sni: cn.cremedelamer.com
   tls: false
   type: hysteria2
 - name: 7|新加坡
@@ -297,6 +353,14 @@ proxies:
   server: 89.185.27.133
   skip-cert-verify: true
   sni: www.bing.com
+  tls: false
+  type: hysteria2
+- name: '7|🇭🇰香港 #1'
+  password: de8854c7-fa17-4266-ae18-50a9732a0c4e
+  port: 3001
+  server: hk1.1010991.xyz
+  skip-cert-verify: true
+  sni: hk1.1010991.xyz
   tls: false
   type: hysteria2
 - name: 7|🇺🇸美国
@@ -361,6 +425,14 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
+- name: '7|US #1'
+  password: peEduuHzbExjK7UQHzazXwqgA
+  port: 27704
+  server: 166.88.164.9
+  skip-cert-verify: true
+  sni: bing.com
+  tls: false
+  type: hysteria2
 - name: '7|新加坡 #2'
   password: vlJbyJEtcNjHvV6dnkZ1Z4VjpI
   port: 10264
@@ -378,6 +450,14 @@ proxies:
   tls: false
   type: hysteria2
 - name: '7|JP #1'
+  password: yD0mxkCA18WgPD1uVGd3Eu1dc
+  port: 27789
+  server: 47.245.0.72
+  skip-cert-verify: true
+  sni: bing.com
+  tls: false
+  type: hysteria2
+- name: '7|JP #2'
   password: yn3gMvdZ0hpReiimChE1H1BFvE
   port: 26036
   server: 54.199.157.111

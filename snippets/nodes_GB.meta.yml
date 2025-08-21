@@ -7,6 +7,14 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
+- name: '7|UK #1'
+  password: 7GEEGxAfgQaVPQX0PGk7lIuj3I
+  port: 10820
+  server: 158.41.110.234
+  skip-cert-verify: true
+  sni: bing.com
+  tls: false
+  type: hysteria2
 - name: 15|GB_speednode_0051
   network: ws
   port: 8880

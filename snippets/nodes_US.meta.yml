@@ -15,7 +15,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 7|美国
+- name: 7|🇸🇬SG
   password: KYIFgW1don6L8TaDBJHynafxZ0
   port: 4763
   server: 47.237.23.83
@@ -45,6 +45,14 @@ proxies:
   server: us2.1010991.xyz
   skip-cert-verify: true
   sni: us2.1010991.xyz
+  tls: false
+  type: hysteria2
+- name: '7|US #1'
+  password: peEduuHzbExjK7UQHzazXwqgA
+  port: 27704
+  server: 166.88.164.9
+  skip-cert-verify: true
+  sni: bing.com
   tls: false
   type: hysteria2
 - cipher: aes-128-gcm
