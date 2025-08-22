@@ -592,6 +592,16 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
+- name: 8|+@Azarakhsh_Proxy+
+  obfs: salamander
+  obfs-password: KevinZakarian
+  password: KevinZakarian
+  port: 8443
+  server: 179.61.132.96
+  skip-cert-verify: true
+  sni: 179.61.132.96
+  tls: false
+  type: hysteria2
 - name: 8|@Selinc
   password: dongtaiwang.com
   port: 63015
