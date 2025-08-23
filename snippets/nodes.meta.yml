@@ -13,14 +13,6 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: 7|27@oneclickvpnkeys
-  password: 10193f1d-9a4d-457a-b668-bdeb240e092c
-  port: 34444
-  server: netcupus.alisaku.com
-  skip-cert-verify: true
-  sni: apps.apple.com
-  tls: false
-  type: hysteria2
 - name: 7|37@oneclickvpnkeys
   obfs: salamander
   obfs-password: LNAnPYDfFyesRAVn
@@ -118,7 +110,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 7|🍇2@oneclickvpnkeys
+- name: 7|FR
   password: 45b46edb-679b-4ea5-befd-88c05bb94f80
   port: 2056
   server: de.eyucdn.xyz
@@ -207,7 +199,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: 7,8|@Daily_Configs
+- name: '7,8|@Daily_Configs #1'
   obfs: salamander
   obfs-password: aA@8795
   password: FREEEE_7.87958795
@@ -257,7 +249,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: '7,8|@Daily_Configs #1'
+- name: '7,8|@Daily_Configs #3'
   obfs: salamander
   obfs-password: Telegram-->@Ln2Ray
   password: Telegram-->@Ln2Ray
@@ -306,7 +298,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: '7,8|@Daily_Configs #2'
+- name: '7,8|@Daily_Configs #4'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -539,6 +531,13 @@ proxies:
   sni: real.getafreenode.sbs
   tls: false
   type: hysteria2
+- name: 8|@Daily_Configs
+  password: 8b583292-c936-4723-a8c7-8adb8ecf5044
+  port: 22154
+  server: hsxjp.huasuan666.top
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
 - name: '8|none #5'
   password: 942b9cb8-92fa-46ac-ae91-f69c8234434b
   port: 43429
@@ -602,6 +601,13 @@ proxies:
   sni: 179.61.132.96
   tls: false
   type: hysteria2
+- name: '8|@Daily_Configs #2'
+  password: NjEkAYYNqFKUbrksyW1COBtdpU
+  port: 2428
+  server: 47.239.220.214
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
 - name: 8|@Selinc
   password: dongtaiwang.com
   port: 63015
@@ -634,7 +640,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '8|@Daily_Configs #3'
+- name: '8|@Daily_Configs #5'
   password: eb75320e-a6d0-4b34-a6b6-2bcfc96a9099
   port: 43057
   server: 203.174.82.145
