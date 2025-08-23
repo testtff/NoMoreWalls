@@ -126,7 +126,7 @@ proxies:
   sni: de.eyucdn.xyz
   tls: false
   type: hysteria2
-- name: 7|🇺🇸
+- name: 7|🇸
   password: 51de9de9-3445-4dd3-8ac9-f42dc0baa230
   port: 443
   server: 129.146.215.233
