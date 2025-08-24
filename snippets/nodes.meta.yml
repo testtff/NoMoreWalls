@@ -697,7 +697,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '8|@Daily_Configs #4'
+- name: 8|🇸@FreakConfig
   password: RzQrEkAmnGs86IhmSVUk9Q5cn9M
   port: 30308
   server: 47.236.104.81
@@ -765,14 +765,6 @@ proxies:
   server: 108.181.5.130
   skip-cert-verify: true
   sni: apple.com
-  tls: false
-  type: hysteria2
-- name: 8|@V2ray1_Ng
-  password: dongtaiwang.com
-  port: 50850
-  server: 45.129.2.108
-  skip-cert-verify: true
-  sni: www.bing.com
   tls: false
   type: hysteria2
 - name: '8|@V2rayNG3 #8'
