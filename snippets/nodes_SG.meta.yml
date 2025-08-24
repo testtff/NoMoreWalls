@@ -1,5 +1,5 @@
 proxies:
-- name: 7|SG
+- name: 7,8|@Daily_Configs
   password: 3hszBhqVsUhqOOFWJlev6k6Tkc
   port: 22509
   server: 47.129.224.62
