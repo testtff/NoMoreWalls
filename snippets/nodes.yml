@@ -124,6 +124,14 @@ proxies:
   skip-cert-verify: true
   sni: www.baidu.com
   type: trojan
+- name: 13,14|新加坡|@ripaojiedian
+  network: tcp
+  password: 253bc477d4e43c209f2d427272968280
+  port: 8116
+  server: 43.199.63.145
+  skip-cert-verify: true
+  sni: www.baidu.com
+  type: trojan
 - name: 13,14|新加坡2|@ripaojiedian
   network: tcp
   password: 253bc477d4e43c209f2d427272968280
@@ -202,14 +210,6 @@ proxies:
   tls: false
   type: vmess
   uuid: cb774883-1c2f-4b8a-8637-828f356e0c76
-- name: 14|新加坡|@ripaojiedian
-  network: tcp
-  password: 253bc477d4e43c209f2d427272968280
-  port: 8116
-  server: 43.199.63.145
-  skip-cert-verify: true
-  sni: www.baidu.com
-  type: trojan
 - name: 15|KZ_speednode_0035
   network: ws
   password: tg-fq521free
