@@ -100,7 +100,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: '7,8|@ZenixVPN_Channel #1'
+- name: 7|FR
   password: 45b46edb-679b-4ea5-befd-88c05bb94f80
   port: 2056
   server: de.eyucdn.xyz
@@ -453,14 +453,6 @@ proxies:
   sni: www.google.com
   tls: false
   type: hysteria2
-- name: 8|@ZenixVPN_Channel
-  password: 366dad01-dd99-47be-92fa-6beddd09fff9
-  port: 22157
-  server: hshl.huasuan666.top
-  skip-cert-verify: true
-  sni: hshl.huasuan666.top
-  tls: false
-  type: hysteria2
 - name: '8|@V2rayNG3 #3'
   password: 75577117-ABCD-DCBA-AAAA-CC777775577B
   port: 7777
@@ -620,14 +612,6 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '8|@ZenixVPN_Channel #2'
-  password: a503efc7-b681-466f-be23-434483b2a07b
-  port: 22158
-  server: hsfg.huasuan666.top
-  skip-cert-verify: true
-  sni: hsfg.huasuan666.top
-  tls: false
-  type: hysteria2
 - name: 8|@Selinc
   password: dongtaiwang.com
   port: 63015
@@ -660,7 +644,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 8|🇬@FreakConfig
+- name: '8|@FreakConfig #3'
   password: f192a1eb-5987-49b2-9b2d-31a1410d7566
   port: 22156
   server: hsyg.huasuan666.top
