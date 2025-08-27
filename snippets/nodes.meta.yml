@@ -172,16 +172,6 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 7|2@oneclickvpnkeys
-  obfs: salamander
-  obfs-password: GdQ4bgvT8RFwuWi2
-  password: 8864aa9f-7517-4fd5-aef1-32050eb3095d
-  port: 30205
-  server: net2025.afsharidempire.uk
-  skip-cert-verify: true
-  sni: net2025.afsharidempire.uk
-  tls: false
-  type: hysteria2
 - name: 7|HK
   password: Cyi3TPih9FtQRwsZAh8aT6ynGJk
   port: 2166
@@ -227,16 +217,6 @@ proxies:
   server: 35.94.124.236
   skip-cert-verify: true
   sni: bing.com
-  tls: false
-  type: hysteria2
-- name: '7,8|@Daily_Configs #5'
-  obfs: salamander
-  obfs-password: Telegram-->@Ln2Ray
-  password: Telegram-->@Ln2Ray
-  port: 45000
-  server: gavazn.lnmarketplace.net
-  skip-cert-verify: true
-  sni: gavazn.55994421.xyz
   tls: false
   type: hysteria2
 - name: 7|🇸US
@@ -333,14 +313,6 @@ proxies:
   sni: us2.1010991.xyz
   tls: false
   type: hysteria2
-- name: 7|98@oneclickvpnkeys
-  password: dongtaiwang.com
-  port: 50066
-  server: 51.158.218.2
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
 - name: 7|🇸🇬新加坡
   password: e10ea0d5-4244-4aec-9ba0-cafe77cc6d90
   port: 443
@@ -399,14 +371,6 @@ proxies:
   password: vlJbyJEtcNjHvV6dnkZ1Z4VjpI
   port: 10264
   server: 13.212.75.22
-  skip-cert-verify: true
-  sni: bing.com
-  tls: false
-  type: hysteria2
-- name: 7|57@oneclickvpnkeys
-  password: wxiTacqUnFMT6QPG1xHX578Omo
-  port: 7444
-  server: 138.197.185.116
   skip-cert-verify: true
   sni: bing.com
   tls: false
@@ -581,6 +545,16 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
+- name: '8|@Daily_Configs #5'
+  obfs: salamander
+  obfs-password: Telegram-->@Ln2Ray
+  password: Telegram-->@Ln2Ray
+  port: 45000
+  server: gavazn.lnmarketplace.net
+  skip-cert-verify: true
+  sni: gavazn.55994421.xyz
+  tls: false
+  type: hysteria2
 - alpn:
   - h3
   name: '8|@Change_IP1-HYS #3'
@@ -592,7 +566,7 @@ proxies:
   sni: anymath.ir
   tls: false
   type: hysteria2
-- name: 8|🇳🇱@FreakConfig
+- name: '8|🇳🇱@V2NOT #1'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
