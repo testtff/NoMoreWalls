@@ -898,60 +898,6 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '8|v2raybluecrystal2 #2'
-  obfs: salamander
-  obfs-password: v2raybluecrystal
-  password: mItioklzVp
-  port: 22527
-  server: 78.138.118.228
-  skip-cert-verify: true
-  tls: false
-  type: hysteria2
-- name: '8|v2raybluecrystal3 #2'
-  obfs: salamander
-  obfs-password: v2raybluecrystal
-  password: mItioklzVp
-  port: 33113
-  server: 78.138.118.228
-  skip-cert-verify: true
-  tls: false
-  type: hysteria2
-- name: '8|v2raybluecrystal #2'
-  obfs: salamander
-  obfs-password: v2raybluecrystal
-  password: mItioklzVp
-  port: 37804
-  server: 78.138.118.228
-  skip-cert-verify: true
-  tls: false
-  type: hysteria2
-- name: '8|v2raybluecrystal2 #3'
-  obfs: salamander
-  obfs-password: v2raybluecrystal
-  password: mItioklzVp
-  port: 22527
-  server: v2raybluecrystal-france.v2raybluecrystal2.dynv6.net
-  skip-cert-verify: true
-  tls: false
-  type: hysteria2
-- name: '8|v2raybluecrystal3 #3'
-  obfs: salamander
-  obfs-password: v2raybluecrystal
-  password: mItioklzVp
-  port: 33113
-  server: v2raybluecrystal-france.v2raybluecrystal2.dynv6.net
-  skip-cert-verify: true
-  tls: false
-  type: hysteria2
-- name: '8|v2raybluecrystal #3'
-  obfs: salamander
-  obfs-password: v2raybluecrystal
-  password: mItioklzVp
-  port: 37804
-  server: v2raybluecrystal-france.v2raybluecrystal2.dynv6.net
-  skip-cert-verify: true
-  tls: false
-  type: hysteria2
 - name: '8|@Selinc #1'
   password: n9OgQprayM
   port: 443
@@ -977,6 +923,42 @@ proxies:
   server: 91.98.34.130
   skip-cert-verify: false
   sni: android.yas-nowin.ir
+  tls: false
+  type: hysteria2
+- name: 8|v2raybluecrystal-rema
+  obfs: salamander
+  obfs-password: qilebcibeMO3IVBnfqal3i
+  password: y0b0F707xv
+  port: 11726
+  server: p1.3dfigures.ir
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: 8|v2raybluecrystal-rema3
+  obfs: salamander
+  obfs-password: ywfihi3ohyg9iun3gvu
+  password: y0b0F707xv
+  port: 18646
+  server: p1.3dfigures.ir
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: 8|v2raybluecrystal-rema2
+  obfs: salamander
+  obfs-password: 31khbqfou1njilgv2qoih
+  password: y0b0F707xv
+  port: 20971
+  server: p1.3dfigures.ir
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: 8|v2raybluecrystal-rema4
+  obfs: salamander
+  obfs-password: Djxsjduwue
+  password: y0b0F707xv
+  port: 501
+  server: p1.3dfigures.ir
+  skip-cert-verify: true
   tls: false
   type: hysteria2
 - name: '8|@Selinc #2'
