@@ -1,5 +1,5 @@
 proxies:
-- name: 7,8|@Daily_Configs
+- name: '7,8|@Daily_Configs #1'
   password: 3hszBhqVsUhqOOFWJlev6k6Tkc
   port: 22509
   server: 47.129.224.62
