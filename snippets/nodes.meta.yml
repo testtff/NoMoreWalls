@@ -361,6 +361,16 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
+- name: 8|@Mr_Config_Group
+  obfs: salamander
+  obfs-password: xFGh9dsyreJV9sMs1RUnFbwRdon
+  password: 10822856-7452-43ec-b35b-6f24ea33530f
+  port: 29662
+  server: chervhill.hajalii.com
+  skip-cert-verify: false
+  sni: chervhill.hajalii.com
+  tls: false
+  type: hysteria2
 - name: 8|@V2rayNG3
   password: '123456'
   port: 443
