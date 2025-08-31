@@ -361,16 +361,6 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 8|@Mr_Config_Group✌️
-  obfs: salamander
-  obfs-password: xFGh9dsyreJV9sMs1RUnFbwRdon
-  password: 10822856-7452-43ec-b35b-6f24ea33530f
-  port: 29662
-  server: chervhill.hajalii.com
-  skip-cert-verify: false
-  sni: chervhill.hajalii.com
-  tls: false
-  type: hysteria2
 - name: 8|@V2rayNG3
   password: '123456'
   port: 443
@@ -435,7 +425,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '8|@FreakConfig #1'
+- name: '8|@Daily_Configs #1'
   password: 8b583292-c936-4723-a8c7-8adb8ecf5044
   port: 22154
   server: hsxjp.huasuan666.top
@@ -529,7 +519,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '8|@FreakConfig #2'
+- name: '8|@FreakConfig #1'
   password: RzQrEkAmnGs86IhmSVUk9Q5cn9M
   port: 30308
   server: 47.236.104.81
@@ -537,7 +527,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: '8|@Daily_Configs #4'
+- name: '8|@Daily_Configs #5'
   obfs: salamander
   obfs-password: Telegram-->@Ln2Ray
   password: Telegram-->@Ln2Ray
@@ -568,7 +558,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '8|@Daily_Configs #5'
+- name: '8|@Daily_Configs #6'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -578,7 +568,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: 8|🇺🇲@FreakConfig
+- name: '8|@FreakConfig #3'
   password: dongtaiwang.com
   port: 63015
   server: 108.181.5.130
@@ -602,20 +592,12 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '8|@Daily_Configs #6'
+- name: '8|@Daily_Configs #7'
   password: eb75320e-a6d0-4b34-a6b6-2bcfc96a9099
   port: 43057
   server: 203.174.82.145
   skip-cert-verify: true
   sni: www.bing.com
-  tls: false
-  type: hysteria2
-- name: '8|@FreakConfig #4'
-  password: f192a1eb-5987-49b2-9b2d-31a1410d7566
-  port: 22156
-  server: hsyg.huasuan666.top
-  skip-cert-verify: true
-  sni: hsyg.huasuan666.top
   tls: false
   type: hysteria2
 - name: '8|@V2rayNG3 #9'
