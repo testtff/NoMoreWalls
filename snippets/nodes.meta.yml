@@ -40,6 +40,14 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
+- name: '8|@FreakConfig #1'
+  password: 934766f0-204c-42be-8cf7-9afc2a8b5eaf
+  port: 22156
+  server: hsyg.huasuan666.top
+  skip-cert-verify: true
+  sni: hsyg.huasuan666.top
+  tls: false
+  type: hysteria2
 - alpn:
   - h3
   name: 8|@Change_IP1-HYS
@@ -73,7 +81,7 @@ proxies:
   sni: anymath.ir
   tls: false
   type: hysteria2
-- name: '8|@FreakConfig #1'
+- name: '8|@FreakConfig #2'
   obfs: salamander
   obfs-password: Telegram-->@Ln2Ray
   password: Telegram-->@Ln2Ray
@@ -114,7 +122,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '8|@FreakConfig #2'
+- name: '8|@FreakConfig #3'
   password: dongtaiwang.com
   port: 63015
   server: 108.181.5.130
