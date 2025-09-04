@@ -168,6 +168,16 @@ proxies:
   sni: yue-ru.yuetoto.net
   tls: false
   type: hysteria2
+- name: '8|@Daily_Configs #7'
+  obfs: salamander
+  obfs-password: 5zcstyddEr2HrwDFUGsF87IdN4eokPcN
+  password: dailyconfigs
+  port: 443
+  server: 176.124.204.248
+  skip-cert-verify: true
+  sni: slack.com
+  tls: false
+  type: hysteria2
 - name: '8|@FreakConfig #2'
   password: dongtaiwang.com
   port: 63015
@@ -176,7 +186,7 @@ proxies:
   sni: apple.com
   tls: false
   type: hysteria2
-- name: 8|未命名
+- name: 8|🇵@FreakConfig
   password: dongtaiwang.com
   port: 5355
   server: 51.159.111.32
@@ -184,7 +194,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '8|@Daily_Configs #7'
+- name: '8|@Daily_Configs #8'
   password: eb75320e-a6d0-4b34-a6b6-2bcfc96a9099
   port: 43057
   server: 203.174.82.145
