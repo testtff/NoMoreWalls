@@ -1,12 +1,5 @@
 proxies:
-- name: '8|🇩🇪@FreakConfig #2'
-  password: 88984417-da74-4a6e-a6fe-9336adf8e644
-  port: 20340
-  server: 77.90.50.59
-  skip-cert-verify: true
-  tls: false
-  type: hysteria2
-- name: '8|@Daily_Configs #8'
+- name: '8|@Daily_Configs #7'
   obfs: salamander
   obfs-password: 5zcstyddEr2HrwDFUGsF87IdN4eokPcN
   password: dailyconfigs
