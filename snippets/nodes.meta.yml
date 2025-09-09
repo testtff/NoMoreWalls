@@ -197,14 +197,6 @@ proxies:
   sni: apple.com
   tls: false
   type: hysteria2
-- name: 8|𝗝𝗼𝗶𝗻️@V2Ray_hiddify10️️266
-  password: dongtaiwang.com
-  port: 22222
-  server: 208.87.243.187
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
 - name: '8|WI-FI--@IRAN_V2RAY1 #1'
   password: dongtaiwang.com
   port: 5355
