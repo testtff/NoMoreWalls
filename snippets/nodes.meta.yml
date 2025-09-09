@@ -35,14 +35,6 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '8|@Daily_Configs #1'
-  password: 3hszBhqVsUhqOOFWJlev6k6Tkc
-  port: 22509
-  server: 47.129.224.62
-  skip-cert-verify: true
-  sni: bing.com
-  tls: false
-  type: hysteria2
 - name: 8|🇩🇪@FreakConfig
   password: 45b46edb-679b-4ea5-befd-88c05bb94f80
   port: 2056
@@ -59,7 +51,7 @@ proxies:
   sni: hsels.huasuan666.top
   tls: false
   type: hysteria2
-- name: '8|@Daily_Configs #3'
+- name: '8|@Daily_Configs #2'
   password: 79c4fe11-9787-406b-bf94-c1c1dbf59e28
   port: 31468
   server: 77.223.214.193
@@ -128,14 +120,6 @@ proxies:
   sni: anymath.ir
   tls: false
   type: hysteria2
-- name: '8|@Daily_Configs #4'
-  password: RzQrEkAmnGs86IhmSVUk9Q5cn9M
-  port: 30308
-  server: 47.236.104.81
-  skip-cert-verify: true
-  sni: bing.com
-  tls: false
-  type: hysteria2
 - name: 8|🇱@FreakConfig
   obfs: salamander
   obfs-password: Telegram-->@Ln2Ray
@@ -195,7 +179,7 @@ proxies:
   sni: slack.com
   tls: false
   type: hysteria2
-- name: '8|@Daily_Configs #6'
+- name: '8|@Daily_Configs #4'
   obfs: salamander
   obfs-password: 5zcstyddEr2HrwDFUGsF87IdN4eokPcN
   password: dailyconfigs
