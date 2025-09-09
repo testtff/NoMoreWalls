@@ -340,7 +340,7 @@ proxies:
   name: 13|🇭🇰 香港5|@ripaojiedian
   password: amazongreatvpn
   port: 16888
-  server: 18.162.224.234
+  server: 18.163.165.61
   type: ss
 - name: 13,14|香港6|@ripaojiedian
   network: tcp
@@ -412,7 +412,7 @@ proxies:
   name: 13|🇯🇵 日本5|@ripaojiedian
   password: amazongreatvpn
   port: 16888
-  server: 57.183.2.72
+  server: 3.115.20.29
   type: ss
 - name: 13,14|新加坡|@ripaojiedian
   network: tcp
