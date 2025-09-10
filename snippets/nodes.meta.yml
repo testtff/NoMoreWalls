@@ -43,6 +43,14 @@ proxies:
   sni: de.eyucdn.xyz
   tls: false
   type: hysteria2
+- name: 8|@HiByeVPNN️
+  password: 77b85b4f-8f73-495c-b919-a8fb386ca541
+  port: 22160
+  server: hsels.huasuan666.top
+  skip-cert-verify: true
+  sni: hsels.huasuan666.top
+  tls: false
+  type: hysteria2
 - name: '8|@Daily_Configs #2'
   password: 79c4fe11-9787-406b-bf94-c1c1dbf59e28
   port: 31468
@@ -84,35 +92,13 @@ proxies:
   name: 8|@Change_IP1-HYS
   obfs: salamander
   obfs-password: 6u33lecx372cssb22nzgu5l5fpdhom4ivqwg4fqby133lzsv3q
-  password: JLsEBzvWlyyTmM7yND0jXjQg
-  port: 443
-  server: 147.45.154.150
-  sni: anymath.ir
-  tls: false
-  type: hysteria2
-- alpn:
-  - h3
-  name: '8|@Change_IP1-HYS #1'
-  obfs: salamander
-  obfs-password: 6u33lecx372cssb22nzgu5l5fpdhom4ivqwg4fqby133lzsv3q
   password: M4DUOPrnAJhCXCBGoTA2xLDA
   port: 443
   server: 147.45.154.150
   sni: anymath.ir
   tls: false
   type: hysteria2
-- alpn:
-  - h3
-  name: '8|@Change_IP1-HYS #2'
-  obfs: salamander
-  obfs-password: 6u33lecx372cssb22nzgu5l5fpdhom4ivqwg4fqby133lzsv3q
-  password: MomB5gcusrDl2k67OfsTUEJK
-  port: 443
-  server: 147.45.154.150
-  sni: anymath.ir
-  tls: false
-  type: hysteria2
-- name: 8|🇱@FreakConfig
+- name: 8|🇳🇱@FreakConfig
   obfs: salamander
   obfs-password: Telegram-->@Ln2Ray
   password: Telegram-->@Ln2Ray
@@ -124,7 +110,7 @@ proxies:
   type: hysteria2
 - alpn:
   - h3
-  name: '8|@Change_IP1-HYS #3'
+  name: '8|@Change_IP1-HYS #1'
   obfs: salamander
   obfs-password: 6u33lecx372cssb22nzgu5l5fpdhom4ivqwg4fqby133lzsv3q
   password: UiIoI79ktLVSpD8Fh6vTq5l5
@@ -153,7 +139,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: 8|@vpnserverrr
+- name: 8|@vpnserverrr👈
   password: c9edf5cb-67ef-4440-8684-b3d301df6488
   port: 21053
   server: yue-ru.yuetoto.net
@@ -211,17 +197,6 @@ proxies:
   server: android.yas-nowin.ir
   skip-cert-verify: false
   sni: android.yas-nowin.ir
-  tls: false
-  type: hysteria2
-- alpn:
-  - h3
-  name: '8|@Change_IP1-HYS #4'
-  obfs: salamander
-  obfs-password: 6u33lecx372cssb22nzgu5l5fpdhom4ivqwg4fqby133lzsv3q
-  password: wieZ9G0FbEecGx2kXaZLchtt
-  port: 443
-  server: 147.45.154.150
-  sni: anymath.ir
   tls: false
   type: hysteria2
 - name: '8|@Selinc #3'
