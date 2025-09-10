@@ -43,14 +43,6 @@ proxies:
   sni: de.eyucdn.xyz
   tls: false
   type: hysteria2
-- name: 8|@HiByeVPNN️
-  password: 77b85b4f-8f73-495c-b919-a8fb386ca541
-  port: 22160
-  server: hsels.huasuan666.top
-  skip-cert-verify: true
-  sni: hsels.huasuan666.top
-  tls: false
-  type: hysteria2
 - name: '8|@Daily_Configs #2'
   password: 79c4fe11-9787-406b-bf94-c1c1dbf59e28
   port: 31468
@@ -161,7 +153,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: 8|@vpnserverrr👈
+- name: 8|@vpnserverrr
   password: c9edf5cb-67ef-4440-8684-b3d301df6488
   port: 21053
   server: yue-ru.yuetoto.net
@@ -205,7 +197,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 8|🇺@FreakConfig
+- name: '8|@FreakConfig #1'
   password: miaoge110
   port: 12687
   server: 45.58.38.153
