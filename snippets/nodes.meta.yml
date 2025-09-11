@@ -118,17 +118,6 @@ proxies:
   sni: gavazn.55994421.xyz
   tls: false
   type: hysteria2
-- alpn:
-  - h3
-  name: '8|@Change_IP1-HYS #1'
-  obfs: salamander
-  obfs-password: 6u33lecx372cssb22nzgu5l5fpdhom4ivqwg4fqby133lzsv3q
-  password: UiIoI79ktLVSpD8Fh6vTq5l5
-  port: 443
-  server: 147.45.154.150
-  sni: anymath.ir
-  tls: false
-  type: hysteria2
 - name: 8|@V2RAYNG_1378
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
