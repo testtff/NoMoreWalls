@@ -1,14 +1,4 @@
 proxies:
-- name: '8|@Daily_Configs #5'
-  obfs: salamander
-  obfs-password: 5zcstyddEr2HrwDFUGsF87IdN4eokPcN
-  password: dailyconfigs
-  port: 443
-  server: 176.124.204.248
-  skip-cert-verify: true
-  sni: slack.com
-  tls: false
-  type: hysteria2
 - name: 15|DE_speednode_0014
   network: ws
   password: slch2024
