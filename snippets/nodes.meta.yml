@@ -1,4 +1,14 @@
 proxies:
+- name: 8|@Mr_Config_Group✌️
+  obfs: salamander
+  obfs-password: xFGh9dsyreJV9sMs1RUnFbwRdon
+  password: 10822856-7452-43ec-b35b-6f24ea33530f
+  port: 29662
+  server: chervhill.hajalii.com
+  skip-cert-verify: false
+  sni: chervhill.hajalii.com
+  tls: false
+  type: hysteria2
 - name: 8|All--@IRAN_V2RAY1
   password: 45b46edb-679b-4ea5-befd-88c05bb94f80
   port: 2056
@@ -118,14 +128,6 @@ proxies:
   tls: false
   type: hysteria2
 - name: '8|@Selinc #2'
-  password: n9OgQprayM
-  port: 443
-  server: android.yas-nowin.ir
-  skip-cert-verify: false
-  sni: android.yas-nowin.ir
-  tls: false
-  type: hysteria2
-- name: '8|@Selinc #3'
   password: zPb5RRsckD
   port: 443
   server: android.yas-nowin.ir
