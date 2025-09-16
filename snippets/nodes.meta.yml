@@ -95,14 +95,6 @@ proxies:
   sni: slack.com
   tls: false
   type: hysteria2
-- name: '8|@Selinc #1'
-  password: dongtaiwang.com
-  port: 63015
-  server: 108.181.5.130
-  skip-cert-verify: true
-  sni: apple.com
-  tls: false
-  type: hysteria2
 - name: '8|WI-FI--@IRAN_V2RAY1 #1'
   password: dongtaiwang.com
   port: 5355
@@ -117,14 +109,6 @@ proxies:
   server: 45.58.38.153
   skip-cert-verify: true
   sni: www.bing.com
-  tls: false
-  type: hysteria2
-- name: '8|@Selinc #2'
-  password: zPb5RRsckD
-  port: 443
-  server: android.yas-nowin.ir
-  skip-cert-verify: false
-  sni: android.yas-nowin.ir
   tls: false
   type: hysteria2
 - cipher: aes-256-cfb

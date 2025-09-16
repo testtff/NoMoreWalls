@@ -8,10 +8,8 @@ hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35000?insecure=
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36400?insecure=0&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#8%7CAll-%40IRAN_V2RAY1%20%233
 hysteria2://c9edf5cb-67ef-4440-8684-b3d301df6488@yue-ru.yuetoto.net:21053?insecure=0&sni=yue-ru.yuetoto.net#8%7C%40vpnserverrr
 hysteria2://dailyconfigs@176.124.204.248:443?insecure=1&sni=slack.com&obfs=salamander&obfs-password=5zcstyddEr2HrwDFUGsF87IdN4eokPcN#8%7C%F0%9F%87%AA%40FreakConfig
-hysteria2://dongtaiwang.com@108.181.5.130:63015?insecure=1&sni=apple.com#8%7C%40Selinc%20%231
 hysteria2://dongtaiwang.com@51.159.111.32:5355?insecure=1&sni=www.bing.com#8%7CWI-FI--%40IRAN_V2RAY1%20%231
 hysteria2://miaoge110@45.58.38.153:12687?insecure=1&sni=www.bing.com#8%7C%40FreakConfig
-hysteria2://zPb5RRsckD@android.yas-nowin.ir:443?insecure=0&sni=android.yas-nowin.ir#8%7C%40Selinc%20%232
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@51.21.249.115:443#13%7Ctg%E9%A2%91%E9%81%93%3A%40ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTMsMTR86aaZ5rivfEByaXBhb2ppZWRpYW4iLCAiYWRkIjogInY5LmhlZHVpYW4ubGluayIsICJwb3J0IjogIjMwODA5IiwgImFpZCI6IDIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiY2JiM2Y4NzctZDFmYi0zNDRjLTg3YTktZDE1M2JmZmQ1NDg0IiwgInNuaSI6ICIiLCAiaG9zdCI6ICJiYWlkdS5jb20iLCAicGF0aCI6ICIvb29vbyJ9
 ss://YWVzLTI1Ni1nY206MmI1ZmFkMzg3NGU1@156.251.179.135:443#13%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
@@ -51,9 +49,9 @@ vless://67c662fa-cd6a-474a-b55f-d50dc0a7e210@104.18.14.201:2096?allowInsecure=0&
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.120.100:2053?allowInsecure=0&sni=1749734195126.wk.by.ktff.ssl.com.kokk.cn.aliyun.cdnktff.pp.ua&type=ws&host=1749734195126.wk.by.ktff.ssl.com.kokk.cn.aliyun.cdnktff.pp.ua&path=/telegram@V2ray_Alphafp=chrome&security=tls#15%7CUS_speednode_0026
 vless://67c662fa-cd6a-474a-b55f-d50dc0a7e210@104.18.15.201:2096?allowInsecure=0&sni=iamdt.pages.dev&type=ws&host=iamdt.pages.dev&path=/fp=chrome&security=tls#15%7CUS_speednode_0027
 vless://9b3d65ab-576c-4750-9cb3-bb41c12c085e@172.245.251.10:8443?allowInsecure=0&sni=www.ieee.org&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#15%7CUS_speednode_0028
-ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8774?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202509121565513-hDcp24etDx.download.microsoft.com#%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
-https://q87Smh.absslk.xyz/c13d18a5cd48f83ff42fd5005623b549
-ss://YWVzLTI1Ni1nY206ODgwOGU5ZjExNDU0@137.220.142.139:443?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bpath%3D%2Fnvcnjrmkggoy%3Bhost%3Djp5v1.lingjfjkm002.com%3Btls#%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
-ss://YWVzLTI1Ni1nY206MmI1ZmFkMzg3NGU1@156.251.179.135:443?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Faqwshiog%3Bhost%3Dhk6v1.dsjsapp.com%3Btls#%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
 ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8766?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202509121565513-hDcp24etDx.download.microsoft.com#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
-https://4KGkIA.mcsslk.xyz/66bb7a5d919d16a778dfb857fca6d08b
+https://unGlMu.absslk.xyz/70f2f41fd4c06b9131c1bf15e6d30aa9
+https://zE0YGw.mcsslk.xyz/b25314e981d429542204fb5b74d53ef9
+ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8774?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202509121565513-hDcp24etDx.download.microsoft.com#%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
+ss://YWVzLTI1Ni1nY206MmI1ZmFkMzg3NGU1@156.251.179.135:443?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Faqwshiog%3Bhost%3Dhk6v1.dsjsapp.com%3Btls#%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
+ss://YWVzLTI1Ni1nY206ODgwOGU5ZjExNDU0@137.220.142.139:443?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bpath%3D%2Fnvcnjrmkggoy%3Bhost%3Djp5v1.lingjfjkm002.com%3Btls#%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
