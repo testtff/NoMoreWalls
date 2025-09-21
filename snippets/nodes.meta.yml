@@ -14,6 +14,20 @@ proxies:
   skip-cert-verify: false
   tls: false
   type: hysteria2
+- name: 8|DE-telegram-@ISVvpn
+  password: 70197404-7b40-45e4-bb9c-8bc8995012ae
+  port: 24568
+  server: fra-nb-01.linlujs.pw
+  skip-cert-verify: false
+  tls: false
+  type: hysteria2
+- name: 8|usa-telegram-@ISVvpn
+  password: 70197404-7b40-45e4-bb9c-8bc8995012ae
+  port: 25684
+  server: us-nb-01.linlujs.pw
+  skip-cert-verify: false
+  tls: false
+  type: hysteria2
 - name: 8|@IRAN_V2RAY1
   obfs: salamander
   obfs-password: U1wBrYQyFm
