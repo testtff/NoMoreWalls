@@ -14,6 +14,13 @@ proxies:
   skip-cert-verify: false
   tls: false
   type: hysteria2
+- name: 8|telegram-@vpnserverrr
+  password: 682c7978-e3eb-44e0-924c-607144495681
+  port: 24568
+  server: fra-nb-01.linlujs.pw
+  skip-cert-verify: false
+  tls: false
+  type: hysteria2
 - name: 8|DE-telegram-@ISVvpn
   password: 70197404-7b40-45e4-bb9c-8bc8995012ae
   port: 24568
@@ -104,7 +111,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '8|telegram-@ISVvpn #1'
+- name: '8|telegram-@ISVvpn #2'
   password: f872db91-57c2-41c7-aad0-561b4cb674bf
   port: 25684
   server: us-nb-01.linlujs.pw
