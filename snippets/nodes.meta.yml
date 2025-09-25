@@ -1,4 +1,12 @@
 proxies:
+- name: 8|🇩🇪@FreakConfig
+  password: 20050105zhu
+  port: 51541
+  server: 204.44.110.129
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: false
+  type: hysteria2
 - name: 8|All--@IRAN_V2RAY1
   password: 45b46edb-679b-4ea5-befd-88c05bb94f80
   port: 2056
@@ -65,7 +73,7 @@ proxies:
   sni: de.youyacloud.me
   tls: false
   type: hysteria2
-- name: 8|🇳🇱@FreakConfig
+- name: 8|🇱@FreakConfig
   obfs: salamander
   obfs-password: Telegram-->@Ln2Ray
   password: Telegram-->@Ln2Ray
