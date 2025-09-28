@@ -7,6 +7,14 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
+- name: 8|rya
+  password: 2b67ONZROv+fRVMxB94BSw==
+  port: 443
+  server: 5.231.70.79
+  skip-cert-verify: true
+  sni: bing.com
+  tls: false
+  type: hysteria2
 - name: 8|All--@IRAN_V2RAY1
   password: 45b46edb-679b-4ea5-befd-88c05bb94f80
   port: 2056
@@ -93,6 +101,16 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
+- name: 8|r♡ya
+  obfs: salamander
+  obfs-password: Yet-Another-Public-Config-1
+  password: Yet-Another-Public-Config-1
+  port: 36300
+  server: yapc-1.adamhayward.co.uk
+  skip-cert-verify: true
+  sni: YAPC-1.afshin.ir
+  tls: false
+  type: hysteria2
 - name: '8|All-@IRAN_V2RAY1 #3'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
@@ -103,7 +121,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '8|WI-FI--@IRAN_V2RAY1 #1'
+- name: '8|r♡ya #1'
   password: dongtaiwang.com
   port: 5355
   server: 51.159.111.32
