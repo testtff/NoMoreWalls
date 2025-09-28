@@ -141,6 +141,16 @@ proxies:
   type: hysteria2
 - name: '8|@Daily_Configs #2'
   obfs: salamander
+  obfs-password: LzmYaFxALuuWNIu3zSeRJeV4z21RU1oS
+  password: bsnnajjbjsjnjjjbbbsbjajhjnnwjnbudn
+  port: 443
+  server: 103.249.133.79
+  skip-cert-verify: true
+  sni: microsoft.com
+  tls: false
+  type: hysteria2
+- name: '8|@Daily_Configs #3'
+  obfs: salamander
   obfs-password: sk8JqhGcrazoMtCeqlBX76nwlPaypmnP
   password: dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs
   port: 443
@@ -149,20 +159,10 @@ proxies:
   sni: slack.com
   tls: false
   type: hysteria2
-- name: '8|@Daily_Configs #3'
-  obfs: salamander
-  obfs-password: LzmYaFxALuuWNIu3zSeRJeV4z21RU1oS
-  password: dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs
-  port: 443
-  server: 103.249.133.79
-  skip-cert-verify: true
-  sni: microsoft.com
-  tls: false
-  type: hysteria2
 - name: '8|@Daily_Configs #4'
   obfs: salamander
   obfs-password: LzmYaFxALuuWNIu3zSeRJeV4z21RU1oS
-  password: dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs_
+  password: dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs
   port: 443
   server: 103.249.133.79
   skip-cert-verify: true
@@ -172,7 +172,7 @@ proxies:
 - name: '8|@Daily_Configs #5'
   obfs: salamander
   obfs-password: LzmYaFxALuuWNIu3zSeRJeV4z21RU1oS
-  password: dailyconfigschannel
+  password: dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs_
   port: 443
   server: 103.249.133.79
   skip-cert-verify: true
@@ -180,6 +180,16 @@ proxies:
   tls: false
   type: hysteria2
 - name: '8|@Daily_Configs #6'
+  obfs: salamander
+  obfs-password: LzmYaFxALuuWNIu3zSeRJeV4z21RU1oS
+  password: dailyconfigschannel
+  port: 443
+  server: 103.249.133.79
+  skip-cert-verify: true
+  sni: microsoft.com
+  tls: false
+  type: hysteria2
+- name: '8|@Daily_Configs #7'
   obfs: salamander
   obfs-password: sk8JqhGcrazoMtCeqlBX76nwlPaypmnP
   password: dailyconfigsdailyconfigsdailyconfigsdailyconfigs
@@ -189,7 +199,7 @@ proxies:
   sni: slack.com
   tls: false
   type: hysteria2
-- name: '8|@Daily_Configs #7'
+- name: '8|@Daily_Configs #8'
   obfs: salamander
   obfs-password: JBPVtqk1kMBGleBcLZ
   password: df36ace8-640b-42bb-8169-198901af6d9e
@@ -213,7 +223,7 @@ proxies:
   skip-cert-verify: false
   tls: false
   type: hysteria2
-- name: '8|@Daily_Configs #8'
+- name: '8|@Daily_Configs #9'
   obfs: salamander
   obfs-password: LzmYaFxALuuWNIu3zSeRJeV4z21RU1oS
   password: joindailyconfigschanel
@@ -221,6 +231,24 @@ proxies:
   server: 103.249.133.79
   skip-cert-verify: true
   sni: microsoft.com
+  tls: false
+  type: hysteria2
+- name: 8|🇺🇲@FreakConfig
+  obfs: salamander
+  obfs-password: wcancmaocnewrivbkacmlmsvwuvdfsv
+  password: lHoYmNZmLe
+  port: 28777
+  server: pouria.3dfigures.ir
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: '8|🇺🇲@FreakConfig #1'
+  obfs: salamander
+  obfs-password: uvahwuicbhwabhvlhv
+  password: lHoYmNZmLe
+  port: 53713
+  server: pouria.3dfigures.ir
+  skip-cert-verify: true
   tls: false
   type: hysteria2
 - name: 8|Telegram:@Daily_Configs
@@ -233,7 +261,7 @@ proxies:
   sni: slack.com
   tls: false
   type: hysteria2
-- name: '8|@Daily_Configs #9'
+- name: '8|@Daily_Configs #10'
   obfs: salamander
   obfs-password: sk8JqhGcrazoMtCeqlBX76nwlPaypmnP
   password: zanzendegiazadi
