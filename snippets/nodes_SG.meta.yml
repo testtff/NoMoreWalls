@@ -1,18 +1,20 @@
 proxies:
 - client-fingerprint: chrome
-  name: 13|🇸🇬 新加坡|@ripaojiedian
+  name: 13,14|新加坡|@ripaojiedian
+  network: tcp
   password: 253bc477d4e43c209f2d427272968280
-  port: 2283
-  server: 160.16.138.24
-  skip-cert-verify: false
+  port: 26295
+  server: 36.156.102.86
+  skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
 - client-fingerprint: chrome
-  name: 13|🇸🇬 新加坡2|@ripaojiedian
+  name: 13,14|新加坡2|@ripaojiedian
+  network: tcp
   password: 253bc477d4e43c209f2d427272968280
-  port: 22000
-  server: 36.156.102.86
-  skip-cert-verify: false
+  port: 2200
+  server: 182.237.0.26
+  skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
 - alterId: 0
@@ -26,22 +28,6 @@ proxies:
   tls: false
   type: vmess
   uuid: 55a374b6-3108-4b65-a987-a0926ddbfba6
-- name: 14|新加坡|@ripaojiedian
-  network: tcp
-  password: 253bc477d4e43c209f2d427272968280
-  port: 26295
-  server: 36.156.102.86
-  skip-cert-verify: true
-  sni: www.nintendogames.net
-  type: trojan
-- name: 14|新加坡2|@ripaojiedian
-  network: tcp
-  password: 253bc477d4e43c209f2d427272968280
-  port: 2200
-  server: 182.237.0.26
-  skip-cert-verify: true
-  sni: www.nintendogames.net
-  type: trojan
 - alterId: 0
   cipher: auto
   name: 14|新加坡3|@ripaojiedian
