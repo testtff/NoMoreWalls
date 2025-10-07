@@ -7,14 +7,6 @@ proxies:
   sni: de1.jueduibupao.top
   tls: false
   type: hysteria2
-- name: 8|@IRAN_V2RAY1
-  password: 2429bee3-e0c1-47dd-b420-75e6512b184b
-  port: 30300
-  server: 40.233.82.111
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
 - name: 8|@Daily_Configs
   password: 2b67ONZROv+fRVMxB94BSw==
   port: 443
@@ -75,7 +67,7 @@ proxies:
   sni: xjp1.xiaohuolongjc.top
   tls: false
   type: hysteria2
-- name: '8|@IRAN_V2RAY1 #1'
+- name: 8|@IRAN_V2RAY1
   obfs: salamander
   obfs-password: U1wBrYQyFm
   password: 80747420-96c4-4a2f-83e6-eea4e46beb09
@@ -231,14 +223,6 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: 8|🇲@FreakConfig
-  password: dongtaiwang.com
-  port: 22222
-  server: 208.87.243.187
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
 - name: '8|WI-FI--@IRAN_V2RAY1 #1'
   password: dongtaiwang.com
   port: 5355
@@ -262,15 +246,6 @@ proxies:
   server: 103.249.133.79
   skip-cert-verify: true
   sni: microsoft.com
-  tls: false
-  type: hysteria2
-- name: 8|🇺🇲@FreakConfig
-  obfs: salamander
-  obfs-password: uvahwuicbhwabhvlhv
-  password: lHoYmNZmLe
-  port: 53713
-  server: pouria.3dfigures.ir
-  skip-cert-verify: true
   tls: false
   type: hysteria2
 - name: '8|@Daily_Configs #13'
