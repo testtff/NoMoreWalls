@@ -31,6 +31,22 @@ proxies:
   sni: de.eyucdn.xyz
   tls: false
   type: hysteria2
+- name: 8|@FreakConfig
+  password: 4e231218-04c8-44ce-b72d-5c1bbcfc3a94
+  port: 30000
+  server: nl1.oomz.ru
+  skip-cert-verify: true
+  sni: bing.com
+  tls: false
+  type: hysteria2
+- name: 8|🇳🇱@FreakConfig
+  password: 571ec94e-613c-430a-93de-397d3d237475
+  port: 22157
+  server: hshl.huasuan666.top
+  skip-cert-verify: true
+  sni: hshl.huasuan666.top
+  tls: false
+  type: hysteria2
 - name: '8|@Daily_Configs #1'
   password: 5f4ba37a-bb3c-4f8e-962e-850f624ad131
   port: 54265
@@ -115,7 +131,7 @@ proxies:
   sni: de.youyacloud.me
   tls: false
   type: hysteria2
-- name: 8|WI-FI--@IRAN_V2RAY1
+- name: '8|🇳🇱@FreakConfig #1'
   obfs: salamander
   obfs-password: Telegram-->@Ln2Ray
   password: Telegram-->@Ln2Ray
@@ -183,6 +199,14 @@ proxies:
   server: 103.249.133.79
   skip-cert-verify: true
   sni: microsoft.com
+  tls: false
+  type: hysteria2
+- name: 8|🇲@FreakConfig
+  password: c232f411-96b5-4b07-b2f7-66a434725ffb
+  port: 23891
+  server: 108.165.213.197
+  skip-cert-verify: true
+  sni: fus01.mistea.top
   tls: false
   type: hysteria2
 - name: '8|@sunflowerplato🌻 #2'
