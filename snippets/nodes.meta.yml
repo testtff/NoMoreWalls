@@ -38,7 +38,7 @@ proxies:
   sni: hsdg.huasuan666.top
   tls: false
   type: hysteria2
-- name: 8|@FreakConfig
+- name: 8|🇱@FreakConfig
   password: 571ec94e-613c-430a-93de-397d3d237475
   port: 22157
   server: hshl.huasuan666.top
@@ -185,6 +185,16 @@ proxies:
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
   port: 35000
+  server: yapc-1.adamhayward.co.uk
+  skip-cert-verify: true
+  sni: YAPC-1.afshin.ir
+  tls: false
+  type: hysteria2
+- name: '8|🇳🇱@FreakConfig #5'
+  obfs: salamander
+  obfs-password: Yet-Another-Public-Config-1
+  password: Yet-Another-Public-Config-1
+  port: 35200
   server: yapc-1.adamhayward.co.uk
   skip-cert-verify: true
   sni: YAPC-1.afshin.ir
