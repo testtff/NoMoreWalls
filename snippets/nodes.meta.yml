@@ -46,7 +46,7 @@ proxies:
   sni: banmabanmabanmabanmabanmabanma2.wanlidag.top
   tls: false
   type: hysteria2
-- name: 8|🇱@FreakConfig
+- name: 8|@FreakConfig
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: 5f89ac2a-b6d6-4c66-98d8-39c4d552138c
@@ -152,7 +152,7 @@ proxies:
   sni: de.youyacloud.me
   tls: false
   type: hysteria2
-- name: '8|🇱@FreakConfig #1'
+- name: 8|🇱@FreakConfig
   obfs: salamander
   obfs-password: Telegram-->@Ln2Ray
   password: Telegram-->@Ln2Ray
