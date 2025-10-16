@@ -14,6 +14,7 @@ hysteria2://70197404-7b40-45e4-bb9c-8bc8995012ae@us-nb-01.linlujs.pw:25684?insec
 hysteria2://790e385a-7b0a-47bd-8d2a-254e6a12c2ca@xjp1.xiaohuolongjc.top:37771?insecure=1&sni=xjp1.xiaohuolongjc.top#8%7C%40Daily_Configs%20%234
 hysteria2://80747420-96c4-4a2f-83e6-eea4e46beb09@70.34.215.221:20335?insecure=1&sni=drhystuichdfy.samanidempire.org&obfs=salamander&obfs-password=U1wBrYQyFm#8%7C%40IRAN_V2RAY1%20%231
 hysteria2://80747420-96c4-4a2f-83e6-eea4e46beb09@drhystuichdfy.samanidempire.org:20335?insecure=1&sni=drhystuichdfy.samanidempire.org&obfs=salamander&obfs-password=U1wBrYQyFm#8%7CAll-%40IRAN_V2RAY1
+hysteria2://8864aa9f-7517-4fd5-aef1-32050eb3095d@185.92.220.240:30205?insecure=1&sni=net2025.afsharidempire.uk&obfs=salamander&obfs-password=GdQ4bgvT8RFwuWi2#8%7Climo
 hysteria2://8da7bd17-70ab-472d-a925-cc827857dc35@de.youyacloud.me:443?insecure=1&sni=de.youyacloud.me&obfs=salamander&obfs-password=qBbeISsJ8AK48fZW#8%7CAll-%40IRAN_V2RAY1%20%231
 hysteria2://Telegram--%3E%40Ln2Ray@206.71.158.23:45000?insecure=1&sni=gavazn.55994421.xyz&obfs=salamander&obfs-password=Telegram-->@Ln2Ray#8%7C%F0%9F%87%B1%40FreakConfig
 hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000?insecure=1&sni=gavazn.55994421.xyz&obfs=salamander&obfs-password=Telegram-->@Ln2Ray#8%7C%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig%20%232
@@ -26,10 +27,10 @@ hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36400?insecure=
 hysteria2://YwuvGJk36B@81.168.83.89:2083?insecure=1&sni=kotlet.arshiacomplus.dpdns.org&obfs=salamander&obfs-password=khameniiko@smad@ret#8%7CMCI-%40IRAN_V2RAY1
 hysteria2://biadailyconfigs@103.249.133.79:443?insecure=1&sni=microsoft.com&obfs=salamander&obfs-password=LzmYaFxALuuWNIu3zSeRJeV4z21RU1oS#8%7C%40Daily_Configs%20%2310
 hysteria2://bsnnajjbjsjnjjjbbbsbjajhjnnwjnbudn@103.249.133.79:443?insecure=1&sni=microsoft.com&obfs=salamander&obfs-password=LzmYaFxALuuWNIu3zSeRJeV4z21RU1oS#8%7C%40Daily_Configs%20%2311
+hysteria2://c232f411-96b5-4b07-b2f7-66a434725ffb@108.165.213.197:23891?insecure=1&sni=fus01.mistea.top#8%7C%F0%9F%87%BA%F0%9F%87%B2%40FreakConfig
 hysteria2://c3054d61-c708-4594-9797-f50acd24de2a@qing-kz.mxtn.net:443?insecure=1#8%7C%40sunflowerplato
-hysteria2://c6bccea3-2f03-4f3e-80f4-d6757f1f3f46@192.3.60.176:41951?insecure=1&sni=www.bing.com#8%7C%F0%9F%87%B2%40FreakConfig
 hysteria2://df36ace8-640b-42bb-8169-198901af6d9e@185.184.68.7.sslip.io:46129?insecure=1&obfs=salamander&obfs-password=JBPVtqk1kMBGleBcLZ#8%7C%40sunflowerplato%20%231
-hysteria2://dongtaiwang.com@208.87.243.187:22222?insecure=1&sni=www.bing.com#8%7C%F0%9F%87%BA%F0%9F%87%B2%40FreakConfig
+hysteria2://dongtaiwang.com@208.87.243.187:22222?insecure=1&sni=www.bing.com#8%7C%F0%9F%87%B2%40FreakConfig
 hysteria2://dongtaiwang.com@51.159.111.32:5355?insecure=1&sni=www.bing.com#8%7CWI-FI--%40IRAN_V2RAY1%20%231
 hysteria2://f872db91-57c2-41c7-aad0-561b4cb674bf@us-nb-01.linlujs.pw:25684?insecure=0#8%7Ctelegram-%40ISVvpn%20%232
 hysteria2://miaoge110@45.58.38.153:40112?insecure=1&sni=www.bing.com#8%7C%40Daily_Configs%20%2313
@@ -63,6 +64,6 @@ trojan://e531d1bc-a56f-4e1a-a295-1442369a19c1@e4d7a1c2f3b80976a5e2c1d4b3f0a987.1
 vless://0abf9050-c7be-464d-80af-24094c2b97de@188.68.53.100:6666?allowInsecure=0&sni=Tgju.org&fp=chrome&security=tls#15%7CDE_speednode_0004
 vless://2e23b585-a486-4541-83d8-5832a1409c6e@31.207.44.210:32155?allowInsecure=0&sni=yahoo.com&fp=chrome&security=tls#15%7CNL_speednode_0006
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@188.42.145.253:2096?allowInsecure=0&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=/Telegram🇨🇳 @WangCai2 /?ed=2560security=tls#15%7CRU_speednode_0007
+https://G1CkOj.absslk.xyz/e986d1eeb8d9b28fbf4591096fe6c992
+https://vr7Dex.mcsslk.xyz/136fb7b726425d334c578f8614120979
 ss://YWVzLTI1Ni1nY206Y2NmNDI2ZjFmZTc4@103.103.245.158:443?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Fzksuapgx%3Bhost%3Dnewroot2v1.dsjsapp.com%3Btls#%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
-https://XNfZ4O.mcsslk.xyz/ecfe715c6ee82ab9359ccc781a57a2da
-https://7tsagU.absslk.xyz/9065aa7bfabbe061ca51b8ab33277d93
