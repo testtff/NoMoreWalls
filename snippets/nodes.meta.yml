@@ -9,6 +9,14 @@ proxies:
   sni: chervhill.hajalii.com
   tls: false
   type: hysteria2
+- name: 8|@FreakConfig
+  password: 2429bee3-e0c1-47dd-b420-75e6512b184b
+  port: 30300
+  server: 129.153.59.26
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: false
+  type: hysteria2
 - name: 8|@IRAN_V2RAY1
   password: 2429bee3-e0c1-47dd-b420-75e6512b184b
   port: 30300
@@ -25,7 +33,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 8|@FreakConfig
+- name: '8|@FreakConfig #1'
   password: 30c075af-9555-4671-b70e-43e3cfb2e707
   port: 7009
   server: 31.57.241.25
@@ -57,7 +65,7 @@ proxies:
   sni: banmabanmabanmabanmabanmabanma2.wanlidag.top
   tls: false
   type: hysteria2
-- name: '8|@FreakConfig #1'
+- name: '8|@FreakConfig #2'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: 5f89ac2a-b6d6-4c66-98d8-39c4d552138c
@@ -133,7 +141,7 @@ proxies:
   sni: xjp1.xiaohuolongjc.top
   tls: false
   type: hysteria2
-- name: '8|@FreakConfig #2'
+- name: '8|@FreakConfig #3'
   obfs: salamander
   obfs-password: U1wBrYQyFm
   password: 80747420-96c4-4a2f-83e6-eea4e46beb09
@@ -183,7 +191,7 @@ proxies:
   sni: gavazn.55994421.xyz
   tls: false
   type: hysteria2
-- name: '8|🇳🇱@FreakConfig #1'
+- name: 8|WI-FI--@IRAN_V2RAY1
   obfs: salamander
   obfs-password: Telegram-->@Ln2Ray
   password: Telegram-->@Ln2Ray
@@ -193,7 +201,7 @@ proxies:
   sni: gavazn.55994421.xyz
   tls: false
   type: hysteria2
-- name: '8|🇳🇱@FreakConfig #2'
+- name: '8|🇳🇱@FreakConfig #1'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -203,7 +211,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '8|🇳🇱@FreakConfig #3'
+- name: '8|🇳🇱@FreakConfig #2'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -213,21 +221,11 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '8|🇳🇱@FreakConfig #4'
+- name: '8|🇳🇱@FreakConfig #3'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
   port: 35000
-  server: yapc-1.adamhayward.co.uk
-  skip-cert-verify: true
-  sni: YAPC-1.afshin.ir
-  tls: false
-  type: hysteria2
-- name: '8|🇳🇱@FreakConfig #5'
-  obfs: salamander
-  obfs-password: Yet-Another-Public-Config-1
-  password: Yet-Another-Public-Config-1
-  port: 35200
   server: yapc-1.adamhayward.co.uk
   skip-cert-verify: true
   sni: YAPC-1.afshin.ir
@@ -318,14 +316,6 @@ proxies:
   server: 80.85.241.237
   skip-cert-verify: true
   sni: stackoverflow.com
-  tls: false
-  type: hysteria2
-- name: '8|@Daily_Configs #14'
-  password: zanzendegiazadi
-  port: 443
-  server: 103.249.133.79
-  skip-cert-verify: true
-  sni: ubuntu.com
   tls: false
   type: hysteria2
 - cipher: aes-256-cfb
