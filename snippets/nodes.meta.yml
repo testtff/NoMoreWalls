@@ -129,6 +129,46 @@ proxies:
   sni: jnir.pichondan.com
   tls: false
   type: hysteria2
+- name: 8|🇳🇱@FreakConfig
+  obfs: salamander
+  obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
+  password: 680210f5-3b5f-4947-9983-e508a15cf169
+  port: 35000
+  server: 206.71.158.40
+  skip-cert-verify: true
+  sni: jnir.pichondan.com
+  tls: false
+  type: hysteria2
+- name: '8|🇳🇱@FreakConfig #1'
+  obfs: salamander
+  obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
+  password: 680210f5-3b5f-4947-9983-e508a15cf169
+  port: 35000
+  server: 206.71.158.41
+  skip-cert-verify: true
+  sni: jnir.pichondan.com
+  tls: false
+  type: hysteria2
+- name: 8|@FreakConfig
+  obfs: salamander
+  obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
+  password: 680210f5-3b5f-4947-9983-e508a15cf169
+  port: 35000
+  server: 77.90.41.197
+  skip-cert-verify: true
+  sni: jnir.pichondan.com
+  tls: false
+  type: hysteria2
+- name: '8|🇳🇱@FreakConfig #2'
+  obfs: salamander
+  obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
+  password: 680210f5-3b5f-4947-9983-e508a15cf169
+  port: 35000
+  server: dir.cybsecguru.com
+  skip-cert-verify: true
+  sni: jnir.pichondan.com
+  tls: false
+  type: hysteria2
 - name: 8|telegram-@ISVvpn
   password: 6803bc9b-1157-431b-8f73-970a6deb741f
   port: 29854
@@ -277,7 +317,7 @@ proxies:
   sni: gavazn.55994421.xyz
   tls: false
   type: hysteria2
-- name: '8|r♡ya #2'
+- name: '8|🇳🇱@FreakConfig #3'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -297,7 +337,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '8|@Daily_Configs #7'
+- name: '8|🇳🇱@FreakConfig #4'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -363,7 +403,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 8|🇳🇱@FreakConfig
+- name: '8|🇳🇱@FreakConfig #5'
   password: ada5516d-f772-414f-b11c-2faec29b5424
   port: 30000
   server: nl2.oomz.ru
