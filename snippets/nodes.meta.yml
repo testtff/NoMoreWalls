@@ -205,7 +205,7 @@ proxies:
   sni: hsels.huasuan666.top
   tls: false
   type: hysteria2
-- name: '8|@Daily_Configs #4'
+- name: '8|@Daily_Configs #2'
   password: 78c2bad7-f5f3-41f2-88cc-81de9d05040b
   port: 2056
   server: xg1.mangshe.xyz
@@ -233,7 +233,7 @@ proxies:
   sni: drhystuichdfy.samanidempire.org
   tls: false
   type: hysteria2
-- name: '8|@meli_proxyy #1'
+- name: '8|@meli_proxyy #2'
   password: 862e90e1-2f26-4506-b8b9-0adf20da05fc
   port: 47262
   server: 40.233.103.51
@@ -327,7 +327,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '8|@Daily_Configs #6'
+- name: '8|@Daily_Configs #4'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -387,30 +387,6 @@ proxies:
   sni: kotlet.arshiacomplus.dpdns.org
   tls: false
   type: hysteria2
-- name: '8|🇪@FreakConfig #1'
-  password: ada5516d-f772-414f-b11c-2faec29b5424
-  port: 30000
-  server: de3.oomz.ru
-  skip-cert-verify: true
-  sni: bing.com
-  tls: false
-  type: hysteria2
-- name: '8|🇱@FreakConfig #1'
-  password: ada5516d-f772-414f-b11c-2faec29b5424
-  port: 30000
-  server: nl1.oomz.ru
-  skip-cert-verify: true
-  sni: bing.com
-  tls: false
-  type: hysteria2
-- name: '8|🇳🇱@FreakConfig #5'
-  password: ada5516d-f772-414f-b11c-2faec29b5424
-  port: 30000
-  server: nl2.oomz.ru
-  skip-cert-verify: true
-  sni: bing.com
-  tls: false
-  type: hysteria2
 - name: '8|@sunflowerplato🌻 #1'
   password: c232f411-96b5-4b07-b2f7-66a434725ffb
   port: 23891
@@ -463,7 +439,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: '8|@Daily_Configs #9'
+- name: '8|@Daily_Configs #7'
   password: faa8b629-13ea-4ccd-94dd-ff1615cb1ba1
   port: 30000
   server: de3.oomz.ru
