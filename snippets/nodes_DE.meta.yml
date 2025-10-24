@@ -1,5 +1,5 @@
 proxies:
-- name: '8|@v2ray_configs_pool #2'
+- name: '8|@v2ray_configs_pool #3'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: 680210f5-3b5f-4947-9983-e508a15cf169
