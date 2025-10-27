@@ -451,7 +451,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '8|WI-FI--@IRAN_V2RAY1 #1'
+- name: 8|MCI--@V2rayAlpha--7
   password: dongtaiwang.com
   port: 5355
   server: 51.159.111.32
