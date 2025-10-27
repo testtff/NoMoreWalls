@@ -422,6 +422,14 @@ proxies:
   sni: hl01.mistea.top
   tls: false
   type: hysteria2
+- name: '8|@meli_proxyy #6'
+  password: c232f411-96b5-4b07-b2f7-66a434725ffb
+  port: 23892
+  server: 38.45.89.97
+  skip-cert-verify: true
+  sni: fus02.mistea.top
+  tls: false
+  type: hysteria2
 - name: 8|WiFi-@V2rayAlpha--7
   password: c3054d61-c708-4594-9797-f50acd24de2a
   port: 443
