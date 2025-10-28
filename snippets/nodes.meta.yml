@@ -145,7 +145,7 @@ proxies:
   sni: jnir.pichondan.com
   tls: false
   type: hysteria2
-- name: 8|🇳🇱@FreakConfig
+- name: '8|All-@V2rayAlpha--7 #1'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: 680210f5-3b5f-4947-9983-e508a15cf169
@@ -155,7 +155,7 @@ proxies:
   sni: jnir.pichondan.com
   tls: false
   type: hysteria2
-- name: '8|🇳🇱@FreakConfig #1'
+- name: 8|🇳🇱@FreakConfig
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: 680210f5-3b5f-4947-9983-e508a15cf169
@@ -286,7 +286,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '8|🇳🇱@FreakConfig #2'
+- name: '8|🇳🇱@FreakConfig #1'
   password: 907d9a05-3bd2-4b44-b1f9-4f26dba76f88
   port: 44001
   server: 85.208.9.189
@@ -310,7 +310,7 @@ proxies:
   sni: els1.dimoyun.top
   tls: false
   type: hysteria2
-- name: '8|🇳🇱@FreakConfig #3'
+- name: '8|🇳🇱@FreakConfig #2'
   obfs: salamander
   obfs-password: Telegram-->@Ln2Ray
   password: Telegram-->@Ln2Ray
@@ -320,7 +320,7 @@ proxies:
   sni: gavazn.55994421.xyz
   tls: false
   type: hysteria2
-- name: '8|🇳🇱@FreakConfig #4'
+- name: '8|🇳🇱@FreakConfig #3'
   obfs: salamander
   obfs-password: Telegram-->@Ln2Ray
   password: Telegram-->@Ln2Ray
@@ -330,7 +330,7 @@ proxies:
   sni: gavazn.55994421.xyz
   tls: false
   type: hysteria2
-- name: '8|🇳🇱@FreakConfig #5'
+- name: 8|telegram--MTMVPN10
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -340,7 +340,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '8|🇳🇱@FreakConfig #6'
+- name: '8|@Daily_Configs #3'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -350,7 +350,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '8|🇳🇱@FreakConfig #7'
+- name: '8|🇳🇱@FreakConfig #4'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
