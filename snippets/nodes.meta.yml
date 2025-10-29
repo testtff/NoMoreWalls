@@ -41,14 +41,6 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: '8|@Daily_Configs #1'
-  password: 30c075af-9555-4671-b70e-43e3cfb2e707
-  port: 7009
-  server: 31.57.241.25
-  skip-cert-verify: true
-  sni: d.eans.top
-  tls: false
-  type: hysteria2
 - name: 8|All-@V2rayAlpha--7
   password: 4ba709e6-6186-412d-a79d-bf256c7df57c
   port: 22155
@@ -221,7 +213,7 @@ proxies:
   sni: hsels.huasuan666.top
   tls: false
   type: hysteria2
-- name: '8|@Daily_Configs #2'
+- name: '8|@Daily_Configs #1'
   password: 78c2bad7-f5f3-41f2-88cc-81de9d05040b
   port: 2056
   server: xg1.mangshe.xyz
@@ -340,13 +332,13 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '8|@Daily_Configs #3'
+- name: '8|All-@IRAN_V2RAY1 #2'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
   port: 35000
   server: yapc-1.adamhayward.co.uk
-  skip-cert-verify: true
+  skip-cert-verify: false
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
@@ -380,7 +372,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: 8|MCI-@V2ray_Alpha--4
+- name: 8|🇬🇧@FreakConfig
   obfs: salamander
   obfs-password: khameniiko@smad@ret
   password: YwuvGJk36B
@@ -474,7 +466,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: '8|@Daily_Configs #5'
+- name: '8|@Daily_Configs #3'
   password: faa8b629-13ea-4ccd-94dd-ff1615cb1ba1
   port: 30000
   server: de3.oomz.ru
