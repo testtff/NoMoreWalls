@@ -41,6 +41,13 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
+- name: 8|All-@V2rayAlpha--3
+  password: 4a25ab9e-66e3-435a-97a4-276b5c3a1947
+  port: 443
+  server: hk.xn--9kqw1xbnu.shop
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
 - name: 8|All-@V2rayAlpha--7
   password: 4ba709e6-6186-412d-a79d-bf256c7df57c
   port: 22155
@@ -286,20 +293,20 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 8|WiFi-@V2rayAlpha--5
-  password: 934766f0-204c-42be-8cf7-9afc2a8b5eaf
-  port: 22156
-  server: hsyg.huasuan666.top
-  skip-cert-verify: true
-  sni: hsyg.huasuan666.top
-  tls: false
-  type: hysteria2
 - name: '8|All-@V2rayAlpha--6 #1'
   password: 9faf4015-b6c0-44f9-b9d6-d77454a50a72
   port: 40001
   server: els1.dimoyun.top
   skip-cert-verify: true
   sni: els1.dimoyun.top
+  tls: false
+  type: hysteria2
+- name: '8|All-@V2rayAlpha--2 #1'
+  password: MxiGoEDnLJELZicwCXwsADPdF4
+  port: 29609
+  server: 43.201.45.216
+  skip-cert-verify: true
+  sni: bing.com
   tls: false
   type: hysteria2
 - name: '8|🇳🇱@FreakConfig #2'
@@ -414,7 +421,7 @@ proxies:
   sni: hl01.mistea.top
   tls: false
   type: hysteria2
-- name: '8|@meli_proxyy #7'
+- name: 8|All-@V2rayAlpha--1
   password: c232f411-96b5-4b07-b2f7-66a434725ffb
   port: 23892
   server: 38.45.89.97
