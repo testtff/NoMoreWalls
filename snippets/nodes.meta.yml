@@ -1,4 +1,13 @@
 proxies:
+- name: 7|@NoForcedheaven
+  obfs: salamander
+  obfs-password: 9242a8bf
+  password: a2678c97b8d79059
+  port: 443
+  server: 46.62.152.236
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
 - name: 8|@Mr_Config_Group✌️
   obfs: salamander
   obfs-password: xFGh9dsyreJV9sMs1RUnFbwRdon
@@ -9,12 +18,38 @@ proxies:
   sni: chervhill.hajalii.com
   tls: false
   type: hysteria2
+- name: 8|@V2rayNG3
+  password: '123456'
+  port: 443
+  server: 192.3.85.237
+  skip-cert-verify: true
+  sni: bing.com
+  tls: false
+  type: hysteria2
+- name: '8|@V2rayNG3 #1'
+  password: 15cca331-9e92-449d-93b0-25f82203595f
+  port: 20309
+  server: gb.gomeow.online
+  skip-cert-verify: false
+  sni: gb.gomeow.online
+  tls: false
+  type: hysteria2
 - name: 8|All-@V2rayAlpha--16
   password: 20050105zhu
   port: 51541
   server: 204.44.110.129
   skip-cert-verify: true
   sni: www.bing.com
+  tls: false
+  type: hysteria2
+- name: '8|@V2rayNG3 #2'
+  obfs: salamander
+  obfs-password: de8287cd33b05fa3
+  password: 22f2c759db51b3d0
+  port: 12122
+  server: 109.120.135.123
+  skip-cert-verify: true
+  sni: www.google.com
   tls: false
   type: hysteria2
 - name: 8|@Daily_Configs
@@ -218,6 +253,14 @@ proxies:
   skip-cert-verify: false
   tls: false
   type: hysteria2
+- name: '8|@V2rayNG3 #9'
+  password: 75577117-ABCD-DCBA-AAAA-CC777775577B
+  port: 7777
+  server: s15.serv00.com
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: false
+  type: hysteria2
 - name: '8|@meli_proxyy #3'
   password: 78c2bad7-f5f3-41f2-88cc-81de9d05040b
   port: 2056
@@ -330,6 +373,43 @@ proxies:
   sni: els1.dimoyun.top
   tls: false
   type: hysteria2
+- name: '8|@V2rayNG3 #10'
+  obfs: salamander
+  obfs-password: '@azadi_az_inja_migzare'
+  password: '@azadi_az_inja_migzare'
+  port: 443
+  server: all-v4.dgi000.store
+  skip-cert-verify: false
+  sni: all-v4.dgi000.store
+  tls: false
+  type: hysteria2
+- name: '8|@V2rayNG3 #11'
+  obfs: salamander
+  obfs-password: bipbip
+  password: AtTK3tiEA0
+  port: 19037
+  server: p1.punchline.ir
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: '8|@V2rayNG3 #12'
+  obfs: salamander
+  obfs-password: bleepbloop
+  password: AtTK3tiEA0
+  port: 2087
+  server: p1.punchline.ir
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: '8|@V2rayNG3 #13'
+  obfs: salamander
+  obfs-password: bluhbluh
+  password: AtTK3tiEA0
+  port: 44929
+  server: p1.punchline.ir
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
 - name: '8|All-@V2rayAlpha--2 #1'
   password: MxiGoEDnLJELZicwCXwsADPdF4
   port: 29609
@@ -398,17 +478,17 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '8|MCI-@V2rayAlpha--3 #1'
+- name: '8|@Daily_Configs #2'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
   port: 36600
   server: yapc-1.adamhayward.co.uk
-  skip-cert-verify: true
+  skip-cert-verify: false
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: 8|@FreakConfig
+- name: 8|🇬🇧@FreakConfig
   obfs: salamander
   obfs-password: khameniiko@smad@ret
   password: YwuvGJk36B
@@ -489,6 +569,14 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
+- name: '8|@V2rayNG3 #15'
+  password: dongtaiwang.com
+  port: 50717
+  server: 46.17.41.189
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: false
+  type: hysteria2
 - name: 8|All--@V2rayAlpha--1
   password: dongtaiwang.com
   port: 5355
@@ -504,6 +592,16 @@ proxies:
   skip-cert-verify: false
   tls: false
   type: hysteria2
+- name: '8|@V2rayNG3 #17'
+  obfs: salamander
+  obfs-password: dbc688df29e582d3
+  password: f8e40931bbb827df
+  port: 12123
+  server: 62.60.231.189
+  skip-cert-verify: true
+  sni: www.google.com
+  tls: false
+  type: hysteria2
 - name: 8|All--@V2rayAlpha--2
   password: faa8b629-13ea-4ccd-94dd-ff1615cb1ba1
   port: 30000
@@ -512,7 +610,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: '8|@Daily_Configs #3'
+- name: '8|@Daily_Configs #4'
   password: faa8b629-13ea-4ccd-94dd-ff1615cb1ba1
   port: 30000
   server: de3.oomz.ru
