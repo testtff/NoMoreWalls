@@ -400,16 +400,6 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '8|🇳🇱@FreakConfig #3'
-  obfs: salamander
-  obfs-password: Yet-Another-Public-Config-1
-  password: Yet-Another-Public-Config-1
-  port: 35000
-  server: yapc-1.adamhayward.co.uk
-  skip-cert-verify: true
-  sni: YAPC-1.afshin.ir
-  tls: false
-  type: hysteria2
 - name: 8|@V2rayAlpha--All-3
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
@@ -476,7 +466,7 @@ proxies:
   sni: jnir.pichondan.com
   tls: false
   type: hysteria2
-- name: '8|🇳🇱@FreakConfig #4'
+- name: '8|🇳🇱@FreakConfig #3'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
@@ -531,7 +521,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '8|🇳🇱@FreakConfig #5'
+- name: '8|🇳🇱@FreakConfig #4'
   password: d3da4e16-9bef-4e54-9bd9-960d32740392
   port: 30000
   server: sb1.oomz.ru
@@ -539,7 +529,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: '8|🇳🇱@FreakConfig #6'
+- name: '8|🇳🇱@FreakConfig #5'
   password: d3da4e16-9bef-4e54-9bd9-960d32740392
   port: 30000
   server: sb2.oomz.ru
