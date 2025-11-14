@@ -8,22 +8,12 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: 8|MCI-IR--@V2rayAlpha-16
+- name: 8|@meli_proxyy
   password: 05fd3f79-dca0-4358-a803-c8d4711c17a3
   port: 58338
   server: lsyd1.lansecs.top
   skip-cert-verify: true
   sni: lsyd1.lansecs.top
-  tls: false
-  type: hysteria2
-- name: 8|@Mr_Config_Group
-  obfs: salamander
-  obfs-password: xFGh9dsyreJV9sMs1RUnFbwRdon
-  password: 10822856-7452-43ec-b35b-6f24ea33530f
-  port: 29662
-  server: chervhill.hajalii.com
-  skip-cert-verify: false
-  sni: chervhill.hajalii.com
   tls: false
   type: hysteria2
 - name: 8|@V2rayNG3
@@ -240,6 +230,21 @@ proxies:
   port: 443
   server: hk.xn--9kqw1xbnu.shop
   skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: '8|@meli_proxyy #20'
+  password: 5001b8d8-76ce-474c-bc29-94e6caa61164
+  port: 44001
+  server: 141.147.52.24
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: '8|@meli_proxyy #21'
+  password: 5001b8d8-76ce-474c-bc29-94e6caa61164
+  port: 44001
+  server: 92.5.77.25
+  skip-cert-verify: true
+  sni: www.bing.com
   tls: false
   type: hysteria2
 - name: 8|@Selinc
