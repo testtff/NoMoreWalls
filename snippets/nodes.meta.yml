@@ -8,7 +8,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: 8|MCI-IR--@V2rayAlpha-16
+- name: 8|@meli_proxyy
   password: 05fd3f79-dca0-4358-a803-c8d4711c17a3
   port: 58338
   server: lsyd1.lansecs.top
@@ -68,7 +68,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 8|@IRAN_V2RAY1
+- name: 8|All-@V2rayAlpha--15
   password: 2429bee3-e0c1-47dd-b420-75e6512b184b
   port: 30300
   server: 40.233.82.111
@@ -332,7 +332,7 @@ proxies:
   sni: jnir.pichondan.com
   tls: false
   type: hysteria2
-- name: 8|rya
+- name: 8|r♡ya@V2rayBaaz
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-King-Reza-Pahlavi'
   password: 6202ab997f570a6a180ae980b41f5789
