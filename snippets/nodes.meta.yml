@@ -58,6 +58,14 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
+- name: '8|@meli_proxyy #1'
+  password: 2429bee3-e0c1-47dd-b420-75e6512b184b
+  port: 30300
+  server: 40.233.80.237
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: false
+  type: hysteria2
 - name: 8|@IRAN_V2RAY1
   password: 2429bee3-e0c1-47dd-b420-75e6512b184b
   port: 30300
@@ -226,6 +234,21 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
+- name: '8|@meli_proxyy #21'
+  password: 338ce171-d764-4610-8fd5-6688b0d321f0
+  port: 30102
+  server: 132.226.162.10
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: '8|@meli_proxyy #22'
+  password: 338ce171-d764-4610-8fd5-6688b0d321f0
+  port: 30102
+  server: 140.238.137.165
+  skip-cert-verify: true
+  sni: du.wish.ml
+  tls: false
+  type: hysteria2
 - name: 8|All-@V2rayAlpha--39
   password: 338ce171-d764-4610-8fd5-6688b0d321f0
   port: 30102
@@ -262,14 +285,14 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '8|@meli_proxyy #20'
+- name: '8|@meli_proxyy #27'
   password: 5001b8d8-76ce-474c-bc29-94e6caa61164
   port: 44001
   server: 141.147.52.24
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '8|@meli_proxyy #21'
+- name: '8|@meli_proxyy #28'
   password: 5001b8d8-76ce-474c-bc29-94e6caa61164
   port: 44001
   server: 92.5.77.25
@@ -367,7 +390,7 @@ proxies:
   sni: jnir.pichondan.com
   tls: false
   type: hysteria2
-- name: 8|r♡ya@V2rayBaaz
+- name: 8|rya@V2rayBaaz
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-King-Reza-Pahlavi'
   password: 6202ab997f570a6a180ae980b41f5789
@@ -644,7 +667,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: 8|🇧@FreakConfig
+- name: 8|🇬🇧@FreakConfig
   obfs: salamander
   obfs-password: khameniiko@smad@ret
   password: YwuvGJk36B
