@@ -226,14 +226,6 @@ proxies:
   sni: yn2.nezhasu.com
   tls: false
   type: hysteria2
-- name: 8|MCI-@V2rayAlpha--2
-  password: 2b67ONZROv+fRVMxB94BSw==
-  port: 443
-  server: 5.231.70.79
-  skip-cert-verify: true
-  sni: bing.com
-  tls: false
-  type: hysteria2
 - name: '8|@meli_proxyy #21'
   password: 338ce171-d764-4610-8fd5-6688b0d321f0
   port: 30102
@@ -609,13 +601,6 @@ proxies:
   password: AtTK3tiEA0
   port: 44929
   server: p1.punchline.ir
-  skip-cert-verify: true
-  tls: false
-  type: hysteria2
-- name: 8|@Daily_Configs
-  password: JOh7tQHdp8
-  port: 48361
-  server: 191.96.11.107
   skip-cert-verify: true
   tls: false
   type: hysteria2
