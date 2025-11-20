@@ -40,7 +40,7 @@ proxies:
   sni: fecc1dc4-t4v9c0-t5ht86-dnss.la.shifen.uk
   tls: false
   type: hysteria2
-- name: 8|All-@V2ray_Alpha--31
+- name: 8|🇺🇸@FreakConfig
   password: 17cdeb6c-f046-11ee-bdac-f23c93141fad
   port: 1743
   server: 6adab57e-t53wg0-tdvgqe-2gok.la.shifen.uk
@@ -257,7 +257,7 @@ proxies:
   sni: du.wish.ml
   tls: false
   type: hysteria2
-- name: 8|All-@V2ray_Alpha--30
+- name: 8|🏴‍☠️@FreakConfig
   password: 338ce171-d764-4610-8fd5-6688b0d321f0
   port: 30102
   server: 140.245.68.133
@@ -488,7 +488,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 8|All-@V2ray_Alpha--8
+- name: '8|🇺🇸@FreakConfig #1'
   password: 78c2bad7-f5f3-41f2-88cc-81de9d05040b
   port: 2056
   server: lsj3.mangshe.xyz
@@ -774,7 +774,7 @@ proxies:
   sni: kotlet.arshiacomplus.dpdns.org
   tls: false
   type: hysteria2
-- name: '8|All-@V2ray_Alpha--5 #1'
+- name: 8|🇪@FreakConfig
   password: a084933d-0b41-4571-ae0c-7163b8c71ed1
   port: 2056
   server: de.eyucdn.xyz
@@ -798,7 +798,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: '8|All-@V2ray_Alpha--6 #1'
+- name: '8|🏴‍☠️@FreakConfig #1'
   password: afc8e385-dc0f-4b26-a5ed-b0fbf08b9df6
   port: 21325
   server: tr.xn--9kqx4sc0n.shop
@@ -815,7 +815,7 @@ proxies:
   sni: jnir.pichondan.com
   tls: false
   type: hysteria2
-- name: 8|All--@V2rayAlpha-0
+- name: 8|🇩🇪@FreakConfig
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
@@ -891,7 +891,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '8|All-@V2ray_Alpha--7 #1'
+- name: '8|🇺🇸@FreakConfig #2'
   password: df7bed3c-06eb-11f0-8ebc-f23c93141fad
   port: 443
   server: 9edb1f6e-t56dc0-t9lxaa-1glq.la.shifen.uk
