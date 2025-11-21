@@ -242,14 +242,14 @@ proxies:
   sni: yn2.nezhasu.com
   tls: false
   type: hysteria2
-- name: 8|r♡ya
+- name: '8|@meli_proxyy #4'
   password: 338ce171-d764-4610-8fd5-6688b0d321f0
   port: 30102
   server: 132.226.162.10
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '8|r♡ya #1'
+- name: '8|@meli_proxyy #5'
   password: 338ce171-d764-4610-8fd5-6688b0d321f0
   port: 30102
   server: 140.238.137.165
@@ -264,7 +264,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '8|r♡ya #2'
+- name: 8|r♡ya
   password: 338ce171-d764-4610-8fd5-6688b0d321f0
   port: 30102
   server: 144.24.101.176
@@ -307,7 +307,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: 8|@Selinc
+- name: '8|@Selinc #1'
   password: 571ec94e-613c-430a-93de-397d3d237475
   port: 22157
   server: 195.133.79.116
@@ -347,7 +347,7 @@ proxies:
   sni: hshl.huasuan666.top
   tls: false
   type: hysteria2
-- name: '8|r♡ya #3'
+- name: '8|r♡ya #1'
   obfs: salamander
   obfs-password: jjQQP9Av2l6BRdP5
   password: 59f5893e-b85a-44f7-911f-bd0b3f92069b
@@ -355,16 +355,6 @@ proxies:
   server: us11.588878.xyz
   skip-cert-verify: true
   sni: us11.588878.xyz
-  tls: false
-  type: hysteria2
-- name: '8|r♡ya #4'
-  obfs: salamander
-  obfs-password: '@JavidnamanIran-Javid-SHAH-King-Reza-Pahlavi'
-  password: 5ea499f5c73554214870e187a55f4d71
-  port: 989
-  server: dd.openaccessnode.com
-  skip-cert-verify: false
-  sni: dd.ircybersec.org
   tls: false
   type: hysteria2
 - name: 8|MCi--@IRAN_V2RAY1
@@ -512,33 +502,6 @@ proxies:
   sni: xjp2.mangshe.xyz
   tls: false
   type: hysteria2
-- name: '8|r♡ya #5'
-  obfs: salamander
-  obfs-password: QqvCBoJpDEflbOYm
-  password: 7ae1a8a7-b025-4bac-8949-9b1e45926a9a
-  port: 20000
-  server: hk2.mutoujs.top
-  skip-cert-verify: false
-  tls: false
-  type: hysteria2
-- name: '8|r♡ya #6'
-  obfs: salamander
-  obfs-password: DAnBPK1GxOdklGbv
-  password: 7ae1a8a7-b025-4bac-8949-9b1e45926a9a
-  port: 20000
-  server: mg4.mutoujs.top
-  skip-cert-verify: false
-  tls: false
-  type: hysteria2
-- name: '8|r♡ya #7'
-  obfs: salamander
-  obfs-password: EH2tIccMXNSql76y
-  password: 7ae1a8a7-b025-4bac-8949-9b1e45926a9a
-  port: 30000
-  server: sg1.mutoujs.top
-  skip-cert-verify: false
-  tls: false
-  type: hysteria2
 - name: '8|@meli_proxyy #12'
   password: 7daa4a7f-f76e-4941-84bd-c6004cdbb859
   port: 30000
@@ -602,7 +565,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '8|@Selinc #2'
+- name: '8|@Selinc #4'
   password: 907d9a05-3bd2-4b44-b1f9-4f26dba76f88
   port: 44001
   server: 85.208.9.189
@@ -754,7 +717,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '8|@Selinc #3'
+- name: '8|@Selinc #5'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -774,7 +737,7 @@ proxies:
   sni: kotlet.arshiacomplus.dpdns.org
   tls: false
   type: hysteria2
-- name: 8|🇪@FreakConfig
+- name: 8|🇩🇪@FreakConfig
   password: a084933d-0b41-4571-ae0c-7163b8c71ed1
   port: 2056
   server: de.eyucdn.xyz
@@ -782,7 +745,7 @@ proxies:
   sni: de.eyucdn.xyz
   tls: false
   type: hysteria2
-- name: '8|@Selinc #4'
+- name: '8|@Selinc #7'
   password: ab858115-e0ab-4cb7-8e65-0804c35e52d5
   port: 30000
   server: nl2.oomz.ru
@@ -790,7 +753,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: '8|@Selinc #5'
+- name: '8|@Selinc #8'
   password: ab858115-e0ab-4cb7-8e65-0804c35e52d5
   port: 30000
   server: us4.oomz.ru
@@ -815,7 +778,7 @@ proxies:
   sni: jnir.pichondan.com
   tls: false
   type: hysteria2
-- name: 8|🇩🇪@FreakConfig
+- name: '8|🇩🇪@FreakConfig #1'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
@@ -843,7 +806,7 @@ proxies:
   sni: fus01.mistea.top
   tls: false
   type: hysteria2
-- name: '8|r♡ya #8'
+- name: '8|rya #1'
   password: c232f411-96b5-4b07-b2f7-66a434725ffb
   port: 23899
   server: 193.142.59.41
@@ -883,15 +846,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: '8|r♡ya #9'
-  password: dcdd09ad-4519-46f7-8107-4c4290a9b2a3
-  port: 13805
-  server: 132.145.96.111
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
-- name: '8|🇺🇸@FreakConfig #2'
+- name: 8|🇸@FreakConfig
   password: df7bed3c-06eb-11f0-8ebc-f23c93141fad
   port: 443
   server: 9edb1f6e-t56dc0-t9lxaa-1glq.la.shifen.uk
