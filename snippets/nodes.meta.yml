@@ -17,14 +17,6 @@ proxies:
   tls: false
   type: hysteria2
 - name: 8|@V2rayNG3
-  password: '123456'
-  port: 443
-  server: 192.3.85.237
-  skip-cert-verify: true
-  sni: bing.com
-  tls: false
-  type: hysteria2
-- name: '8|@V2rayNG3 #1'
   password: 15cca331-9e92-449d-93b0-25f82203595f
   port: 20309
   server: gb.gomeow.online
@@ -56,7 +48,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '8|@V2rayNG3 #2'
+- name: '8|@V2rayNG3 #1'
   obfs: salamander
   obfs-password: de8287cd33b05fa3
   password: 22f2c759db51b3d0
@@ -447,7 +439,7 @@ proxies:
   skip-cert-verify: false
   tls: false
   type: hysteria2
-- name: '8|@V2rayNG3 #8'
+- name: '8|@V2rayNG3 #7'
   password: 75577117-ABCD-DCBA-AAAA-CC777775577B
   port: 7777
   server: s15.serv00.com
@@ -599,7 +591,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '8|@V2rayNG3 #9'
+- name: '8|@V2rayNG3 #8'
   obfs: salamander
   obfs-password: '@azadi_az_inja_migzare'
   password: '@azadi_az_inja_migzare'
@@ -609,7 +601,7 @@ proxies:
   sni: all-v4.dgi000.store
   tls: false
   type: hysteria2
-- name: '8|@V2rayNG3 #10'
+- name: '8|@V2rayNG3 #9'
   obfs: salamander
   obfs-password: bipbip
   password: AtTK3tiEA0
@@ -618,7 +610,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '8|@V2rayNG3 #11'
+- name: '8|@V2rayNG3 #10'
   obfs: salamander
   obfs-password: bleepbloop
   password: AtTK3tiEA0
@@ -627,7 +619,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '8|@V2rayNG3 #12'
+- name: '8|@V2rayNG3 #11'
   obfs: salamander
   obfs-password: bluhbluh
   password: AtTK3tiEA0
@@ -674,7 +666,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: 8|未命名
+- name: '8|All--@IRAN_V2RAY1 #3'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -699,16 +691,6 @@ proxies:
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
   port: 36400
-  server: 206.71.158.37
-  skip-cert-verify: true
-  sni: YAPC-1.afshin.ir
-  tls: false
-  type: hysteria2
-- name: '8|未命名 #1'
-  obfs: salamander
-  obfs-password: Yet-Another-Public-Config-1
-  password: Yet-Another-Public-Config-1
-  port: 36600
   server: 206.71.158.37
   skip-cert-verify: true
   sni: YAPC-1.afshin.ir
@@ -879,7 +861,7 @@ proxies:
   sni: e10829f0-t4un40-t9lb2a-1glq.la.shifen.uk
   tls: false
   type: hysteria2
-- name: '8|@V2rayNG3 #15'
+- name: '8|@V2rayNG3 #14'
   password: dongtaiwang.com
   port: 50717
   server: 46.17.41.189
@@ -902,7 +884,7 @@ proxies:
   skip-cert-verify: false
   tls: false
   type: hysteria2
-- name: '8|@V2rayNG3 #17'
+- name: '8|@V2rayNG3 #16'
   obfs: salamander
   obfs-password: dbc688df29e582d3
   password: f8e40931bbb827df
