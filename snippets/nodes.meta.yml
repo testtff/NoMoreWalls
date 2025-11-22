@@ -758,7 +758,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: '8|🏴‍☠️@FreakConfig #1'
+- name: '8|@FreakConfig #1'
   password: afc8e385-dc0f-4b26-a5ed-b0fbf08b9df6
   port: 21325
   server: tr.xn--9kqx4sc0n.shop
