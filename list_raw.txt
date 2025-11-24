@@ -2,7 +2,6 @@ hysteria2://a2678c97b8d79059@46.62.152.236:443?insecure=1&obfs=salamander&obfs-p
 hysteria2://05fd3f79-dca0-4358-a803-c8d4711c17a3@lsyd1.lansecs.top:58338?insecure=1&sni=lsyd1.lansecs.top#8%7CMCI-IR--%40V2rayAlpha-16
 hysteria2://123456@192.3.85.237:443?insecure=1&sni=bing.com#8%7C%40V2rayNG3
 hysteria2://15cca331-9e92-449d-93b0-25f82203595f@gb.gomeow.online:20309?insecure=0&sni=gb.gomeow.online#8%7C%40V2rayNG3%20%231
-hysteria2://16955d72-1794-11f0-a035-f23c95b6f51d@107.167.18.123:1743?insecure=0&sni=fecc1dc4-t4v9c0-t5ht86-dnss.la.shifen.uk#8%7C%40FreakConfig
 hysteria2://17cdeb6c-f046-11ee-bdac-f23c93141fad@6adab57e-t53wg0-tdvgqe-2gok.la.shifen.uk:1743?insecure=0&sni=6adab57e-t53wg0-tdvgqe-2gok.la.shifen.uk#8%7C%40V2ray_confing33
 hysteria2://20050105zhu@204.44.110.129:51541?insecure=1&sni=www.bing.com#8%7CAll-%40V2rayAlpha--5
 hysteria2://22f2c759db51b3d0@109.120.135.123:12122?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=de8287cd33b05fa3#8%7C%40V2rayNG3%20%232
@@ -27,7 +26,7 @@ hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@mumbai-4.nezhasu.com:443?insecu
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@phoenix-1.nezhasu.com:443?insecure=1&sni=phoenix-1.nezhasu.com#8%7Crya
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@sanjose.nezhasu.com:443?insecure=1&sni=SanJose.nezhasu.com#8%7CAll-%40V2rayAlpha--43
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@yn2.nezhasu.com:443?insecure=1&sni=yn2.nezhasu.com#8%7CMCI-IR--%40V2rayAlpha-11
-hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@140.245.68.133:30102?insecure=1#8%7C%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%40FreakConfig
+hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@140.245.68.133:30102?insecure=1#8%7C%40FreakConfig
 hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@144.24.101.176:30102?insecure=1#8%7Cr%E2%99%A1ya
 hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@158.180.77.90:30102?insecure=1#8%7CAll-%40V2rayAlpha--42
 hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@193.123.76.141:30102?insecure=1&sni=du.wish.ml#8%7CMCI-IR--%40V2rayAlpha-8
@@ -85,7 +84,7 @@ hysteria2://YwuvGJk36B@81.168.83.89:2083?insecure=1&sni=kotlet.arshiacomplus.dpd
 hysteria2://a084933d-0b41-4571-ae0c-7163b8c71ed1@de.eyucdn.xyz:2056?insecure=1&sni=de.eyucdn.xyz#8%7C%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 hysteria2://ab858115-e0ab-4cb7-8e65-0804c35e52d5@nl2.oomz.ru:30000?insecure=1&sni=bing.com#8%7C%40Selinc%20%239
 hysteria2://ab858115-e0ab-4cb7-8e65-0804c35e52d5@us4.oomz.ru:30000?insecure=1&sni=bing.com#8%7C%40Selinc%20%2310
-hysteria2://afc8e385-dc0f-4b26-a5ed-b0fbf08b9df6@tr.xn--9kqx4sc0n.shop:21325?insecure=0#8%7C%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%40FreakConfig%20%231
+hysteria2://afc8e385-dc0f-4b26-a5ed-b0fbf08b9df6@tr.xn--9kqx4sc0n.shop:21325?insecure=0#8%7C%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%40FreakConfig
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.40:35000?insecure=0&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#8%7CAll--%40IRAN_V2RAY1%20%236
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?insecure=0&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#8%7CAll--%40IRAN_V2RAY1%20%237
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?insecure=1&sni=jnir.pichondan.com&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#8%7CMTN--%40IRAN_V2RAY1
@@ -155,6 +154,6 @@ vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@80.90.187.190:2053?allowInsecure=0&
 vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@194.35.119.49:2053?allowInsecure=0&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=/?ed=2560security=tls#15%7CRU_speednode_0043
 vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@194.35.119.135:2053?allowInsecure=0&sni=kuangbao.xiejiang.dpdns.org&type=ws&host=kuangbao.xiejiang.dpdns.org&path=/?ed=2560security=tls#15%7CRU_speednode_0044
 vless://312d3555-d7a3-4674-869a-0e5b7ee03a35@69.84.182.13:443?allowInsecure=1&sni=fr-1-fr-1.aiopen.sbs&type=ws&host=fr-1-fr-1.aiopen.sbs&path=/kbjc/fr1fp=random&security=tls#15%7CUS_speednode_0045
-https://g1Gk0g.absslk.xyz/f925095e1fb57d252454f2ea831a1e8d
-ss://YWVzLTI1Ni1nY206Y2NmNDI2ZjFmZTc4@103.103.245.158:443?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Fzksuapgx%3Bhost%3Dnewroot2v1.dsjsapp.com%3Btls#%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
 https://geqyiH.mcsslk.xyz/c290df6db9efe0b16af5264ad849d77a
+ss://YWVzLTI1Ni1nY206Y2NmNDI2ZjFmZTc4@103.103.245.158:443?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Fzksuapgx%3Bhost%3Dnewroot2v1.dsjsapp.com%3Btls#%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
+https://g1Gk0g.absslk.xyz/f925095e1fb57d252454f2ea831a1e8d

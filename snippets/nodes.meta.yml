@@ -32,14 +32,6 @@ proxies:
   sni: gb.gomeow.online
   tls: false
   type: hysteria2
-- name: 8|@FreakConfig
-  password: 16955d72-1794-11f0-a035-f23c95b6f51d
-  port: 1743
-  server: 107.167.18.123
-  skip-cert-verify: false
-  sni: fecc1dc4-t4v9c0-t5ht86-dnss.la.shifen.uk
-  tls: false
-  type: hysteria2
 - name: 8|@V2ray_confing33
   password: 17cdeb6c-f046-11ee-bdac-f23c93141fad
   port: 1743
@@ -234,7 +226,7 @@ proxies:
   sni: yn2.nezhasu.com
   tls: false
   type: hysteria2
-- name: 8|🏴‍☠️@FreakConfig
+- name: 8|@FreakConfig
   password: 338ce171-d764-4610-8fd5-6688b0d321f0
   port: 30102
   server: 140.245.68.133
@@ -730,7 +722,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: '8|🏴‍☠️@FreakConfig #1'
+- name: 8|🏴‍☠️@FreakConfig
   password: afc8e385-dc0f-4b26-a5ed-b0fbf08b9df6
   port: 21325
   server: tr.xn--9kqx4sc0n.shop
