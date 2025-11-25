@@ -17,6 +17,14 @@ proxies:
   tls: false
   type: hysteria2
 - name: 8|@V2rayNG3
+  password: '123456'
+  port: 443
+  server: 192.3.85.237
+  skip-cert-verify: true
+  sni: bing.com
+  tls: false
+  type: hysteria2
+- name: '8|@V2rayNG3 #1'
   password: 15cca331-9e92-449d-93b0-25f82203595f
   port: 20309
   server: gb.gomeow.online
@@ -40,7 +48,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '8|@V2rayNG3 #1'
+- name: '8|@V2rayNG3 #2'
   obfs: salamander
   obfs-password: de8287cd33b05fa3
   password: 22f2c759db51b3d0
@@ -194,7 +202,7 @@ proxies:
   sni: mumbai-4.nezhasu.com
   tls: false
   type: hysteria2
-- name: 8|rya
+- name: 8|All-@V2rayAlpha--37
   password: 2b195c17-5ff5-4b0d-a809-210b92212394
   port: 443
   server: phoenix-1.nezhasu.com
@@ -225,7 +233,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: 8|r♡ya
+- name: 8|All-@V2rayAlpha--39
   password: 338ce171-d764-4610-8fd5-6688b0d321f0
   port: 30102
   server: 144.24.101.176
@@ -300,7 +308,7 @@ proxies:
   sni: hsdg.huasuan666.top
   tls: false
   type: hysteria2
-- name: 8|All-@V2ray_Alpha--39
+- name: '8|All-@V2rayAlpha--3 #1'
   password: 571ec94e-613c-430a-93de-397d3d237475
   port: 22157
   server: hshl.huasuan666.top
@@ -308,7 +316,7 @@ proxies:
   sni: hshl.huasuan666.top
   tls: false
   type: hysteria2
-- name: '8|r♡ya #1'
+- name: '8|All-@V2ray_Alpha--3 #1'
   obfs: salamander
   obfs-password: jjQQP9Av2l6BRdP5
   password: 59f5893e-b85a-44f7-911f-bd0b3f92069b
@@ -328,7 +336,7 @@ proxies:
   sni: jnir.pichondan.com
   tls: false
   type: hysteria2
-- name: '8|@V2rayNG3 #4'
+- name: '8|@V2rayNG3 #5'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: 5f89ac2a-b6d6-4c66-98d8-39c4d552138c
@@ -403,35 +411,7 @@ proxies:
   sni: jnir.pichondan.com
   tls: false
   type: hysteria2
-- name: 8|telegram-@ISVvpn
-  password: 6803bc9b-1157-431b-8f73-970a6deb741f
-  port: 29854
-  server: fra-nb-02.linlujs.pw
-  skip-cert-verify: false
-  tls: false
-  type: hysteria2
-- name: '8|telegram-@ISVvpn #1'
-  password: 682c7978-e3eb-44e0-924c-607144495681
-  port: 24568
-  server: fra-nb-01.linlujs.pw
-  skip-cert-verify: false
-  tls: false
-  type: hysteria2
-- name: 8|DE-telegram-@ISVvpn
-  password: 70197404-7b40-45e4-bb9c-8bc8995012ae
-  port: 24568
-  server: fra-nb-01.linlujs.pw
-  skip-cert-verify: false
-  tls: false
-  type: hysteria2
-- name: 8|usa-telegram-@ISVvpn
-  password: 70197404-7b40-45e4-bb9c-8bc8995012ae
-  port: 25684
-  server: us-nb-01.linlujs.pw
-  skip-cert-verify: false
-  tls: false
-  type: hysteria2
-- name: '8|@V2rayNG3 #7'
+- name: '8|@V2rayNG3 #8'
   password: 75577117-ABCD-DCBA-AAAA-CC777775577B
   port: 7777
   server: s15.serv00.com
@@ -565,7 +545,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '8|@V2rayNG3 #8'
+- name: '8|@V2rayNG3 #9'
   obfs: salamander
   obfs-password: '@azadi_az_inja_migzare'
   password: '@azadi_az_inja_migzare'
@@ -575,7 +555,7 @@ proxies:
   sni: all-v4.dgi000.store
   tls: false
   type: hysteria2
-- name: '8|@V2rayNG3 #9'
+- name: '8|@V2rayNG3 #10'
   obfs: salamander
   obfs-password: bipbip
   password: AtTK3tiEA0
@@ -584,7 +564,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '8|@V2rayNG3 #10'
+- name: '8|@V2rayNG3 #11'
   obfs: salamander
   obfs-password: bleepbloop
   password: AtTK3tiEA0
@@ -593,7 +573,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '8|@V2rayNG3 #11'
+- name: '8|@V2rayNG3 #12'
   obfs: salamander
   obfs-password: bluhbluh
   password: AtTK3tiEA0
@@ -829,7 +809,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: '8|@meli_proxyy #8'
+- name: 8|🏴‍☠️@FreakConfig
   password: da9adc6f-03ca-4d32-9e93-7b2bdbc9b00d
   port: 21105
   server: tr.xn--gmq00sc0nuve.shop
@@ -852,7 +832,7 @@ proxies:
   sni: e10829f0-t4un40-t9lb2a-1glq.la.shifen.uk
   tls: false
   type: hysteria2
-- name: '8|@V2rayNG3 #14'
+- name: '8|@V2rayNG3 #15'
   password: dongtaiwang.com
   port: 50717
   server: 46.17.41.189
@@ -868,14 +848,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '8|telegram-@ISVvpn #2'
-  password: f872db91-57c2-41c7-aad0-561b4cb674bf
-  port: 25684
-  server: us-nb-01.linlujs.pw
-  skip-cert-verify: false
-  tls: false
-  type: hysteria2
-- name: '8|@V2rayNG3 #16'
+- name: '8|@V2rayNG3 #17'
   obfs: salamander
   obfs-password: dbc688df29e582d3
   password: f8e40931bbb827df
