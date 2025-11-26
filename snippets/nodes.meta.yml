@@ -122,7 +122,7 @@ proxies:
   sni: gy6.nezhasu.com
   tls: false
   type: hysteria2
-- name: 8|All-@V2ray_Alpha--1
+- name: 8|r♡ya
   password: 2b195c17-5ff5-4b0d-a809-210b92212394
   port: 443
   server: lundun1.nezhasu.com
@@ -630,7 +630,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: 8|@FreakConfig
+- name: 8|️@FreakConfig
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -688,6 +688,16 @@ proxies:
   sni: de.eyucdn.xyz
   tls: false
   type: hysteria2
+- name: '8|r♡ya #2'
+  obfs: salamander
+  obfs-password: 2wsx
+  password: a1996dcf-0717-4dea-a6c1-9abeace8acf1
+  port: 4431
+  server: blogtest.ghazatehran.ir
+  skip-cert-verify: true
+  sni: blogtest.ghazatehran.ir
+  tls: false
+  type: hysteria2
 - name: '8|@Selinc #9'
   password: ab858115-e0ab-4cb7-8e65-0804c35e52d5
   port: 30000
@@ -711,7 +721,7 @@ proxies:
   skip-cert-verify: false
   tls: false
   type: hysteria2
-- name: '8|All--@IRAN_V2RAY1 #7'
+- name: '8|r♡ya #3'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
@@ -846,6 +856,14 @@ proxies:
   server: 51.159.111.32
   skip-cert-verify: true
   sni: www.bing.com
+  tls: false
+  type: hysteria2
+- name: 8|jswUgy556@&insecure=0&sni=arma...
+  obfs: salamander
+  obfs-password: hh-?ksjsHyGY6j
+  password: f6cf2e049f46db997a7142252d49aafa
+  port: 443
+  server: armani.8.8.8.8.fizikade.ir
   tls: false
   type: hysteria2
 - name: '8|@V2rayNG3 #17'
