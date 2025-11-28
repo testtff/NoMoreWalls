@@ -1,76 +1,4 @@
 proxies:
-- name: 7|🇯🇵b@oneclickvpnkeys
-  password: 14FD150A-579E-42A1-8212-9D2F6510A70C
-  port: 443
-  server: jp10.dexlos.com
-  skip-cert-verify: true
-  sni: jp10.dexlos.com
-  tls: false
-  type: hysteria2
-- name: 7|58@oneclickvpnkeys
-  password: 14FD150A-579E-42A1-8212-9D2F6510A70C
-  port: 443
-  server: jp4.dexlos.com
-  skip-cert-verify: true
-  sni: jp4.dexlos.com
-  tls: false
-  type: hysteria2
-- name: 7|🇯🇵c@oneclickvpnkeys
-  password: 14FD150A-579E-42A1-8212-9D2F6510A70C
-  port: 443
-  server: jp5.dexlos.com
-  skip-cert-verify: true
-  sni: jp5.dexlos.com
-  tls: false
-  type: hysteria2
-- name: 7|🇯🇵a@oneclickvpnkeys
-  password: 14FD150A-579E-42A1-8212-9D2F6510A70C
-  port: 443
-  server: jp6.dexlos.com
-  skip-cert-verify: true
-  sni: jp6.dexlos.com
-  tls: false
-  type: hysteria2
-- name: 7|🇯🇵e@oneclickvpnkeys
-  password: 14FD150A-579E-42A1-8212-9D2F6510A70C
-  port: 443
-  server: jp7.dexlos.com
-  skip-cert-verify: true
-  sni: jp7.dexlos.com
-  tls: false
-  type: hysteria2
-- name: 7|🇯🇵f@oneclickvpnkeys
-  password: 14FD150A-579E-42A1-8212-9D2F6510A70C
-  port: 443
-  server: jp8.dexlos.com
-  skip-cert-verify: true
-  sni: jp8.dexlos.com
-  tls: false
-  type: hysteria2
-- name: 7|🇯🇵d@oneclickvpnkeys
-  password: 14FD150A-579E-42A1-8212-9D2F6510A70C
-  port: 443
-  server: jp9.dexlos.com
-  skip-cert-verify: true
-  sni: jp9.dexlos.com
-  tls: false
-  type: hysteria2
-- name: 7|a@oneclickvpnkeys
-  password: 14FD150A-579E-42A1-8212-9D2F6510A70C
-  port: 443
-  server: us7.dexlos.com
-  skip-cert-verify: true
-  sni: us7.dexlos.com
-  tls: false
-  type: hysteria2
-- name: 7|✨56@oneclickvpnkeys
-  password: 14FD150A-579E-42A1-8212-9D2F6510A70C
-  port: 443
-  server: us9.dexlos.com
-  skip-cert-verify: true
-  sni: us9.dexlos.com
-  tls: false
-  type: hysteria2
 - name: 7|️17@oneclickvpnkeys
   password: 2408982813-20241210
   port: 443
@@ -129,10 +57,11 @@ proxies:
   sni: Tokyo.nezhasu.com
   tls: false
   type: hysteria2
-- name: 7|🔒56@oneclickvpnkeys
+- name: 7|56@oneclickvpnkeys
   password: 2b195c17-5ff5-4b0d-a809-210b92212394
   port: 443
   server: ylsl.nezhasu.com
+  skip-cert-verify: true
   sni: ylsl.nezhasu.com
   tls: false
   type: hysteria2
@@ -146,28 +75,20 @@ proxies:
   sni: refersion.com
   tls: false
   type: hysteria2
-- name: 7|🇺🇸b@oneclickvpnkeys
-  password: 312d3555-d7a3-4674-869a-0e5b7ee03a35
-  port: 443
-  server: 208.87.242.77
-  skip-cert-verify: true
-  sni: www.apple.com
-  tls: false
-  type: hysteria2
-- name: 7|🇺🇸c@oneclickvpnkeys
-  password: 312d3555-d7a3-4674-869a-0e5b7ee03a35
-  port: 443
-  server: 208.87.242.97
-  skip-cert-verify: true
-  sni: www.apple.com
-  tls: false
-  type: hysteria2
-- name: 7|1@oneclickvpnkeys
+- name: 7|🎵1@oneclickvpnkeys
   password: 52d0cb21-56da-4f00-862f-be01b66446a8
   port: 443
   server: falankefu1.nezhasu.com
   skip-cert-verify: true
   sni: falankefu1.nezhasu.com
+  tls: false
+  type: hysteria2
+- name: 7|🎵70@oneclickvpnkeys
+  password: 52d0cb21-56da-4f00-862f-be01b66446a8
+  port: 443
+  server: gy6.nezhasu.com
+  skip-cert-verify: true
+  sni: gy6.nezhasu.com
   tls: false
   type: hysteria2
 - name: 7|6@oneclickvpnkeys
@@ -196,12 +117,6 @@ proxies:
   sni: us11.588878.xyz
   tls: false
   type: hysteria2
-- name: 7|👉🆔@v2ray_configs_pool📡️®️🤷‍♀️️...
-  password: 71504eaf-29ac-4190-89d1-dd9ce2c9ee14
-  port: 443
-  server: null
-  tls: false
-  type: hysteria2
 - name: 7|🔒51@oneclickvpnkeys
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-King-Reza-Pahlavi'
@@ -211,10 +126,12 @@ proxies:
   sni: dd.ircybersec.org
   tls: false
   type: hysteria2
-- name: 7|👉🆔@v2ray_configs_pool📡🤷‍♀️®️🤷‍...
-  password: Telegram-->@Ln2Ray
+- name: '7,8|@Daily_Configs #1'
+  password: SNItest
   port: 443
-  server: null
+  server: 37.18.14.169
+  skip-cert-verify: true
+  sni: megafon.ru
   tls: false
   type: hysteria2
 - name: 7,8|🇳🇱@FreakConfig
@@ -235,12 +152,6 @@ proxies:
   server: gavazn.lnmarketplace.net
   skip-cert-verify: true
   sni: gavazn.55994421.xyz
-  tls: false
-  type: hysteria2
-- name: '7|👉🆔@v2ray_configs_pool📡🤷‍♀️®️🤷‍... #1'
-  password: Yet-Another-Public-Config-1
-  port: 443
-  server: null
   tls: false
   type: hysteria2
 - name: '7,8|🇳🇱@FreakConfig #2'
@@ -320,16 +231,6 @@ proxies:
   sni: jnir.pichondan.com
   tls: false
   type: hysteria2
-- name: 7|52@oneclickvpnkeys
-  obfs: salamander
-  obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
-  password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
-  port: 35000
-  server: dir.cybsecguru.com
-  skip-cert-verify: true
-  sni: jnir.pichondan.com
-  tls: false
-  type: hysteria2
 - name: 7|🔒57@oneclickvpnkeys
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
@@ -396,7 +297,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 7|⚒️9@oneclickvpnkeys
+- name: 7|️9@oneclickvpnkeys
   password: e9bc7ffe-04fa-448c-813e-f3f730989d4c
   port: 52886
   server: 5.180.30.16
@@ -412,12 +313,60 @@ proxies:
   sni: Amsterdam.nezhasu.com
   tls: false
   type: hysteria2
+- name: 7|🎵63@oneclickvpnkeys
+  password: f62dcdd4-a8f8-440e-8cc7-f5bb2f762375
+  port: 443
+  server: ashburn.nezhasu.com
+  skip-cert-verify: true
+  sni: ashburn.nezhasu.com
+  tls: false
+  type: hysteria2
+- name: 7|🎵79@oneclickvpnkeys
+  password: f62dcdd4-a8f8-440e-8cc7-f5bb2f762375
+  port: 443
+  server: gy5.nezhasu.com
+  skip-cert-verify: true
+  sni: gy5.nezhasu.com
+  tls: false
+  type: hysteria2
+- name: 7|🎵90@oneclickvpnkeys
+  password: f62dcdd4-a8f8-440e-8cc7-f5bb2f762375
+  port: 443
+  server: gy9.nezhasu.com
+  skip-cert-verify: true
+  sni: gy9.nezhasu.com
+  tls: false
+  type: hysteria2
 - name: 7|🎵13@oneclickvpnkeys
   password: f62dcdd4-a8f8-440e-8cc7-f5bb2f762375
   port: 443
   server: lundun3.nezhasu.com
   skip-cert-verify: true
   sni: lundun3.nezhasu.com
+  tls: false
+  type: hysteria2
+- name: 7|🎵83@oneclickvpnkeys
+  password: f62dcdd4-a8f8-440e-8cc7-f5bb2f762375
+  port: 443
+  server: phoenix-2.nezhasu.com
+  skip-cert-verify: true
+  sni: phoenix-2.nezhasu.com
+  tls: false
+  type: hysteria2
+- name: 7|🎵85@oneclickvpnkeys
+  password: f62dcdd4-a8f8-440e-8cc7-f5bb2f762375
+  port: 443
+  server: phoenix-4.nezhasu.com
+  skip-cert-verify: true
+  sni: phoenix-4.nezhasu.com
+  tls: false
+  type: hysteria2
+- name: 7|🎵82@oneclickvpnkeys
+  password: f62dcdd4-a8f8-440e-8cc7-f5bb2f762375
+  port: 443
+  server: sanjose.nezhasu.com
+  skip-cert-verify: true
+  sni: SanJose.nezhasu.com
   tls: false
   type: hysteria2
 - name: 8|MCI-IR--@V2rayAlpha-16
@@ -734,7 +683,7 @@ proxies:
   sni: jnir.pichondan.com
   tls: false
   type: hysteria2
-- name: 8|@v2ray_configs_poolFrance️Stra...
+- name: '8|MCi--@IRAN_V2RAY1 #2'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: 5f89ac2a-b6d6-4c66-98d8-39c4d552138c
@@ -819,6 +768,14 @@ proxies:
   server: xjp2.mangshe.xyz
   skip-cert-verify: true
   sni: xjp2.mangshe.xyz
+  tls: false
+  type: hysteria2
+- name: '8|@V2ray1_Ng #1'
+  password: 7daa4a7f-f76e-4941-84bd-c6004cdbb859
+  port: 30000
+  server: 94.249.197.95
+  skip-cert-verify: true
+  sni: bing.com
   tls: false
   type: hysteria2
 - name: '8|All--@IRAN_V2RAY1 #1'
@@ -1018,7 +975,7 @@ proxies:
   sni: kotlet.arshiacomplus.dpdns.org
   tls: false
   type: hysteria2
-- name: '8|@Selinc #9'
+- name: '8|@Selinc #10'
   password: ab858115-e0ab-4cb7-8e65-0804c35e52d5
   port: 30000
   server: nl2.oomz.ru
@@ -1026,7 +983,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: '8|@Selinc #10'
+- name: '8|@Selinc #11'
   password: ab858115-e0ab-4cb7-8e65-0804c35e52d5
   port: 30000
   server: us4.oomz.ru
@@ -1049,6 +1006,16 @@ proxies:
   server: 206.71.158.41
   skip-cert-verify: true
   sni: jnir.pichondan.com
+  tls: false
+  type: hysteria2
+- name: '8|limo #1'
+  obfs: salamander
+  obfs-password: 2wsx
+  password: bd60e683-4da1-4856-9451-991d40fed6a4
+  port: 4431
+  server: blogtest.ghazatehran.ir
+  skip-cert-verify: true
+  sni: blogtest.ghazatehran.ir
   tls: false
   type: hysteria2
 - name: '8|@sunflowerplato🌻 #1'
