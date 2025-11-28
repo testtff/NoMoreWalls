@@ -55,36 +55,12 @@ proxies:
   sni: jp9.dexlos.com
   tls: false
   type: hysteria2
-- name: 7|✨49@oneclickvpnkeys
-  password: 14FD150A-579E-42A1-8212-9D2F6510A70C
-  port: 443
-  server: us10.dexlos.com
-  skip-cert-verify: true
-  sni: us10.dexlos.com
-  tls: false
-  type: hysteria2
-- name: 7|✨45@oneclickvpnkeys
-  password: 14FD150A-579E-42A1-8212-9D2F6510A70C
-  port: 443
-  server: us5.dexlos.com
-  skip-cert-verify: true
-  sni: us5.dexlos.com
-  tls: false
-  type: hysteria2
 - name: 7|a@oneclickvpnkeys
   password: 14FD150A-579E-42A1-8212-9D2F6510A70C
   port: 443
   server: us7.dexlos.com
   skip-cert-verify: true
   sni: us7.dexlos.com
-  tls: false
-  type: hysteria2
-- name: 7|✨46@oneclickvpnkeys
-  password: 14FD150A-579E-42A1-8212-9D2F6510A70C
-  port: 443
-  server: us8.dexlos.com
-  skip-cert-verify: true
-  sni: us8.dexlos.com
   tls: false
   type: hysteria2
 - name: 7|✨56@oneclickvpnkeys
@@ -220,6 +196,12 @@ proxies:
   sni: us11.588878.xyz
   tls: false
   type: hysteria2
+- name: 7|👉🆔@v2ray_configs_pool📡️®️🤷‍♀️️...
+  password: 71504eaf-29ac-4190-89d1-dd9ce2c9ee14
+  port: 443
+  server: null
+  tls: false
+  type: hysteria2
 - name: 7|🔒51@oneclickvpnkeys
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-King-Reza-Pahlavi'
@@ -227,6 +209,12 @@ proxies:
   port: 989
   server: dd.openaccessnode.com
   sni: dd.ircybersec.org
+  tls: false
+  type: hysteria2
+- name: 7|👉🆔@v2ray_configs_pool📡🤷‍♀️®️🤷‍...
+  password: Telegram-->@Ln2Ray
+  port: 443
+  server: null
   tls: false
   type: hysteria2
 - name: 7,8|🇳🇱@FreakConfig
@@ -249,11 +237,27 @@ proxies:
   sni: gavazn.55994421.xyz
   tls: false
   type: hysteria2
+- name: '7|👉🆔@v2ray_configs_pool📡🤷‍♀️®️🤷‍... #1'
+  password: Yet-Another-Public-Config-1
+  port: 443
+  server: null
+  tls: false
+  type: hysteria2
 - name: '7,8|🇳🇱@FreakConfig #2'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
   port: 35000
+  server: 206.71.158.37
+  skip-cert-verify: true
+  sni: YAPC-1.afshin.ir
+  tls: false
+  type: hysteria2
+- name: '7,8|All--@IRAN_V2RAY1 #5'
+  obfs: salamander
+  obfs-password: Yet-Another-Public-Config-1
+  password: Yet-Another-Public-Config-1
+  port: 36400
   server: 206.71.158.37
   skip-cert-verify: true
   sni: YAPC-1.afshin.ir
@@ -374,14 +378,6 @@ proxies:
   server: 195.154.206.231
   skip-cert-verify: true
   sni: apple.com
-  tls: false
-  type: hysteria2
-- name: 7|✨43@oneclickvpnkeys
-  password: dongtaiwang.com
-  port: 22222
-  server: 208.87.243.187
-  skip-cert-verify: true
-  sni: www.bing.com
   tls: false
   type: hysteria2
 - name: 7|5@oneclickvpnkeys
@@ -738,7 +734,7 @@ proxies:
   sni: jnir.pichondan.com
   tls: false
   type: hysteria2
-- name: '8|MCi--@IRAN_V2RAY1 #2'
+- name: 8|@v2ray_configs_poolFrance️Stra...
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: 5f89ac2a-b6d6-4c66-98d8-39c4d552138c
@@ -1002,16 +998,6 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '8|All--@IRAN_V2RAY1 #5'
-  obfs: salamander
-  obfs-password: Yet-Another-Public-Config-1
-  password: Yet-Another-Public-Config-1
-  port: 36400
-  server: 206.71.158.37
-  skip-cert-verify: true
-  sni: YAPC-1.afshin.ir
-  tls: false
-  type: hysteria2
 - name: '8|@Selinc #7'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
@@ -1022,7 +1008,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: 8|🇬🇧@FreakConfig
+- name: 8|MCI-@IRAN_V2RAY1
   obfs: salamander
   obfs-password: khameniiko@smad@ret
   password: YwuvGJk36B
