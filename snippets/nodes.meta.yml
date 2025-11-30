@@ -118,7 +118,7 @@ proxies:
   sni: dd.ircybersec.org
   tls: false
   type: hysteria2
-- name: 7,8|WiFi-@V2rayAlpha--2
+- name: 7,8|🇺@FreakConfig
   password: SNItest
   port: 443
   server: 37.18.14.169
@@ -598,20 +598,12 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '8|@Selinc #2'
-  password: 571ec94e-613c-430a-93de-397d3d237475
-  port: 22157
-  server: 195.133.79.116
-  skip-cert-verify: true
-  sni: ''
-  tls: false
-  type: hysteria2
 - name: 8|All-@V2rayAlpha--6
   password: 571ec94e-613c-430a-93de-397d3d237475
   port: 22157
   server: 195.133.79.116
   skip-cert-verify: true
-  sni: 🔒
+  sni: ''
   tls: false
   type: hysteria2
 - name: 8|@Hddify
@@ -783,6 +775,16 @@ proxies:
   sni: drhystuichdfy.samanidempire.org
   tls: false
   type: hysteria2
+- name: '8|@meli_proxyy #4'
+  obfs: salamander
+  obfs-password: 2wsx
+  password: 83ee741e-4357-4e7c-bfdd-b259c8d1b981
+  port: 4431
+  server: blogtest.ghazatehran.ir
+  skip-cert-verify: true
+  sni: blogtest.ghazatehran.ir
+  tls: false
+  type: hysteria2
 - name: 8|All-@V2rayAlpha--44
   password: 862e90e1-2f26-4506-b8b9-0adf20da05fc
   port: 47262
@@ -806,14 +808,6 @@ proxies:
   port: 44001
   server: 141.147.52.24
   skip-cert-verify: true
-  tls: false
-  type: hysteria2
-- name: '8|@Selinc #5'
-  password: 907d9a05-3bd2-4b44-b1f9-4f26dba76f88
-  port: 44001
-  server: 85.208.9.189
-  skip-cert-verify: true
-  sni: www.bing.com
   tls: false
   type: hysteria2
 - name: '8|All--@IRAN_V2RAY1🇺🇸 #1'
@@ -930,7 +924,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '8|@Selinc #7'
+- name: '8|@Hddify #2'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -948,22 +942,6 @@ proxies:
   server: 81.168.83.89
   skip-cert-verify: true
   sni: kotlet.arshiacomplus.dpdns.org
-  tls: false
-  type: hysteria2
-- name: '8|@Selinc #10'
-  password: ab858115-e0ab-4cb7-8e65-0804c35e52d5
-  port: 30000
-  server: nl2.oomz.ru
-  skip-cert-verify: true
-  sni: bing.com
-  tls: false
-  type: hysteria2
-- name: '8|@Selinc #11'
-  password: ab858115-e0ab-4cb7-8e65-0804c35e52d5
-  port: 30000
-  server: us4.oomz.ru
-  skip-cert-verify: true
-  sni: bing.com
   tls: false
   type: hysteria2
 - name: '8|All-@V2ray_Alpha--6 #1'
