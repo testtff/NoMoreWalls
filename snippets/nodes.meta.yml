@@ -39,7 +39,7 @@ proxies:
   sni: gy6.nezhasu.com
   tls: false
   type: hysteria2
-- name: '7,8|@meli_proxyy #2'
+- name: 7,8|1
   password: 52d0cb21-56da-4f00-862f-be01b66446a8
   port: 443
   server: lundun2.nezhasu.com
@@ -47,7 +47,7 @@ proxies:
   sni: lundun2.nezhasu.com
   tls: false
   type: hysteria2
-- name: '7,8|@meli_proxyy #3'
+- name: 7|🎵16@oneclickvpnkeys
   password: 52d0cb21-56da-4f00-862f-be01b66446a8
   port: 443
   server: lundun4.nezhasu.com
@@ -95,7 +95,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: '7,8|@meli_proxyy #7'
+- name: 7|🔥20@oneclickvpnkeys
   obfs: salamander
   obfs-password: 2wsx
   password: 83ee741e-4357-4e7c-bfdd-b259c8d1b981
@@ -274,7 +274,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '7,8|@meli_proxyy #18'
+- name: 7|🎵3@oneclickvpnkeys
   password: f62dcdd4-a8f8-440e-8cc7-f5bb2f762375
   port: 443
   server: amsterdam.nezhasu.com
@@ -290,7 +290,7 @@ proxies:
   sni: ashburn.nezhasu.com
   tls: false
   type: hysteria2
-- name: '7,8|@meli_proxyy #19'
+- name: 7|🎵79@oneclickvpnkeys
   password: f62dcdd4-a8f8-440e-8cc7-f5bb2f762375
   port: 443
   server: gy5.nezhasu.com
