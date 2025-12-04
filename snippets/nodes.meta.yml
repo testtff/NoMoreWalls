@@ -94,6 +94,14 @@ proxies:
   sni: 9a5d3b4a-t57ls0-t7hmka-1plv4.us.hyhuawei.com
   tls: false
   type: hysteria2
+- name: 7|9@oneclickvpnkeys
+  password: 2c833c5d-cbcc-4afb-89ba-d17dc39db6f0
+  port: 47974
+  server: 75.127.13.83
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: false
+  type: hysteria2
 - name: 7|🪝82@oneclickvpnkeys
   password: 336501b6-51d2-11ee-a993-f23c9164ca5d
   port: 443
@@ -272,6 +280,14 @@ proxies:
   sni: dd.ircybersec.org
   tls: false
   type: hysteria2
+- name: 7|🟢14@oneclickvpnkeys
+  password: 79d73809-f5ed-4099-8588-ba77578def1d
+  port: 35789
+  server: iij.mggl.wang
+  skip-cert-verify: true
+  sni: iij.mggl.wang
+  tls: false
+  type: hysteria2
 - name: 7,8|All-#V2rayAlpha--11
   password: 7b5cbc6a-90a1-4b6e-994e-4c198b85f80b
   port: 30000
@@ -396,7 +412,7 @@ proxies:
   sni: gavazn.55994421.xyz
   tls: false
   type: hysteria2
-- name: '7,8|@V2ray1_Ng #3'
+- name: '7,8|@V2ray1_Ng #2'
   obfs: salamander
   obfs-password: Telegram-->@Ln2Ray
   password: Telegram-->@Ln2Ray
@@ -497,6 +513,14 @@ proxies:
   server: ef72d68d-t6ngg0-tc9wl2-py5w.us.hyhuawei.com
   skip-cert-verify: true
   sni: ef72d68d-t6ngg0-tc9wl2-py5w.us.hyhuawei.com
+  tls: false
+  type: hysteria2
+- name: 7|🟢23@oneclickvpnkeys
+  password: ae845cbd-08fb-4346-929a-e28a6f3960a8
+  port: 24591
+  server: hk1.shiyuandian.shop
+  skip-cert-verify: true
+  sni: hk1.shiyuandian.shop
   tls: false
   type: hysteria2
 - name: '7,8|@IRAN_V2RAY1💘 #1'
@@ -771,6 +795,14 @@ proxies:
   server: 208.87.243.187
   skip-cert-verify: true
   sni: ''
+  tls: false
+  type: hysteria2
+- name: '7,8|@V2rayNG3 #16'
+  password: dongtaiwang.com
+  port: 5355
+  server: 51.159.111.32
+  skip-cert-verify: true
+  sni: www.bing.com
   tls: false
   type: hysteria2
 - name: 7|🪝50@oneclickvpnkeys
@@ -1242,14 +1274,6 @@ proxies:
   sni: xjp2.mangshe.xyz
   tls: false
   type: hysteria2
-- name: '8|@V2ray1_Ng #1'
-  password: 7daa4a7f-f76e-4941-84bd-c6004cdbb859
-  port: 30000
-  server: 94.249.197.95
-  skip-cert-verify: true
-  sni: bing.com
-  tls: false
-  type: hysteria2
 - name: '8|All--@IRAN_V2RAY1 #1'
   obfs: salamander
   obfs-password: U1wBrYQyFm
@@ -1546,14 +1570,6 @@ proxies:
   password: dongtaiwang.com
   port: 50717
   server: 46.17.41.189
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
-- name: '8|@V2rayNG3 #16'
-  password: dongtaiwang.com
-  port: 5355
-  server: 51.159.111.32
   skip-cert-verify: true
   sni: www.bing.com
   tls: false
