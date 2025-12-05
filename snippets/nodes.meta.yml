@@ -416,6 +416,22 @@ proxies:
   sni: megafon.ru
   tls: false
   type: hysteria2
+- name: 7|62@oneclickvpnkeys
+  password: SNItest
+  port: 443
+  server: 46.243.232.105
+  skip-cert-verify: true
+  sni: raiffeisen.ru
+  tls: false
+  type: hysteria2
+- name: 7|🔵79@oneclickvpnkeys
+  password: SNItest
+  port: 443
+  server: 46.243.235.119
+  skip-cert-verify: true
+  sni: gazprombank.ru
+  tls: false
+  type: hysteria2
 - name: 7,8|🇳🇱@FreakConfig
   obfs: salamander
   obfs-password: Telegram-->@Ln2Ray
