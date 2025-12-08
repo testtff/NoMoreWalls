@@ -7,6 +7,14 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
+- name: 7|🟢61@oneclickvpnkeys
+  password: 15d8d4f4-a050-4034-bb08-3a262dba2c2d
+  port: 11000
+  server: 194.87.196.112
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: false
+  type: hysteria2
 - name: 7|未命名
   password: 16461a78-363c-457a-92f9-83b0a68edc37
   port: 2056
@@ -47,6 +55,21 @@ proxies:
   sni: zp1.eyujichang.xyz
   tls: false
   type: hysteria2
+- name: 7|5@oneclickvpnkeys
+  password: 19dd9c70-e4a5-11ed-8347-f23c9164ca5d
+  port: 443
+  server: 795ef51b-t6pb40-tbicd9-1go3q.hk1.hyhuawei.com
+  skip-cert-verify: true
+  sni: 795ef51b-t6pb40-tbicd9-1go3q.hk1.hyhuawei.com
+  tls: false
+  type: hysteria2
+- name: 7|♾️3@oneclickvpnkeys
+  password: 1b9c460e-f026-11ef-b737-f23c91cfbbc9
+  port: 443
+  server: 9b13ea8f-t70f40-t7t5pe-1s0a7.hk1.hyhuawei.com
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
 - name: 7,8|All-@V2rayAlpha--2
   password: 2408982813-20241210
   port: 443
@@ -54,7 +77,7 @@ proxies:
   skip-cert-verify: false
   tls: false
   type: hysteria2
-- name: 7|🟢9@oneclickvpnkeys
+- name: 7|🟢69@oneclickvpnkeys
   password: 2c833c5d-cbcc-4afb-89ba-d17dc39db6f0
   port: 47974
   server: 75.127.13.83
@@ -110,6 +133,21 @@ proxies:
   sni: de.eyucdn.xyz
   tls: false
   type: hysteria2
+- name: 7|♾️1@oneclickvpnkeys
+  password: 4b9ca118-7fab-11eb-bd3a-f23c9164ca5d
+  port: 443
+  server: 76f6e3ac-t6pb40-tcq5zn-19qpt.hk1.hyhuawei.com
+  skip-cert-verify: true
+  sni: 76f6e3ac-t6pb40-tcq5zn-19qpt.hk1.hyhuawei.com
+  tls: false
+  type: hysteria2
+- name: 7|♾️7@oneclickvpnkeys
+  password: 4fb15f9c-f078-11ed-814b-f23c91369f2d
+  port: 443
+  server: 22480a39-t70f40-tnjsrz-h8vf.hk1.hyhuawei.com
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
 - name: 7|🟣87@oneclickvpnkeys
   password: 520b9126-9870-11ef-81b0-f23c9164ca5d
   port: 443
@@ -141,21 +179,18 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
+- name: 7|♾️11@oneclickvpnkeys
+  password: 64617ed2-4823-11ef-9f2d-f23c9164ca5d
+  port: 443
+  server: 8bea65f2-t70f40-tk30wc-eyem.hk1.hyhuawei.com
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
 - name: 7|🟣90@oneclickvpnkeys
   password: 6e3ee1de-381f-11ee-87f9-f23c91cfbbc9
   port: 443
   server: 06bcb005-t70f40-tnqudu-1mim2.hk1.hyhuawei.com
   skip-cert-verify: true
-  tls: false
-  type: hysteria2
-- name: 7,8|All-@V2rayAlpha-26
-  obfs: salamander
-  obfs-password: '@JavidnamanIran-Javid-SHAH-King-Reza-Pahlavi'
-  password: 77238c49bd20e407f05e0c073ad08fdb
-  port: 989
-  server: dd.openaccessnode.com
-  skip-cert-verify: true
-  sni: dd.ircybersec.org
   tls: false
   type: hysteria2
 - name: 7|KR
@@ -212,14 +247,6 @@ proxies:
   server: xjp2.mangshe.xyz
   skip-cert-verify: true
   sni: xjp2.mangshe.xyz
-  tls: false
-  type: hysteria2
-- name: 7|🟢14@oneclickvpnkeys
-  password: 79d73809-f5ed-4099-8588-ba77578def1d
-  port: 35789
-  server: iij.mggl.wang
-  skip-cert-verify: true
-  sni: iij.mggl.wang
   tls: false
   type: hysteria2
 - name: '7|UK #1'
@@ -316,16 +343,6 @@ proxies:
   sni: gazprombank.ru
   tls: false
   type: hysteria2
-- name: 7,8|🇳🇱@FreakConfig
-  obfs: salamander
-  obfs-password: Telegram-->@Ln2Ray
-  password: Telegram-->@Ln2Ray
-  port: 45000
-  server: 206.71.158.23
-  skip-cert-verify: true
-  sni: gavazn.55994421.xyz
-  tls: false
-  type: hysteria2
 - name: '7|SG #6'
   password: XON4wZ0sXe1YaqFY2FeM7uZY4
   port: 15221
@@ -394,6 +411,27 @@ proxies:
   server: 77.90.41.197
   skip-cert-verify: true
   sni: jnir.pichondan.com
+  tls: false
+  type: hysteria2
+- name: 7|♾️6@oneclickvpnkeys
+  password: bd515574-3b10-11ee-ac14-f23c9164ca5d
+  port: 443
+  server: ad72fc1d-t70f40-tb016b-1m7l4.hk1.hyhuawei.com
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: 7|♾️4@oneclickvpnkeys
+  password: d18bcaf4-1323-11ec-a0fc-f23c913c8d2b
+  port: 443
+  server: 74d13b27-t70f40-t7fz1r-8rja.hk1.hyhuawei.com
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: 7|♾️2@oneclickvpnkeys
+  password: de629d50-1711-11ed-bd7c-f23c913c8d2b
+  port: 443
+  server: 4a8146b5-t70f40-tlpfci-1jdha.hk1.hyhuawei.com
+  skip-cert-verify: true
   tls: false
   type: hysteria2
 - name: 7|🇭🇰香港
@@ -806,6 +844,16 @@ proxies:
   sni: cc65f71a-t4v9c0-t5waci-4550.la.shifen.uk
   tls: false
   type: hysteria2
+- name: 8|All-@V2rayAlpha-26
+  obfs: salamander
+  obfs-password: '@JavidnamanIran-Javid-SHAH-King-Reza-Pahlavi'
+  password: 77238c49bd20e407f05e0c073ad08fdb
+  port: 989
+  server: dd.openaccessnode.com
+  skip-cert-verify: true
+  sni: dd.ircybersec.org
+  tls: false
+  type: hysteria2
 - name: 8|All-#V2rayAlpha--11
   password: 7b5cbc6a-90a1-4b6e-994e-4c198b85f80b
   port: 30000
@@ -897,7 +945,17 @@ proxies:
   sni: gosuslugi.ru
   tls: false
   type: hysteria2
-- name: '8|@Daily_Configs #2'
+- name: 8|🇳🇱@FreakConfig
+  obfs: salamander
+  obfs-password: Telegram-->@Ln2Ray
+  password: Telegram-->@Ln2Ray
+  port: 45000
+  server: 206.71.158.23
+  skip-cert-verify: true
+  sni: gavazn.55994421.xyz
+  tls: false
+  type: hysteria2
+- name: 8|@Daily_Configs
   obfs: salamander
   obfs-password: Telegram-->@Ln2Ray
   password: Telegram-->@Ln2Ray
@@ -1139,22 +1197,6 @@ proxies:
   server: e10829f0-t4un40-t9lb2a-1glq.la.shifen.uk
   skip-cert-verify: false
   sni: e10829f0-t4un40-t9lb2a-1glq.la.shifen.uk
-  tls: false
-  type: hysteria2
-- name: '8|@Daily_Configs #3'
-  password: f62dcdd4-a8f8-440e-8cc7-f5bb2f762375
-  port: 443
-  server: gy9.nezhasu.com
-  skip-cert-verify: true
-  sni: gy9.nezhasu.com
-  tls: false
-  type: hysteria2
-- name: '8|@Daily_Configs #4'
-  password: f62dcdd4-a8f8-440e-8cc7-f5bb2f762375
-  port: 443
-  server: phoenix-4.nezhasu.com
-  skip-cert-verify: true
-  sni: phoenix-4.nezhasu.com
   tls: false
   type: hysteria2
 - name: '8|@sunflowerplato🌻 #2'
