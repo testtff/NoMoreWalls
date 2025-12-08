@@ -1,21 +1,5 @@
 proxies:
-- name: 7|🟢64@oneclickvpnkeys
-  password: 15d8d4f4-a050-4034-bb08-3a262dba2c2d
-  port: 59000
-  server: 129.146.169.138
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
-- name: 7|🟢61@oneclickvpnkeys
-  password: 15d8d4f4-a050-4034-bb08-3a262dba2c2d
-  port: 11000
-  server: 194.87.196.112
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
-- name: 7|未命名
+- name: 7|法兰克福
   password: 16461a78-363c-457a-92f9-83b0a68edc37
   port: 2056
   server: de.eyucdn.xyz
@@ -23,7 +7,7 @@ proxies:
   sni: de.eyucdn.xyz
   tls: false
   type: hysteria2
-- name: '7|未命名 #1'
+- name: 7|未命名
   password: 16461a78-363c-457a-92f9-83b0a68edc37
   port: 2056
   server: hk.eyucdn.xyz
@@ -31,7 +15,7 @@ proxies:
   sni: hk.eyucdn.xyz
   tls: false
   type: hysteria2
-- name: '7|未命名 #2'
+- name: '7|未命名 #1'
   password: 16461a78-363c-457a-92f9-83b0a68edc37
   port: 2056
   server: sg2.eyucdn.xyz
@@ -47,7 +31,7 @@ proxies:
   sni: sg3.eyucdn.xyz
   tls: false
   type: hysteria2
-- name: '7|未命名 #3'
+- name: '7|未命名 #2'
   password: 16461a78-363c-457a-92f9-83b0a68edc37
   port: 2056
   server: zp1.eyucdn.xyz
@@ -75,14 +59,6 @@ proxies:
   port: 443
   server: genshin-v4-oracle-amd.damaoooo.com
   skip-cert-verify: false
-  tls: false
-  type: hysteria2
-- name: 7|🟢69@oneclickvpnkeys
-  password: 2c833c5d-cbcc-4afb-89ba-d17dc39db6f0
-  port: 47974
-  server: 75.127.13.83
-  skip-cert-verify: true
-  sni: www.bing.com
   tls: false
   type: hysteria2
 - name: 7|UK
@@ -117,7 +93,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 7|87@oneclickvpnkeys
+- name: 7|🟣84@oneclickvpnkeys
   password: 40e084d6-0316-11f0-90e2-f23c913c8d2b
   port: 443
   server: ea74117f-t6ngg0-thd0h1-1rz5s.hk1.hyhuawei.com
@@ -343,6 +319,16 @@ proxies:
   sni: gazprombank.ru
   tls: false
   type: hysteria2
+- name: 7,8|@Daily_Configs
+  obfs: salamander
+  obfs-password: Telegram-->@Ln2Ray
+  password: Telegram-->@Ln2Ray
+  port: 45000
+  server: gavazn.lnmarketplace.net
+  skip-cert-verify: true
+  sni: gavazn.55994421.xyz
+  tls: false
+  type: hysteria2
 - name: '7|SG #6'
   password: XON4wZ0sXe1YaqFY2FeM7uZY4
   port: 15221
@@ -379,7 +365,7 @@ proxies:
   sni: de.eyucdn.xyz
   tls: false
   type: hysteria2
-- name: 7|🇺
+- name: '7|未命名 #4'
   password: a52663f7-bd8e-4553-a5de-ff6403a0ccfc
   port: 443
   server: 192.9.165.40
@@ -393,14 +379,6 @@ proxies:
   server: f643a7e8-t6ngg0-t74ix0-1m0fq.hk1.hyhuawei.com
   skip-cert-verify: true
   sni: f643a7e8-t6ngg0-t74ix0-1m0fq.hk1.hyhuawei.com
-  tls: false
-  type: hysteria2
-- name: 7|🟢73@oneclickvpnkeys
-  password: ae845cbd-08fb-4346-929a-e28a6f3960a8
-  port: 24591
-  server: hk1.shiyuandian.shop
-  skip-cert-verify: true
-  sni: hk1.shiyuandian.shop
   tls: false
   type: hysteria2
 - name: 7,8|🇩🇪@FreakConfig
@@ -951,16 +929,6 @@ proxies:
   password: Telegram-->@Ln2Ray
   port: 45000
   server: 206.71.158.23
-  skip-cert-verify: true
-  sni: gavazn.55994421.xyz
-  tls: false
-  type: hysteria2
-- name: 8|@Daily_Configs
-  obfs: salamander
-  obfs-password: Telegram-->@Ln2Ray
-  password: Telegram-->@Ln2Ray
-  port: 45000
-  server: gavazn.lnmarketplace.net
   skip-cert-verify: true
   sni: gavazn.55994421.xyz
   tls: false
