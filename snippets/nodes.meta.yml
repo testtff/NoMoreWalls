@@ -393,7 +393,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: '7,8|🔸@V2ray1_Ng💘 #3'
+- name: 7,8|@IRAN_V2RAY1💘
   password: SNItest
   port: 443
   server: 37.18.14.169
@@ -457,7 +457,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '7,8|🔸@V2ray1_Ng💘 #4'
+- name: '7,8|🔸@IRAN_V2RAY1💘 #4'
   password: a084933d-0b41-4571-ae0c-7163b8c71ed1
   port: 2056
   server: de.eyucdn.xyz
@@ -732,7 +732,7 @@ proxies:
   sni: 6adab57e-t53wg0-tdvgqe-2gok.la.shifen.uk
   tls: false
   type: hysteria2
-- name: '8|🔸@V2ray1_Ng💘 #1'
+- name: 8|🔸@IRAN_V2RAY1💘
   password: 17cdeb6c-f046-11ee-bdac-f23c93141fad
   port: 1743
   server: c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk
@@ -950,7 +950,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '8|🔸@V2ray1_Ng💘 #2'
+- name: '8|🔸@IRAN_V2RAY1💘 #1'
   password: 537d7098-fdbe-11ef-8ebc-f23c93141fad
   port: 1743
   server: 14ff4864-t4x400-tcjtj6-d70y.la.shifen.uk
