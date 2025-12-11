@@ -1,12 +1,4 @@
 proxies:
-- name: 7,8|All--@V2rayAlpha--17
-  password: 03573f46-e944-11eb-a8bf-f23c91cfbbc9
-  port: 443
-  server: 9bc9db69-t6t0g0-tee612-2r82.hk1.hyhuawei.com
-  skip-cert-verify: true
-  sni: 9bc9db69-t6t0g0-tee612-2r82.hk1.hyhuawei.com
-  tls: false
-  type: hysteria2
 - name: 7|73@oneclickvpnkeys
   password: 06b2ac52-fcc6-11ec-bb74-f23c9164ca5d
   port: 443
@@ -53,21 +45,6 @@ proxies:
   server: zp1.eyucdn.xyz
   skip-cert-verify: true
   sni: zp1.eyujichang.xyz
-  tls: false
-  type: hysteria2
-- name: 7|️5@oneclickvpnkeys
-  password: 19dd9c70-e4a5-11ed-8347-f23c9164ca5d
-  port: 443
-  server: 795ef51b-t6pb40-tbicd9-1go3q.hk1.hyhuawei.com
-  skip-cert-verify: true
-  sni: 795ef51b-t6pb40-tbicd9-1go3q.hk1.hyhuawei.com
-  tls: false
-  type: hysteria2
-- name: 7,8|All--@V2rayAlpha--26
-  password: 1b9c460e-f026-11ef-b737-f23c91cfbbc9
-  port: 443
-  server: 9b13ea8f-t70f40-t7t5pe-1s0a7.hk1.hyhuawei.com
-  skip-cert-verify: true
   tls: false
   type: hysteria2
 - name: 7|⚛️76@oneclickvpnkeys
@@ -142,21 +119,6 @@ proxies:
   sni: 2185b8c5-t48f40-t6v6ki-1phla.hk1.hyhuawei.com
   tls: false
   type: hysteria2
-- name: 7|♾️1@oneclickvpnkeys
-  password: 4b9ca118-7fab-11eb-bd3a-f23c9164ca5d
-  port: 443
-  server: 76f6e3ac-t6pb40-tcq5zn-19qpt.hk1.hyhuawei.com
-  skip-cert-verify: true
-  sni: 76f6e3ac-t6pb40-tcq5zn-19qpt.hk1.hyhuawei.com
-  tls: false
-  type: hysteria2
-- name: 7,8|All--@V2rayAlpha--20
-  password: 4fb15f9c-f078-11ed-814b-f23c91369f2d
-  port: 443
-  server: 22480a39-t70f40-tnjsrz-h8vf.hk1.hyhuawei.com
-  skip-cert-verify: true
-  tls: false
-  type: hysteria2
 - name: 7|💠84@oneclickvpnkeys
   password: 51362ab6-b5e6-11ea-ad28-f23c913c8d2b
   port: 443
@@ -178,13 +140,6 @@ proxies:
   server: 52.221.210.182
   skip-cert-verify: true
   sni: bing.com
-  tls: false
-  type: hysteria2
-- name: 7|♾️11@oneclickvpnkeys
-  password: 64617ed2-4823-11ef-9f2d-f23c9164ca5d
-  port: 443
-  server: 8bea65f2-t70f40-tk30wc-eyem.hk1.hyhuawei.com
-  skip-cert-verify: true
   tls: false
   type: hysteria2
 - name: 7|⚛️74@oneclickvpnkeys
@@ -346,6 +301,16 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
+- name: 7|️77@oneclickvpnkeys
+  obfs: salamander
+  obfs-password: KevinZakarian
+  password: '@KevinZakarian'
+  port: 22002
+  server: kevin.vpny.online
+  skip-cert-verify: true
+  sni: kevin.vpny.online
+  tls: false
+  type: hysteria2
 - name: '7|SG #5'
   password: KYIFgW1don6L8TaDBJHynafxZ0
   port: 4763
@@ -496,13 +461,6 @@ proxies:
   sni: 75b4f9c3-t48f40-t7eqjm-m0b9.hk1.hyhuawei.com
   tls: false
   type: hysteria2
-- name: 7,8|All--@V2rayAlpha--21
-  password: bd515574-3b10-11ee-ac14-f23c9164ca5d
-  port: 443
-  server: ad72fc1d-t70f40-tb016b-1m7l4.hk1.hyhuawei.com
-  skip-cert-verify: true
-  tls: false
-  type: hysteria2
 - name: 7,8|All--@V2rayAlpha--19
   password: bf36227c-0191-11f0-aee1-f23c91cfbbc9
   port: 443
@@ -525,20 +483,6 @@ proxies:
   server: 72b99e3a-t6pb40-t8wh4m-1hpo0.hk1.hyhuawei.com
   skip-cert-verify: false
   sni: 72b99e3a-t6pb40-t8wh4m-1hpo0.hk1.hyhuawei.com
-  tls: false
-  type: hysteria2
-- name: 7|♾️4@oneclickvpnkeys
-  password: d18bcaf4-1323-11ec-a0fc-f23c913c8d2b
-  port: 443
-  server: 74d13b27-t70f40-t7fz1r-8rja.hk1.hyhuawei.com
-  skip-cert-verify: true
-  tls: false
-  type: hysteria2
-- name: 7,8|All--@V2rayAlpha--18
-  password: de629d50-1711-11ed-bd7c-f23c913c8d2b
-  port: 443
-  server: 4a8146b5-t70f40-tlpfci-1jdha.hk1.hyhuawei.com
-  skip-cert-verify: true
   tls: false
   type: hysteria2
 - name: 7|🇭🇰香港
@@ -669,6 +613,22 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
+- name: 8|All--@V2rayAlpha--17
+  password: 03573f46-e944-11eb-a8bf-f23c91cfbbc9
+  port: 443
+  server: 9bc9db69-t6t0g0-tee612-2r82.hk1.hyhuawei.com
+  skip-cert-verify: true
+  sni: 9bc9db69-t6t0g0-tee612-2r82.hk1.hyhuawei.com
+  tls: false
+  type: hysteria2
+- name: 8|MCI-IR--@V2rayAlpha-16
+  password: 05fd3f79-dca0-4358-a803-c8d4711c17a3
+  port: 58338
+  server: lsyd1.lansecs.top
+  skip-cert-verify: true
+  sni: lsyd1.lansecs.top
+  tls: false
+  type: hysteria2
 - name: 8|All-#V2rayAlpha--19
   password: 0abd5d38-fdf1-11ed-bade-f23c91369f2d
   port: 443
@@ -699,6 +659,13 @@ proxies:
   server: c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk
   skip-cert-verify: false
   sni: c37b0be5-t3kyo0-t3lvgh-2gok.la.shifen.uk
+  tls: false
+  type: hysteria2
+- name: 8|All--@V2rayAlpha--26
+  password: 1b9c460e-f026-11ef-b737-f23c91cfbbc9
+  port: 443
+  server: 9b13ea8f-t70f40-t7t5pe-1s0a7.hk1.hyhuawei.com
+  skip-cert-verify: true
   tls: false
   type: hysteria2
 - name: 8|All-@V2rayAlpha--2
@@ -908,6 +875,13 @@ proxies:
   password: 338ce171-d764-4610-8fd5-6688b0d321f0
   port: 30102
   server: 91.149.238.71
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: 8|All--@V2rayAlpha--20
+  password: 4fb15f9c-f078-11ed-814b-f23c91369f2d
+  port: 443
+  server: 22480a39-t70f40-tnjsrz-h8vf.hk1.hyhuawei.com
   skip-cert-verify: true
   tls: false
   type: hysteria2
@@ -1166,6 +1140,13 @@ proxies:
   sni: da6103f9-t6ngg0-tao3bn-ggww.us.hyhuawei.com
   tls: false
   type: hysteria2
+- name: 8|All--@V2rayAlpha--21
+  password: bd515574-3b10-11ee-ac14-f23c9164ca5d
+  port: 443
+  server: ad72fc1d-t70f40-tb016b-1m7l4.hk1.hyhuawei.com
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
 - name: '8|🔸@IRAN_V2RAY1💘 #8'
   password: be8cc8f6-0c6a-11f0-a5a3-f23c93141fad
   port: 1743
@@ -1257,6 +1238,13 @@ proxies:
   server: us.xn--gmq00sc0nuve.shop
   skip-cert-verify: true
   sni: us.xn--gmq00sc0nuve.shop
+  tls: false
+  type: hysteria2
+- name: 8|All--@V2rayAlpha--18
+  password: de629d50-1711-11ed-bd7c-f23c913c8d2b
+  port: 443
+  server: 4a8146b5-t70f40-tlpfci-1jdha.hk1.hyhuawei.com
+  skip-cert-verify: true
   tls: false
   type: hysteria2
 - name: '8|All-@V2ray_Alpha--7 #1'
