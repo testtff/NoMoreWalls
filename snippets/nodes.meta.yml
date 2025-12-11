@@ -102,14 +102,6 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 7|86@oneclickvpnkeys
-  password: 3be8cba8-b721-11ec-8b04-f23c91cfbbc9
-  port: 443
-  server: f7d30945-t6r5s0-tds6bp-1hzyr.hk1.hyhuawei.com
-  skip-cert-verify: true
-  sni: f7d30945-t6r5s0-tds6bp-1hzyr.hk1.hyhuawei.com
-  tls: false
-  type: hysteria2
 - name: 7|SG
   password: 3hszBhqVsUhqOOFWJlev6k6Tkc
   port: 22509
@@ -132,14 +124,6 @@ proxies:
   server: 96d1fb9f-t6ngg0-t9lc3n-z93q.hk1.hyhuawei.com
   skip-cert-verify: true
   sni: 96d1fb9f-t6ngg0-t9lc3n-z93q.hk1.hyhuawei.com
-  tls: false
-  type: hysteria2
-- name: 7|🟣84@oneclickvpnkeys
-  password: 40e084d6-0316-11f0-90e2-f23c913c8d2b
-  port: 443
-  server: ea74117f-t6ngg0-thd0h1-1rz5s.hk1.hyhuawei.com
-  skip-cert-verify: true
-  sni: ea74117f-t6ngg0-thd0h1-1rz5s.hk1.hyhuawei.com
   tls: false
   type: hysteria2
 - name: 7|FR
@@ -180,14 +164,6 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: 7|🟣87@oneclickvpnkeys
-  password: 520b9126-9870-11ef-81b0-f23c9164ca5d
-  port: 443
-  server: 71477f9c-t53wg0-t95ncr-1slop.hk1.hyhuawei.com
-  skip-cert-verify: true
-  sni: 71477f9c-t53wg0-t95ncr-1slop.hk1.hyhuawei.com
-  tls: false
-  type: hysteria2
 - name: '7|SG #2'
   password: 5OiuCsPmULZ0lJwts89fegLJE
   port: 17193
@@ -202,13 +178,6 @@ proxies:
   server: 52.221.210.182
   skip-cert-verify: true
   sni: bing.com
-  tls: false
-  type: hysteria2
-- name: 7|🟣85@oneclickvpnkeys
-  password: 5acc7a7c-d7ea-11eb-8673-f23c9164ca5d
-  port: 443
-  server: 14e142c1-t70f40-tighxj-12hj8.hk1.hyhuawei.com
-  skip-cert-verify: true
   tls: false
   type: hysteria2
 - name: 7|♾️11@oneclickvpnkeys
@@ -232,13 +201,6 @@ proxies:
   server: 12f7c432-t6t0g0-t87m8y-1pr35.hk1.hyhuawei.com
   skip-cert-verify: true
   sni: 12f7c432-t6t0g0-t87m8y-1pr35.hk1.hyhuawei.com
-  tls: false
-  type: hysteria2
-- name: 7|🟣90@oneclickvpnkeys
-  password: 6e3ee1de-381f-11ee-87f9-f23c91cfbbc9
-  port: 443
-  server: 06bcb005-t70f40-tnqudu-1mim2.hk1.hyhuawei.com
-  skip-cert-verify: true
   tls: false
   type: hysteria2
 - name: 7|KR
@@ -311,14 +273,6 @@ proxies:
   server: 3.75.180.49
   skip-cert-verify: true
   sni: bing.com
-  tls: false
-  type: hysteria2
-- name: 7|🟣82@oneclickvpnkeys
-  password: 7c077572-6da9-11ef-b786-f23c91cfbbc9
-  port: 443
-  server: b5670795-t6pb40-t9hghw-1sdoq.hk1.hyhuawei.com
-  skip-cert-verify: true
-  sni: b5670795-t6pb40-t9hghw-1sdoq.hk1.hyhuawei.com
   tls: false
   type: hysteria2
 - name: 7|⚛️29@oneclickvpnkeys
@@ -494,14 +448,6 @@ proxies:
   server: 192.9.165.40
   skip-cert-verify: true
   sni: cn.cremedelamer.com
-  tls: false
-  type: hysteria2
-- name: 7,8|All--@V2rayAlpha--14
-  password: a698c4a6-c3c9-11ee-9693-f23c91cfbbc9
-  port: 443
-  server: f643a7e8-t6ngg0-t74ix0-1m0fq.hk1.hyhuawei.com
-  skip-cert-verify: true
-  sni: f643a7e8-t6ngg0-t74ix0-1m0fq.hk1.hyhuawei.com
   tls: false
   type: hysteria2
 - name: 7|⚛️67@oneclickvpnkeys
@@ -721,14 +667,6 @@ proxies:
   server: 47.245.0.72
   skip-cert-verify: true
   sni: bing.com
-  tls: false
-  type: hysteria2
-- name: 8|MCI-IR--@V2rayAlpha-16
-  password: 05fd3f79-dca0-4358-a803-c8d4711c17a3
-  port: 58338
-  server: lsyd1.lansecs.top
-  skip-cert-verify: true
-  sni: lsyd1.lansecs.top
   tls: false
   type: hysteria2
 - name: 8|All-#V2rayAlpha--19
@@ -1173,6 +1111,14 @@ proxies:
   server: 81.168.83.89
   skip-cert-verify: true
   sni: kotlet.arshiacomplus.dpdns.org
+  tls: false
+  type: hysteria2
+- name: 8|All--@V2rayAlpha--14
+  password: a698c4a6-c3c9-11ee-9693-f23c91cfbbc9
+  port: 443
+  server: f643a7e8-t6ngg0-t74ix0-1m0fq.hk1.hyhuawei.com
+  skip-cert-verify: true
+  sni: f643a7e8-t6ngg0-t74ix0-1m0fq.hk1.hyhuawei.com
   tls: false
   type: hysteria2
 - name: '8|All-@V2ray_Alpha--6 #1'
