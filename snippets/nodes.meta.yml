@@ -256,16 +256,6 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: 7|️11@oneclickvpnkeys
-  obfs: salamander
-  obfs-password: Yet-Another-Public-Config-1
-  password: Yet-Another-Public-Config-1
-  port: 36300
-  server: yapc-1.adamhayward.co.uk
-  skip-cert-verify: true
-  sni: YAPC-1.afshin.ir
-  tls: false
-  type: hysteria2
 - name: '7,8|@Hddify #2'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
@@ -302,16 +292,6 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: '7,8|r♡ya #1'
-  obfs: salamander
-  obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
-  password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
-  port: 35000
-  server: 77.90.41.197
-  skip-cert-verify: true
-  sni: api.kermanshahi.org
-  tls: false
-  type: hysteria2
 - name: 7,8|All--@V2rayAlpha--15
   password: c3dc8d26-ab2b-11ec-a8bf-f23c91cfbbc9
   port: 443
@@ -342,14 +322,6 @@ proxies:
   server: 195.154.206.231
   skip-cert-verify: true
   sni: apple.com
-  tls: false
-  type: hysteria2
-- name: '7,8|@Hddify #3'
-  password: dongtaiwang.com
-  port: 5355
-  server: 51.159.111.32
-  skip-cert-verify: true
-  sni: www.bing.com
   tls: false
   type: hysteria2
 - name: '7|SG #7'
@@ -406,14 +378,6 @@ proxies:
   server: 9bc9db69-t6t0g0-tee612-2r82.hk1.hyhuawei.com
   skip-cert-verify: true
   sni: 9bc9db69-t6t0g0-tee612-2r82.hk1.hyhuawei.com
-  tls: false
-  type: hysteria2
-- name: 8|MCI-IR--@V2rayAlpha-16
-  password: 05fd3f79-dca0-4358-a803-c8d4711c17a3
-  port: 58338
-  server: lsyd1.lansecs.top
-  skip-cert-verify: true
-  sni: lsyd1.lansecs.top
   tls: false
   type: hysteria2
 - name: 8|All-#V2rayAlpha--19
@@ -919,6 +883,16 @@ proxies:
   sni: jnir.pichondan.com
   tls: false
   type: hysteria2
+- name: '8|r♡ya #1'
+  obfs: salamander
+  obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
+  password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
+  port: 35000
+  server: 77.90.41.197
+  skip-cert-verify: true
+  sni: api.kermanshahi.org
+  tls: false
+  type: hysteria2
 - name: 8|🇪@FreakConfig
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
@@ -1068,6 +1042,14 @@ proxies:
   server: e10829f0-t4un40-t9lb2a-1glq.la.shifen.uk
   skip-cert-verify: false
   sni: e10829f0-t4un40-t9lb2a-1glq.la.shifen.uk
+  tls: false
+  type: hysteria2
+- name: '8|@Hddify #3'
+  password: dongtaiwang.com
+  port: 5355
+  server: 51.159.111.32
+  skip-cert-verify: true
+  sni: www.bing.com
   tls: false
   type: hysteria2
 - name: 8|All--@V2rayAlpha--22
