@@ -1,5 +1,5 @@
 proxies:
-- name: 7|未命名
+- name: 7|法兰克福
   password: 16461a78-363c-457a-92f9-83b0a68edc37
   port: 2056
   server: de.eyucdn.xyz
@@ -7,15 +7,7 @@ proxies:
   sni: de.eyucdn.xyz
   tls: false
   type: hysteria2
-- name: '7|未命名 #1'
-  password: 16461a78-363c-457a-92f9-83b0a68edc37
-  port: 2056
-  server: hk.eyucdn.xyz
-  skip-cert-verify: true
-  sni: hk.eyucdn.xyz
-  tls: false
-  type: hysteria2
-- name: '7|未命名 #2'
+- name: 7|未命名
   password: 16461a78-363c-457a-92f9-83b0a68edc37
   port: 2056
   server: sg2.eyucdn.xyz
@@ -31,7 +23,7 @@ proxies:
   sni: sg3.eyucdn.xyz
   tls: false
   type: hysteria2
-- name: '7|未命名 #3'
+- name: '7|未命名 #1'
   password: 16461a78-363c-457a-92f9-83b0a68edc37
   port: 2056
   server: zp1.eyucdn.xyz
@@ -189,7 +181,7 @@ proxies:
   sni: dg1.xiaohuolongjc.top
   tls: false
   type: hysteria2
-- name: 7|⚙️77@oneclickvpnkeys
+- name: 7|77@oneclickvpnkeys
   obfs: salamander
   obfs-password: KevinZakarian
   password: '@KevinZakarian'
@@ -259,12 +251,22 @@ proxies:
   sni: de.eyucdn.xyz
   tls: false
   type: hysteria2
-- name: '7|未命名 #5'
+- name: '7|未命名 #3'
   password: a52663f7-bd8e-4553-a5de-ff6403a0ccfc
   port: 443
   server: 192.9.165.40
   skip-cert-verify: true
   sni: cn.cremedelamer.com
+  tls: false
+  type: hysteria2
+- name: '7,8|r♡ya #1'
+  obfs: salamander
+  obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
+  password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
+  port: 35000
+  server: 77.90.41.197
+  skip-cert-verify: true
+  sni: api.kermanshahi.org
   tls: false
   type: hysteria2
 - name: 7|🇭🇰香港
@@ -874,16 +876,6 @@ proxies:
   server: 206.71.158.41
   skip-cert-verify: true
   sni: jnir.pichondan.com
-  tls: false
-  type: hysteria2
-- name: '8|r♡ya #1'
-  obfs: salamander
-  obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
-  password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
-  port: 35000
-  server: 77.90.41.197
-  skip-cert-verify: true
-  sni: api.kermanshahi.org
   tls: false
   type: hysteria2
 - name: '8|@IRAN_V2RAY1 #3'
