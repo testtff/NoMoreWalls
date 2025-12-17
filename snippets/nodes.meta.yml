@@ -10,14 +10,6 @@ proxies:
 - name: 7|未命名
   password: 16461a78-363c-457a-92f9-83b0a68edc37
   port: 2056
-  server: hk.eyucdn.xyz
-  skip-cert-verify: true
-  sni: hk.eyucdn.xyz
-  tls: false
-  type: hysteria2
-- name: '7|未命名 #1'
-  password: 16461a78-363c-457a-92f9-83b0a68edc37
-  port: 2056
   server: sg2.eyucdn.xyz
   skip-cert-verify: true
   sni: sg2.eyucdn.xyz
@@ -31,7 +23,7 @@ proxies:
   sni: sg3.eyucdn.xyz
   tls: false
   type: hysteria2
-- name: '7|未命名 #2'
+- name: '7|未命名 #1'
   password: 16461a78-363c-457a-92f9-83b0a68edc37
   port: 2056
   server: zp1.eyucdn.xyz
@@ -249,7 +241,7 @@ proxies:
   sni: de.eyucdn.xyz
   tls: false
   type: hysteria2
-- name: '7|未命名 #4'
+- name: '7|未命名 #3'
   password: a52663f7-bd8e-4553-a5de-ff6403a0ccfc
   port: 443
   server: 192.9.165.40
@@ -355,14 +347,6 @@ proxies:
   sni: 9bc9db69-t6t0g0-tee612-2r82.hk1.hyhuawei.com
   tls: false
   type: hysteria2
-- name: 8|MCI-IR--@V2rayAlpha-16
-  password: 05fd3f79-dca0-4358-a803-c8d4711c17a3
-  port: 58338
-  server: lsyd1.lansecs.top
-  skip-cert-verify: true
-  sni: lsyd1.lansecs.top
-  tls: false
-  type: hysteria2
 - name: 8|All-#V2rayAlpha--19
   password: 0abd5d38-fdf1-11ed-bade-f23c91369f2d
   port: 443
@@ -377,6 +361,14 @@ proxies:
   server: fbde8bc6-t6ngg0-tbmeud-1th9y.us.hyhuawei.com
   skip-cert-verify: true
   sni: fbde8bc6-t6ngg0-tbmeud-1th9y.us.hyhuawei.com
+  tls: false
+  type: hysteria2
+- name: 8|rya
+  password: 130ec091-df05-4af9-9695-dc982e98a8ec
+  port: 28253
+  server: 168.138.194.92
+  skip-cert-verify: true
+  sni: www.bing.com
   tls: false
   type: hysteria2
 - name: 8|@IRAN_V2RAY1
