@@ -26,7 +26,7 @@ hysteria2://KYIFgW1don6L8TaDBJHynafxZ0@47.237.23.83:4763?insecure=1&sni=bing.com
 hysteria2://L60nS04NhsoMpN2DDGbnMqLP8DY@47.76.83.25:11243?insecure=1&sni=bing.com#7%7CHK%20%231
 hysteria2://NjEkAYYNqFKUbrksyW1COBtdpU@47.239.220.214:2428?insecure=1&sni=bing.com#7%7CHK%20%232
 hysteria2://XON4wZ0sXe1YaqFY2FeM7uZY4@122.248.205.111:15221?insecure=1&sni=bing.com#7%7CSG%20%236
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#7%2C8%7CMCI-IR--%40V2rayAlpha-10
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#7%2C8%7Cr%E2%99%A1ya
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36600?insecure=0&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#7%2C8%7C%40Hddify%20%232
 hysteria2://a084933d-0b41-4571-ae0c-7163b8c71ed1@de.eyucdn.xyz:2056?insecure=1&sni=de.eyucdn.xyz#7%2C8%7C%F0%9F%94%B8%40IRAN_V2RAY1%F0%9F%92%98%20%235
 hysteria2://a52663f7-bd8e-4553-a5de-ff6403a0ccfc@192.9.165.40:443?insecure=1&sni=cn.cremedelamer.com#7%7C%E6%9C%AA%E5%91%BD%E5%90%8D%20%234
@@ -164,5 +164,5 @@ vless://bc6f95a3-a6e5-4a7a-afa5-1f3533e3329e@www.speedtest.net:2087?allowInsecur
 vless://c1444d72-6b3c-4b4b-9525-2ea5ef08bc21@www.speedtest.net:2087?allowInsecure=0&sni=dl4.hajalwi.ir.&alpn=h2%2Chttp/1.1&type=ws&host=dl4.hajalwi.ir.&path=/---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN?ed=8080fp=chrome&security=tls#15%7CUS_speednode_0021
 vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?allowInsecure=0&sni=havij.mrconfigur.site&type=ws&host=havij.mrconfigur.site&path=/security=tls#15%7CUS_speednode_0022
 vless://edb3d24d-1a55-42f7-8752-6ae216f18cf4@45.15.127.139:4443?allowInsecure=0&sni=github.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#15%7CUS_speednode_0023
-https://T5Py6N.absslk.xyz/307c6aa7d8c372cc548626de71875df4
-https://TsKjUj.mcsslk.xyz/88f4f652a890162654c1ce48ce29fd33
+https://zNc9Xb.mcsslk.xyz/de5b2b65e7dc99a8ab9bc77a90491f75
+https://cnGVIj.absslk.xyz/44d13ef0688f25f5298c4d4dabc63a2d
