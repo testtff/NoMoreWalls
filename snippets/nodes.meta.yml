@@ -9,12 +9,6 @@ proxies:
   sni: it1.miyazono-kaori.com
   tls: false
   type: hysteria2
-- name: 7|🎨2@oneclickvpnkeys
-  password: 693a3ce6-2188-4fe9-82c0-c5c289532534
-  port: 20000
-  server: hl.dabache.top
-  tls: false
-  type: hysteria2
 - name: 7,8|rya
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
@@ -31,6 +25,16 @@ proxies:
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
   port: 35000
   server: 206.71.158.40
+  skip-cert-verify: true
+  sni: api.kermanshahi.org
+  tls: false
+  type: hysteria2
+- name: 7,8|All--@V2rayAlpha--27
+  obfs: salamander
+  obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
+  password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
+  port: 35000
+  server: 206.71.158.41
   skip-cert-verify: true
   sni: api.kermanshahi.org
   tls: false
@@ -594,16 +598,6 @@ proxies:
   skip-cert-verify: false
   tls: false
   type: hysteria2
-- name: 8|All--@V2rayAlpha--27
-  obfs: salamander
-  obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
-  password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
-  port: 35000
-  server: 206.71.158.41
-  skip-cert-verify: true
-  sni: api.kermanshahi.org
-  tls: false
-  type: hysteria2
 - name: 8|MTN--@IRAN_V2RAY1
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
@@ -614,7 +608,7 @@ proxies:
   sni: jnir.pichondan.com
   tls: false
   type: hysteria2
-- name: '8|@IRAN_V2RAY1 #3'
+- name: '8|@IRAN_V2RAY1 #4'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
@@ -719,7 +713,7 @@ proxies:
   skip-cert-verify: false
   tls: false
   type: hysteria2
-- name: '8|@IRAN_V2RAY1 #4'
+- name: '8|@IRAN_V2RAY1 #5'
   password: da9adc6f-03ca-4d32-9e93-7b2bdbc9b00d
   port: 21105
   server: tr.xn--gmq00sc0nuve.shop
