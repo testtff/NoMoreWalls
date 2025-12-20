@@ -9,6 +9,12 @@ proxies:
   sni: it1.miyazono-kaori.com
   tls: false
   type: hysteria2
+- name: 7|🎨2@oneclickvpnkeys
+  password: 693a3ce6-2188-4fe9-82c0-c5c289532534
+  port: 20000
+  server: hl.dabache.top
+  tls: false
+  type: hysteria2
 - name: 7,8|rya
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
@@ -29,7 +35,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 7,8|All--@V2rayAlpha--27
+- name: 7,8|All_9--@V2rayAlpha
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
@@ -175,7 +181,7 @@ proxies:
   sni: gy6.nezhasu.com
   tls: false
   type: hysteria2
-- name: 8|All-@V2ray_Alpha--1
+- name: '8|All-@IRAN_V2RAY1 #2'
   password: 2b195c17-5ff5-4b0d-a809-210b92212394
   port: 443
   server: lundun1.nezhasu.com
@@ -183,7 +189,7 @@ proxies:
   sni: lundun1.nezhasu.com
   tls: false
   type: hysteria2
-- name: 8|All-@V2ray_Alpha--2
+- name: '8|All-@IRAN_V2RAY1 #3'
   password: 2b195c17-5ff5-4b0d-a809-210b92212394
   port: 443
   server: lundun2.nezhasu.com
@@ -191,7 +197,7 @@ proxies:
   sni: lundun2.nezhasu.com
   tls: false
   type: hysteria2
-- name: 8|All-@V2ray_Alpha--3
+- name: '8|All-@IRAN_V2RAY1 #4'
   password: 2b195c17-5ff5-4b0d-a809-210b92212394
   port: 443
   server: lundun3.nezhasu.com
@@ -199,20 +205,12 @@ proxies:
   sni: lundun3.nezhasu.com
   tls: false
   type: hysteria2
-- name: 8|All-@V2ray_Alpha--4
+- name: 8|All-@V2rayAlpha--34
   password: 2b195c17-5ff5-4b0d-a809-210b92212394
   port: 443
   server: lundun4.nezhasu.com
   skip-cert-verify: true
   sni: lundun4.nezhasu.com
-  tls: false
-  type: hysteria2
-- name: 8|All-@V2ray_Alpha--6
-  password: 2b195c17-5ff5-4b0d-a809-210b92212394
-  port: 443
-  server: marseille-1.nezhasu.com
-  skip-cert-verify: true
-  sni: marseille-1.nezhasu.com
   tls: false
   type: hysteria2
 - name: 8|All-@V2rayAlpha--38
@@ -353,7 +351,7 @@ proxies:
   sni: hsdg.huasuan666.top
   tls: false
   type: hysteria2
-- name: '8|All-@V2ray_Alpha--3 #1'
+- name: 8|All-@V2ray_Alpha--3
   obfs: salamander
   obfs-password: jjQQP9Av2l6BRdP5
   password: 59f5893e-b85a-44f7-911f-bd0b3f92069b
@@ -396,7 +394,7 @@ proxies:
   sni: lsj3.mangshe.xyz
   tls: false
   type: hysteria2
-- name: '8|All-@V2ray_Alpha--4 #1'
+- name: 8|All-@V2ray_Alpha--4
   password: 78c2bad7-f5f3-41f2-88cc-81de9d05040b
   port: 2060
   server: xjp2.mangshe.xyz
@@ -591,7 +589,7 @@ proxies:
   sni: f643a7e8-t6ngg0-t74ix0-1m0fq.hk1.hyhuawei.com
   tls: false
   type: hysteria2
-- name: '8|All-@V2ray_Alpha--6 #1'
+- name: 8|All-@V2ray_Alpha--6
   password: afc8e385-dc0f-4b26-a5ed-b0fbf08b9df6
   port: 21325
   server: tr.xn--9kqx4sc0n.shop
@@ -735,7 +733,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '8|All-@V2ray_Alpha--7 #1'
+- name: 8|All-@V2ray_Alpha--7
   password: df7bed3c-06eb-11f0-8ebc-f23c93141fad
   port: 443
   server: 9edb1f6e-t56dc0-t9lxaa-1glq.la.shifen.uk
