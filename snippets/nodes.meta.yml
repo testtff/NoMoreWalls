@@ -9,12 +9,6 @@ proxies:
   sni: it1.miyazono-kaori.com
   tls: false
   type: hysteria2
-- name: 7|🎨2@oneclickvpnkeys
-  password: 693a3ce6-2188-4fe9-82c0-c5c289532534
-  port: 20000
-  server: hl.dabache.top
-  tls: false
-  type: hysteria2
 - name: 7,8|rya
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
@@ -55,28 +49,12 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 7|15@oneclickvpnkeys
-  password: dongtaiwang.com
-  port: 33880
-  server: 195.154.206.231
-  skip-cert-verify: true
-  sni: apple.com
-  tls: false
-  type: hysteria2
 - name: 8|All--@V2rayAlpha--17
   password: 03573f46-e944-11eb-a8bf-f23c91cfbbc9
   port: 443
   server: 9bc9db69-t6t0g0-tee612-2r82.hk1.hyhuawei.com
   skip-cert-verify: true
   sni: 9bc9db69-t6t0g0-tee612-2r82.hk1.hyhuawei.com
-  tls: false
-  type: hysteria2
-- name: 8|MCI-IR--@V2rayAlpha-16
-  password: 05fd3f79-dca0-4358-a803-c8d4711c17a3
-  port: 58338
-  server: lsyd1.lansecs.top
-  skip-cert-verify: true
-  sni: lsyd1.lansecs.top
   tls: false
   type: hysteria2
 - name: 8|All-#V2rayAlpha--19
@@ -495,7 +473,7 @@ proxies:
   sni: gavazn.55994421.xyz
   tls: false
   type: hysteria2
-- name: '8|All--@IRAN_V2RAY1 #3'
+- name: '8|All--@IRAN_V2RAY1 #4'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -515,7 +493,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '8|All--@IRAN_V2RAY1 #5'
+- name: '8|All--@IRAN_V2RAY1 #6'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -545,7 +523,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '8|All--@IRAN_V2RAY1 #6'
+- name: '8|All--@IRAN_V2RAY1 #7'
   obfs: salamander
   obfs-password: khameniiko@smad@ret
   password: YwuvGJk36B
