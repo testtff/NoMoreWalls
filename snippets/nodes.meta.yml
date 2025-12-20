@@ -35,7 +35,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 7,8|All_9--@V2rayAlpha
+- name: 7,8|r♡ya
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
@@ -59,14 +59,6 @@ proxies:
   password: dongtaiwang.com
   port: 33880
   server: 195.154.206.231
-  skip-cert-verify: true
-  sni: apple.com
-  tls: false
-  type: hysteria2
-- name: 7|72@oneclickvpnkeys
-  password: dongtaiwang.com
-  port: 40088
-  server: 62.210.99.49
   skip-cert-verify: true
   sni: apple.com
   tls: false
@@ -493,16 +485,6 @@ proxies:
   sni: megafon.ru
   tls: false
   type: hysteria2
-- name: 8|🇱@FreakConfig
-  obfs: salamander
-  obfs-password: Telegram-->@Ln2Ray
-  password: Telegram-->@Ln2Ray
-  port: 45000
-  server: 206.71.158.23
-  skip-cert-verify: true
-  sni: gavazn.55994421.xyz
-  tls: false
-  type: hysteria2
 - name: 8|@Daily_Configs
   obfs: salamander
   obfs-password: Telegram-->@Ln2Ray
@@ -513,7 +495,7 @@ proxies:
   sni: gavazn.55994421.xyz
   tls: false
   type: hysteria2
-- name: 8|🇳🇱@FreakConfig
+- name: '8|All--@IRAN_V2RAY1 #3'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
