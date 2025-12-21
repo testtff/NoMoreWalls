@@ -63,6 +63,14 @@ proxies:
   sni: 9bc9db69-t6t0g0-tee612-2r82.hk1.hyhuawei.com
   tls: false
   type: hysteria2
+- name: 8|MCI-IR--@V2rayAlpha-16
+  password: 05fd3f79-dca0-4358-a803-c8d4711c17a3
+  port: 58338
+  server: lsyd1.lansecs.top
+  skip-cert-verify: true
+  sni: lsyd1.lansecs.top
+  tls: false
+  type: hysteria2
 - name: 8|All-#V2rayAlpha--19
   password: 0abd5d38-fdf1-11ed-bade-f23c91369f2d
   port: 443
@@ -469,7 +477,7 @@ proxies:
   sni: megafon.ru
   tls: false
   type: hysteria2
-- name: 8|@Daily_Configs
+- name: 8|azadiiivpn
   obfs: salamander
   obfs-password: Telegram-->@Ln2Ray
   password: Telegram-->@Ln2Ray
