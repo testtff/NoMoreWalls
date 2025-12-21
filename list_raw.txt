@@ -1,6 +1,7 @@
 hysteria2://274691f9-e6c0-46ff-82f2-3a9062872a04@it1.miyazono-kaori.com:443?insecure=1&sni=it1.miyazono-kaori.com&obfs=salamander&obfs-password=GyiIHT0mOkKCiq0Q#7%7C%F0%9F%8E%A84%40oneclickvpnkeys
 hysteria2://693a3ce6-2188-4fe9-82c0-c5c289532534@hl.dabache.top:20000?#7%7C%F0%9F%8E%A82%40oneclickvpnkeys
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#7%2C8%7Crya
+hysteria2://Telegram--%3E%40Ln2Ray@206.71.158.23:45000?insecure=1&sni=gavazn.55994421.xyz&obfs=salamander&obfs-password=Telegram-->@Ln2Ray#7%7C%E2%9D%84%EF%B8%8F32%40oneclickvpnkeys
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#7%2C8%7C%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%E2%9E%A0%EF%B8%8F%40ATLAS_V2VPN%EF%B8%8F%EF%B8%8F11
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.40:35000?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#7%2C8%7CAll-%40V2rayAlpha--7
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#7%2C8%7Cr%E2%99%A1ya
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#7%2C8%7C%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
@@ -133,5 +134,5 @@ vless://6943fe4d-0a5e-0543-d402-0e5cf7fe7af0@34.143.159.175:443?allowInsecure=0&
 vless://6943fe4d-0a5e-0543-d402-0e5cf7fe7af0@210.61.97.241:81?allowInsecure=0&sni=stall.saass.ccwu.cc&type=ws&host=stall.saass.ccwu.cc&path=/proxyip=sjc.o00o.ooosecurity=tls#15%7CTW_speednode_0019
 vless://71e0492e-9dc5-4fef-891b-15c983934886@185.177.238.40:443?allowInsecure=0&sni=alban.normbot.ru&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#15%7CUS_speednode_0020
 vless://6943fe4d-0a5e-0543-d402-0e5cf7fe7af0@66.235.200.109:2053?allowInsecure=0&sni=stall.saass.ccwu.cc&type=ws&host=stall.saass.ccwu.cc&path=/proxyip=sjc.o00o.ooosecurity=tls#15%7CUS_speednode_0021
+https://SogpH4.mcsslk.xyz/2a4351fd7c0e5df4456eeaa3955ba091
 https://mBClkx.absslk.xyz/6d3e7e5c2eb16392ff26beb0bc5f642d
-https://z0hLlV.mcsslk.xyz/fa4a98c969aec9ff53e5f018c962de62
