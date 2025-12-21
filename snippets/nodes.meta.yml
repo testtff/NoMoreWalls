@@ -9,6 +9,12 @@ proxies:
   sni: it1.miyazono-kaori.com
   tls: false
   type: hysteria2
+- name: 7|🎨2@oneclickvpnkeys
+  password: 693a3ce6-2188-4fe9-82c0-c5c289532534
+  port: 20000
+  server: hl.dabache.top
+  tls: false
+  type: hysteria2
 - name: 7,8|rya
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
