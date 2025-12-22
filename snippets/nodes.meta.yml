@@ -1,4 +1,33 @@
 proxies:
+- name: 7|19@oneclickvpnkeys
+  password: 7424db1f-ba68-496d-9426-4018b6a3a23c
+  port: 443
+  server: de1.xiaoliyu.cyou
+  skip-cert-verify: true
+  sni: web.max.ru
+  tls: false
+  type: hysteria2
+- name: 7|🎄14@oneclickvpnkeys
+  password: 7424db1f-ba68-496d-9426-4018b6a3a23c
+  port: 443
+  server: de3.xiaoliyu.cyou
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: 7|🎄1@oneclickvpnkeys
+  password: 7424db1f-ba68-496d-9426-4018b6a3a23c
+  port: 443
+  server: fr2.xiaoliyu.cyou
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: 7|🎄6@oneclickvpnkeys
+  password: 7424db1f-ba68-496d-9426-4018b6a3a23c
+  port: 443
+  server: nl1.xiaoliyu.cyou
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
 - name: 7|❄️32@oneclickvpnkeys
   obfs: salamander
   obfs-password: Telegram-->@Ln2Ray
@@ -394,26 +423,6 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: '8|All--@IRAN_V2RAY1 #1'
-  obfs: salamander
-  obfs-password: U1wBrYQyFm
-  password: 80747420-96c4-4a2f-83e6-eea4e46beb09
-  port: 20335
-  server: 70.34.215.221
-  skip-cert-verify: true
-  sni: drhystuichdfy.samanidempire.org
-  tls: false
-  type: hysteria2
-- name: '8|All--@IRAN_V2RAY1 #2'
-  obfs: salamander
-  obfs-password: U1wBrYQyFm
-  password: 80747420-96c4-4a2f-83e6-eea4e46beb09
-  port: 20335
-  server: drhystuichdfy.samanidempire.org
-  skip-cert-verify: true
-  sni: drhystuichdfy.samanidempire.org
-  tls: false
-  type: hysteria2
 - name: 8|All-@V2rayAlpha--44
   password: 862e90e1-2f26-4506-b8b9-0adf20da05fc
   port: 47262
@@ -471,7 +480,7 @@ proxies:
   sni: gavazn.55994421.xyz
   tls: false
   type: hysteria2
-- name: '8|All--@IRAN_V2RAY1 #4'
+- name: '8|All--@IRAN_V2RAY1 #2'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -491,7 +500,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '8|All--@IRAN_V2RAY1 #6'
+- name: '8|All--@IRAN_V2RAY1 #4'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -521,7 +530,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '8|All--@IRAN_V2RAY1 #7'
+- name: '8|All--@IRAN_V2RAY1 #5'
   obfs: salamander
   obfs-password: khameniiko@smad@ret
   password: YwuvGJk36B
