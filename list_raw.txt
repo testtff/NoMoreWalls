@@ -116,5 +116,5 @@ vless://55556b1f-7b61-49ee-bfcc-10ed900f1b61@109.120.188.87:8443?allowInsecure=0
 trojan://5a2c16f9@freeyx.cloudflare88.eu.org:443?allowInsecure=0&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=/#15%7CRU_speednode_0004
 vless://c42e4667-ca09-4769-b544-89a8da730daf@ru2.tunnely.ru:443?allowInsecure=0&sni=vk.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#15%7CUS_speednode_0005
 vless://53cd8178-2ee6-43d9-a2a7-881f287fd408@172.234.130.82:10001?allowInsecure=0&sni=yahoo.com&fp=chrome&security=tls#15%7CUS_speednode_0006
+https://gVC7yK.mcsslk.xyz/224210159839e7b571a6c477d47b4af7
 https://mBClkx.absslk.xyz/6d3e7e5c2eb16392ff26beb0bc5f642d
-https://wCeBbx.mcsslk.xyz/befac722958fa21ef3f2fdd3713dd18e
