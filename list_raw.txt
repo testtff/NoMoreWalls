@@ -4,7 +4,7 @@ hysteria2://7424db1f-ba68-496d-9426-4018b6a3a23c@fr2.xiaoliyu.cyou:443?insecure=
 hysteria2://7424db1f-ba68-496d-9426-4018b6a3a23c@nl1.xiaoliyu.cyou:443?insecure=1#7%7C%F0%9F%8E%846%40oneclickvpnkeys
 hysteria2://989aa406-ea9b-11ef-97da-f23c91cfbbc9@41f54602-t6ngg0-t7m3jq-1rnrp.us.hyhuawei.com:443?insecure=1#7%7C%F0%9F%8E%8485%40oneclickvpnkeys
 hysteria2://9ad05870-d8c5-11ef-9f1c-f23c913c8d2b@974e2823-t6ngg0-t7j1ub-g3b3.us.hyhuawei.com:443?insecure=1#7%7C%F0%9F%8E%8484%40oneclickvpnkeys
-hysteria2://Telegram--%3E%40Ln2Ray@206.71.158.23:45000?insecure=1&sni=gavazn.55994421.xyz&obfs=salamander&obfs-password=Telegram-->@Ln2Ray#7%7C%EF%B8%8F32%40oneclickvpnkeys
+hysteria2://Telegram--%3E%40Ln2Ray@206.71.158.23:45000?insecure=1&sni=gavazn.55994421.xyz&obfs=salamander&obfs-password=Telegram-->@Ln2Ray#7%7C32%40oneclickvpnkeys
 hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000?insecure=1&sni=gavazn.55994421.xyz&obfs=salamander&obfs-password=Telegram-->@Ln2Ray#7%2C8%7Cazadiiivpn
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#7%2C8%7C%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%E2%9E%A0%EF%B8%8F%40ATLAS_V2VPN%EF%B8%8F%EF%B8%8F11
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#7%2C8%7CAll_9--%40V2rayAlpha
@@ -117,5 +117,5 @@ vless://e258977b-e413-4718-a3af-02d75492c349@34.143.159.175:443?allowInsecure=0&
 vless://c42e4667-ca09-4769-b544-89a8da730daf@ru2.tunnely.ru:443?allowInsecure=0&sni=vk.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#15%7CUS_speednode_0022
 vless://98cb33a8-d6f7-41f0-8796-e4b471d65df8@144.31.5.179:443?allowInsecure=0&type=ws#15%7CUS_speednode_0023
 vless://6949ea89-4825-1b47-3b03-113cede87254@oralb.com:2053?allowInsecure=0&sni=stall.saass.ccwu.cc&type=ws&host=stall.saass.ccwu.cc&path=/proxyip=sjc.o00o.ooosecurity=tls#15%7CUS_speednode_0024
-https://u1ltH0.mcsslk.xyz/1bd5ca28586c8327df849a64bb7e447a
 https://mBClkx.absslk.xyz/6d3e7e5c2eb16392ff26beb0bc5f642d
+https://f4bmwb.mcsslk.xyz/155c54b2d4f91d0b92bf88a812c95000
