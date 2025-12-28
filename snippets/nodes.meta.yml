@@ -49,16 +49,6 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 7,8|19@ConfigV2RayNG
-  obfs: salamander
-  obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
-  password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
-  port: 35000
-  server: 51.178.55.157
-  skip-cert-verify: true
-  sni: api.kermanshahi.org
-  tls: false
-  type: hysteria2
 - name: 7,8|36@ConfigV2RayNG
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
@@ -99,14 +89,6 @@ proxies:
   server: 9bc9db69-t6t0g0-tee612-2r82.hk1.hyhuawei.com
   skip-cert-verify: true
   sni: 9bc9db69-t6t0g0-tee612-2r82.hk1.hyhuawei.com
-  tls: false
-  type: hysteria2
-- name: 8|All-#V2rayAlpha--19
-  password: 0abd5d38-fdf1-11ed-bade-f23c91369f2d
-  port: 443
-  server: 1d4e3b3b-t6ngg0-tedirp-1fli7.us.hyhuawei.com
-  skip-cert-verify: true
-  sni: 1d4e3b3b-t6ngg0-tedirp-1fli7.us.hyhuawei.com
   tls: false
   type: hysteria2
 - name: 8|All-@V2rayAlpha-25
@@ -461,6 +443,16 @@ proxies:
   server: 206.71.158.41
   skip-cert-verify: true
   sni: jnir.pichondan.com
+  tls: false
+  type: hysteria2
+- name: 8|19@ConfigV2RayNG
+  obfs: salamander
+  obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
+  password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
+  port: 35000
+  server: 51.178.55.157
+  skip-cert-verify: true
+  sni: api.kermanshahi.org
   tls: false
   type: hysteria2
 - name: 8|11@ConfigV2RayNG
