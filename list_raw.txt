@@ -4,8 +4,6 @@ hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?insecure=1&sni=YAPC-
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.40:35000?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#7%2C8%7C%F0%9F%93%9F32%40ConfigV2RayNG
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#7%2C8%7CAll_9--%40V2rayAlpha
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#7%2C8%7C36%40ConfigV2RayNG
-hysteria2://bb780ec8-8c7b-4830-9902-880bdbbd4704@129.151.251.122:443?insecure=1&sni=www.lamer.com.hk#7%7C%F0%9F%A7%8A40%40oneclickvpnkeys
-hysteria2://bb780ec8-8c7b-4830-9902-880bdbbd4704@143.47.32.143:443?insecure=1&sni=www.lamer.com.hk#7%7C%F0%9F%A7%8A49%40oneclickvpnkeys
 hysteria2://d9812081-7f61-456d-9340-a1fb8dfd603b@129.151.115.91:443?insecure=1&sni=glby1.nezhasu.com#7%7C%EF%B8%8F21%40oneclickvpnkeys
 hysteria2://d9812081-7f61-456d-9340-a1fb8dfd603b@137.131.149.26:443?insecure=1&sni=bx1.nezhasu.com#7%7C%F0%9F%8C%A8%EF%B8%8F23%40oneclickvpnkeys
 hysteria2://d9812081-7f61-456d-9340-a1fb8dfd603b@140.238.247.224:443?insecure=1&sni=mumbai-2.nezhasu.com#7%7C%F0%9F%8C%A8%EF%B8%8F14%40oneclickvpnkeys
@@ -116,5 +114,5 @@ vless://1374476c-f07c-47c3-86ba-a8c10dc87050@apple.land200.netmeli.com:51921?all
 vless://9042affd-0ad3-4014-adbc-e52f00891ea2@sakura.bunnywaffle.org:26978?allowInsecure=0&sni=tesla.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#15%7CNN_speednode_0007
 vless://2c8adcaa-e428-4cea-9c88-e88166651ab3@89.169.137.193:443?allowInsecure=0&sni=eh.vk.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#15%7CRU_speednode_0008
 vless://846c5d45-936c-42f6-9120-2d13830d5fa0@51.250.4.181:443?allowInsecure=0&sni=eh.vk.com&fp=chrome&security=tls#15%7CRU_speednode_0009
-https://2kHE8k.mcsslk.xyz/6e7beb353a9d8a5fc155de4d7b9e9f70
+https://5oXY0m.mcsslk.xyz/59999b03b07142b37bd6d58e265f522a
 https://mBClkx.absslk.xyz/6d3e7e5c2eb16392ff26beb0bc5f642d

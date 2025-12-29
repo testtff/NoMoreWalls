@@ -59,22 +59,6 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 7|🧊40@oneclickvpnkeys
-  password: bb780ec8-8c7b-4830-9902-880bdbbd4704
-  port: 443
-  server: 129.151.251.122
-  skip-cert-verify: true
-  sni: www.lamer.com.hk
-  tls: false
-  type: hysteria2
-- name: 7|🧊49@oneclickvpnkeys
-  password: bb780ec8-8c7b-4830-9902-880bdbbd4704
-  port: 443
-  server: 143.47.32.143
-  skip-cert-verify: true
-  sni: www.lamer.com.hk
-  tls: false
-  type: hysteria2
 - name: 7|️21@oneclickvpnkeys
   password: d9812081-7f61-456d-9340-a1fb8dfd603b
   port: 443
