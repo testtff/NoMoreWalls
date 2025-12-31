@@ -1,5 +1,5 @@
 proxies:
-- name: 7,8|🇱@FreakConfig
+- name: 7,8|@FreakConfig
   obfs: salamander
   obfs-password: Telegram-->@Ln2Ray
   password: Telegram-->@Ln2Ray
@@ -7,16 +7,6 @@ proxies:
   server: gavazn.lnmarketplace.net
   skip-cert-verify: true
   sni: gavazn.55994421.xyz
-  tls: false
-  type: hysteria2
-- name: 7,8|All_9--@V2rayAlpha
-  obfs: salamander
-  obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
-  password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
-  port: 35000
-  server: 206.71.158.41
-  skip-cert-verify: true
-  sni: api.kermanshahi.org
   tls: false
   type: hysteria2
 - name: 7,8|36@ConfigV2RayNG
@@ -61,7 +51,7 @@ proxies:
   sni: mumbai-2.nezhasu.com
   tls: false
   type: hysteria2
-- name: 7,8|🌨️22@ConfigV2RayNG
+- name: 7,8|🌨️22@vpnserverrr
   password: d9812081-7f61-456d-9340-a1fb8dfd603b
   port: 443
   server: 141.148.246.181
@@ -141,20 +131,12 @@ proxies:
   sni: johannesburg-1.nezhasu.com
   tls: false
   type: hysteria2
-- name: 7,8|️27@ConfigV2RayNG
+- name: 7,8|🌨️27@vpnserverrr
   password: d9812081-7f61-456d-9340-a1fb8dfd603b
   port: 443
   server: 89.168.80.242
   skip-cert-verify: true
   sni: gydeguo-4.nezhasu.com
-  tls: false
-  type: hysteria2
-- name: 7|🟩96@oneclickvpnkeys
-  password: dongtaiwang.com
-  port: 22222
-  server: 208.87.243.187
-  skip-cert-verify: true
-  sni: ''
   tls: false
   type: hysteria2
 - name: 8|All--@V2rayAlpha--17
@@ -163,6 +145,14 @@ proxies:
   server: 9bc9db69-t6t0g0-tee612-2r82.hk1.hyhuawei.com
   skip-cert-verify: true
   sni: 9bc9db69-t6t0g0-tee612-2r82.hk1.hyhuawei.com
+  tls: false
+  type: hysteria2
+- name: 8|All-#V2rayAlpha--19
+  password: 0abd5d38-fdf1-11ed-bade-f23c91369f2d
+  port: 443
+  server: 1d4e3b3b-t6ngg0-tedirp-1fli7.us.hyhuawei.com
+  skip-cert-verify: true
+  sni: 1d4e3b3b-t6ngg0-tedirp-1fli7.us.hyhuawei.com
   tls: false
   type: hysteria2
 - name: 8|All-@V2rayAlpha-25
@@ -249,6 +239,20 @@ proxies:
   server: lundun4.nezhasu.com
   skip-cert-verify: true
   sni: lundun4.nezhasu.com
+  tls: false
+  type: hysteria2
+- name: 8|All-@V2ray_Alpha--30
+  password: 338ce171-d764-4610-8fd5-6688b0d321f0
+  port: 30102
+  server: 140.245.68.133
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: 8|All-@V2ray_Alpha--29
+  password: 338ce171-d764-4610-8fd5-6688b0d321f0
+  port: 30102
+  server: 51.81.223.22
+  skip-cert-verify: true
   tls: false
   type: hysteria2
 - name: 8|All--@V2rayAlpha--20
@@ -482,6 +486,16 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
+- name: 8|All_9--@V2rayAlpha
+  obfs: salamander
+  obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
+  password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
+  port: 35000
+  server: 206.71.158.41
+  skip-cert-verify: true
+  sni: api.kermanshahi.org
+  tls: false
+  type: hysteria2
 - name: 8|34@ConfigV2RayNG
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
@@ -591,7 +605,7 @@ proxies:
   sni: 9c25e30b-t6ccg0-tfpsin-1q3dm.hk1.hyhuawei.com
   tls: false
   type: hysteria2
-- name: 8|ورهایبیشتردرکانا:prrofile_purp...
+- name: 8|ورهایبیشتردرکانال:prrofile_pur...
   password: c232f411-96b5-4b07-b2f7-66a434725ffb
   port: 23899
   server: 193.142.59.41
