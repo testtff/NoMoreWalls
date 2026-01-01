@@ -23,6 +23,14 @@ proxies:
   sni: gydeguo-4.nezhasu.com
   tls: false
   type: hysteria2
+- name: 7|1@oneclickvpnkeys
+  password: d9812081-7f61-456d-9340-a1fb8dfd603b
+  port: 443
+  server: falankefu1.nezhasu.com
+  skip-cert-verify: true
+  sni: falankefu1.nezhasu.com
+  tls: false
+  type: hysteria2
 - name: 8|All--@V2rayAlpha--17
   password: 03573f46-e944-11eb-a8bf-f23c91cfbbc9
   port: 443
@@ -416,7 +424,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 8|11@ConfigV2RayNG
+- name: 8|🎃11@ConfigV2RayNG
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
@@ -611,7 +619,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '8|All--@IRAN_V2RAY1 #7'
+- name: 8|All--@IRAN_V2RAY1🇸
   password: df7bed3c-06eb-11f0-8ebc-f23c93141fad
   port: 443
   server: 9edb1f6e-t56dc0-t9lxaa-1glq.la.shifen.uk
@@ -675,6 +683,16 @@ proxies:
   server: nl1.oomz.ru
   skip-cert-verify: true
   sni: bing.com
+  tls: false
+  type: hysteria2
+- name: 8|p🇩🇪ارای
+  obfs: salamander
+  obfs-password: 7suXl4gmts7Zkb2BTlJGcDr4NEF9mQGh
+  password: infowild
+  port: 443
+  server: gamingger02.wilduser.org
+  skip-cert-verify: true
+  sni: bts.com
   tls: false
   type: hysteria2
 - cipher: aes-256-cfb
