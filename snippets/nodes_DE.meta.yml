@@ -39,7 +39,7 @@ proxies:
   sni: updates.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 8|p🇩🇪ارا
+- name: 8|p🇩🇪ارای
   obfs: salamander
   obfs-password: 7suXl4gmts7Zkb2BTlJGcDr4NEF9mQGh
   password: infowild
