@@ -1,11 +1,11 @@
 proxies:
-- name: 8|🇩🇪ConfigV2RayNG
+- name: 8|rya@V2rayBaaz
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
   port: 35000
   server: 135.125.204.154
-  skip-cert-verify: false
+  skip-cert-verify: true
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
@@ -29,17 +29,17 @@ proxies:
   sni: updates.kermanshahi.org
   tls: false
   type: hysteria2
-- name: '8|🇩🇪ConfigV2RayNG #3'
+- name: '8|r♡ya@V2rayBaaz #7'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
   port: 33500
   server: updates.kermanshahi.org
-  skip-cert-verify: false
+  skip-cert-verify: true
   sni: updates.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 8|p🇩🇪ارای
+- name: 8|p🇩🇪ارا
   obfs: salamander
   obfs-password: 7suXl4gmts7Zkb2BTlJGcDr4NEF9mQGh
   password: infowild
