@@ -115,6 +115,6 @@ vless://00000000-0000-4000-8000-000000000000@43.165.190.11:42841?allowInsecure=0
 trojan://Aimer@167.68.4.199:2053?allowInsecure=0&sni=epge.muarua.filegear-sg.me&type=ws&host=epge.muarua.filegear-sg.me&path=/#15%7CUS_speednode_0019
 trojan://Aimer@167.68.4.199:2053?allowInsecure=0&sni=epge.muarua.filegear-sg.me&type=ws&host=epge.muarua.filegear-sg.me&path=/?ed=2560#15%7CUS_speednode_0020
 trojan://5a2c16f9@135.84.73.238:2096?allowInsecure=1&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=/Telegram🇨🇳WangCai2#15%7CUS_speednode_0021
-hhysteria2://0abd5d38-fdf1-11ed-bade-f23c91369f2d@1d4e3b3b-t6ngg0-tedirp-1fli7.us.hyhuawei.com:443?security=tls&insecure=1&mport=30000-60000&sni=1d4e3b3b-t6ngg0-tedirp-1fli7.us.hyhuawei.com#All-#V2rayAlpha--19
 https://mBClkx.absslk.xyz/6d3e7e5c2eb16392ff26beb0bc5f642d
-https://pe0pNy.mcsslk.xyz/6a847c80193aebfe3f6cf1c24e7dcf1d
+hhysteria2://0abd5d38-fdf1-11ed-bade-f23c91369f2d@1d4e3b3b-t6ngg0-tedirp-1fli7.us.hyhuawei.com:443?security=tls&insecure=1&mport=30000-60000&sni=1d4e3b3b-t6ngg0-tedirp-1fli7.us.hyhuawei.com#All-#V2rayAlpha--19
+https://x7OQrV.mcsslk.xyz/71e2bfb463a6f9d071a98075e9429b39
