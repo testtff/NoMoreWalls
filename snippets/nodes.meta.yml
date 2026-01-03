@@ -43,7 +43,7 @@ proxies:
   sni: falankefu1.nezhasu.com
   tls: false
   type: hysteria2
-- name: 7|🚩41@oneclickvpnkeys
+- name: 7,8|41@ConfigV2RayNG
   password: e343471a-aad3-40da-9dea-72cc8c7dce5f
   port: 443
   server: 152.67.95.183
@@ -57,14 +57,6 @@ proxies:
   server: 9bc9db69-t6t0g0-tee612-2r82.hk1.hyhuawei.com
   skip-cert-verify: true
   sni: 9bc9db69-t6t0g0-tee612-2r82.hk1.hyhuawei.com
-  tls: false
-  type: hysteria2
-- name: 8|All-#V2rayAlpha--19
-  password: 0abd5d38-fdf1-11ed-bade-f23c91369f2d
-  port: 443
-  server: 1d4e3b3b-t6ngg0-tedirp-1fli7.us.hyhuawei.com
-  skip-cert-verify: true
-  sni: 1d4e3b3b-t6ngg0-tedirp-1fli7.us.hyhuawei.com
   tls: false
   type: hysteria2
 - name: 8|All-@V2rayAlpha-25
@@ -250,6 +242,15 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
+- name: 8|ConfigV2RayNG
+  obfs: salamander
+  obfs-password: Parsashonam
+  password: S1XZDIaoUX
+  port: 50163
+  server: 193.108.112.6
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
 - name: '8|🔸@IRAN_V2RAY1💘 #2'
   password: SNItest
   port: 443
@@ -268,7 +269,7 @@ proxies:
   sni: gavazn.55994421.xyz
   tls: false
   type: hysteria2
-- name: 8|🇱@FreakConfig
+- name: 8|@FreakConfig
   obfs: salamander
   obfs-password: Telegram-->@Ln2Ray
   password: Telegram-->@Ln2Ray
@@ -308,7 +309,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '8|🇱@FreakConfig #1'
+- name: 8|🇱@FreakConfig
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -364,7 +365,7 @@ proxies:
   sni: f643a7e8-t6ngg0-t74ix0-1m0fq.hk1.hyhuawei.com
   tls: false
   type: hysteria2
-- name: '8|🇩🇪ConfigV2RayNG #1'
+- name: 8|🇩🇪ConfigV2RayNG
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
@@ -404,7 +405,7 @@ proxies:
   sni: jnir.pichondan.com
   tls: false
   type: hysteria2
-- name: '8|🇩🇪ConfigV2RayNG #2'
+- name: '8|🇩🇪ConfigV2RayNG #1'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
@@ -444,7 +445,7 @@ proxies:
   sni: jnir.pichondan.com
   tls: false
   type: hysteria2
-- name: '8|ConfigV2RayNG #2'
+- name: '8|ConfigV2RayNG #4'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
@@ -454,7 +455,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 8|@IRAN_V2RAY1💘
+- name: '8|🔸@IRAN_V2RAY1💘 #8'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
@@ -503,7 +504,7 @@ proxies:
   sni: 9c25e30b-t6ccg0-tfpsin-1q3dm.hk1.hyhuawei.com
   tls: false
   type: hysteria2
-- name: 8|ورهایبیشتردرکانال:prrofile_pur...
+- name: 8|رایبیشتردرکانال:prrofile_purpl...
   password: c232f411-96b5-4b07-b2f7-66a434725ffb
   port: 23899
   server: 193.142.59.41
@@ -669,7 +670,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 8|p🇩🇪ارای
+- name: 8|p🇩🇪رای
   obfs: salamander
   obfs-password: 7suXl4gmts7Zkb2BTlJGcDr4NEF9mQGh
   password: infowild
