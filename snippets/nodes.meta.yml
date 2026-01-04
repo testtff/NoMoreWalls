@@ -239,23 +239,23 @@ proxies:
   sni: cn.cremedelamer.com
   tls: false
   type: hysteria2
-- name: 7,8|rya@V2rayBaaz
+- name: '7,8|ConfigV2RayNG #3'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
   port: 35000
   server: 135.125.204.154
-  skip-cert-verify: true
+  skip-cert-verify: false
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: '7,8|r♡ya@V2rayBaaz #7'
+- name: '7,8|🇩🇪ConfigV2RayNG #2'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
   port: 33500
   server: updates.kermanshahi.org
-  skip-cert-verify: true
+  skip-cert-verify: false
   sni: updates.kermanshahi.org
   tls: false
   type: hysteria2
@@ -353,6 +353,14 @@ proxies:
   server: 9bc9db69-t6t0g0-tee612-2r82.hk1.hyhuawei.com
   skip-cert-verify: true
   sni: 9bc9db69-t6t0g0-tee612-2r82.hk1.hyhuawei.com
+  tls: false
+  type: hysteria2
+- name: 8|All-#V2rayAlpha--19
+  password: 0abd5d38-fdf1-11ed-bade-f23c91369f2d
+  port: 443
+  server: 1d4e3b3b-t6ngg0-tedirp-1fli7.us.hyhuawei.com
+  skip-cert-verify: true
+  sni: 1d4e3b3b-t6ngg0-tedirp-1fli7.us.hyhuawei.com
   tls: false
   type: hysteria2
 - name: 8|All-@V2rayAlpha-25
@@ -647,7 +655,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: '8|r♡ya@V2rayBaaz #3'
+- name: 8|All_9--@V2rayAlpha
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
@@ -930,16 +938,6 @@ proxies:
   server: nl1.oomz.ru
   skip-cert-verify: true
   sni: bing.com
-  tls: false
-  type: hysteria2
-- name: 8|p🇩🇪رای
-  obfs: salamander
-  obfs-password: 7suXl4gmts7Zkb2BTlJGcDr4NEF9mQGh
-  password: infowild
-  port: 443
-  server: gamingger02.wilduser.org
-  skip-cert-verify: true
-  sni: bts.com
   tls: false
   type: hysteria2
 - cipher: aes-256-cfb

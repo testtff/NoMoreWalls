@@ -35,16 +35,6 @@ proxies:
   sni: updates.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 8|p🇩🇪رای
-  obfs: salamander
-  obfs-password: 7suXl4gmts7Zkb2BTlJGcDr4NEF9mQGh
-  password: infowild
-  port: 443
-  server: gamingger02.wilduser.org
-  skip-cert-verify: true
-  sni: bts.com
-  tls: false
-  type: hysteria2
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
   name: 15|DE_speednode_0003
