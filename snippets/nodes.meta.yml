@@ -287,30 +287,6 @@ proxies:
   sni: updates.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 7|️22@oneclickvpnkeys
-  password: d9812081-7f61-456d-9340-a1fb8dfd603b
-  port: 443
-  server: 141.148.246.181
-  skip-cert-verify: true
-  sni: amsterdam.nezhasu.com
-  tls: false
-  type: hysteria2
-- name: 7|🌨️27@oneclickvpnkeys
-  password: d9812081-7f61-456d-9340-a1fb8dfd603b
-  port: 443
-  server: 89.168.80.242
-  skip-cert-verify: true
-  sni: gydeguo-4.nezhasu.com
-  tls: false
-  type: hysteria2
-- name: 7|1@oneclickvpnkeys
-  password: d9812081-7f61-456d-9340-a1fb8dfd603b
-  port: 443
-  server: falankefu1.nezhasu.com
-  skip-cert-verify: true
-  sni: falankefu1.nezhasu.com
-  tls: false
-  type: hysteria2
 - name: 7|🇭🇰香港
   password: de8854c7-fa17-4266-ae18-50a9732a0c4e
   port: 3001
@@ -743,7 +719,7 @@ proxies:
   sni: 9c25e30b-t6ccg0-tfpsin-1q3dm.hk1.hyhuawei.com
   tls: false
   type: hysteria2
-- name: 8|رایبیشتردرکانال:prrofile_purpl...
+- name: 8|سرورهایبیشتردرکانا:prrofile_pu...
   password: c232f411-96b5-4b07-b2f7-66a434725ffb
   port: 23899
   server: 193.142.59.41
