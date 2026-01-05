@@ -303,6 +303,14 @@ proxies:
   sni: www.apple.com
   tls: false
   type: hysteria2
+- name: 7|16♾️@oneclickvpnkeys
+  password: e343471a-aad3-40da-9dea-72cc8c7dce5f
+  port: 443
+  server: 193.123.76.84
+  skip-cert-verify: true
+  sni: www.apple.com
+  tls: false
+  type: hysteria2
 - name: '7|SG #7'
   password: e7965e64-e001-4e8c-8273-39c61ff4a094
   port: 30000
