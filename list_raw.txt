@@ -1,3 +1,9 @@
+hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@mg2.mangshe.xyz:2056?insecure=1&sni=mg2.mangshe.xyz#7%7C%E7%BE%8E%E5%9B%BD2
+hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xjp1.mangshe.xyz:2055?insecure=1&sni=xjp1.mangshe.xyz#7%7C1
+hysteria2://95D27EEF-B7AE-4076-BA39-40FDFA3D0F61@jp7.dexlos.com:13778?insecure=1#7%7CJP
+hysteria2://a084933d-0b41-4571-ae0c-7163b8c71ed1@de.eyucdn.xyz:2056?insecure=1&sni=de.eyucdn.xyz#7%7CDE
+hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@sg3.oomz.ru:30000?insecure=1&sni=bing.com#7%7CSG
+hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@tw.oomz.ru:30000?insecure=1&sni=bing.com#7%7CTW
 hysteria2://Telegram--%3E%40Ln2Ray@206.71.158.23:45000?insecure=1&sni=gavazn.55994421.xyz&obfs=salamander&obfs-password=Telegram-->@Ln2Ray#8%7C22%40ConfigV2RayNG
 hysteria2://Telegram--%3E%40Ln2Ray@206.71.158.23:45000?insecure=0&sni=gavazn.55994421.xyz&obfs=salamander&obfs-password=Telegram-->@V2rayBaaz#8%7Ctelegram%40V2rayBaaz
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#8%7C82%40ConfigV2RayNG
@@ -47,5 +53,5 @@ vless://3e2e3c21-3fc8-468f-9ab5-e782bdf5bf97@cloudflare.182682.xyz:443?allowInse
 vless://3e2e3c21-3fc8-468f-9ab5-e782bdf5bf97@104.18.185.26:443?allowInsecure=0&sni=l.ayovo.netlib.re&type=ws&host=l.ayovo.netlib.re&path=/?ed=2560security=tls#15%7CUS_speednode_0013
 vless://3e2e3c21-3fc8-468f-9ab5-e782bdf5bf97@104.17.25.173:443?allowInsecure=0&sni=l.ayovo.netlib.re&type=ws&host=l.ayovo.netlib.re&path=/?ed=2560fp=chrome&security=tls#15%7CUS_speednode_0014
 vless://a11ab9c5-4155-430b-9efc-7a7122531382@142.91.106.176:443?allowInsecure=0&sni=japan.geodema.network&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#15%7CUS_speednode_0015
-https://LwXK1o.absslk.xyz/8da8be03f8acd90e0818098dd2881352
-https://CKxtBC.mcsslk.xyz/5146f51179c730c2172e237257a69744
+https://D4cEeW.absslk.xyz/957a1c73f5013e2a51660c0ee13f73ee
+https://sJK5wC.mcsslk.xyz/19da612ec2bb0124d20a4f990d2ef9fc
