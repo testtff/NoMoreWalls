@@ -77,4 +77,4 @@ trojan://k52nemqqdx9e@172.64.145.38:8443?allowInsecure=1&sni=8end0fr.zjde5.de5.n
 vless://beddd73b-ed90-4e76-8a30-492384220878@192.161.60.13:52800?allowInsecure=0&sni=www.paypal.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#15%7CUS_speednode_0042
 vless://00e3aa57-aad0-4b7c-90ef-8fbdc2175ddb@us.catconnect.ru:8443?allowInsecure=0&sni=www.deepl.com&flow=xtls-rprx-vision-udp443&fp=qq&security=tls#15%7CUS_speednode_0044
 https://eIcTeo.absslk.xyz/be1f0904ac0babca627d47406bcf80ff
-https://KZaGtv.mcsslk.xyz/d3f09350f8d1748f0068e2e41c0061f1
+https://OTKzd5.mcsslk.xyz/ce8681050d77b6858bce7edfc623f0bc
