@@ -76,4 +76,4 @@ vless://1679af35-6dd6-4c09-ae3b-18f239217f3e@adf.ly:443?allowInsecure=1&sni=rAyA
 vless://b5dbd0aa-22f6-4a00-9bcc-3606fa8fc56d@staticdelivery.nexusmods.com:443?allowInsecure=0&sni=kb.as129394.me&type=ws&host=kb.as129394.me&path=/?ed=2560security=tls#15%7CUS_speednode_0046
 trojan://Aimer@167.68.4.199:2053?allowInsecure=0&sni=epge.muarua.filegear-sg.me&type=ws&host=epge.muarua.filegear-sg.me&path=/#15%7CUS_speednode_0047
 https://1PJa4m.absslk.xyz/954e34e80d67c8879dce2908897673eb
-https://JYNQQb.mcsslk.xyz/60680950ca010efdfbcab0cbd8cdb6c3
+https://GuyB5p.mcsslk.xyz/ac63a3c0a6d65cf9412d10becfbf3cbd
