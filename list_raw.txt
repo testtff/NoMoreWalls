@@ -64,5 +64,5 @@ vless://55d9ec38-1b8a-454b-981a-6acfe8f56d8c@154.17.10.237:443?allowInsecure=0&s
 vless://147ccf68-ca08-4ce9-a507-b0f0d5af119c@136.175.178.165:443?allowInsecure=0&sni=navi.bankrate.com&fp=chrome&security=tls#15%7CUS_speednode_0025
 vless://355a8145-f4a5-4877-a8f3-31137530db3d@136.175.178.165:443?allowInsecure=0&sni=navi.bankrate.com&fp=chrome&security=tls#15%7CUS_speednode_0026
 vless://28a825dd-81d7-47a9-93fa-d7ff003241f6@136.175.178.165:443?allowInsecure=0&sni=navi.bankrate.com&fp=chrome&security=tls#15%7CUS_speednode_0027
-https://v3VufO.absslk.xyz/3a8b82ab7f13da51f1522a5598b4f945
-https://lGTaTR.mcsslk.xyz/4c1494b0c12d2cfb51212d4e1376f5bc
+https://0lQB1U.absslk.xyz/7cd12d166b57ed883e06c41033c9a7a8
+https://Xplasu.mcsslk.xyz/33dffc6ef12e8bb07e53f6ca74fce172
