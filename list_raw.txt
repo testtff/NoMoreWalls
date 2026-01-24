@@ -4,7 +4,7 @@ hysteria2://95D27EEF-B7AE-4076-BA39-40FDFA3D0F61@jp7.dexlos.com:13778?insecure=1
 hysteria2://a084933d-0b41-4571-ae0c-7163b8c71ed1@de.eyucdn.xyz:2056?insecure=1&sni=de.eyucdn.xyz#7%7CDE
 hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@sg3.oomz.ru:30000?insecure=1&sni=bing.com#7%7CSG
 hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@tw.oomz.ru:30000?insecure=1&sni=bing.com#7%7CTW
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35200?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#8%7CKia_Net
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35200?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#8%7C%40YamYamProxy
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@63.180.254.10:443#13%7Ctg%E9%A2%91%E9%81%93%3A%40ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTN88J+HrfCfh7Ag6aaZ5rivfEByaXBhb2ppZWRpYW4iLCAiYWRkIjogInYxMC5oZGFjZC5jb20iLCAicG9ydCI6IDMwODA3LCAiYWlkIjogMiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiY2JiM2Y4NzctZDFmYi0zNDRjLTg3YTktZDE1M2JmZmQ1NDg0In0=
 trojan://869e9086806483ca4744a4cb0f3d6e16@58.152.18.124:443?allowInsecure=0&sni=www.nintendogames.net#13%2C14%7C%E9%A6%99%E6%B8%AF3%7C%40ripaojiedian
@@ -205,6 +205,5 @@ vless://0582626b-615b-49bc-aaea-5a88d3c6d03d@172.67.67.105:443?allowInsecure=0&s
 vless://6b1348aa-43de-4c14-af6a-bcbe02b0c7d5@www.speedtest.net:80?allowInsecure=0&sni=Www.speedtest.net.sIgmasigmaboy.site.&type=ws&host=Www.speedtest.net.sIgmasigmaboy.site.&path=/-ViV2ry@V2RIRAN-TEL--@V2RIRAN-TEL--@V2RIRAN-TEL--@V2RIRAN-JOIN-@V2RIRAN-TEL--@V2RIRAN-JOIN-@V2RIRAN-TEL-@V2RIRAN-TEL--@V2RIRAN-JOIN-@V2RIRAN-TEL--@V2RIRAN#15%7CUS_speednode_0197
 vless://0524840c-b9c9-4994-82db-129ac8caeac5@iran.zone-server-irani.ir:2053?allowInsecure=1&sni=wizwiz.vidboxco.ir&type=ws&host=wizwiz.vidboxco.ir&path=/?ed=2048fp=chrome&security=tls#15%7CUS_speednode_0198
 vless://0524840c-b9c9-4994-82db-129ac8caeac5@cf.zone-server-irani.ir:2053?allowInsecure=0&sni=sepah.systemgamingirani.ir&type=ws&host=sepah.systemgamingirani.ir&path=/?ed=2048fp=chrome&security=tls#15%7CUS_speednode_0199
-https://xQUM8L.mcsslk.xyz/a2c2f3647244f43bbb06d740f869f714
-https://JM4dZw.absslk.xyz/0fcae676b08211bf4ff548a51354a6ee
-hhysteria2://Yet-Another-Public-Config-1@206.71.158.37:35200?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#@Kia_Net
+https://80hjTt.absslk.xyz/ec60218b963a81cd7c7e8899dfe54fc0
+https://YQBWN0.mcsslk.xyz/5a1a68735a91073f18cd7c45b7a2dd10
