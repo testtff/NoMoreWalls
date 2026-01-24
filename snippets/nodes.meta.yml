@@ -46,14 +46,6 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 8|@NIM_VPN_ir
-  password: 98b5354b-fbd1-4be0-86aa-65356637aa4c
-  port: 20061
-  server: 129.150.43.139
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
 - name: 8|@hopev2ray
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
