@@ -4,8 +4,7 @@ hysteria2://95D27EEF-B7AE-4076-BA39-40FDFA3D0F61@jp7.dexlos.com:13778?insecure=1
 hysteria2://a084933d-0b41-4571-ae0c-7163b8c71ed1@de.eyucdn.xyz:2056?insecure=1&sni=de.eyucdn.xyz#7%7CDE
 hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@sg3.oomz.ru:30000?insecure=1&sni=bing.com#7%7CSG
 hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@tw.oomz.ru:30000?insecure=1&sni=bing.com#7%7CTW
-hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000?insecure=1&sni=gavazn.55994421.xyz&obfs=salamander&obfs-password=Telegram-->@Ln2Ray#8%7C%40filembad
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36400?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#8%7Crya%40V2rayBaaz
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36400?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#8%7Cr%E2%99%A1ya%40V2rayBaaz%E2%97%87%E2%83%9F%F0%9F%92%9C
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@63.180.254.10:443#13%7Ctg%E9%A2%91%E9%81%93%3A%40ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTN88J+HrfCfh7Ag6aaZ5rivfEByaXBhb2ppZWRpYW4iLCAiYWRkIjogInYxMC5oZGFjZC5jb20iLCAicG9ydCI6IDMwODA3LCAiYWlkIjogMiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiY2JiM2Y4NzctZDFmYi0zNDRjLTg3YTktZDE1M2JmZmQ1NDg0In0=
 trojan://869e9086806483ca4744a4cb0f3d6e16@58.152.110.210:443?allowInsecure=0&sni=www.nintendogames.net#13%2C14%7C%E9%A6%99%E6%B8%AF3%7C%40ripaojiedian
@@ -63,5 +62,5 @@ vless://32c257a1-f18c-42c7-860d-9cb0ead8b07c@188.114.98.0:443?allowInsecure=0&sn
 vless://32c257a1-f18c-42c7-860d-9cb0ead8b07c@188.114.98.0:443?allowInsecure=0&sni=dragonhost9.qzz.io&type=ws&host=dragonhost9.qzz.io&path=/47.250.139.59=443fp=chrome&security=tls#15%7CUS_speednode_0045
 vless://5dd5d72b-1965-44f3-b342-5e96bcb921cb@185.28.119.14:443?allowInsecure=0&sni=sberbank.ru&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#15%7CUS_speednode_0046
 vless://96dd3618-ae4e-4a9d-89f9-5316296d7814@192.0.54.34:443?allowInsecure=0&sni=cErT.sHakHle.iR&alpn=h3%2Ch2%2Chttp/1.1&type=ws&host=cErT.sHakHle.iR&path=/?ed=1024fp=chrome&security=tls#15%7CUS_speednode_0047
-https://qhlFC4.absslk.xyz/d427c5d0457a22cf738529354c6738b8
-https://JXqHll.mcsslk.xyz/84535b78abd2db979570f6099c713bf4
+https://wsFmIK.mcsslk.xyz/f3c811655071fc54952e9f9574a14b61
+https://dM8u0x.absslk.xyz/d687115604475c5cf517bfbab41089ff
