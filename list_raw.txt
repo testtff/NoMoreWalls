@@ -1,5 +1,4 @@
-hysteria2://31701b5dca9592f9d684dae3706161ea@dd.openaccessnode.com:989?insecure=1&sni=dd.ircybersec.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-King-Reza-Pahlavi#7%7C%F0%9F%AB%A752%40oneclickvpnkeys
-hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@mg2.mangshe.xyz:2056?insecure=1&sni=mg2.mangshe.xyz#7%7C2
+hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@mg2.mangshe.xyz:2056?insecure=1&sni=mg2.mangshe.xyz#7%7C%E7%BE%8E%E5%9B%BD2
 hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xjp1.mangshe.xyz:2055?insecure=1&sni=xjp1.mangshe.xyz#7%7C1
 hysteria2://84893bb7-c52a-4c4e-868a-3b19d55dd9b8@de1.jueduibupao.top:49490?insecure=1&sni=de1.jueduibupao.top#7%7C3%40oneclickvpnkeys
 hysteria2://95D27EEF-B7AE-4076-BA39-40FDFA3D0F61@jp7.dexlos.com:13778?insecure=1#7%7CJP
@@ -79,6 +78,6 @@ vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@104.17.73.206:2053?allowInsecure=0&
 vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@one.dash.cloudflare.com:2053?allowInsecure=0&sni=snippet.danfeng21.ndjp.net&type=ws&host=snippet.danfeng21.ndjp.net&path=/danfengfp=chrome&security=tls#15%7CUS_speednode_0051
 vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@china.embassy.gov.au:2053?allowInsecure=0&sni=snippet.danfeng.gleeze.com&type=ws&host=snippet.danfeng.gleeze.com&path=/danfengfp=chrome&security=tls#15%7CUS_speednode_0052
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@147.75.237.72:443?allowInsecure=0&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=/?ed=2560security=tls#15%7CUS_speednode_0053
-https://WHm1Q2.mcsslk.xyz/a93b262affed7eab56ee6e7e5aaf1427
-https://3Byovm.absslk.xyz/d60fcc4dcda2797ecb1788c3f85683f3
 hhysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#All_7--@V2rayAlpha
+https://US7AIS.absslk.xyz/cf535f37c6f3377f902979358ae5a2c5
+https://hlUM8w.mcsslk.xyz/25863ee9b3eb06c6540e2e6449c20ada
