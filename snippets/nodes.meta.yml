@@ -7,6 +7,14 @@ proxies:
   sni: mg2.mangshe.xyz
   tls: false
   type: hysteria2
+- name: 7|1
+  password: 78c2bad7-f5f3-41f2-88cc-81de9d05040b
+  port: 2055
+  server: xjp1.mangshe.xyz
+  skip-cert-verify: true
+  sni: xjp1.mangshe.xyz
+  tls: false
+  type: hysteria2
 - name: 7|JP
   password: 95D27EEF-B7AE-4076-BA39-40FDFA3D0F61
   port: 13778
@@ -14,7 +22,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: 7|️32@oneclickvpnkeys
+- name: 7|♻️32@proxy_kafee
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -32,7 +40,7 @@ proxies:
   sni: de.eyucdn.xyz
   tls: false
   type: hysteria2
-- name: 7|☺️92@oneclickvpnkeys
+- name: 7,8|IR-@V2rayAlpha--5
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
@@ -68,6 +76,16 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
+- name: 7|♻️53@oneclickvpnkeys
+  obfs: salamander
+  obfs-password: 3Lse3bDmcLLlEa77sdYZe0o6kywbTwII
+  password: spectrumvpn
+  port: 443
+  server: uk.spectrum.vu
+  skip-cert-verify: true
+  sni: google.com
+  tls: false
+  type: hysteria2
 - name: 8|All_7--@V2rayAlpha
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
@@ -88,7 +106,7 @@ proxies:
   sni: jnir.pichondan.com
   tls: false
   type: hysteria2
-- name: 8|@icv2ray
+- name: 8|@meliproxyy
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
