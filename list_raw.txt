@@ -108,4 +108,4 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@199.119.137.95:2053?allowInsecure=0
 vless://cca053d5-7123-4a87-83d6-babe4e9c8115@103.245.237.124:58202?allowInsecure=0&type=ws#15%7CVN_speednode_0083
 https://ItQzQW.mcsslk.xyz/c99fa3cf32aafe74cd0a88369116a433
 hhy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xjp1.mangshe.xyz:2055/?insecure=1&sni=xjp1.mangshe.xyz#1
-https://hUCu9T.absslk.xyz/2e13090f2863832261d69ee12267c6ca
+https://1lJFpj.absslk.xyz/f9a0094f1810098909a6f8f594ff30bc
