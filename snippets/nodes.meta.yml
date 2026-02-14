@@ -7,7 +7,15 @@ proxies:
   sni: mlxy1.xiaoliyu.us
   tls: false
   type: hysteria2
-- name: 7,8|@vpnbaz
+- name: '7|@Trick_mobil #1'
+  password: 04c2a097-5ed8-49b6-9860-cb4667583745
+  port: 2056
+  server: mlxy2.xiaoliyu.us
+  skip-cert-verify: true
+  sni: mlxy2.xiaoliyu.us
+  tls: false
+  type: hysteria2
+- name: '7|@Trick_mobil #2'
   password: 17cdeb6c-f046-11ee-bdac-f23c93141fad
   port: 1743
   server: c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk
