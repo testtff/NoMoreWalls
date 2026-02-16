@@ -102,7 +102,7 @@ proxies:
   sni: dash.cloudflare.com
   tls: false
   type: hysteria2
-- name: 8|elegram"@Filtering2020"
+- name: 8|🟢Ṭelegram"@Filtering2020"
   obfs: salamander
   obfs-password: Telegram-->@AliXTso
   password: Telegram-->@AliXTso
