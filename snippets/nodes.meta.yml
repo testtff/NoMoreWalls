@@ -38,14 +38,6 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '7|@Trick_mobil #5'
-  password: Telegram-->@Ln2Ray
-  port: 45000
-  server: gavazn.lnmarketplace.net
-  skip-cert-verify: true
-  sni: 🔒
-  tls: false
-  type: hysteria2
 - name: 7|DE
   password: a084933d-0b41-4571-ae0c-7163b8c71ed1
   port: 2056
@@ -70,14 +62,6 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 7|2@oneclickvpnkeys
-  password: zhangyang
-  port: 6443
-  server: 130.61.50.75
-  skip-cert-verify: true
-  sni: dash.cloudflare.com
-  tls: false
-  type: hysteria2
 - name: 8|🟢Ṭelegram"@Filtering2020"
   obfs: salamander
   obfs-password: Telegram-->@AliXTso
@@ -98,7 +82,7 @@ proxies:
   sni: gavazn.55994421.xyz
   tls: false
   type: hysteria2
-- name: 8|@filembad
+- name: '8|@filtershekanfilm #1'
   obfs: salamander
   obfs-password: Telegram-->@Ln2Ray
   password: Telegram-->
