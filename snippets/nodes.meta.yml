@@ -62,32 +62,12 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 8|🟢Ṭelegram"@Filtering2020"
-  obfs: salamander
-  obfs-password: Telegram-->@AliXTso
-  password: Telegram-->@AliXTso
-  port: 45000
-  server: gavazn.lnmarketplace.net
-  skip-cert-verify: true
-  sni: gavazn.55994421.xyz
-  tls: false
-  type: hysteria2
-- name: 8|@icv2ray
+- name: 8|سرورایبیشتردر:prrofile_purple@...
   obfs: salamander
   obfs-password: Telegram-->@Ln2Ray
   password: Telegram-->@Ln2Ray
   port: 45000
   server: gavazn.lnmarketplace.net
-  skip-cert-verify: true
-  sni: gavazn.55994421.xyz
-  tls: false
-  type: hysteria2
-- name: '8|@filtershekanfilm #1'
-  obfs: salamander
-  obfs-password: Telegram-->@Ln2Ray
-  password: Telegram-->
-  port: 45000
-  server: filtershekanfilm==gavazn.lnmarketplace.net
   skip-cert-verify: true
   sni: gavazn.55994421.xyz
   tls: false
@@ -132,7 +112,7 @@ proxies:
   sni: jnir.pichondan.com
   tls: false
   type: hysteria2
-- name: 8|VayNora
+- name: 8|Em60
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
