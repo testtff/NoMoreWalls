@@ -30,18 +30,10 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '7|@Trick_mobil #4'
+- name: '7|@Trick_mobil #3'
   password: Telegram-->@Ln2Ray
   port: 45000
   server: gavazn.lnmarketplace.net
-  skip-cert-verify: true
-  sni: 🔒
-  tls: false
-  type: hysteria2
-- name: 7|@V2rayBaaz
-  password: Yet-Another-Public-Config-1
-  port: 36400
-  server: 206.71.158.37
   skip-cert-verify: true
   sni: 🔒
   tls: false
@@ -70,17 +62,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 8|🟢Ṭelegram"@Filtering2020"
-  obfs: salamander
-  obfs-password: Telegram-->@AliXTso
-  password: Telegram-->@AliXTso
-  port: 45000
-  server: gavazn.lnmarketplace.net
-  skip-cert-verify: true
-  sni: gavazn.55994421.xyz
-  tls: false
-  type: hysteria2
-- name: 8|سرورایبیشتردر:prrofile_purple@...
+- name: 8|ری:prrofile_purple@✅
   obfs: salamander
   obfs-password: Telegram-->@Ln2Ray
   password: Telegram-->@Ln2Ray
@@ -150,7 +132,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 8|@flyv2ray
+- name: 8|@meliproxyy
   obfs: salamander
   obfs-password: etXTC5FrUoTkMu2xlBradrUQrLDMgHJ
   password: freeflyzone1
@@ -168,6 +150,14 @@ proxies:
   server: 172.232.207.161
   skip-cert-verify: true
   sni: www.azki.com@freenettir
+  tls: false
+  type: hysteria2
+- name: '8|未命名 #1'
+  password: zhangyang
+  port: 6443
+  server: 130.61.50.75
+  skip-cert-verify: true
+  sni: dash.cloudflare.com
   tls: false
   type: hysteria2
 - cipher: aes-256-cfb
