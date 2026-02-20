@@ -62,7 +62,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 8|ری:prrofile_purple@✅
+- name: 8|none
   obfs: salamander
   obfs-password: Telegram-->@Ln2Ray
   password: Telegram-->@Ln2Ray
