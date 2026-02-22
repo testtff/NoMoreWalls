@@ -7,10 +7,24 @@ proxies:
   sni: 🔒
   tls: false
   type: hysteria2
+- name: '7|@Trick_mobil #1'
+  password: 5046SHWqk6
+  port: 844
+  server: 91.132.51.160
+  tls: false
+  type: hysteria2
 - name: 7|44@oneclickvpnkeys
   password: 545fb4e9-5794-4e20-be0c-e6d8689f91ac
   port: 35000
   server: 129.151.251.122
+  skip-cert-verify: true
+  sni: www.lamer.com.hk
+  tls: false
+  type: hysteria2
+- name: 7|📤88@oneclickvpnkeys
+  password: 545fb4e9-5794-4e20-be0c-e6d8689f91ac
+  port: 35000
+  server: 129.153.25.59
   skip-cert-verify: true
   sni: www.lamer.com.hk
   tls: false
@@ -56,7 +70,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '7|@Trick_mobil #4'
+- name: '7|@Trick_mobil #5'
   obfs: salamander
   obfs-password: Telegram-->@Ln2Ray
   password: Telegram-->@Ln2Ray
