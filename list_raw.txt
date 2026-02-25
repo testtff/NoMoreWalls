@@ -14,9 +14,10 @@ hysteria2://dMqSvWDoY0h8wJA4H7ZWJDFLDLF52065@43.153.7.213:8443?insecure=1&sni=bi
 hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@sg3.oomz.ru:30000?insecure=1&sni=bing.com#7%7CSG
 hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@tw.oomz.ru:30000?insecure=1&sni=bing.com#7%7CTW
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#8%7CAll_7--%40V2rayAlpha
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35200?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#8%7CKia_Net
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36300?insecure=0&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#8%7C%40Hddify
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36400?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#8%7C%40Hddify%20%231
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36600?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#8%7C%40WedBaZTel%20%231
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36600?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#8%7CKia_Net%20%232
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?insecure=1&sni=api.kermanshahi.org#8%7C%40Spartan_YT
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?insecure=1&sni=jnir.pichondan.com&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#8%7C%40V2rayNG3%20%232
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?insecure=0&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#8%7C%40icv2ray%20%231
@@ -63,5 +64,5 @@ vless://5fad3ad2-1a94-40d0-85bb-51eb83f5c7df@109.172.55.232:13760?allowInsecure=
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@209.102.207.120:443?allowInsecure=0&sni=sni.111000.v6.navy&type=ws&host=sni.111000.v6.navy&path=/?ed=2560security=tls#15%7CUS_speednode_0021
 vless://010c8bf7-0a43-404f-a6c5-2427acb4d476@130.49.177.161:8443?allowInsecure=0&sni=sun6-21.userapi.com&fp=chrome&security=tls#15%7CUS_speednode_0023
 vless://b1267991-59ff-4b67-b141-97e3ced4e7c8@66.179.82.126:443?allowInsecure=0&sni=yahoo.com&fp=chrome&security=tls#15%7CUS_speednode_0024
-https://aLouam.absslk.xyz/3ed69b035b9a0c719d191859cdf10d07
-https://zPQgaG.mcsslk.xyz/b0ad6ab3c139beb5dec6fa51fd7000be
+https://A9C8PT.mcsslk.xyz/dedc0adf4818af2ea0c40e4444773c8b
+https://xH8EOU.absslk.xyz/e0b7ed03343bd73c77ac11371291dc5c
