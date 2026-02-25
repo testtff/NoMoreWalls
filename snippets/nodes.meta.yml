@@ -1,5 +1,5 @@
 proxies:
-- name: 7|🥾65@oneclickvpnkeys
+- name: 7|65@oneclickvpnkeys
   password: 0b8a288c
   port: 65160
   server: 107.174.181.241
@@ -7,7 +7,7 @@ proxies:
   sni: en.snu.ac.kr
   tls: false
   type: hysteria2
-- name: 7|@Trick_mobil
+- name: '7|@Trick_mobil #1'
   password: 17cdeb6c-f046-11ee-bdac-f23c93141fad
   port: 1743
   server: c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk
@@ -15,7 +15,7 @@ proxies:
   sni: ''
   tls: false
   type: hysteria2
-- name: '7|@Trick_mobil #1'
+- name: '7|@Trick_mobil #2'
   password: 1y4HweESOT
   port: 27995
   server: sss.ikun6.dpdns.org
