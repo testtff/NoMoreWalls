@@ -70,5 +70,5 @@ vless://e384913f-8863-47b4-8858-a84b68abb4a6@3.cdnconn.com:23335?allowInsecure=0
 vless://b1267991-59ff-4b67-b141-97e3ced4e7c8@66.179.82.126:443?allowInsecure=0&sni=yahoo.com&fp=chrome&security=tls#15%7CUS_speednode_0037
 vless://5a4abb78-ecd7-4d68-ab2a-c11a3842f261@198.62.62.248:443?allowInsecure=0&sni=tar.alabama-tigr.info&type=ws&host=tar.alabama-tigr.info&path=/lovefp=chrome&security=tls#15%7CUS_speednode_0038
 vless://e2273e4a-ae8f-4937-baa0-a68860e22e61@zf.sg1000.eu.cc:50000?allowInsecure=0&sni=yahoo.com&fp=chrome&security=tls#15%7CUS_speednode_0039
-https://WieKVk.mcsslk.xyz/e2444ddb7f57e7cc1563e8ec0c4e4ccd
-https://QNO0ca.absslk.xyz/20905703725a46678f06e67e3b271693
+https://ScjTvK.mcsslk.xyz/86fccfa7ffcb682cd68d7aea034d44ca
+https://4A4xgh.absslk.xyz/9dba0536689273c2c38ffa7bbbaed3f7
