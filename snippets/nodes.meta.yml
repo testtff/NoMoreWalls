@@ -78,14 +78,6 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 7|5@oneclickvpnkeys
-  password: germany_hysteria2_fastlane_5devbouui
-  port: 443
-  server: 150.241.79.106
-  skip-cert-verify: true
-  sni: de2.h.fastlanehosting.ru
-  tls: false
-  type: hysteria2
 - name: 7|🍪4@oneclickvpnkeys
   password: zhangyang
   port: 6443
@@ -142,7 +134,7 @@ proxies:
   sni: jnir.pichondan.com
   tls: false
   type: hysteria2
-- name: '8|@icv2ray #3'
+- name: '8|@icv2ray #2'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
