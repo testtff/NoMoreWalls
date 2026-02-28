@@ -6,28 +6,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: 13|🇯🇵 日本|@ripaojiedian
-  password: BxceQaOe
-  port: 2762
-  server: 52.194.205.115
-  skip-cert-verify: true
-  sni: t.me%252Fripaojiedian
-  type: trojan
-- name: 13|🇯🇵 日本2|@ripaojiedian
-  password: 262f1d150049457ac1d6e66b020fa980
-  port: 400
-  server: 153.121.70.134
-  skip-cert-verify: false
-  sni: www.nintendogames.net
-  type: trojan
-- name: 13|🇯🇵 日本3|@ripaojiedian
-  password: 262f1d150049457ac1d6e66b020fa980
-  port: 3423
-  server: 153.121.38.213
-  skip-cert-verify: false
-  sni: www.nintendogames.net
-  type: trojan
-- name: 14|日本|@ripaojiedian
+- name: 13,14|日本|@ripaojiedian
   network: tcp
   password: BxceQaOe
   port: 2595
@@ -35,17 +14,19 @@ proxies:
   skip-cert-verify: true
   sni: t.me%252Fripaojiedian
   type: trojan
-- name: 14|日本2|@ripaojiedian
+- name: 13,14|日本2|@ripaojiedian
   network: tcp
   password: 262f1d150049457ac1d6e66b020fa980
   port: 400
   server: 3.112.20.105
+  skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 14|日本3|@ripaojiedian
+- name: 13,14|日本3|@ripaojiedian
   network: tcp
   password: 262f1d150049457ac1d6e66b020fa980
   port: 3423
   server: 3.112.20.105
+  skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
