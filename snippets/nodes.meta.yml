@@ -68,7 +68,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 8|🩵+@Azarakhsh_Proxy+🩷
+- name: 8|+@Azarakhsh_Proxy+
   obfs: salamander
   obfs-password: KevinZakarian
   password: KevinZakarian
@@ -136,14 +136,6 @@ proxies:
   server: 77.90.41.197
   skip-cert-verify: true
   sni: api.kermanshahi.org
-  tls: false
-  type: hysteria2
-- name: 8|6@oneclickvpnkeys
-  password: edd0d9b9-d2ef-40a0-af10-0dca357351e3
-  port: 65535
-  server: 132.145.52.10
-  skip-cert-verify: true
-  sni: www.microsoft.com
   tls: false
   type: hysteria2
 - cipher: aes-256-cfb
