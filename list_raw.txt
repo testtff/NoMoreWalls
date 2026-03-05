@@ -7,7 +7,7 @@ hysteria2://95D27EEF-B7AE-4076-BA39-40FDFA3D0F61@jp7.dexlos.com:13778?insecure=1
 hysteria2://a084933d-0b41-4571-ae0c-7163b8c71ed1@de.eyucdn.xyz:2056?insecure=1&sni=de.eyucdn.xyz#7%7CDE
 hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@sg3.oomz.ru:30000?insecure=1&sni=bing.com#7%7CSG
 hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@tw.oomz.ru:30000?insecure=1&sni=bing.com#7%7CTW
-hysteria2://KevinZakarian@179.61.132.96:8443?insecure=1&sni=179.61.132.96&obfs=salamander&obfs-password=KevinZakarian#8%7C%2B%40Azarakhsh_Proxy%2B
+hysteria2://KevinZakarian@179.61.132.96:8443?insecure=1&sni=179.61.132.96&obfs=salamander&obfs-password=KevinZakarian#8%7C%F0%9F%A9%B5%2B%40Azarakhsh_Proxy%2B%F0%9F%A9%B7
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#8%7CAll_7--%40V2rayAlpha
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#8%7C%40azdeltaghalam7%20%231
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#8%7C%40V2rayNG3%20%231
@@ -43,5 +43,5 @@ vless://4292f5ab-8963-2328-8052-3615895ce4f1@84.23.52.62:51192?allowInsecure=0&s
 vless://9e59f6bb-27b9-49b8-ba44-3f23afd367ca@109.120.181.190:8443?allowInsecure=0&sni=rbc.ru&flow=xtls-rprx-vision-udp443&fp=random&security=tls#15%7CRU_speednode_0016
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@143.20.236.51:443?allowInsecure=0&sni=yahoo.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#15%7CUS_speednode_0017
 vless://26524cce-d514-4014-a426-365fb266a14d@67.209.183.236:443?allowInsecure=0&sni=lirpeuijr.chinav.indevs.in&type=ws&host=lirpeuijr.chinav.indevs.in&path=/danfengfp=random&security=tls#15%7CUS_speednode_0018
-https://1nLM3A.absslk.xyz/97392f90757a8b1b1528b8108e05ea1c
-https://94urUX.mcsslk.xyz/dcd16990b93c2040445d33ae8ab779b5
+https://fVtuVh.mcsslk.xyz/e3ffd7b6c2f94ac34eda4ee056da3ae8
+https://3oZNcG.absslk.xyz/3d0c2164e14d38b82ceeb93bb55d4e94
