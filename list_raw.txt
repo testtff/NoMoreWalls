@@ -14,9 +14,7 @@ hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?insecure=1&
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?insecure=1&sni=jnir.pichondan.com&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#8%7C%40V2rayNG3%20%232
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#8%7C%40v2rayland02
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#8%7C%40V2rayNG3%20%233
-hysteria2://hysteria2_fastlane_81uqqeagr@150.241.78.128:443?insecure=1&sni=de3.h.fastlanehosting.ru#8%7C67%40oneclickvpnkeys
-hysteria2://hysteria2_fastlane_e4139zxuu@144.31.63.58:443?insecure=1&sni=de4.h.fastlanehosting.ru#8%7C%F0%9F%8C%BC66%40oneclickvpnkeys
-hysteria2://hysteria2_fastlane_qdx4o19um@150.241.79.106:443?insecure=1&sni=de2.h.fastlanehosting.ru#8%7C%F0%9F%8C%BC13%40oneclickvpnkeys
+hysteria2://hysteria2_fastlane_qdx4o19um@150.241.79.106:443?insecure=1&sni=de2.h.fastlanehosting.ru#8%7C13%40oneclickvpnkeys
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@63.180.254.10:443#13%7Ctg%E9%A2%91%E9%81%93%3A%40ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTN88J+HrfCfh7Ag6aaZ5rivfEByaXBhb2ppZWRpYW4iLCAiYWRkIjogInYxMC5oZGFjZC5jb20iLCAicG9ydCI6IDMwODA3LCAiYWlkIjogMiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiY2JiM2Y4NzctZDFmYi0zNDRjLTg3YTktZDE1M2JmZmQ1NDg0In0=
 trojan://f389ed926e512e15f382dc3804029474@175.41.228.177:921?allowInsecure=0&sni=www.nintendogames.net#13%2C14%7C%E9%A6%99%E6%B8%AF3%7C%40ripaojiedian
@@ -82,5 +80,5 @@ vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@68.64.179.96:443?allowInsecure=0&sn
 vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@68.64.179.243:443?allowInsecure=0&sni=ylnhh.cc.cd&type=ws&host=ylnhh.cc.cd&path=/Telegram🇨🇳@WangCai2security=tls#15%7CUS_speednode_0057
 vless://b8e03ade-a2a1-4cbb-b002-5e1148049735@64.188.64.63:8081?allowInsecure=0&sni=www.vk.com&fp=chrome&security=tls#15%7CUS_speednode_0058
 vless://b8e03ade-a2a1-4cbb-b002-5e1148049735@gfm.vpnhub.shop:8081?allowInsecure=0&sni=www.vk.com&fp=chrome&security=tls#15%7CUS_speednode_0059
-https://RyeouB.mcsslk.xyz/4b3124e37f1e4b260482821907585256
-https://Z4Qyv4.absslk.xyz/681127724b380073b853b47716e00980
+https://Hp6LP1.mcsslk.xyz/a04ff26d9a3cf1bc9542758da9f359d3
+https://cYzKWV.absslk.xyz/a78c85f3bf9ae108ca1fd279cb76d14a
