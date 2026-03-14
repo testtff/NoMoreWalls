@@ -8,34 +8,52 @@ proxies:
   tls: false
   type: hysteria2
 - name: '7|@Trick_mobil #1'
-  password: 78c2bad7-f5f3-41f2-88cc-81de9d05040b
-  port: 2056
-  server: mg2.mangshe.xyz
+  password: Telegram--&gt;@Ln2Ray
+  port: 45000
+  server: 206.71.158.23
   skip-cert-verify: true
-  sni: mg2.mangshe.xyz
+  sni: 🔒
   tls: false
   type: hysteria2
 - name: '7|@Trick_mobil #2'
-  password: 78c2bad7-f5f3-41f2-88cc-81de9d05040b
-  port: 2055
-  server: xjp1.mangshe.xyz
-  skip-cert-verify: true
-  sni: xjp1.mangshe.xyz
-  tls: false
-  type: hysteria2
-- name: '7|@Trick_mobil #3'
-  password: 95D27EEF-B7AE-4076-BA39-40FDFA3D0F61
-  port: 13778
-  server: jp7.dexlos.com
-  skip-cert-verify: true
-  tls: false
-  type: hysteria2
-- name: '7|@Trick_mobil #4'
   password: Telegram-->@Ln2Ray
   port: 45000
   server: 206.71.158.23
   skip-cert-verify: true
   sni: 🔒
+  tls: false
+  type: hysteria2
+- name: '7|@Trick_mobil #3'
+  password: Telegram-->@Ln2Ray
+  port: 45000
+  server: gavazn.lnmarketplace.net
+  skip-cert-verify: true
+  sni: 🔒
+  tls: false
+  type: hysteria2
+- name: '7|@Trick_mobil #4'
+  password: Yet-Another-Public-Config-1
+  port: 36400
+  server: 206.71.158.37
+  skip-cert-verify: true
+  sni: 🔒
+  tls: false
+  type: hysteria2
+- name: 8|@harfbzaniiim
+  obfs: salamander
+  obfs-password: pGBT2RES32Gr7S8DQx
+  password: 00a40f88-0900-4c29-9555-cf053a23071b
+  port: 11801
+  server: 167.86.100.40
+  skip-cert-verify: true
+  sni: 167.86.100.40
+  tls: false
+  type: hysteria2
+- name: 8|@filembad
+  password: 5046SHWqk6
+  port: 844
+  server: 91.132.51.160
+  skip-cert-verify: true
   tls: false
   type: hysteria2
 - name: 8|+@Azarakhsh_Proxy+
