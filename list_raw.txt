@@ -1,13 +1,12 @@
 hysteria2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk:1743?insecure=1&sni=🔒#7%7C%40Trick_mobil
-hysteria2://Telegram--%26gt%3B%40Ln2Ray@206.71.158.23:45000?insecure=1&sni=🔒#7%7C%40Trick_mobil%20%231
+hysteria2://5046SHWqk6@91.132.51.160:844?#7%7C%40Trick_mobil%20%231
 hysteria2://Telegram--%3E%40Ln2Ray@206.71.158.23:45000?insecure=1&sni=🔒#7%7C%40Trick_mobil%20%232
 hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000?insecure=1&sni=🔒#7%7C%40Trick_mobil%20%233
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36400?insecure=1&sni=🔒#7%7C%40Trick_mobil%20%234
-hysteria2://00a40f88-0900-4c29-9555-cf053a23071b@167.86.100.40:11801?insecure=1&sni=167.86.100.40&obfs=salamander&obfs-password=pGBT2RES32Gr7S8DQx#8%7C%40harfbzaniiim
-hysteria2://5046SHWqk6@91.132.51.160:844?insecure=1#8%7C%40filembad
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#7%2C8%7C%40azdeltaghalam7%20%231
+hysteria2://00a40f88-0900-4c29-9555-cf053a23071b@167.86.100.40:11801?insecure=1&sni=167.86.100.40&obfs=salamander&obfs-password=pGBT2RES32Gr7S8DQx#8%7C%40V2HUBIR
 hysteria2://KevinZakarian@179.61.132.96:8443?insecure=1&sni=179.61.132.96&obfs=salamander&obfs-password=KevinZakarian#8%7C%2B%40Azarakhsh_Proxy%2B
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#8%7CAll_7--%40V2rayAlpha
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#8%7C%40azdeltaghalam7%20%231
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#8%7C%40V2rayNG3%20%231
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?insecure=1&sni=jnir.pichondan.com&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#8%7C%40V2rayNG3%20%232
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#8%7C%40v2rayland02
@@ -54,6 +53,5 @@ vless://420a0e21-08c6-4e94-a965-41226b38b674@proxy.darknet.run:443?allowInsecure
 vless://7f37b28b-cfcb-4c2a-ae41-8f2ddc9325dd@144.31.234.7:4546?allowInsecure=0&sni=enterprise.api-maps.yandex.ru&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#15%7CUS_speednode_0029
 vless://b52989b9-09dc-4ca0-b722-e6fe3e8a0313@144.31.234.7:4546?allowInsecure=0&sni=enterprise.api-maps.yandex.ru&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#15%7CUS_speednode_0030
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@192.0.63.91:443?allowInsecure=0&sni=snippet.fgfw.indevs.in&type=ws&host=snippet.fgfw.indevs.in&path=/danfengsecurity=tls#15%7CUS_speednode_0031
-https://oJcTeF.mcsslk.xyz/85d8cce7a68011ce807f86cabc392032
-https://aMdBRW.absslk.xyz/c2fd25ddcc1422562eb68abfbb61967e
-hhy2://5046SHWqk6@91.132.51.160:844/#@Trick_mobil
+https://2jolLw.mcsslk.xyz/8810be24710133a5f87f7af0f2c691ff
+https://weS411.absslk.xyz/add7dba7b8394846f8b0c42cf369cf2d
