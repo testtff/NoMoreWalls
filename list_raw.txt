@@ -4,8 +4,7 @@ hysteria2://5046SHWqk6@91.132.51.160:844?insecure=1&sni=www.refersion.com#7%7Chy
 hysteria2://Telegram--%3E%40Ln2Ray@206.71.158.23:45000?insecure=1&sni=🔒#7%7C%40Trick_mobil%20%233
 hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000?insecure=1&sni=🔒#7%7C%40Trick_mobil%20%234
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36400?insecure=1&sni=🔒#7%7C%40Trick_mobil%20%235
-hysteria2://00a40f88-0900-4c29-9555-cf053a23071b@167.86.100.40:11801?insecure=1&sni=167.86.100.40&obfs=salamander&obfs-password=pGBT2RES32Gr7S8DQx#8%7C%40V2HUBIR
-hysteria2://86bfdc9d-64b0-447b-9316-2e3cc8712690@uk01.nekocloud.top:65001?insecure=1&sni=buylite.music.apple.com&obfs=salamander&obfs-password=YxNSWNJUQkeKDiPc#8%7C19%40oneclickvpnkeys
+hysteria2://2c833c5d-cbcc-4afb-89ba-d17dc39db6f0@75.127.13.83:47974?insecure=1&sni=www.bing.com#8%7C%40V2HUBIR
 hysteria2://KevinZakarian@179.61.132.96:8443?insecure=1&sni=179.61.132.96&obfs=salamander&obfs-password=KevinZakarian#8%7C%2B%40Azarakhsh_Proxy%2B
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#8%7CAll_7--%40V2rayAlpha
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#8%7C%40azdeltaghalam7%20%231
@@ -79,6 +78,5 @@ vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@192.0.63.216:443?allowInsecure=0&sn
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@192.0.63.76:443?allowInsecure=0&sni=snippet.danfeng.theworkpc.com&type=ws&host=snippet.danfeng.theworkpc.com&path=/danfeng?ed=2560security=tls#15%7CUS_speednode_0061
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@192.0.54.250:443?allowInsecure=0&sni=snippet.danfeng.theworkpc.com&type=ws&host=snippet.danfeng.theworkpc.com&path=/danfeng?ed=2560security=tls#15%7CUS_speednode_0062
 vless://d46ad20a-4454-4da7-8f9c-87f9152bedee@63.141.128.188:443?allowInsecure=0&sni=d2-us4.djwstlsweb.top&type=ws&host=d2-us4.djwstlsweb.top&path=/djjc/us4fp=ios&security=tls#15%7CUS_speednode_0063
-https://FnqOE8.mcsslk.xyz/b9e169b94198383c4c870516c1a3d458
-https://xFMoVp.absslk.xyz/91b66e3d94af5297980dabcaaa24a4bb
-hhysteria2://2c833c5d-cbcc-4afb-89ba-d17dc39db6f0@75.127.13.83:47974?security=tls&insecure=1&sni=www.bing.com#@V2HUBIR
+https://znGiyV.mcsslk.xyz/630fb7f97e876f3948540615be3340cf
+https://sySw7c.absslk.xyz/b15aca116e013a821db34a56d8e0e8f6
