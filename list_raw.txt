@@ -1,9 +1,4 @@
-hysteria2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk:1743?insecure=1&sni=🔒#7%7C%40Trick_mobil
-hysteria2://5046SHWqk6@91.132.51.160:844?#7%7C%40Trick_mobil%20%231
 hysteria2://5046SHWqk6@91.132.51.160:844?insecure=1&sni=www.refersion.com#7%7Chy
-hysteria2://Telegram--%3E%40Ln2Ray@206.71.158.23:45000?insecure=1&sni=🔒#7%7C%40Trick_mobil%20%233
-hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000?insecure=1&sni=🔒#7%7C%40Trick_mobil%20%234
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36400?insecure=1&sni=🔒#7%7C%40Trick_mobil%20%235
 hysteria2://KevinZakarian@179.61.132.96:8443?insecure=1&sni=179.61.132.96&obfs=salamander&obfs-password=KevinZakarian#8%7C%F0%9F%A9%B5%2B%40Azarakhsh_Proxy%2B%F0%9F%A9%B7
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#8%7CAll_7--%40V2rayAlpha
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#8%7C%40azdeltaghalam7%20%231
@@ -78,5 +73,5 @@ vless://729764b1-149c-49f2-b170-322544df7b5b@pl202.mechvpn.online:443?allowInsec
 vless://26524cce-d514-4014-a426-365fb266a14d@104.19.73.126:2053?allowInsecure=0&sni=d2wiyfbwnyf.danfeng.gv.uy&type=ws&host=d2wiyfbwnyf.danfeng.gv.uy&path=/danfeng?ed=2560fp=chrome&security=tls#15%7CUS_speednode_0061
 vless://26524cce-d514-4014-a426-365fb266a14d@convera.com:2053?allowInsecure=0&sni=mzees9mh.danfeng.gv.uy&type=ws&host=mzees9mh.danfeng.gv.uy&path=/danfengfp=chrome&security=tls#15%7CUS_speednode_0062
 vless://69bb253b-a6fe-ed44-1ebd-cd148ac58a53@mfa.gov.ua:443?allowInsecure=0&sni=b86bf7fa.mfree.ccwu.cc&alpn=h3&type=ws&host=b86bf7fa.mfree.ccwu.cc&path=/socks5=4b2c7676:6f0f4cbba5bb@38.111.30.111:26433fp=random&security=tls#15%7CUS_speednode_0063
-https://dWjEQm.mcsslk.xyz/f74ba721025bb28bc9bc51f38e358250
-https://xq2JFq.absslk.xyz/88550449bb29740997f371b421a5ff68
+https://tfqKyM.absslk.xyz/97e55a6fb816a6e9958bf0857b1a7843
+https://Fw79MW.mcsslk.xyz/22fadfac5ad5f972f93e9831977f91dd
