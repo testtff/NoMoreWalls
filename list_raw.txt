@@ -12,7 +12,7 @@ hysteria2://SNItest@37.18.14.169:443?insecure=1&sni=megafon.ru#8%7CAZARBAYJAB12R
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36300?insecure=0&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#8%7C%40WedBaZTel%20%231
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36400?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#8%7C%40WedBaZTel%20%232
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36600?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#8%7C%40WedBaZTel%20%233
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?insecure=0&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#8%7CConfigV2RayNG
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#8%7C%40v2ray_configs_pools%20%231
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?insecure=0&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#8%7CConfigV2RayNG%20%231
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?insecure=0&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@AliXTso-Javid-SHAH-KingRezaPahlavi#8%7C%40FooTNooD
 hysteria2://da231013-aef8-4c83-abfd-8d844545fe3a@132.145.28.17:65535?insecure=1&sni=www.microsoft.com#8%7C7%40oneclickvpnkeys
@@ -102,5 +102,5 @@ vless://d0b3e27d-bbfc-4a3b-8e60-6973de8fcefa@157.254.223.44:18959?allowInsecure=
 trojan://3ac6a6ca99f74941b1eaf892818e2ddb@194.33.45.157:443?allowInsecure=1#15%7CUS_speednode_0068
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@143.14.22.98:8443?allowInsecure=0&sni=snippet.chinat.eu.cc&alpn=http/1.1&type=ws&host=snippet.chinat.eu.cc&path=/danfengfp=random&security=tls#15%7CUS_speednode_0069
 vless://92b82d0f-d2f8-4f6f-b177-08f681a337e6@192.200.160.20:443?allowInsecure=0&sni=639073677243791121.camry-perma.info&type=ws&host=639073677243791121.camry-perma.info&path=/njvqoews?ed=2560security=tls#15%7CUS_speednode_0070
-https://wOAQlc.absslk.xyz/2e3c4cfc7b29d4483f148dde0e9ca7c5
-https://hF5esf.mcsslk.xyz/ffa3f5e861497aafdad0610c08950639
+https://O2ZsQZ.absslk.xyz/9189dd3e868952a2bd465eec8b161598
+https://LX2gFR.mcsslk.xyz/e88c611662ebb2757a637d15141cd435
