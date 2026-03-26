@@ -9,6 +9,16 @@ proxies:
   sni: 179.61.132.96
   tls: false
   type: hysteria2
+- alpn:
+  - h3
+  name: 8|v2ray_freex
+  password: auth
+  port: 443
+  server: 49.12.142.89
+  skip-cert-verify: true
+  sni: www.microsoft.com
+  tls: false
+  type: hysteria2
 - cipher: aes-256-cfb
   name: 13|tg频道:@ripaojiedian
   password: amazonskr05
