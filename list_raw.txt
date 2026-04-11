@@ -1,4 +1,5 @@
 hysteria2://0d892bc7-41c5-4dc5-90bb-40dfc0043dd5@51.195.241.243:443?insecure=1#8%7C%F0%9F%90%B515%40oneclickvpnkeys
+hysteria2://7151e6b8-0d8e-4548-a9f2-af52ccc2cdfe@89.23.107.251:4433?insecure=1&sni=nl1.xiaoliyu.cyou#8%7C1%40oneclickvpnkeys
 hysteria2://hysteria2_fastlane_jwiedq1o6@5.181.21.132:443?insecure=1&sni=at1.h.smartaisupport.ru#8%7C%F0%9F%90%B537%40oneclickvpnkeys
 hysteria2://rstnnl@reddeadfan.rd-team.ru:443?insecure=1&sni=reddeadfan.rd-team.ru&obfs=salamander&obfs-password=FxZylbqClUqVqAs2nezW9kPyFb2edZ2#8%7C%F0%9F%90%B514%40oneclickvpnkeys
 hysteria2://strong-secret-pass-777@82.118.16.61:444?insecure=1&sni=www.microsoft.com&obfs=salamander&obfs-password=cry_me_a_r1ver_2026#8%7C%F0%9F%90%B539%40oneclickvpnkeys
