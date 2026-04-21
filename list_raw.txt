@@ -1,3 +1,5 @@
+hysteria2://V9TUQQMN40@23.27.240.33:23161?insecure=1#7%7C%E2%99%9291%40oneclickvpnkeys
+hysteria2://hrxvl5n08w@54.169.235.155:23943?insecure=1#7%7C%E2%99%9297%40oneclickvpnkeys
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@63.180.254.10:443#13%7Ctg%E9%A2%91%E9%81%93%3A%40ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTN88J+HrfCfh7Ag6aaZ5rivfEByaXBhb2ppZWRpYW4iLCAiYWRkIjogInYxMC5oZGFjZC5jb20iLCAicG9ydCI6IDMwODA3LCAiYWlkIjogMiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiY2JiM2Y4NzctZDFmYi0zNDRjLTg3YTktZDE1M2JmZmQ1NDg0In0=
 trojan://1774240c00db2b77d5a99f6540c47b69@18.167.20.54:52687?allowInsecure=0&sni=www.nintendogames.net#13%2C14%7C%E9%A6%99%E6%B8%AF3%7C%40ripaojiedian
@@ -39,4 +41,4 @@ vless://fb99f4f0-181d-4117-be22-df9856fbbc06@72.56.35.163:4454?allowInsecure=0&s
 vless://fb99f4f0-181d-4117-be22-df9856fbbc06@72.56.35.203:4495?allowInsecure=0&sni=files.moscownews24.ru&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#15%7CUS_speednode_0027
 vless://19ef3d02-1c55-4fec-9794-6def8cbac396@st-2.globalcache.onnstreaming.ru:443?allowInsecure=0&sni=st-2.globalcache.onnstreaming.ru&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#15%7CUS_speednode_0028
 vless://fb99f4f0-181d-4117-be22-df9856fbbc06@72.56.39.76:4510?allowInsecure=0&sni=files.moscownews24.ru&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#15%7CUS_speednode_0029
-https://vHyzqm.absslk.xyz/9c40d66c87697a5a1325a3834802ff82
+https://vXOR5s.absslk.xyz/9474c9dcf956b2a4833fd0b891e4a7b4
