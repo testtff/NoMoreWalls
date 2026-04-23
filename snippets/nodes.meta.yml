@@ -1,16 +1,10 @@
 proxies:
-- name: 7|♒91@oneclickvpnkeys
-  password: V9TUQQMN40
-  port: 23161
-  server: 23.27.240.33
+- name: 8|🐲4@oneclickvpnkeys
+  password: hysteria_master_password
+  port: 443
+  server: 72.56.122.195
   skip-cert-verify: true
-  tls: false
-  type: hysteria2
-- name: 7|♒97@oneclickvpnkeys
-  password: hrxvl5n08w
-  port: 23943
-  server: 54.169.235.155
-  skip-cert-verify: true
+  sni: google.com
   tls: false
   type: hysteria2
 - cipher: aes-256-cfb
