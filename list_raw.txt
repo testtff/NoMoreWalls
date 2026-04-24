@@ -1,4 +1,3 @@
-hysteria2://hysteria_master_password@72.56.122.195:443?insecure=1&sni=google.com#8%7C%F0%9F%90%B24%40oneclickvpnkeys
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@63.180.254.10:443#13%7Ctg%E9%A2%91%E9%81%93%3A%40ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTN88J+HrfCfh7Ag6aaZ5rivfEByaXBhb2ppZWRpYW4iLCAiYWRkIjogInYxMC5oZGFjZC5jb20iLCAicG9ydCI6IDMwODA3LCAiYWlkIjogMiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiY2JiM2Y4NzctZDFmYi0zNDRjLTg3YTktZDE1M2JmZmQ1NDg0In0=
 trojan://1774240c00db2b77d5a99f6540c47b69@18.162.152.196:52687?allowInsecure=0&sni=www.nintendogames.net#13%2C14%7C%E9%A6%99%E6%B8%AF3%7C%40ripaojiedian
@@ -174,4 +173,4 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@169.40.1.34:443?allowInsecure=0&sni
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@46.243.6.25:443?allowInsecure=0&sni=sni.111000.v6.rocks&type=ws&host=sni.111000.v6.rocks&path=/?ed=2560security=tls#15%7CVG_speednode_0169
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@46.243.1.164:443?allowInsecure=0&sni=sni.111000.v6.rocks&type=ws&host=sni.111000.v6.rocks&path=/?ed=2560security=tls#15%7CVG_speednode_0170
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@46.243.1.9:443?allowInsecure=0&sni=sni.111000.v6.rocks&type=ws&host=sni.111000.v6.rocks&path=/?ed=2560security=tls#15%7CVG_speednode_0171
-https://Ye4PXb.absslk.xyz/8e4825012618af158583a5c108959149
+https://wUUcIo.absslk.xyz/68857ae5cffb0856dba9bbc09d4874c3

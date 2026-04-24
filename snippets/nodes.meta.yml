@@ -1,12 +1,4 @@
 proxies:
-- name: 8|🐲4@oneclickvpnkeys
-  password: hysteria_master_password
-  port: 443
-  server: 72.56.122.195
-  skip-cert-verify: true
-  sni: google.com
-  tls: false
-  type: hysteria2
 - cipher: aes-256-cfb
   name: 13|tg频道:@ripaojiedian
   password: amazonskr05
