@@ -17,7 +17,7 @@ proxies:
   sni: x.kishonline.online
   tls: false
   type: hysteria2
-- name: 8|@filembad
+- name: 8|@B2vasl1
   obfs: salamander
   obfs-password: kish-data-center
   password: tgut4USqOM
