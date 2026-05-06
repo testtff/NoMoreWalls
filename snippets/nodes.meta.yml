@@ -7,22 +7,12 @@ proxies:
   sni: addons.mozilla.org
   tls: false
   type: hysteria2
-- name: 8|@InfoTech_VK
+- name: 8|@YamYamProxy
   password: DBUklcvOyH
   port: 443
   server: 45.81.19.251
   skip-cert-verify: true
   sni: web.bale.ai
-  tls: false
-  type: hysteria2
-- name: 8|@B2vasl1
-  obfs: salamander
-  obfs-password: kish-data-center
-  password: Nb7SQvNGpA
-  port: 443
-  server: srm.kishonline.online
-  skip-cert-verify: false
-  sni: srm.kishonline.online
   tls: false
   type: hysteria2
 - cipher: aes-256-cfb
