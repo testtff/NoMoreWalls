@@ -1,5 +1,15 @@
 proxies:
-- name: 8|ا+ا+ای+++prrofile_purple@
+- name: 8|TEL;Father_vpn
+  obfs: salamander
+  obfs-password: kish-data-center
+  password: Kz0JGcGICb
+  port: 443
+  server: srm.kishonline.online
+  skip-cert-verify: false
+  sni: srm.kishonline.online
+  tls: false
+  type: hysteria2
+- name: 8|ا++ای+++prrofile_purple@
   obfs: salamander
   obfs-password: kish-data-center
   password: tSVwuwRnNk
