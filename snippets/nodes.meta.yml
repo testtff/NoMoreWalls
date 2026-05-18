@@ -1,4 +1,12 @@
 proxies:
+- name: 7|👀1@oneclickvpnkeys
+  password: 2545ab46-6306-4f2b-badd-5531f384d55f
+  port: 4433
+  server: 185.228.139.247
+  skip-cert-verify: true
+  sni: de2.xiaoliyu.cyou
+  tls: false
+  type: hysteria2
 - name: 7|👀2@oneclickvpnkeys
   password: 2545ab46-6306-4f2b-badd-5531f384d55f
   port: 4433
