@@ -1,4 +1,11 @@
 proxies:
+- name: 8|59@oneclickvpnkeys
+  password: jOIItw1h4D
+  port: 8443
+  server: 138.124.182.202
+  sni: latviyaotpusk1.home.kg
+  tls: false
+  type: hysteria2
 - cipher: aes-256-cfb
   name: 13|tg频道:@ripaojiedian
   password: amazonskr05
