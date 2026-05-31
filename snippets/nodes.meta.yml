@@ -9,51 +9,11 @@ proxies:
   sni: qus.masir-sefid.shop
   tls: false
   type: hysteria2
-- name: '8|@filembad #2'
-  obfs: salamander
-  obfs-password: Masir_Sefid
-  password: Masir_Sefid
-  port: 4040
-  server: 18.196.180.90
-  skip-cert-verify: false
-  sni: qus.masir-sefid.shop
-  tls: false
-  type: hysteria2
-- name: '8|@filembad #3'
-  obfs: salamander
-  obfs-password: Masir_Sefid
-  password: Masir_Sefid
-  port: 443
-  server: 18.196.180.90
-  skip-cert-verify: false
-  sni: qus.masir-sefid.shop
-  tls: false
-  type: hysteria2
-- name: '8|@filembad #4'
+- name: 8|@V2ray_official
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid
   port: 444
-  server: 18.196.180.90
-  skip-cert-verify: false
-  sni: qus.masir-sefid.shop
-  tls: false
-  type: hysteria2
-- name: '8|@filembad #5'
-  obfs: salamander
-  obfs-password: Masir_Sefid
-  password: Masir_Sefid
-  port: 54040
-  server: 18.196.180.90
-  skip-cert-verify: false
-  sni: qus.masir-sefid.shop
-  tls: false
-  type: hysteria2
-- name: '8|@filembad #6'
-  obfs: salamander
-  obfs-password: Masir_Sefid
-  password: Masir_Sefid
-  port: 8880
   server: 18.196.180.90
   skip-cert-verify: false
   sni: qus.masir-sefid.shop
@@ -95,6 +55,16 @@ proxies:
   server: musicclips.videolinks.ru
   skip-cert-verify: true
   sni: musicclips.videolinks.ru
+  tls: false
+  type: hysteria2
+- name: 8|76@oneclickvpnkeys
+  obfs: salamander
+  obfs-password: CvxXZnSth1bVJKGFP2cof4rI52ifHJ2W
+  password: rstnnl2705
+  port: 443
+  server: nrealistic.nn-foto.ru
+  skip-cert-verify: true
+  sni: nrealistic.nn-foto.ru
   tls: false
   type: hysteria2
 - cipher: aes-256-cfb
