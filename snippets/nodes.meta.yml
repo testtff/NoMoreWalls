@@ -1,12 +1,62 @@
 proxies:
-- name: 7|IPv4.@Vasl_b
+- name: 8|ARGO_VPNN_mci_5
   obfs: salamander
-  obfs-password: OzJ10Bk1Z9MfaTDFAgDX0HldGsMiI7C2
-  password: t8667063839
+  obfs-password: Masir_Sefid
+  password: Masir_Sefid
+  port: 1040
+  server: 18.159.66.5
+  skip-cert-verify: false
+  sni: qus.masir-sefid.shop
+  tls: false
+  type: hysteria2
+- name: 8|ARGO_VPNN_mci_3
+  obfs: salamander
+  obfs-password: Masir_Sefid
+  password: Masir_Sefid
+  port: 4040
+  server: 18.159.66.5
+  skip-cert-verify: false
+  sni: qus.masir-sefid.shop
+  tls: false
+  type: hysteria2
+- name: 8|ARGO_VPNN_mci_1
+  obfs: salamander
+  obfs-password: Masir_Sefid
+  password: Masir_Sefid
   port: 443
-  server: vids.jibijij.top
-  skip-cert-verify: true
-  sni: bts.com
+  server: 18.159.66.5
+  skip-cert-verify: false
+  sni: qus.masir-sefid.shop
+  tls: false
+  type: hysteria2
+- name: 8|ARGO_VPNN_mci_7
+  obfs: salamander
+  obfs-password: Masir_Sefid
+  password: Masir_Sefid
+  port: 444
+  server: 18.159.66.5
+  skip-cert-verify: false
+  sni: qus.masir-sefid.shop
+  tls: false
+  type: hysteria2
+- name: 8|ARGO_VPNN_mci_4
+  obfs: salamander
+  obfs-password: Masir_Sefid
+  password: Masir_Sefid
+  port: 54040
+  server: 18.159.66.5
+  skip-cert-verify: false
+  sni: qus.masir-sefid.shop
+  tls: false
+  type: hysteria2
+- name: 8|ARGO_VPNN_mci_6
+  obfs: salamander
+  obfs-password: Masir_Sefid
+  password: Masir_Sefid
+  port: 8880
+  server: 18.159.66.5
+  skip-cert-verify: false
+  sni: qus.masir-sefid.shop
   tls: false
   type: hysteria2
 - name: 8|Echo_Center
@@ -47,26 +97,6 @@ proxies:
   server: 5.175.249.174
   skip-cert-verify: true
   sni: api.kermanshahi.org
-  tls: false
-  type: hysteria2
-- name: 8|4@oneclickvpnkeys
-  obfs: salamander
-  obfs-password: FxZylbqClUqVqAs2nezW9kPyFb2edZ2
-  password: rstnnl2705
-  port: 443
-  server: reddeadfan.rd-team.ru
-  skip-cert-verify: true
-  sni: reddeadfan.rd-team.ru
-  tls: false
-  type: hysteria2
-- name: 8|🔊76@oneclickvpnkeys
-  obfs: salamander
-  obfs-password: CvxXZnSth1bVJKGFP2cof4rI52ifHJ2W
-  password: rstnnl2705
-  port: 443
-  server: nrealistic.nn-foto.ru
-  skip-cert-verify: true
-  sni: nrealistic.nn-foto.ru
   tls: false
   type: hysteria2
 - cipher: aes-256-cfb

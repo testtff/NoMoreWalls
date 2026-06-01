@@ -1,10 +1,13 @@
-hysteria2://t8667063839@vids.jibijij.top:443?insecure=1&sni=bts.com&obfs=salamander&obfs-password=OzJ10Bk1Z9MfaTDFAgDX0HldGsMiI7C2#7%7CIPv4.%40Vasl_b
+hysteria2://Masir_Sefid@18.159.66.5:1040?insecure=0&sni=qus.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#8%7CARGO_VPNN_mci_5
+hysteria2://Masir_Sefid@18.159.66.5:4040?insecure=0&sni=qus.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#8%7CARGO_VPNN_mci_3
+hysteria2://Masir_Sefid@18.159.66.5:443?insecure=0&sni=qus.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#8%7CARGO_VPNN_mci_1
+hysteria2://Masir_Sefid@18.159.66.5:444?insecure=0&sni=qus.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#8%7CARGO_VPNN_mci_7
+hysteria2://Masir_Sefid@18.159.66.5:54040?insecure=0&sni=qus.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#8%7CARGO_VPNN_mci_4
+hysteria2://Masir_Sefid@18.159.66.5:8880?insecure=0&sni=qus.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#8%7CARGO_VPNN_mci_6
 hysteria2://Masir_Sefid@18.194.238.82:54040?insecure=0&sni=qus.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#8%7CEcho_Center
 hysteria2://Masir_Sefid@18.196.180.90:444?insecure=0&sni=qus.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#8%7C%40V2ray_official
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#8%7C%40KAFING_2
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#8%7C%40KAFING_2%20%232
-hysteria2://rstnnl2705@reddeadfan.rd-team.ru:443?insecure=1&sni=reddeadfan.rd-team.ru&obfs=salamander&obfs-password=FxZylbqClUqVqAs2nezW9kPyFb2edZ2#8%7C4%40oneclickvpnkeys
-hysteria2://rstnnl2705@nrealistic.nn-foto.ru:443?insecure=1&sni=nrealistic.nn-foto.ru&obfs=salamander&obfs-password=CvxXZnSth1bVJKGFP2cof4rI52ifHJ2W#8%7C%F0%9F%94%8A76%40oneclickvpnkeys
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@63.180.254.10:443#13%7Ctg%E9%A2%91%E9%81%93%3A%40ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTN88J+HrfCfh7Ag6aaZ5rivfEByaXBhb2ppZWRpYW4iLCAiYWRkIjogInYxMC5oZGFjZC5jb20iLCAicG9ydCI6IDMwODA3LCAiYWlkIjogMiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiY2JiM2Y4NzctZDFmYi0zNDRjLTg3YTktZDE1M2JmZmQ1NDg0In0=
 trojan://d84665c37878196ecf983cf6910e3b44@13.115.175.169:2008?allowInsecure=0&sni=www.nintendogames.net#13%2C14%7C%E9%A6%99%E6%B8%AF3%7C%40ripaojiedian
@@ -43,4 +46,3 @@ vless://4706d9c3-eec0-4666-9d84-e608a200e872@194.226.169.36:443?allowInsecure=0&
 vless://9287f532-4150-48ff-a755-64b21e30e9c3@217.26.24.101:23151?allowInsecure=0&sni=cms-res-web.online.sberbank.ru&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#15%7CRU_speednode_0047
 vless://e277ac9b-3225-4381-a9fb-3585419f7142@kobe.ns.cloudflare.com:443?allowInsecure=0&sni=35cdnws.frnstatic.info&alpn=http/1.1&type=ws&host=35cdnws.frnstatic.info&path=/35cdnwsfp=firefox&security=tls#15%7CUS_speednode_0054
 https://UtIfWQ.absslk.xyz/564f7c349c810b0d3bc11f4a8fb3cc1a
-hhysteria2://Masir_Sefid@18.194.238.82:54040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qus.masir-sefid.shop#@meliproxyy
