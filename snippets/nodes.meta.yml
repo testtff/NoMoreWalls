@@ -1,10 +1,20 @@
 proxies:
-- name: 8|kurdconfig
+- name: 7|IPv4.@Vasl_b
+  obfs: salamander
+  obfs-password: OzJ10Bk1Z9MfaTDFAgDX0HldGsMiI7C2
+  password: t8667063839
+  port: 443
+  server: vids.jibijij.top
+  skip-cert-verify: true
+  sni: bts.com
+  tls: false
+  type: hysteria2
+- name: 8|Echo_Center
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid
-  port: 1040
-  server: 18.196.180.90
+  port: 54040
+  server: 18.194.238.82
   skip-cert-verify: false
   sni: qus.masir-sefid.shop
   tls: false
@@ -39,17 +49,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 8|58@oneclickvpnkeys
-  obfs: salamander
-  obfs-password: hH0l2Acqz3RtodoSCNCpNJqDSZtp4Qw
-  password: rstnnl2705
-  port: 443
-  server: musicclips.videolinks.ru
-  skip-cert-verify: true
-  sni: musicclips.videolinks.ru
-  tls: false
-  type: hysteria2
-- name: 8|4🔊@oneclickvpnkeys
+- name: 8|4@oneclickvpnkeys
   obfs: salamander
   obfs-password: FxZylbqClUqVqAs2nezW9kPyFb2edZ2
   password: rstnnl2705
