@@ -9,7 +9,7 @@ proxies:
   sni: 179.61.132.96
   tls: false
   type: hysteria2
-- name: '8|@internet_azad_2026 #1'
+- name: 8|@internet_azad_2026
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid
@@ -29,7 +29,7 @@ proxies:
   sni: free.masir-sefid.shop
   tls: false
   type: hysteria2
-- name: '8|@internet_azad_2026🇩🇪 #1'
+- name: 8|@mtproto_proserver
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid
@@ -39,7 +39,7 @@ proxies:
   sni: free.masir-sefid.shop
   tls: false
   type: hysteria2
-- name: '8|@internet_azad_2026 #4'
+- name: '8|@internet_azad_2026 #3'
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid
@@ -109,7 +109,7 @@ proxies:
   sni: free.masir-sefid-1.my
   tls: false
   type: hysteria2
-- name: '8|@internet_azad_2026 #8'
+- name: '8|@internet_azad_2026 #7'
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid
@@ -189,23 +189,22 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 8|@tootffarangi
+- name: 8|🇩🇪DE-@VPNine1
+  obfs: salamander
+  obfs-password: masir_sefid
+  password: masir_sefid
+  port: 443
+  server: 18.157.51.145
+  skip-cert-verify: false
+  sni: content.masir-sefid.shop
+  tls: false
+  type: hysteria2
+- name: '8|@internet_azad_2026🇩🇪 #4'
   obfs: salamander
   obfs-password: masir_sefid
   password: masir_sefid
   port: 443
   server: 18.194.63.255
-  skip-cert-verify: false
-  sni: content.masir-sefid.shop
-  tls: false
-  type: hysteria2
-- name: 8|@tootffarangi🍓
-  obfs: salamander
-  obfs-password: masir_sefid
-  password: masir_sefid
-  port: 443
-  ports: 500-56000
-  server: 3.121.136.75
   skip-cert-verify: false
   sni: content.masir-sefid.shop
   tls: false
