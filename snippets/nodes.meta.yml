@@ -1,13 +1,15 @@
 proxies:
-- name: 8|JP-@VPNine1
-  password: 9d0f6021-e1e3-47cd-a18e-722dd7f1c2ee
-  port: 443
-  server: 154.85.18.134
+- name: 8|🩵+@Azarakhsh_Proxy+🩷
+  obfs: salamander
+  obfs-password: KevinZakarian
+  password: KevinZakarian
+  port: 8443
+  server: 179.61.132.96
   skip-cert-verify: true
-  sni: www.bing.com
+  sni: 179.61.132.96
   tls: false
   type: hysteria2
-- name: 8|@internet_azad_2026
+- name: '8|@internet_azad_2026 #1'
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid
@@ -17,7 +19,7 @@ proxies:
   sni: free.masir-sefid.shop
   tls: false
   type: hysteria2
-- name: '8|@internet_azad_2026 #2'
+- name: 8|internet_azad_2026🇩🇪
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid
@@ -27,7 +29,7 @@ proxies:
   sni: free.masir-sefid.shop
   tls: false
   type: hysteria2
-- name: 8|@internet_azad_2026🇩🇪
+- name: '8|@internet_azad_2026🇩🇪 #1'
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid
@@ -47,7 +49,7 @@ proxies:
   sni: free.masir-sefid.shop
   tls: false
   type: hysteria2
-- name: '8|@internet_azad_2026🇩🇪 #1'
+- name: '8|@internet_azad_2026🇩🇪 #2'
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid
@@ -57,7 +59,7 @@ proxies:
   sni: free.masir-sefid.shop
   tls: false
   type: hysteria2
-- name: '8|@internet_azad_2026🇩🇪 #2'
+- name: '8|internet_azad_2026🇩🇪 #1'
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid
@@ -95,6 +97,26 @@ proxies:
   server: 18.193.90.31
   skip-cert-verify: false
   sni: qs.masir-sefid.shop
+  tls: false
+  type: hysteria2
+- name: 8|internet_azad_2026
+  obfs: salamander
+  obfs-password: Masir_Sefid
+  password: Masir_Sefid
+  port: 443
+  server: 195.15.254.245
+  skip-cert-verify: false
+  sni: free.masir-sefid-1.my
+  tls: false
+  type: hysteria2
+- name: '8|@internet_azad_2026 #8'
+  obfs: salamander
+  obfs-password: Masir_Sefid
+  password: Masir_Sefid
+  port: 444
+  server: 195.15.254.245
+  skip-cert-verify: false
+  sni: free.masir-sefid-1.my
   tls: false
   type: hysteria2
 - name: 8|⚡@V2ray_official
@@ -186,6 +208,14 @@ proxies:
   server: 3.121.136.75
   skip-cert-verify: false
   sni: content.masir-sefid.shop
+  tls: false
+  type: hysteria2
+- name: 8|♾️40@oneclickvpnkeys
+  password: zhangyang
+  port: 6443
+  server: 130.61.50.75
+  skip-cert-verify: true
+  sni: dash.cloudflare.com
   tls: false
   type: hysteria2
 - cipher: aes-256-cfb
