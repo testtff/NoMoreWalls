@@ -66,7 +66,7 @@ proxies:
   sni: free.masir-sefid.shop
   tls: false
   type: hysteria2
-- name: 8|@FreakConfig
+- name: 8|🇩🇪@FreakConfig
   obfs: salamander
   obfs-password: Masir_Sefid
   password: '@Masir_Sefid'
@@ -76,7 +76,7 @@ proxies:
   sni: free.masir-sefid.shop
   tls: false
   type: hysteria2
-- name: 8|🇩🇪@FreakConfig
+- name: '8|🇩🇪@FreakConfig #1'
   obfs: salamander
   obfs-password: Masir_Sefid
   password: '@Masir_Sefid'
@@ -106,7 +106,7 @@ proxies:
   sni: free.masir-sefid.shop
   tls: false
   type: hysteria2
-- name: '8|🇩🇪@FreakConfig #1'
+- name: '8|🇩🇪@FreakConfig #2'
   obfs: salamander
   obfs-password: Masir_Sefid
   password: '@Masir_Sefid'
@@ -161,16 +161,6 @@ proxies:
   obfs-password: Masir_Sefid
   password: Masir_Sefid
   port: 44044
-  server: 18.157.222.169
-  skip-cert-verify: false
-  sni: free.masir-sefid.shop
-  tls: false
-  type: hysteria2
-- name: '8|@internet_azad_2026 #9'
-  obfs: salamander
-  obfs-password: Masir_Sefid
-  password: Masir_Sefid
-  port: 443
   server: 18.157.222.169
   skip-cert-verify: false
   sni: free.masir-sefid.shop
@@ -236,7 +226,7 @@ proxies:
   sni: free2.masir-sefid-1.my
   tls: false
   type: hysteria2
-- name: '8|@internet_azad_2026 #13'
+- name: '8|@internet_azad_2026 #11'
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid
@@ -246,7 +236,7 @@ proxies:
   sni: free3.masir-sefid-1.my
   tls: false
   type: hysteria2
-- name: '8|@internet_azad_2026 #14'
+- name: '8|@internet_azad_2026 #12'
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid
@@ -256,7 +246,7 @@ proxies:
   sni: free3.masir-sefid-1.my
   tls: false
   type: hysteria2
-- name: '8|@internet_azad_2026 #15'
+- name: '8|@internet_azad_2026 #13'
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid
@@ -266,7 +256,7 @@ proxies:
   sni: free3.masir-sefid-1.my
   tls: false
   type: hysteria2
-- name: '8|@internet_azad_2026 #16'
+- name: '8|@internet_azad_2026 #14'
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid
