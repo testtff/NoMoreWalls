@@ -7,14 +7,6 @@ proxies:
   sni: mg2.mangshe.xyz
   tls: false
   type: hysteria2
-- name: 7|1
-  password: 78c2bad7-f5f3-41f2-88cc-81de9d05040b
-  port: 2055
-  server: xjp1.mangshe.xyz
-  skip-cert-verify: true
-  sni: xjp1.mangshe.xyz
-  tls: false
-  type: hysteria2
 - name: 7|JP
   password: 95D27EEF-B7AE-4076-BA39-40FDFA3D0F61
   port: 13778
@@ -303,7 +295,7 @@ proxies:
   sni: fi-node.farnet.top
   tls: false
   type: hysteria2
-- name: 8|@internet_azad_2026⚡
+- name: 8|@internet_azad_2026⚡️
   obfs: salamander
   obfs-password: masir_sefid
   password: masir_sefid
