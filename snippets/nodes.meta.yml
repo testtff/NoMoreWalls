@@ -49,6 +49,16 @@ proxies:
 - name: 8|@meliproxyy
   obfs: salamander
   obfs-password: Masir_Sefid
+  password: ''
+  port: -1
+  server: null
+  skip-cert-verify: false
+  sni: masir-sefid.shop
+  tls: false
+  type: hysteria2
+- name: '8|@meliproxyy #1'
+  obfs: salamander
+  obfs-password: Masir_Sefid
   password: '@Masir_Sefid'
   port: 1040
   server: 18.157.222.169
@@ -76,7 +86,7 @@ proxies:
   sni: free.masir-sefid.shop
   tls: false
   type: hysteria2
-- name: '8|@meliproxyy #3'
+- name: '8|@filembad #1'
   obfs: salamander
   obfs-password: Masir_Sefid
   password: '@Masir_Sefid'
@@ -86,7 +96,7 @@ proxies:
   sni: free.masir-sefid.shop
   tls: false
   type: hysteria2
-- name: '8|@internet_azad_2026 #3'
+- name: '8|@filembad #2'
   obfs: salamander
   obfs-password: Masir_Sefid
   password: '@Masir_Sefid'
@@ -106,7 +116,7 @@ proxies:
   sni: free.masir-sefid.shop
   tls: false
   type: hysteria2
-- name: '8|@meliproxyy #5'
+- name: '8|@meliproxyy #6'
   obfs: salamander
   obfs-password: Masir_Sefid
   password: '@Masir_Sefid'
@@ -246,7 +256,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: '8|@meliproxyy #7'
+- name: '8|@filembad #5'
   obfs: salamander
   obfs-password: masir_sefid
   password: masir_sefid
