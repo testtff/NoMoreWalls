@@ -57,23 +57,13 @@ proxies:
   obfs: salamander
   obfs-password: Masir_Sefid
   password: '@Masir_Sefid'
-  port: 4040
-  server: 18.157.222.169
-  skip-cert-verify: false
-  sni: free.masir-sefid.shop
-  tls: false
-  type: hysteria2
-- name: '8|@confiig_hub #1'
-  obfs: salamander
-  obfs-password: Masir_Sefid
-  password: '@Masir_Sefid'
   port: 44044
   server: 18.157.222.169
   skip-cert-verify: false
   sni: free.masir-sefid.shop
   tls: false
   type: hysteria2
-- name: '8|@confiig_hub #2'
+- name: '8|@confiig_hub #1'
   obfs: salamander
   obfs-password: Masir_Sefid
   password: '@Masir_Sefid'
@@ -93,17 +83,7 @@ proxies:
   sni: 179.61.132.96
   tls: false
   type: hysteria2
-- name: 8|@meliproxyy
-  obfs: salamander
-  obfs-password: Masir_Sefid
-  password: Masir_Sefid
-  port: 1040
-  server: 206.189.58.246
-  skip-cert-verify: false
-  sni: Api1.masir-sefid-1.my
-  tls: false
-  type: hysteria2
-- name: '8|@meliproxyy #1'
+- name: 8|@internet_azad_2026
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid
@@ -113,7 +93,7 @@ proxies:
   sni: Api1.masir-sefid-1.my
   tls: false
   type: hysteria2
-- name: '8|@meliproxyy #2'
+- name: '8|@internet_azad_2026 #1'
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid
@@ -123,7 +103,7 @@ proxies:
   sni: Api1.masir-sefid-1.my
   tls: false
   type: hysteria2
-- name: '8|@meliproxyy #3'
+- name: '8|@internet_azad_2026 #2'
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid
@@ -133,17 +113,7 @@ proxies:
   sni: Api1.masir-sefid-1.my
   tls: false
   type: hysteria2
-- name: '8|@meliproxyy #4'
-  obfs: salamander
-  obfs-password: Masir_Sefid
-  password: Masir_Sefid
-  port: 443
-  server: 206.189.58.246
-  skip-cert-verify: false
-  sni: Api1.masir-sefid-1.my
-  tls: false
-  type: hysteria2
-- name: '8|@meliproxyy #5'
+- name: '8|@internet_azad_2026 #3'
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid
@@ -153,7 +123,7 @@ proxies:
   sni: Api1.masir-sefid-1.my
   tls: false
   type: hysteria2
-- name: '8|@meliproxyy #6'
+- name: '8|@internet_azad_2026 #4'
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid
