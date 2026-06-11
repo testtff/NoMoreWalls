@@ -166,6 +166,16 @@ proxies:
   sni: Api.masir-sefid-1.my
   tls: false
   type: hysteria2
+- name: 8|@filembad
+  obfs: salamander
+  obfs-password: gxXGwphUe6APbFFsWA
+  password: Nrqyc1GkGr
+  port: 54236
+  server: panel.cobalttoolsgithub.online
+  skip-cert-verify: false
+  sni: panel.cobalttoolsgithub.online
+  tls: false
+  type: hysteria2
 - name: 8|@V2ray_official
   obfs: salamander
   obfs-password: ao5xmpi6qiedxrs2
@@ -194,14 +204,6 @@ proxies:
   server: 5.175.249.174
   skip-cert-verify: true
   sni: api.kermanshahi.org
-  tls: false
-  type: hysteria2
-- name: 8|17@oneclickvpnkeys
-  password: miaoge110
-  port: 51511
-  server: 5.45.100.100
-  skip-cert-verify: true
-  sni: www.bing.com
   tls: false
   type: hysteria2
 - cipher: aes-256-cfb
