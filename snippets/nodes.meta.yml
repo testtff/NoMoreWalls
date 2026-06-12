@@ -46,7 +46,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 8|🩵+@Azarakhsh_Proxy+🩷
+- name: 8|+@Azarakhsh_Proxy+
   obfs: salamander
   obfs-password: KevinZakarian
   password: KevinZakarian
@@ -60,63 +60,13 @@ proxies:
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid
-  port: 2053
-  server: 206.189.58.246
-  skip-cert-verify: false
-  sni: Api1.masir-sefid-1.my
-  tls: false
-  type: hysteria2
-- name: '8|@internet_azad_2026 #1'
-  obfs: salamander
-  obfs-password: Masir_Sefid
-  password: Masir_Sefid
-  port: 2087
-  server: 206.189.58.246
-  skip-cert-verify: false
-  sni: Api1.masir-sefid-1.my
-  tls: false
-  type: hysteria2
-- name: '8|@internet_azad_2026 #2'
-  obfs: salamander
-  obfs-password: Masir_Sefid
-  password: Masir_Sefid
-  port: 4040
-  server: 206.189.58.246
-  skip-cert-verify: false
-  sni: Api1.masir-sefid-1.my
-  tls: false
-  type: hysteria2
-- name: '8|@internet_azad_2026 #3'
-  obfs: salamander
-  obfs-password: Masir_Sefid
-  password: Masir_Sefid
-  port: 54040
-  server: 206.189.58.246
-  skip-cert-verify: false
-  sni: Api1.masir-sefid-1.my
-  tls: false
-  type: hysteria2
-- name: '8|@internet_azad_2026 #4'
-  obfs: salamander
-  obfs-password: Masir_Sefid
-  password: Masir_Sefid
-  port: 8443
-  server: 206.189.58.246
-  skip-cert-verify: false
-  sni: Api1.masir-sefid-1.my
-  tls: false
-  type: hysteria2
-- name: 8|@vmesskhodam
-  obfs: salamander
-  obfs-password: Masir_Sefid
-  password: Masir_Sefid
   port: 443
   server: 37.156.46.29
   skip-cert-verify: false
   sni: api.masir-sefid-1.my
   tls: false
   type: hysteria2
-- name: '8|@internet_azad_2026 #6'
+- name: '8|@internet_azad_2026 #1'
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid
@@ -126,7 +76,7 @@ proxies:
   sni: Api.masir-sefid-1.my
   tls: false
   type: hysteria2
-- name: '8|@internet_azad_2026 #7'
+- name: '8|@internet_azad_2026 #2'
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid
