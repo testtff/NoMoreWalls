@@ -53,26 +53,6 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: 8|@confiig_hub
-  obfs: salamander
-  obfs-password: Masir_Sefid
-  password: '@Masir_Sefid'
-  port: 44044
-  server: 18.157.222.169
-  skip-cert-verify: false
-  sni: free.masir-sefid.shop
-  tls: false
-  type: hysteria2
-- name: '8|@confiig_hub #1'
-  obfs: salamander
-  obfs-password: Masir_Sefid
-  password: '@Masir_Sefid'
-  port: 54040
-  server: 18.157.222.169
-  skip-cert-verify: false
-  sni: free.masir-sefid.shop
-  tls: false
-  type: hysteria2
 - name: 8|+@Azarakhsh_Proxy+
   obfs: salamander
   obfs-password: KevinZakarian
