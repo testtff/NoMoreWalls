@@ -56,7 +56,7 @@ proxies:
   sni: 179.61.132.96
   tls: false
   type: hysteria2
-- name: 8|@internet_azad_2026
+- name: 8|@filembad
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid

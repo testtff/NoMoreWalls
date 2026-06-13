@@ -5,7 +5,7 @@ hysteria2://a084933d-0b41-4571-ae0c-7163b8c71ed1@de.eyucdn.xyz:2056?insecure=1&s
 hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@sg3.oomz.ru:30000?insecure=1&sni=bing.com#7%7CSG
 hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@tw.oomz.ru:30000?insecure=1&sni=bing.com#7%7CTW
 hysteria2://KevinZakarian@179.61.132.96:8443?insecure=1&sni=179.61.132.96&obfs=salamander&obfs-password=KevinZakarian#8%7C%F0%9F%A9%B5%2B%40Azarakhsh_Proxy%2B%F0%9F%A9%B7
-hysteria2://Masir_Sefid@37.156.46.29:443?insecure=0&sni=api.masir-sefid-1.my&obfs=salamander&obfs-password=Masir_Sefid#8%7C%40internet_azad_2026
+hysteria2://Masir_Sefid@37.156.46.29:443?insecure=0&sni=api.masir-sefid-1.my&obfs=salamander&obfs-password=Masir_Sefid#8%7C%40filembad
 hysteria2://Masir_Sefid@84.234.28.207:443?insecure=0&sni=Api.masir-sefid-1.my&obfs=salamander&obfs-password=Masir_Sefid#8%7C%40internet_azad_2026%20%231
 hysteria2://Masir_Sefid@84.234.29.238:443?insecure=0&sni=Api.masir-sefid-1.my&obfs=salamander&obfs-password=Masir_Sefid#8%7C%40internet_azad_2026%20%232
 hysteria2://Vitamini_Channel@cdn.accuratenetworkchecker.ir:59095?insecure=1&sni=cdn.accuratenetworkchecker.ir&obfs=salamander&obfs-password=ao5xmpi6qiedxrs2#8%7C%40V2ray_official
@@ -36,4 +36,4 @@ vless://0058c215-ab1e-400c-a403-b5b2fda7e846@199.232.197.131:80?allowInsecure=0&
 vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@199.232.197.131:80?allowInsecure=0&sni=max-gb1.global.ssl.fastly.net&type=ws&host=max-gb1.global.ssl.fastly.net&path=/#15%7CUS_speednode_0050
 vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.2.219:80?allowInsecure=0&sni=max-gb1.global.ssl.fastly.net&type=ws&host=max-gb1.global.ssl.fastly.net&path=/#15%7CUS_speednode_0051
 vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.0.1:80?allowInsecure=1&sni=max-gb1.global.ssl.fastly.net&type=ws&host=max-gb1.global.ssl.fastly.net&path=/#15%7CUS_speednode_0052
-https://6QWxaG.absslk.xyz/ea58701e0ab077dcbcb48bedb588b238
+https://Py0rVH.absslk.xyz/ac4859f7d6d98530a5056c456145b4ca
