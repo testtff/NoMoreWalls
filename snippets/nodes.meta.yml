@@ -74,16 +74,6 @@ proxies:
   sni: api.masir-sefid-1.my
   tls: false
   type: hysteria2
-- name: '8|@internet_azad_2026 #1'
-  obfs: salamander
-  obfs-password: Masir_Sefid
-  password: Masir_Sefid
-  port: 443
-  server: 84.234.29.238
-  skip-cert-verify: false
-  sni: Api.masir-sefid-1.my
-  tls: false
-  type: hysteria2
 - name: 8|@KAFING_2
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
