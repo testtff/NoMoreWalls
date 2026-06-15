@@ -35,4 +35,4 @@ vless://0058c215-ab1e-400c-a403-b5b2fda7e846@199.232.197.131:80?allowInsecure=0&
 vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@199.232.197.131:80?allowInsecure=0&sni=max-gb1.global.ssl.fastly.net&type=ws&host=max-gb1.global.ssl.fastly.net&path=/#15%7CUS_speednode_0050
 vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.2.219:80?allowInsecure=0&sni=max-gb1.global.ssl.fastly.net&type=ws&host=max-gb1.global.ssl.fastly.net&path=/#15%7CUS_speednode_0051
 vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.0.1:80?allowInsecure=1&sni=max-gb1.global.ssl.fastly.net&type=ws&host=max-gb1.global.ssl.fastly.net&path=/#15%7CUS_speednode_0052
-https://Z7tRCH.absslk.xyz/672f75b79cd4d35e2a708a53804ac125
+https://BRBp70.absslk.xyz/c223f6cbe53f7a982a2facd80c86d198
