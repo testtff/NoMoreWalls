@@ -46,16 +46,6 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 8|@vmesskhodam
-  obfs: salamander
-  obfs-password: EsimObfs_9mK2x7
-  password: EsimHy2Game_7xK9mPq2
-  port: 443
-  server: 31.22.91.243
-  skip-cert-verify: false
-  sni: se.esimpson.org
-  tls: false
-  type: hysteria2
 - name: 8|+@Azarakhsh_Proxy+
   obfs: salamander
   obfs-password: KevinZakarian
@@ -86,6 +76,14 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
+- name: 8|64@oneclickvpnkeys
+  password: dongtaiwang.com
+  port: 22000
+  server: 62.210.10.108
+  skip-cert-verify: true
+  sni: www.microsoft.com
+  tls: false
+  type: hysteria2
 - name: 8|️️@ATLAS_V2VPN️️405️
   obfs: salamander
   obfs-password: oMgvuBy5Lj5kYM57sGsnjpjNcSEQ
@@ -94,6 +92,24 @@ proxies:
   server: 80.66.81.78
   skip-cert-verify: false
   sni: tunel1.washing.help
+  tls: false
+  type: hysteria2
+- name: 8|MiX--@V2rayAlpha--20
+  obfs: salamander
+  obfs-password: 8s7t1sNDH36vU8_Ixd7MckIY
+  password: zZlPDO5jYeaE9rYtNnjlBI0igvbIdjRX
+  port: 30781
+  server: endpoint.neoservers.ir
+  skip-cert-verify: false
+  sni: www.microsoft.com
+  tls: false
+  type: hysteria2
+- name: 8|⏰47@oneclickvpnkeys
+  password: zhangyang
+  port: 6443
+  server: 130.61.50.75
+  skip-cert-verify: true
+  sni: dash.cloudflare.com
   tls: false
   type: hysteria2
 - cipher: aes-256-cfb
