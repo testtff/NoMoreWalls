@@ -76,14 +76,6 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 8|64@oneclickvpnkeys
-  password: dongtaiwang.com
-  port: 22000
-  server: 62.210.10.108
-  skip-cert-verify: true
-  sni: www.microsoft.com
-  tls: false
-  type: hysteria2
 - name: 8|️️@ATLAS_V2VPN️️405️
   obfs: salamander
   obfs-password: oMgvuBy5Lj5kYM57sGsnjpjNcSEQ
@@ -102,14 +94,6 @@ proxies:
   server: endpoint.neoservers.ir
   skip-cert-verify: false
   sni: www.microsoft.com
-  tls: false
-  type: hysteria2
-- name: 8|⏰47@oneclickvpnkeys
-  password: zhangyang
-  port: 6443
-  server: 130.61.50.75
-  skip-cert-verify: true
-  sni: dash.cloudflare.com
   tls: false
   type: hysteria2
 - cipher: aes-256-cfb
