@@ -93,27 +93,9 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 8|@filembad
-  obfs: salamander
-  obfs-password: '@JynMarket'
-  password: odnvqb4ihg396e5z
-  port: 37025
-  server: 104.252.19.102
-  skip-cert-verify: false
-  sni: 104.252.19.102
-  tls: false
-  type: hysteria2
-- name: '8|@filembad #1'
-  obfs: salamander
-  obfs-password: '@JynMarket'
-  password: odnvqb4ihg396e5z
-  port: 51554
-  server: 104.252.19.102
-  skip-cert-verify: false
-  sni: 104.252.19.102
-  tls: false
-  type: hysteria2
-- name: '8|@filembad #2'
+- alpn:
+  - h3
+  name: 8|@Vpn_jet7
   obfs: salamander
   obfs-password: '@JynMarket'
   password: odnvqb4ihg396e5z
@@ -148,16 +130,6 @@ proxies:
   server: 80.66.81.78
   skip-cert-verify: false
   sni: tunel1.washing.help
-  tls: false
-  type: hysteria2
-- name: '8|@filembad #3'
-  obfs: salamander
-  obfs-password: FxZylbqClUqVqAs2nezW9kPyFb2edZ2
-  password: rstnnl2705
-  port: 443
-  server: reddeadfan.rd-team.ru
-  skip-cert-verify: true
-  sni: reddeadfan.rd-team.ru
   tls: false
   type: hysteria2
 - name: 8|MiX--@V2rayAlpha--20
