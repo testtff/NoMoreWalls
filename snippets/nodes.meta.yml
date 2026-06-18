@@ -46,14 +46,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 8|🏟️46@oneclickvpnkeys
-  password: 18cf8030-1ceb-4b7d-8c0c-c036413c144e
-  port: 4433
-  server: 202.61.205.86
-  sni: de1.xiaoliyu.cyou
-  tls: false
-  type: hysteria2
-- name: 8|@V2RayyNGvpn🇹🇷
+- name: 8|🇹🇷@V2RayyNGvpn🇹🇷⚡
   obfs: salamander
   obfs-password: V2RayyNGvpn$miracle$krouky
   password: '@V2RayyNGvpn'
@@ -61,6 +54,15 @@ proxies:
   server: 213.156.152.76
   skip-cert-verify: true
   sni: www.wordreference.com
+  tls: false
+  type: hysteria2
+- name: 8|70@oneclickvpnkeys
+  obfs: salamander
+  obfs-password: EsimObfs_9mK2x7
+  password: EsimHy2Game_7xK9mPq2
+  port: 443
+  server: 198.105.112.118
+  sni: nl.esimpson.org
   tls: false
   type: hysteria2
 - name: 8|+@Azarakhsh_Proxy+
@@ -101,13 +103,6 @@ proxies:
   server: 130.49.161.70
   skip-cert-verify: true
   sni: hy2.aspidnet.xyz
-  tls: false
-  type: hysteria2
-- name: 8|🏟️47@oneclickvpnkeys
-  password: qQe1z5kU8kN6SlKnDt9Ru3Qp
-  port: 443
-  server: vpn-de-002.fastervpn.world
-  skip-cert-verify: true
   tls: false
   type: hysteria2
 - name: 8|🇷@FreakConfig
