@@ -9,6 +9,7 @@ hysteria2://940f51d6-e0a4-4add-b96b-328e4a84b642@140.245.27.220:51000?insecure=1
 hysteria2://EsimHy2Game_7xK9mPq2@198.105.112.118:443?sni=nl.esimpson.org&obfs=salamander&obfs-password=EsimObfs_9mK2x7#8%7C70%40oneclickvpnkeys
 hysteria2://KevinZakarian@179.61.132.96:8443?insecure=1&sni=179.61.132.96&obfs=salamander&obfs-password=KevinZakarian#8%7C%2B%40Azarakhsh_Proxy%2B
 hysteria2://T%24me%24V2RayyNGvpn@70.34.205.15:443?insecure=1&sni=www.wordreference.com&obfs=salamander&obfs-password=T.me$V2RayyNGvpn#8%7C%40V2RayyNGvpn%F0%9F%87%B8%F0%9F%87%AA
+hysteria2://T%24me%24V2RayyNGvpn@70.34.206.217:443?insecure=1&sni=www.wordreference.com&obfs=salamander&obfs-password=T$me$V2RayyNGVpn@V2RayyNGvpn#8%7C%F0%9F%87%B8%F0%9F%87%AA%40V2RayyNGvpn%F0%9F%87%B8%F0%9F%87%AA
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#8%7C%40KAFING_2
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#8%7C%40KAFING_2%20%232
 hysteria2://be7441a663ef465566e3a6e441a16357@188.225.80.130:7443?insecure=1&sni=tw-vds.t1n2.com#8%7C%E2%9C%88%EF%B8%8F17%40oneclickvpnkeys
