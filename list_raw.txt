@@ -93,4 +93,4 @@ vless://b69a71ef-51dc-48c6-b3df-4c3533062606@assets.trorays.com:443?allowInsecur
 vless://e5d07969-f008-42ee-bbab-7995ef4d1e1d@185.173.144.212:38334?allowInsecure=0&sni=www.yahoo.com&fp=chrome&security=tls#15%7CUS_speednode_0130
 vless://7e6d3393-bb84-45c7-9eef-35de95805b7e@142.91.108.139:443?allowInsecure=0&sni=jp.api-yandex.net&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#15%7CUS_speednode_0131
 hhysteria2://3xkqzhpnfhaahx0q@atts5vkx96ec.dxdx5.com:5426?security=tls&obfs=salamander&obfs-password=lmzo7ebpr6m8theh&insecure=0#@mehrosaboran
-https://zSKTo8.absslk.xyz/f88457b3b1df5f70608dd34cc689d119
+https://lrXQKS.absslk.xyz/5a276afddbf4620a6df2ff70f703bedf
