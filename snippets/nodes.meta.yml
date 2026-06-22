@@ -46,7 +46,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 8|@mehrosaboran
+- name: 8|@bored_vpn
   obfs: salamander
   obfs-password: lmzo7ebpr6m8theh
   password: 3xkqzhpnfhaahx0q
@@ -82,6 +82,15 @@ proxies:
   server: gavazn.lnmarketplace.net
   skip-cert-verify: true
   sni: gavazn.55994421.xyz
+  tls: false
+  type: hysteria2
+- name: 8|@V2RayyNGvpn🇩🇪
+  obfs: salamander
+  obfs-password: T.me/V2RayyNGvpn
+  password: V2RayyNGvpn
+  port: 443
+  server: 185.250.41.245
+  skip-cert-verify: true
   tls: false
   type: hysteria2
 - name: 8|🇳🇱@FreakConfig
