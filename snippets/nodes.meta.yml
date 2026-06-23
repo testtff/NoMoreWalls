@@ -46,10 +46,11 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 8|⛵64@oneclickvpnkeys
+- name: 8|@vmesskhodam
   password: 0dd50f72-bf39-4b59-b183-61b3fa52df57
   port: 443
   server: 46.254.18.107
+  skip-cert-verify: false
   sni: newlte.kihsuyhf8jkiugsxb.cfd
   tls: false
   type: hysteria2
@@ -99,7 +100,7 @@ proxies:
   sni: 179.61.132.96
   tls: false
   type: hysteria2
-- name: 8|@vmesskhodam
+- name: '8|@vmesskhodam #1'
   password: MySecurePassword123
   port: 8443
   server: wuhantravel.duckdns.org
@@ -107,7 +108,7 @@ proxies:
   sni: wuhantravel.duckdns.org
   tls: false
   type: hysteria2
-- name: '8|@vmesskhodam #1'
+- name: '8|@vmesskhodam #2'
   obfs: salamander
   obfs-password: c1b4086fea89914496c7e10967a419216566
   password: QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s
@@ -117,7 +118,7 @@ proxies:
   sni: hy2-new.aspidnet.xyz
   tls: false
   type: hysteria2
-- name: 8|🇩🇪@V2RayyNGvpn🇩🇪
+- name: 8|@V2RayyNGvpn🇩🇪
   obfs: salamander
   obfs-password: T.me/V2RayyNGvpn
   password: V2RayyNGvpn
@@ -157,7 +158,7 @@ proxies:
   sni: tunel1.washing.help
   tls: false
   type: hysteria2
-- name: '8|🇩🇪@V2RayyNGvpn🇩🇪 #1'
+- name: 8|🇩🇪@V2RayyNGvpn🇩🇪
   obfs: salamander
   obfs-password: T.me/V2RayyNGvpn
   password: t.me.V2RayyNGvpn
