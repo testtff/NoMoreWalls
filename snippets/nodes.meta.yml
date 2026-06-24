@@ -60,7 +60,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 7|🐬67@oneclickvpnkeys
+- name: 7,8|🇪AE-@VPNine1
   obfs: salamander
   obfs-password: rG07s3COMIEvdnQipRyWzx_H_2xygNC3
   password: p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR
@@ -95,33 +95,6 @@ proxies:
   port: 5426
   server: atts5vkx96ec.dxdx5.com
   skip-cert-verify: false
-  tls: false
-  type: hysteria2
-- name: 8|⛵62@oneclickvpnkeys
-  obfs: salamander
-  obfs-password: 8zzng75tz4tf82pj
-  password: 7roz68utnk7wgogj
-  port: 8443
-  server: musicclips.videolinks.ru
-  sni: musicclips.videolinks.ru
-  tls: false
-  type: hysteria2
-- name: 8|⛵63@oneclickvpnkeys
-  obfs: salamander
-  obfs-password: lhfl2z9mjngb7csh
-  password: 7roz68utnk7wgogj
-  port: 1935
-  server: nrealistic.nn-foto.ru
-  sni: nrealistic.nn-foto.ru
-  tls: false
-  type: hysteria2
-- name: 8|⛵61@oneclickvpnkeys
-  obfs: salamander
-  obfs-password: 3sv5vpdl9xr84lyb
-  password: 7roz68utnk7wgogj
-  port: 443
-  server: social.klipp.su
-  sni: social.klipp.su
   tls: false
   type: hysteria2
 - name: 8|@V2RayyNGvpn🇩🇪
