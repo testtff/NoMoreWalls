@@ -1,5 +1,4 @@
 hysteria2://653m8mmiy7048p0f@nrealistic.nn-foto.ru:1935?sni=nrealistic.nn-foto.ru&obfs=salamander&obfs-password=lhfl2z9mjngb7csh#7%7C%F0%9F%90%9963%40oneclickvpnkeys
-hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@mg2.mangshe.xyz:2056?insecure=1&sni=mg2.mangshe.xyz#7%7C2
 hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xjp1.mangshe.xyz:2055?insecure=1&sni=xjp1.mangshe.xyz#7%7C1
 hysteria2://95D27EEF-B7AE-4076-BA39-40FDFA3D0F61@jp7.dexlos.com:13778?insecure=1#7%7CJP
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-us-006.fastervpn.world:443?insecure=1&sni=vpn-us-006.fastervpn.world#7%7C%F0%9F%90%9965%40oneclickvpnkeys
@@ -12,13 +11,12 @@ hysteria2://3xkqzhpnfhaahx0q@atts5vkx96ec.dxdx5.com:5426?insecure=0&obfs=salaman
 hysteria2://5U7LBgpLNj@87.120.106.36:443?insecure=1&sni=www.oracle.com&obfs=salamander&obfs-password=T-me-V2RayyNGvpn-ioSniper#8%7C%40V2RayyNGvpn%F0%9F%87%B9%F0%9F%87%B7
 hysteria2://8bc63720-5ec8-45b5-b6a6-9a21ffb490e8@31.76.28.28:443?sni=argg5.auragg.org#8%7C28%40oneclickvpnkeys
 hysteria2://KevinZakarian@179.61.132.96:8443?insecure=1&sni=179.61.132.96&obfs=salamander&obfs-password=KevinZakarian#8%7C%2B%40Azarakhsh_Proxy%2B
-hysteria2://MySecurePassword123@157.230.222.46:8443?sni=wuhantravel.duckdns.org#8%7C74%40oneclickvpnkeys
 hysteria2://S0Mq06tf1I@185.250.41.245:443?insecure=1&sni=www.wordreference.com&obfs=salamander&obfs-password=T.me/V2RayyNGvpn#8%7C%40V2RayyNGvpn%F0%9F%87%AA
 hysteria2://Z7MFGgpuzh@185.250.41.245:443?insecure=1&sni=www.wordreference.com&obfs=salamander&obfs-password=T.me/V2RayyNGvpn#8%7C%F0%9F%87%A9%F0%9F%87%AA%40V2RayyNGvpn%F0%9F%87%A9%F0%9F%87%AA
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#8%7C%40KAFING_2
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#8%7C%40KAFING_2%20%232
-hysteria2://ockdTdb3vU@185.250.41.245:443?insecure=1&sni=www.wordreference.com&obfs=salamander&obfs-password=T.me/V2RayyNGvpn#8%7C%F0%9F%87%A9%F0%9F%87%AA%40V2RayyNGvpn%F0%9F%87%A9%F0%9F%87%AA%20%231
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-sg-001.fastervpn.world:443?insecure=1&sni=vpn-sg-001.fastervpn.world#8%7C%F0%9F%92%9F75%40oneclickvpnkeys
+hysteria2://dJtElQSz4v@185.250.41.245:443?insecure=1&sni=www.wordreference.com&obfs=salamander&obfs-password=T.me/V2RayyNGvpn#8%7C%F0%9F%87%A9%F0%9F%87%AA%40V2RayyNGvpn%F0%9F%87%A9%F0%9F%87%AA%20%231
+hysteria2://ockdTdb3vU@185.250.41.245:443?insecure=1&sni=www.wordreference.com&obfs=salamander&obfs-password=T.me/V2RayyNGvpn#8%7C%F0%9F%87%A9%F0%9F%87%AA%40V2RayyNGvpn%F0%9F%87%A9%F0%9F%87%AA%20%232
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@63.180.254.10:443#13%7Ctg%E9%A2%91%E9%81%93%3A%40ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTN88J+HrfCfh7Ag6aaZ5rivfEByaXBhb2ppZWRpYW4iLCAiYWRkIjogInYxMC5oZGFjZC5jb20iLCAicG9ydCI6IDMwODA3LCAiYWlkIjogMiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiY2JiM2Y4NzctZDFmYi0zNDRjLTg3YTktZDE1M2JmZmQ1NDg0In0=
 trojan://a844e75e40134ee742e80ced8509b310@95.40.80.58:2008?allowInsecure=1&sni=www.nintendogames.net#13%2C14%7C%E9%A6%99%E6%B8%AF3%7C%40ripaojiedian
@@ -76,4 +74,5 @@ vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.200.151:80?allowInsecure=1&
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.182.151:80?allowInsecure=1&sni=max-gb1.global.ssl.fastly.net&type=ws&host=max-gb1.global.ssl.fastly.net&path=/#15%7CUS_speednode_0080
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.23.151:80?allowInsecure=1&sni=max-gb1.global.ssl.fastly.net&type=ws&host=max-gb1.global.ssl.fastly.net&path=/#15%7CUS_speednode_0081
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.196.151:80?allowInsecure=1&sni=max-gb1.global.ssl.fastly.net&type=ws&host=max-gb1.global.ssl.fastly.net&path=/#15%7CUS_speednode_0082
-https://vjdfUr.absslk.xyz/54dbe294ee96ab12b130e215e7c894e5
+https://RvirgJ.absslk.xyz/a06ab1e001226c21c136e2f33cb9898b
+hhy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@mg2.mangshe.xyz:2056/?insecure=1&sni=mg2.mangshe.xyz#2

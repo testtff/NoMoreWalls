@@ -8,14 +8,6 @@ proxies:
   sni: nrealistic.nn-foto.ru
   tls: false
   type: hysteria2
-- name: 7|2
-  password: 78c2bad7-f5f3-41f2-88cc-81de9d05040b
-  port: 2056
-  server: mg2.mangshe.xyz
-  skip-cert-verify: true
-  sni: mg2.mangshe.xyz
-  tls: false
-  type: hysteria2
 - name: 7|1
   password: 78c2bad7-f5f3-41f2-88cc-81de9d05040b
   port: 2055
@@ -113,13 +105,6 @@ proxies:
   sni: 179.61.132.96
   tls: false
   type: hysteria2
-- name: 8|74@oneclickvpnkeys
-  password: MySecurePassword123
-  port: 8443
-  server: 157.230.222.46
-  sni: wuhantravel.duckdns.org
-  tls: false
-  type: hysteria2
 - name: 8|@V2RayyNGvpn🇪
   obfs: salamander
   obfs-password: T.me/V2RayyNGvpn
@@ -163,19 +148,21 @@ proxies:
 - name: '8|🇩🇪@V2RayyNGvpn🇩🇪 #1'
   obfs: salamander
   obfs-password: T.me/V2RayyNGvpn
-  password: ockdTdb3vU
+  password: dJtElQSz4v
   port: 443
   server: 185.250.41.245
   skip-cert-verify: true
   sni: www.wordreference.com
   tls: false
   type: hysteria2
-- name: 8|💟75@oneclickvpnkeys
-  password: qQe1z5kU8kN6SlKnDt9Ru3Qp
+- name: '8|🇩🇪@V2RayyNGvpn🇩🇪 #2'
+  obfs: salamander
+  obfs-password: T.me/V2RayyNGvpn
+  password: ockdTdb3vU
   port: 443
-  server: vpn-sg-001.fastervpn.world
+  server: 185.250.41.245
   skip-cert-verify: true
-  sni: vpn-sg-001.fastervpn.world
+  sni: www.wordreference.com
   tls: false
   type: hysteria2
 - cipher: aes-256-cfb
