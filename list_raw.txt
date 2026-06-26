@@ -73,5 +73,5 @@ vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.200.151:80?allowInsecure=1&
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.182.151:80?allowInsecure=1&sni=max-gb1.global.ssl.fastly.net&type=ws&host=max-gb1.global.ssl.fastly.net&path=/#15%7CUS_speednode_0080
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.23.151:80?allowInsecure=1&sni=max-gb1.global.ssl.fastly.net&type=ws&host=max-gb1.global.ssl.fastly.net&path=/#15%7CUS_speednode_0081
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.196.151:80?allowInsecure=1&sni=max-gb1.global.ssl.fastly.net&type=ws&host=max-gb1.global.ssl.fastly.net&path=/#15%7CUS_speednode_0082
+https://jhcjZN.absslk.xyz/1f9b7c3a99d395822bf734ee115f60e1
 hhy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@mg2.mangshe.xyz:2056/?insecure=1&sni=mg2.mangshe.xyz#2
-https://wxXBvT.absslk.xyz/405c76d559ddbabcaed3aa9a9d9e049d
