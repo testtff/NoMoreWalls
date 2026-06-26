@@ -8,6 +8,14 @@ proxies:
   sni: nrealistic.nn-foto.ru
   tls: false
   type: hysteria2
+- name: 7|2
+  password: 78c2bad7-f5f3-41f2-88cc-81de9d05040b
+  port: 2056
+  server: mg2.mangshe.xyz
+  skip-cert-verify: true
+  sni: mg2.mangshe.xyz
+  tls: false
+  type: hysteria2
 - name: 7|1
   password: 78c2bad7-f5f3-41f2-88cc-81de9d05040b
   port: 2055
@@ -118,6 +126,16 @@ proxies:
 - name: 8|🇩🇪@V2RayyNGvpn🇩🇪
   obfs: salamander
   obfs-password: T.me/V2RayyNGvpn
+  password: T-Me-V2RayyNGvpn
+  port: 443
+  server: 185.250.41.245
+  skip-cert-verify: true
+  sni: www.wordreference.com
+  tls: false
+  type: hysteria2
+- name: '8|🇩🇪@V2RayyNGvpn🇩🇪 #1'
+  obfs: salamander
+  obfs-password: T.me/V2RayyNGvpn
   password: Z7MFGgpuzh
   port: 443
   server: 185.250.41.245
@@ -145,7 +163,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: '8|🇩🇪@V2RayyNGvpn🇩🇪 #1'
+- name: '8|🇩🇪@V2RayyNGvpn🇩🇪 #2'
   obfs: salamander
   obfs-password: T.me/V2RayyNGvpn
   password: dJtElQSz4v
@@ -155,7 +173,7 @@ proxies:
   sni: www.wordreference.com
   tls: false
   type: hysteria2
-- name: '8|🇩🇪@V2RayyNGvpn🇩🇪 #2'
+- name: '8|🇩🇪@V2RayyNGvpn🇩🇪 #3'
   obfs: salamander
   obfs-password: T.me/V2RayyNGvpn
   password: ockdTdb3vU
