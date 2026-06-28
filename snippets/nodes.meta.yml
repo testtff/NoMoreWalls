@@ -8,7 +8,7 @@ proxies:
   sni: musicclips.videolinks.ru
   tls: false
   type: hysteria2
-- name: 7|🏇68@oneclickvpnkeys
+- name: 7,8|68@oneclickvpnkeys
   obfs: salamander
   obfs-password: 3sv5vpdl9xr84lyb
   password: 653m8mmiy7048p0f
@@ -113,14 +113,14 @@ proxies:
   skip-cert-verify: false
   tls: false
   type: hysteria2
-- name: 8|@V2RayyNGvpn🇫🇮
+- name: 8|+@Azarakhsh_Proxy+
   obfs: salamander
-  obfs-password: t-me-V2RayyNGvpn
-  password: V2RayyNgvpn
-  port: 443
-  server: 65.109.177.191
+  obfs-password: KevinZakarian
+  password: KevinZakarian
+  port: 8443
+  server: 179.61.132.96
   skip-cert-verify: true
-  sni: www.oracle.com
+  sni: 179.61.132.96
   tls: false
   type: hysteria2
 - name: 8|🇩🇪@irconfiig
@@ -151,6 +151,16 @@ proxies:
   server: 5.175.249.174
   skip-cert-verify: true
   sni: api.kermanshahi.org
+  tls: false
+  type: hysteria2
+- name: 8|Finland🇫🇮
+  obfs: salamander
+  obfs-password: t-me-V2RayyNGvpn
+  password: s0e9dylundefinedundefinedn
+  port: 443
+  server: 65.109.177.191
+  skip-cert-verify: true
+  sni: www.oracle.com
   tls: false
   type: hysteria2
 - cipher: aes-256-cfb
