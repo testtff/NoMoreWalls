@@ -46,13 +46,23 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 8|🏇68@oneclickvpnkeys
+- name: 8|68@oneclickvpnkeys
   obfs: salamander
   obfs-password: 3sv5vpdl9xr84lyb
   password: 653m8mmiy7048p0f
   port: 443
   server: social.klipp.su
   sni: social.klipp.su
+  tls: false
+  type: hysteria2
+- name: 8|+@Azarakhsh_Proxy+
+  obfs: salamander
+  obfs-password: KevinZakarian
+  password: KevinZakarian
+  port: 8443
+  server: 179.61.132.96
+  skip-cert-verify: true
+  sni: 179.61.132.96
   tls: false
   type: hysteria2
 - name: 8|@KAFING_2
@@ -95,7 +105,7 @@ proxies:
   sni: hy2.aspidnet.xyz
   tls: false
   type: hysteria2
-- name: 8|️️@ATLAS_V2VPN️️430️
+- name: 8|@FreakConfig
   obfs: salamander
   obfs-password: oMgvuBy5Lj5kYM57sGsnjpjNcSEQ
   password: rs2mR3g9bZiMloftx6lZQ59Um1Ld
