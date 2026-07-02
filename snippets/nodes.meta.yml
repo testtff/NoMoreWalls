@@ -63,15 +63,6 @@ proxies:
   sni: social.klipp.su
   tls: false
   type: hysteria2
-- name: 8|💙95@oneclickvpnkeys
-  obfs: salamander
-  obfs-password: lhfl2z9mjngb7csh
-  password: 653m8mmiy7048p0f
-  port: 1935
-  server: nrealistic.nn-foto.ru
-  sni: nrealistic.nn-foto.ru
-  tls: false
-  type: hysteria2
 - name: 8|+@Azarakhsh_Proxy+
   obfs: salamander
   obfs-password: KevinZakarian
@@ -112,13 +103,13 @@ proxies:
   sni: ger1.riziro.ir
   tls: false
   type: hysteria2
-- name: 8|@confiig_hub
+- name: '8|@confiig_hub #1'
   obfs: salamander
   obfs-password: rG07s3COMIEvdnQipRyWzx_H_2xygNC3
   password: p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR
   port: 443
   server: 130.49.161.70
-  skip-cert-verify: false
+  skip-cert-verify: true
   sni: hy2.aspidnet.xyz
   tls: false
   type: hysteria2
