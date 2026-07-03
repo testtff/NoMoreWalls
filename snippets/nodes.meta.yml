@@ -93,13 +93,6 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 8|🏠42@oneclickvpnkeys
-  password: dongtaiwang.com
-  port: 13377
-  server: www.838491.xyz
-  sni: www.838491.xyz
-  tls: false
-  type: hysteria2
 - alpn:
   - h3
   fingerprint: chrome
@@ -118,6 +111,16 @@ proxies:
   server: 130.49.161.70
   skip-cert-verify: true
   sni: hy2.aspidnet.xyz
+  tls: false
+  type: hysteria2
+- name: 8|IPv4@proxy_kafee
+  obfs: salamander
+  obfs-password: OzJ10Bk1Z9MfaTDFAgDX0HldGsMiI7C2
+  password: r7386498464aq
+  port: 443
+  server: vids.jibiji.store
+  skip-cert-verify: true
+  sni: bts.com
   tls: false
   type: hysteria2
 - name: 8|♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️🛜🔷️430🌐...
