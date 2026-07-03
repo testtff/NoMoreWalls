@@ -46,14 +46,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 8|⛳86@oneclickvpnkeys
-  password: 00dcd873-9211-4d61-ad35-87999906e5c8
-  port: 443
-  server: 185.75.135.220
-  sni: fta.fontanvpn.com
-  tls: false
-  type: hysteria2
-- name: 8|68@oneclickvpnkeys
+- name: 8|🏠68@oneclickvpnkeys
   password: 00dcd873-9211-4d61-ad35-87999906e5c8
   port: 443
   server: fta.fontanvpn.com
