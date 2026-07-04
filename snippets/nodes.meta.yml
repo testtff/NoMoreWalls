@@ -46,6 +46,13 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
+- name: 8|🇫🇮FI-🚀@VPNine1
+  password: 00dcd873-9211-4d61-ad35-87999906e5c8
+  port: 443
+  server: fta.fontanvpn.com
+  sni: fta.fontanvpn.com
+  tls: false
+  type: hysteria2
 - name: 8|️@ATLAS_V2VPN️️432️
   obfs: salamander
   obfs-password: 3sv5vpdl9xr84lyb
@@ -66,7 +73,7 @@ proxies:
   sni: 179.61.132.96
   tls: false
   type: hysteria2
-- name: 8|🪼52@oneclickvpnkeys
+- name: 8|52@oneclickvpnkeys
   password: LzMWgm6LaNWCm11bFTbynDPq2TqQj03t
   port: 443
   server: 5.255.102.165
