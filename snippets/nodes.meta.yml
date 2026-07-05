@@ -138,16 +138,6 @@ proxies:
   sni: vpn-sg-001.fastervpn.world
   tls: false
   type: hysteria2
-- name: 8|IPv4@proxy_kafee
-  obfs: salamander
-  obfs-password: OzJ10Bk1Z9MfaTDFAgDX0HldGsMiI7C2
-  password: r7386498464aq
-  port: 443
-  server: vids.jibiji.store
-  skip-cert-verify: true
-  sni: bts.com
-  tls: false
-  type: hysteria2
 - name: 8|@meliproxyy
   obfs: salamander
   obfs-password: oMgvuBy5Lj5kYM57sGsnjpjNcSEQ
