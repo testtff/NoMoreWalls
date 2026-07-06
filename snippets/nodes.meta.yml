@@ -53,7 +53,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: 8|🕹️58@oneclickvpnkeys
+- name: 8|🕹️58@v2ray_configs_pools
   password: 03e7f55f-22f8-4564-880f-b86c8cdbf140
   port: 8449
   server: 66.234.150.237
@@ -86,7 +86,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 8|🕹️53@oneclickvpnkeys
+- name: 8|🕹️53@v2ray_configs_pools
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
   port: 443
   server: 13.229.60.114
@@ -100,7 +100,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: 8|🕹️54@oneclickvpnkeys
+- name: 8|🕹️54@v2ray_configs_pools
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
   port: 443
   server: vpn-us-003.fastervpn.world
@@ -138,7 +138,7 @@ proxies:
   sni: www.amd.com
   tls: false
   type: hysteria2
-- name: 8|🕹️56@oneclickvpnkeys
+- name: 8|🕹️56@v2ray_configs_pools
   password: a8a5b34d-fe46-487d-bd6a-d9f3101525fd
   port: 50581
   server: 172.96.141.4
@@ -194,7 +194,7 @@ proxies:
   sni: hy2.aspidnet.xyz
   tls: false
   type: hysteria2
-- name: 8|🕹️51@oneclickvpnkeys
+- name: 8|🕹️51@v2ray_configs_pools
   password: qQe1z5kU8kN6SlKnDt9Ru3Qp
   port: 443
   server: 13.212.236.88
@@ -202,7 +202,7 @@ proxies:
   sni: vpn-sg-001.fastervpn.world
   tls: false
   type: hysteria2
-- name: 8|🕹️47@oneclickvpnkeys
+- name: 8|🕹️47@v2ray_configs_pools
   password: qQe1z5kU8kN6SlKnDt9Ru3Qp
   port: 443
   server: 13.229.106.122
@@ -234,7 +234,7 @@ proxies:
   sni: vpn-sg-001.fastervpn.world
   tls: false
   type: hysteria2
-- name: 8|️48@oneclickvpnkeys
+- name: 8|🕹️48@v2ray_configs_pools
   password: qQe1z5kU8kN6SlKnDt9Ru3Qp
   port: 443
   server: 52.221.230.24
@@ -242,7 +242,7 @@ proxies:
   sni: vpn-sg-001.fastervpn.world
   tls: false
   type: hysteria2
-- name: 8|🕹️49@oneclickvpnkeys
+- name: 8|🕹️49@v2ray_configs_pools
   password: qQe1z5kU8kN6SlKnDt9Ru3Qp
   port: 443
   server: 54.251.212.188
