@@ -133,7 +133,7 @@ proxies:
   sni: sni.fi-m247-02.com
   tls: false
   type: hysteria2
-- name: 8|37@oneclickvpnkeys
+- name: 8|💡37@v2ray_configs_pools
   password: 35a14133-45f6-40bc-a9cd-918fd0ecb345
   port: 5443
   server: france-2.hysteria.ltd
@@ -148,14 +148,6 @@ proxies:
   server: 2.26.49.16
   skip-cert-verify: false
   sni: social.klipp.su
-  tls: false
-  type: hysteria2
-- name: 8|5♦️@v2ray_configs_pools
-  password: 7Z47Z7yK4CpDBW6ht3XifQopIW7WVmEM
-  port: 443
-  server: 192.220.32.174
-  skip-cert-verify: true
-  sni: bing.com
   tls: false
   type: hysteria2
 - name: 8|🕹️41@v2ray_configs_pools
@@ -219,14 +211,6 @@ proxies:
   sni: api.push.apple.com
   tls: false
   type: hysteria2
-- name: 8|♦️69@v2ray_configs_pools
-  password: a8a5b34d-fe46-487d-bd6a-d9f3101525fd
-  port: 51385
-  server: 46.17.40.117
-  skip-cert-verify: true
-  sni: music.apple.com
-  tls: false
-  type: hysteria2
 - name: 8|@KAFING_2
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
@@ -255,6 +239,16 @@ proxies:
   server: max-ep.443.erangle.ru
   skip-cert-verify: false
   sni: a-l.fl-sub.erangle.ru
+  tls: false
+  type: hysteria2
+- name: 8|🇪AE-@VPNine1
+  obfs: salamander
+  obfs-password: rG07s3COMIEvdnQipRyWzx_H_2xygNC3
+  password: p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR
+  port: 443
+  server: hy2.aspidnet.xyz
+  skip-cert-verify: false
+  sni: hy2.aspidnet.xyz
   tls: false
   type: hysteria2
 - name: 8|🕹️51@v2ray_configs_pools
@@ -289,7 +283,7 @@ proxies:
   sni: vpn-sg-001.fastervpn.world
   tls: false
   type: hysteria2
-- name: '8|@meliproxyy #1'
+- name: '8|@meliproxyy #2'
   obfs: salamander
   obfs-password: oMgvuBy5Lj5kYM57sGsnjpjNcSEQ
   password: rs2mR3g9bZiMloftx6lZQ59Um1Ld
