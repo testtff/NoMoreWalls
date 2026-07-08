@@ -29,7 +29,6 @@ hysteria2://a8a5b34d-fe46-487d-bd6a-d9f3101525fd@46.17.40.117:51385?insecure=1&s
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#8%7C%40KAFING_2
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#8%7C%40KAFING_2%20%232
 hysteria2://bjqhikidgbvefako@max-ep.443.erangle.ru:34909?insecure=0&sni=a-l.fl-sub.erangle.ru&obfs=salamander&obfs-password=wbpq2m519yken2qi#8%7C%40tootffarangi-7
-hysteria2://hk6ah4vgb0qp2koh@panel.riziro.ir:4526?alpn=h3&fp=chrome&sni=ger1.riziro.ir#8%7C%F0%9F%87%A9%F0%9F%87%AA%F0%9F%92%8Ehysteria-%40hollowcon
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.212.236.88:443?insecure=1&sni=vpn-sg-001.fastervpn.world#8%7C%F0%9F%95%B9%EF%B8%8F51%40v2ray_configs_pools
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.229.106.122:443?insecure=1&sni=vpn-sg-001.fastervpn.world#8%7C%F0%9F%95%B9%EF%B8%8F47%40v2ray_configs_pools
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@52.221.230.24:443?insecure=1&sni=vpn-sg-001.fastervpn.world#8%7C%F0%9F%95%B9%EF%B8%8F48%40v2ray_configs_pools
