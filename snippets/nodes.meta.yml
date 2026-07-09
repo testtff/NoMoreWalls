@@ -84,13 +84,6 @@ proxies:
   sni: sni.fi-m247-02.com
   tls: false
   type: hysteria2
-- name: 8|️58@v2ray_configs_pools
-  password: 03e7f55f-22f8-4564-880f-b86c8cdbf140
-  port: 8449
-  server: 66.234.150.237
-  sni: sni.fi-m247-02.com
-  tls: false
-  type: hysteria2
 - name: 8|💡47@oneclickvpnkeys
   password: 03e7f55f-22f8-4564-880f-b86c8cdbf140
   port: 8449
@@ -120,6 +113,13 @@ proxies:
   sni: unic.hysteria.ltd
   tls: false
   type: hysteria2
+- name: 8|🎍55@v2ray_configs_pools
+  password: 57c77d07-bec3-4bf7-9b72-70ece40450f6
+  port: 5443
+  server: vkmks.hysteria.ltd
+  sni: vkmks.hysteria.ltd
+  tls: false
+  type: hysteria2
 - name: 8|️️@ATLAS_V2VPN️️432️
   obfs: salamander
   obfs-password: 3sv5vpdl9xr84lyb
@@ -130,14 +130,7 @@ proxies:
   sni: social.klipp.su
   tls: false
   type: hysteria2
-- name: 8|🕹️53@v2ray_configs_pools
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: 443
-  server: 13.229.60.114
-  skip-cert-verify: true
-  tls: false
-  type: hysteria2
-- name: 8|50@oneclickvpnkeys
+- name: 8|💡50@oneclickvpnkeys
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
   port: 443
   server: 18.118.252.192
@@ -172,7 +165,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: 8|️54@v2ray_configs_pools
+- name: 8|💡54@oneclickvpnkeys
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
   port: 443
   server: vpn-us-003.fastervpn.world
@@ -200,6 +193,13 @@ proxies:
   sni: 179.61.132.96
   tls: false
   type: hysteria2
+- name: 8|NL-@VPNine1
+  password: LzMWgm6LaNWCm11bFTbynDPq2TqQj03t
+  port: 443
+  server: 5.255.102.165
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
 - name: 8|🇩🇪@V2RayyNGvpn🇩🇪
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
@@ -218,14 +218,6 @@ proxies:
   server: 91.107.152.188
   skip-cert-verify: true
   sni: www.amd.com
-  tls: false
-  type: hysteria2
-- name: 8|🕹️56@v2ray_configs_pools
-  password: a8a5b34d-fe46-487d-bd6a-d9f3101525fd
-  port: 50581
-  server: 172.96.141.4
-  skip-cert-verify: true
-  sni: api.push.apple.com
   tls: false
   type: hysteria2
 - name: 8|@KAFING_2
@@ -268,42 +260,10 @@ proxies:
   sni: hy2.aspidnet.xyz
   tls: false
   type: hysteria2
-- name: 8|🕹️51@v2ray_configs_pools
-  password: qQe1z5kU8kN6SlKnDt9Ru3Qp
-  port: 443
-  server: 13.212.236.88
-  skip-cert-verify: true
-  sni: vpn-sg-001.fastervpn.world
-  tls: false
-  type: hysteria2
-- name: 8|🕹️47@v2ray_configs_pools
-  password: qQe1z5kU8kN6SlKnDt9Ru3Qp
-  port: 443
-  server: 13.229.106.122
-  skip-cert-verify: true
-  sni: vpn-sg-001.fastervpn.world
-  tls: false
-  type: hysteria2
-- name: 8|52@oneclickvpnkeys
+- name: 8|💡52@oneclickvpnkeys
   password: qQe1z5kU8kN6SlKnDt9Ru3Qp
   port: 443
   server: 13.229.110.73
-  skip-cert-verify: true
-  sni: vpn-sg-001.fastervpn.world
-  tls: false
-  type: hysteria2
-- name: 8|🕹️48@v2ray_configs_pools
-  password: qQe1z5kU8kN6SlKnDt9Ru3Qp
-  port: 443
-  server: 52.221.230.24
-  skip-cert-verify: true
-  sni: vpn-sg-001.fastervpn.world
-  tls: false
-  type: hysteria2
-- name: 8|🕹️49@v2ray_configs_pools
-  password: qQe1z5kU8kN6SlKnDt9Ru3Qp
-  port: 443
-  server: 54.251.212.188
   skip-cert-verify: true
   sni: vpn-sg-001.fastervpn.world
   tls: false
