@@ -7,6 +7,16 @@ proxies:
   sni: de.eyucdn.xyz
   tls: false
   type: hysteria2
+- name: 8|🇩🇪@V2RayyNGvpn🇩🇪
+  obfs: salamander
+  obfs-password: t-me-V2RayyNGvpn
+  password: QjdEEystFJ
+  port: 40460
+  server: 91.107.152.188
+  skip-cert-verify: true
+  sni: www.amd.com
+  tls: false
+  type: hysteria2
 - name: 8|🇩🇪@V2RayyNGvpn
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
