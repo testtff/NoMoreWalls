@@ -46,7 +46,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 8|🎍55@oneclickvpnkeys
+- name: 8|🎍55@v2ray_configs_pools
   password: 57c77d07-bec3-4bf7-9b72-70ece40450f6
   port: 5443
   server: vkmks.hysteria.ltd
@@ -123,14 +123,14 @@ proxies:
   sni: www.amd.com
   tls: false
   type: hysteria2
-- name: 8|🇩🇪@V2RayyNGvpn
+- name: 8|@V2RayyNGvpn🇵
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
-  password: TGzLlWQaFb
-  port: 40460
-  server: 91.107.152.188
+  password: Vcl3b47Nvd
+  port: 22746
+  server: 155.117.5.222
   skip-cert-verify: true
-  sni: www.amd.com
+  sni: www.oracle.com
   tls: false
   type: hysteria2
 - name: 8|@KAFING_2
@@ -153,6 +153,15 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
+- name: 8|🟢30@v2ray_configs_pools
+  obfs: salamander
+  obfs-password: lhfl2z9mjngb7csh
+  password: eltgrek81o6w5cd4
+  port: 1935
+  server: nrealistic.nn-foto.ru
+  sni: nrealistic.nn-foto.ru
+  tls: false
+  type: hysteria2
 - name: '8|@meliproxyy #1'
   obfs: salamander
   obfs-password: 3sv5vpdl9xr84lyb
@@ -161,6 +170,16 @@ proxies:
   server: social.klipp.su
   skip-cert-verify: false
   sni: social.klipp.su
+  tls: false
+  type: hysteria2
+- name: 8|hy2@V2RayyNGvpn
+  obfs: salamander
+  obfs-password: t-me-V2RayyNGvpn
+  password: hPrGN1Oundefinedwu
+  port: 40460
+  server: 91.107.152.188
+  skip-cert-verify: true
+  sni: www.amd.com
   tls: false
   type: hysteria2
 - name: 8|🎍7@oneclickvpnkeys
@@ -183,7 +202,7 @@ proxies:
   sni: tunel1.washing.help
   tls: false
   type: hysteria2
-- name: '8|🇩🇪@V2RayyNGvpn #1'
+- name: 8|🇩🇪@V2RayyNGvpn
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
   password: y4nJ8poIsh
