@@ -17,10 +17,10 @@ proxies:
   sni: www.amd.com
   tls: false
   type: hysteria2
-- name: 8|🇩🇪@V2RayyNGvpn
+- name: 8|🇩🇪@V2RayyNGvpn🇩🇪hy
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
-  password: y4nJ8poIsh
+  password: tU9Tcz3TMp
   port: 40460
   server: 91.107.152.188
   skip-cert-verify: true
