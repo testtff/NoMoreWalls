@@ -54,6 +54,14 @@ proxies:
   sni: de1.xiaoliyu.cyou
   tls: false
   type: hysteria2
+- name: 8|15@oneclickvpnkeys
+  password: 88f839f2-c3c0-487d-aac3-f8c089d2369d
+  port: 55000
+  server: 45.154.205.25
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: false
+  type: hysteria2
 - name: 8|🇩🇪@V2rayng_Fast
   obfs: salamander
   obfs-password: ngljeqgna3hmfr2s
@@ -134,6 +142,14 @@ proxies:
   sni: www.amd.com
   tls: false
   type: hysteria2
+- name: 8|🎡62@oneclickvpnkeys
+  obfs: salamander
+  obfs-password: pqvmx29fokvh8ubb
+  password: TELEgRAM-ID-conf0088
+  port: 2053
+  server: cuetara.name.cuetara.name
+  tls: false
+  type: hysteria2
 - name: 8|🇨🇵@V2RayyNGvpn🇨🇵
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
@@ -171,24 +187,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 8|4@oneclickvpnkeys
-  password: bce6c821-200d-421f-bf3d-7159e5246ea0
-  port: 33333
-  server: 155.248.209.237
-  sni: hy2.123266.xyz
-  tls: false
-  type: hysteria2
-- name: 8|FI-@VPNine1
-  obfs: salamander
-  obfs-password: 93lc6r07zfx4crct
-  password: elknam6l7izf3z71
-  port: 52008
-  server: assets.gateway-stream.com
-  skip-cert-verify: false
-  sni: ''
-  tls: false
-  type: hysteria2
-- name: 8|🇮FI-🚀@VPNine1
+- name: 8|🇪𝗘@MetiVIP
   obfs: salamander
   obfs-password: 93lc6r07zfx4crct
   password: elknam6l7izf3z71
@@ -318,6 +317,16 @@ proxies:
   server: 91.107.152.188
   skip-cert-verify: true
   sni: www.amd.com
+  tls: false
+  type: hysteria2
+- name: 8|9@oneclickvpnkeys
+  obfs: salamander
+  obfs-password: t-me-V2RayyNGvpn
+  password: uQUfGOf9Mx
+  port: 33884
+  server: 140.233.177.48
+  skip-cert-verify: true
+  sni: www.oracle.com
   tls: false
   type: hysteria2
 - cipher: aes-256-cfb
