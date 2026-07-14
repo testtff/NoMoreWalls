@@ -27,40 +27,10 @@ proxies:
   sni: www.amd.com
   tls: false
   type: hysteria2
-- name: 8|@V2RayyNGvpn🇩🇪
-  obfs: salamander
-  obfs-password: t-me-V2RayyNGvpn
-  password: KYFundefinedZYs4KB
-  port: 40460
-  server: 91.107.152.188
-  skip-cert-verify: true
-  sni: www.amd.com
-  tls: false
-  type: hysteria2
-- name: 8|🇩🇪@V2RayyNGvpn🇩🇪
-  obfs: salamander
-  obfs-password: t-me-V2RayyNGvpn
-  password: MjLSEZj2IW
-  port: 40460
-  server: 91.107.152.188
-  skip-cert-verify: true
-  sni: www.amd.com
-  tls: false
-  type: hysteria2
 - name: 8|Telegram🇩🇪V2RayyNGvpn
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
   password: Z5dFAw7u6U
-  port: 40460
-  server: 91.107.152.188
-  skip-cert-verify: true
-  sni: www.amd.com
-  tls: false
-  type: hysteria2
-- name: 8|🇩🇪@V2RayyNGvpn🇩🇪hy
-  obfs: salamander
-  obfs-password: t-me-V2RayyNGvpn
-  password: tU9Tcz3TMp
   port: 40460
   server: 91.107.152.188
   skip-cert-verify: true
