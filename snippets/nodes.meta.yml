@@ -68,7 +68,7 @@ proxies:
   type: hysteria2
 - alpn:
   - h3
-  name: 8|@filembad
+  name: 8|@Badangellll-JOIN
   obfs: salamander
   obfs-password: lwhvz2y1ntz8p5nf
   password: BADANGELLLL
@@ -128,7 +128,7 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: 8|@Napsternetvirani👾
+- name: '8|@vmesskhodam #1'
   obfs: salamander
   obfs-password: ielzukpwth087afx
   password: elknam6l7izf3z71
@@ -178,7 +178,7 @@ proxies:
   sni: tunel1.washing.help
   tls: false
   type: hysteria2
-- name: '8|@Alpha_v2rayIP #1'
+- name: 8|@Alpha_v2rayIP🍓
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
   password: tf5LINcpQy
@@ -186,6 +186,16 @@ proxies:
   server: 91.107.152.188
   skip-cert-verify: true
   sni: www.amd.com
+  tls: false
+  type: hysteria2
+- name: 8|🇨
+  obfs: salamander
+  obfs-password: t-me-V2RayyNGvpn
+  password: vVaz4PV7B7
+  port: 33884
+  server: 140.233.177.48
+  skip-cert-verify: true
+  sni: www.oracle.com
   tls: false
   type: hysteria2
 - cipher: aes-256-cfb
