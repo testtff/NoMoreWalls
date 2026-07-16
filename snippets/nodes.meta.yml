@@ -56,7 +56,14 @@ proxies:
   sni: www.oracle.com
   tls: false
   type: hysteria2
-- name: 8|23@oneclickvpnkeys
+- name: 8|68@oneclickvpnkeys
+  password: 792V1zl5cJHSV3wjyGPXiFbx1YA4BrIr
+  port: 8449
+  server: jongjmi.odnako.site
+  sni: jongjmi.odnako.site
+  tls: false
+  type: hysteria2
+- name: 8|🪭23@oneclickvpnkeys
   password: 87qety_hERGP8Y9_jqier3gw_nA8Q34_B2
   port: 8443
   server: 45.155.103.217
@@ -71,15 +78,6 @@ proxies:
   server: qg.easyiran.org
   skip-cert-verify: false
   sni: qg.easyiran.org
-  tls: false
-  type: hysteria2
-- name: 8|NL-@VPNine1
-  obfs: salamander
-  obfs-password: jmtfanpzqdxu4tn7
-  password: 9204bccb42c743799c6069feccb7832d
-  port: 443
-  server: nl1.jamezwin.org
-  sni: nl1.jamezwin.org
   tls: false
   type: hysteria2
 - alpn:
@@ -124,7 +122,7 @@ proxies:
   sni: www.amd.com
   tls: false
   type: hysteria2
-- name: 8|46@oneclickvpnkeys
+- name: 8|🪭46@oneclickvpnkeys
   obfs: salamander
   obfs-password: dwv3ped4yi46iw8r
   password: TELEGRAM-ID-soalvajavaab
@@ -132,7 +130,17 @@ proxies:
   server: pristytools.com.pristytools.com
   tls: false
   type: hysteria2
-- name: 8|🇨🇦Telegram=V2RayyNGvpn🇦
+- name: 8|🇩🇪Telegram=V2RayyNGvpn
+  obfs: salamander
+  obfs-password: t-me-V2RayyNGvpn
+  password: V2RayyNGvpn-
+  port: 31999
+  server: 91.107.152.188
+  skip-cert-verify: true
+  sni: www.amd.com
+  tls: false
+  type: hysteria2
+- name: 8|Telegram=V2RayyNGvpn🇦
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
   password: V2RayyNGvpn
@@ -162,16 +170,6 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 8|@vmesskhodam
-  obfs: salamander
-  obfs-password: gu74jg3ym0e21zco
-  password: elknam6l7izf3z71
-  port: 52000
-  server: assets.gateway-stream.com
-  skip-cert-verify: false
-  sni: assets.gateway-stream.com
-  tls: false
-  type: hysteria2
 - name: 8|@erfanandroid
   obfs: salamander
   obfs-password: ielzukpwth087afx
@@ -192,7 +190,7 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: '8|@FreakConfig #1'
+- name: 8|@FreakConfig
   obfs: salamander
   obfs-password: mtg2vchyir6la3et
   password: elknam6l7izf3z71
@@ -212,7 +210,7 @@ proxies:
   sni: hy2.aspidnet.xyz
   tls: false
   type: hysteria2
-- name: '8|@bored_vpn #2'
+- name: '8|@Leecher56 #2'
   obfs: salamander
   obfs-password: oMgvuBy5Lj5kYM57sGsnjpjNcSEQ
   password: rs2mR3g9bZiMloftx6lZQ59Um1Ld
