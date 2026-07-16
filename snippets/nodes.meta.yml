@@ -73,6 +73,15 @@ proxies:
   sni: qg.easyiran.org
   tls: false
   type: hysteria2
+- name: 8|NL-@VPNine1
+  obfs: salamander
+  obfs-password: jmtfanpzqdxu4tn7
+  password: 9204bccb42c743799c6069feccb7832d
+  port: 443
+  server: nl1.jamezwin.org
+  sni: nl1.jamezwin.org
+  tls: false
+  type: hysteria2
 - alpn:
   - h3
   name: 8|@Badangellll-JOIN
@@ -115,6 +124,24 @@ proxies:
   sni: www.amd.com
   tls: false
   type: hysteria2
+- name: 8|46@oneclickvpnkeys
+  obfs: salamander
+  obfs-password: dwv3ped4yi46iw8r
+  password: TELEGRAM-ID-soalvajavaab
+  port: 2053
+  server: pristytools.com.pristytools.com
+  tls: false
+  type: hysteria2
+- name: 8|🇨🇦Telegram=V2RayyNGvpn🇦
+  obfs: salamander
+  obfs-password: t-me-V2RayyNGvpn
+  password: V2RayyNGvpn
+  port: 42286
+  server: 66.92.161.59
+  skip-cert-verify: true
+  sni: www.amd.com
+  tls: false
+  type: hysteria2
 - name: 8|@KAFING_2
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
@@ -145,7 +172,7 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: '8|@vmesskhodam #1'
+- name: 8|@erfanandroid
   obfs: salamander
   obfs-password: ielzukpwth087afx
   password: elknam6l7izf3z71
@@ -165,7 +192,7 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: 8|🇫@FreakConfig
+- name: '8|@FreakConfig #1'
   obfs: salamander
   obfs-password: mtg2vchyir6la3et
   password: elknam6l7izf3z71
