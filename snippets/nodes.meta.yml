@@ -56,13 +56,6 @@ proxies:
   sni: www.oracle.com
   tls: false
   type: hysteria2
-- name: 8|68@oneclickvpnkeys
-  password: 792V1zl5cJHSV3wjyGPXiFbx1YA4BrIr
-  port: 8449
-  server: jongjmi.odnako.site
-  sni: jongjmi.odnako.site
-  tls: false
-  type: hysteria2
 - name: 8|🪭23@oneclickvpnkeys
   password: 87qety_hERGP8Y9_jqier3gw_nA8Q34_B2
   port: 8443
@@ -80,7 +73,7 @@ proxies:
   sni: qg.easyiran.org
   tls: false
   type: hysteria2
-- name: 8|️Telegram=V2RayyNGvpn🇩🇪
+- name: 8|Telegram=V2RayyNGvpn🇩🇪
   obfs: salamander
   obfs-password: T-ME-V2RayyNGvpn
   password: KJX4HQHodA
@@ -98,6 +91,16 @@ proxies:
   server: 179.61.132.96
   skip-cert-verify: true
   sni: 179.61.132.96
+  tls: false
+  type: hysteria2
+- name: 8|T.Me=V2RayyNGvpn🇩🇪
+  obfs: salamander
+  obfs-password: t-me-V2RayyNGvpn
+  password: M4q4riAk3C
+  port: 31999
+  server: 91.107.152.188
+  skip-cert-verify: true
+  sni: www.amd.com
   tls: false
   type: hysteria2
 - name: 8|🇩🇪@V2rayng_Fast
@@ -136,6 +139,16 @@ proxies:
   password: TELEGRAM-ID-soalvajavaab
   port: 2053
   server: pristytools.com.pristytools.com
+  tls: false
+  type: hysteria2
+- name: 8|🇪T.Me=V2RayyNGvpn🇩🇪
+  obfs: salamander
+  obfs-password: T-ME-V2RayyNGvpn
+  password: UUoAsk2eM4
+  port: 25810
+  server: 91.107.174.32
+  skip-cert-verify: true
+  sni: www.amd.com
   tls: false
   type: hysteria2
 - name: 8|🇩🇪Telegram=V2RayyNGvpn
