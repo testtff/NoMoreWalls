@@ -80,6 +80,24 @@ proxies:
   sni: qg.easyiran.org
   tls: false
   type: hysteria2
+- name: 8|🇩🇪DE-@VPNine1
+  obfs: salamander
+  obfs-password: u3do5j2gss7mfri9
+  password: 9204bccb42c743799c6069feccb7832d
+  port: 443
+  server: de1.jamezwin.org
+  sni: de1.jamezwin.org
+  tls: false
+  type: hysteria2
+- name: 8|FI-🚀@VPNine1
+  obfs: salamander
+  obfs-password: rtm0hc7dpaqfd8d7
+  password: 9204bccb42c743799c6069feccb7832d
+  port: 443
+  server: fl1.jamezwin.org
+  sni: fl1.jamezwin.org
+  tls: false
+  type: hysteria2
 - alpn:
   - h3
   name: 8|@Badangellll-JOIN
@@ -210,7 +228,7 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: '8|@FreakConfig #1'
+- name: 8|🇫🇮@FreakConfig
   obfs: salamander
   obfs-password: mtg2vchyir6la3et
   password: elknam6l7izf3z71

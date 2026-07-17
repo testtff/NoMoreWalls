@@ -7,6 +7,15 @@ proxies:
   sni: de.eyucdn.xyz
   tls: false
   type: hysteria2
+- name: 8|🇩🇪DE-@VPNine1
+  obfs: salamander
+  obfs-password: u3do5j2gss7mfri9
+  password: 9204bccb42c743799c6069feccb7832d
+  port: 443
+  server: de1.jamezwin.org
+  sni: de1.jamezwin.org
+  tls: false
+  type: hysteria2
 - name: 8|🇩🇪Telegram=V2RayyNGvpn🇩🇪
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
