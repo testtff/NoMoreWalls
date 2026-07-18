@@ -103,7 +103,7 @@ proxies:
   sni: www.amd.com
   tls: false
   type: hysteria2
-- name: 8|🇩🇪@V2rayng_Fast
+- name: 8|kurdconfig
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
   password: NZC2w2V2NQ
@@ -193,7 +193,7 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: '8|@bored_vpn #1'
+- name: '8|@Leecher56 #1'
   obfs: salamander
   obfs-password: cukfjxud1ebjuuzs
   password: elknam6l7izf3z71
@@ -203,7 +203,7 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: 8|@mehrosaboran
+- name: '8|@bored_vpn #1'
   obfs: salamander
   obfs-password: mtg2vchyir6la3et
   password: elknam6l7izf3z71
