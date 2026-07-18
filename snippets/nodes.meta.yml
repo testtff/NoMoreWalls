@@ -56,7 +56,7 @@ proxies:
   sni: www.oracle.com
   tls: false
   type: hysteria2
-- name: 8|🪭23@oneclickvpnkeys
+- name: 8|23@oneclickvpnkeys
   password: 87qety_hERGP8Y9_jqier3gw_nA8Q34_B2
   port: 8443
   server: 45.155.103.217
@@ -131,14 +131,6 @@ proxies:
   server: 91.107.152.188
   skip-cert-verify: true
   sni: www.amd.com
-  tls: false
-  type: hysteria2
-- name: 8|🪭46@oneclickvpnkeys
-  obfs: salamander
-  obfs-password: dwv3ped4yi46iw8r
-  password: TELEGRAM-ID-soalvajavaab
-  port: 2053
-  server: pristytools.com.pristytools.com
   tls: false
   type: hysteria2
 - name: 8|🇪T.Me=V2RayyNGvpn🇩🇪
