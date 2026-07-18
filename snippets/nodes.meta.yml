@@ -73,7 +73,17 @@ proxies:
   sni: qg.easyiran.org
   tls: false
   type: hysteria2
-- name: 8|Telegram=V2RayyNGvpn
+- name: 8|T-ME-V2RayyNGvpn
+  obfs: salamander
+  obfs-password: t-me-V2RayyNGvpn
+  password: ALg6h4f8Mo
+  port: 31999
+  server: 91.107.152.188
+  skip-cert-verify: true
+  sni: www.amd.com
+  tls: false
+  type: hysteria2
+- name: 8|️Telegram=V2RayyNGvpn🇪
   obfs: salamander
   obfs-password: T-ME-V2RayyNGvpn
   password: KJX4HQHodA
@@ -133,7 +143,7 @@ proxies:
   sni: www.amd.com
   tls: false
   type: hysteria2
-- name: 8|🇪T.Me=V2RayyNGvpn🇩🇪
+- name: 8|🇩🇪T.Me=V2RayyNGvpn🇩🇪
   obfs: salamander
   obfs-password: T-ME-V2RayyNGvpn
   password: UUoAsk2eM4
@@ -213,7 +223,7 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: 8|@bored_vpn
+- name: '8|@bored_vpn #1'
   obfs: salamander
   obfs-password: cukfjxud1ebjuuzs
   password: elknam6l7izf3z71
@@ -233,7 +243,7 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: 8|🚀T.Me=V2RayyNGvpn🇩🇪
+- name: '8|T.Me=V2RayyNGvpn🇩🇪 #1'
   obfs: salamander
   obfs-password: T-ME-V2RayyNGvpn
   password: kfCR7ekba6
