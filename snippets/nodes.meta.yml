@@ -80,6 +80,13 @@ proxies:
   sni: www.amd.com
   tls: false
   type: hysteria2
+- name: 8|⚽75@oneclickvpnkeys
+  password: Apt1923_N9x234gn_Nal5Nx3j_s
+  port: 8443
+  server: 81.27.102.215
+  sni: grape-power-pl.ddnsguru.com
+  tls: false
+  type: hysteria2
 - name: 8|⚽27@oneclickvpnkeys
   password: FR+3uZ+qu5lMaeIEV2OeBK3sQJmmMiABg57L4KFWK78=
   port: 8443
@@ -88,7 +95,7 @@ proxies:
   sni: vpn.the2oser.lol
   tls: false
   type: hysteria2
-- name: 8|T.Me=V2RayyNGvpn🇩🇪
+- name: 8|⭕T.Me=irconfiig🇩🇪
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
   password: IoFmkhjUlE
@@ -202,6 +209,16 @@ proxies:
   obfs: salamander
   obfs-password: T-ME-V2RayyNGvpn
   password: kfCR7ekba6
+  port: 25810
+  server: 91.107.174.32
+  skip-cert-verify: true
+  sni: www.amd.com
+  tls: false
+  type: hysteria2
+- name: '8|@mehrosaboran #1'
+  obfs: salamander
+  obfs-password: T-ME-V2RayyNGvpn
+  password: p0IbtS8wCZ
   port: 25810
   server: 91.107.174.32
   skip-cert-verify: true
