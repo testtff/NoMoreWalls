@@ -198,7 +198,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 8|🇩🇪T-ME-V2RayyNGvpn🎖️
+- name: 8|🇩🇪T-ME-V2RayyNGvpn️
   obfs: salamander
   obfs-password: T-ME-V2RayyNGvpn
   password: idCPgpLEqx
