@@ -88,7 +88,7 @@ proxies:
   sni: vpn.the2oser.lol
   tls: false
   type: hysteria2
-- name: 8|⭕T.Me=irconfiig🇩🇪
+- name: 8|T.Me=V2RayyNGvpn🇩🇪
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
   password: IoFmkhjUlE
@@ -206,6 +206,15 @@ proxies:
   server: 91.107.174.32
   skip-cert-verify: true
   sni: www.amd.com
+  tls: false
+  type: hysteria2
+- name: 8|87@oneclickvpnkeys
+  obfs: salamander
+  obfs-password: lhfl2z9mjngb7csh
+  password: o3774es6cfv74kaf
+  port: 1935
+  server: nrealistic.nn-foto.ru
+  sni: nrealistic.nn-foto.ru
   tls: false
   type: hysteria2
 - name: '8|@mehrosaboran #1'
