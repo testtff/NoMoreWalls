@@ -176,16 +176,6 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: 8|FI-@VPNine1
-  obfs: salamander
-  obfs-password: 53cgqwhojoxri5lr
-  password: elknam6l7izf3z71
-  port: 52018
-  server: assets.gateway-stream.com
-  skip-cert-verify: false
-  sni: ''
-  tls: false
-  type: hysteria2
 - name: 8|Telegram=V2RayyNGvpn🇩🇪
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
