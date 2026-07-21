@@ -176,16 +176,7 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: 8|@filembad
-  obfs: salamander
-  obfs-password: 93lc6r07zfx4crct
-  password: elknam6l7izf3z71
-  port: 52008
-  server: assets.gateway-stream.com
-  skip-cert-verify: false
-  tls: false
-  type: hysteria2
-- name: 8|🇫🇮FI-@VPNine1
+- name: 8|FI-@VPNine1
   obfs: salamander
   obfs-password: 53cgqwhojoxri5lr
   password: elknam6l7izf3z71
@@ -193,16 +184,6 @@ proxies:
   server: assets.gateway-stream.com
   skip-cert-verify: false
   sni: ''
-  tls: false
-  type: hysteria2
-- name: '8|@filembad #1'
-  obfs: salamander
-  obfs-password: 53cgqwhojoxri5lr
-  password: elknam6l7izf3z71
-  port: 52018
-  server: assets.gateway-stream.com
-  skip-cert-verify: false
-  sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
 - name: 8|Telegram=V2RayyNGvpn🇩🇪
