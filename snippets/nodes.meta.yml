@@ -193,6 +193,13 @@ proxies:
   sni: social.klipp.su
   tls: false
   type: hysteria2
+- name: 8|♨️89@oneclickvpnkeys
+  password: oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1
+  port: 8443
+  server: 45.154.206.72
+  sni: russiapower.accesscam.org
+  tls: false
+  type: hysteria2
 - name: '8|@mehrosaboran #1'
   obfs: salamander
   obfs-password: T-ME-V2RayyNGvpn
@@ -203,13 +210,13 @@ proxies:
   sni: www.amd.com
   tls: false
   type: hysteria2
-- name: '8|@mehrosaboran #3'
+- name: 8|@Unblocked_ir
   obfs: salamander
   obfs-password: rG07s3COMIEvdnQipRyWzx_H_2xygNC3
   password: p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR
   port: 443
   server: 130.49.161.70
-  skip-cert-verify: true
+  skip-cert-verify: false
   sni: hy2.aspidnet.xyz
   tls: false
   type: hysteria2
