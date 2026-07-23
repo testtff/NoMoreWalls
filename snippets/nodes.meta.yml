@@ -182,16 +182,6 @@ proxies:
   sni: de5-hy2.veilvpn.life
   tls: false
   type: hysteria2
-- name: 8|@FarazV2ray
-  obfs: salamander
-  obfs-password: ielzukpwth087afx
-  password: elknam6l7izf3z71
-  port: 52002
-  server: assets.gateway-stream.com
-  skip-cert-verify: false
-  sni: assets.gateway-stream.com
-  tls: false
-  type: hysteria2
 - name: '8|Telegram=V2RayyNGvpn🇩🇪 #1'
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
