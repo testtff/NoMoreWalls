@@ -56,6 +56,20 @@ proxies:
   sni: www.oracle.com
   tls: false
   type: hysteria2
+- name: 8|34@oneclickvpnkeys
+  password: 68b4b16e-2759-47a4-8a69-33118edf5ce6
+  port: 443
+  server: ger.leontunel.ru
+  sni: ger.leontunel.ru
+  tls: false
+  type: hysteria2
+- name: 8|36@oneclickvpnkeys
+  password: 68b4b16e-2759-47a4-8a69-33118edf5ce6
+  port: 443
+  server: popa.leontunel.ru
+  sni: popa.leontunel.ru
+  tls: false
+  type: hysteria2
 - name: 8|@V2RayyNGvpn🇵
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
@@ -136,34 +150,6 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 8|📪20@oneclickvpnkeys
-  password: d2e3768f-cb23-4cfc-a884-dbd6813cb70b
-  port: 8443
-  server: 172.86.94.97
-  sni: de5-hy2.veilvpn.life
-  tls: false
-  type: hysteria2
-- name: 8|📪9@oneclickvpnkeys
-  password: d2e3768f-cb23-4cfc-a884-dbd6813cb70b
-  port: 8433
-  server: 172.86.95.17
-  sni: de1-hy2.veilvpn.life
-  tls: false
-  type: hysteria2
-- name: 8|📪42@oneclickvpnkeys
-  password: d2e3768f-cb23-4cfc-a884-dbd6813cb70b
-  port: 8433
-  server: de1-hy2.veilvpn.life
-  sni: de1-hy2.veilvpn.life
-  tls: false
-  type: hysteria2
-- name: 8|📪55@oneclickvpnkeys
-  password: d2e3768f-cb23-4cfc-a884-dbd6813cb70b
-  port: 8443
-  server: de5-hy2.veilvpn.life
-  sni: de5-hy2.veilvpn.life
-  tls: false
-  type: hysteria2
 - name: '8|Telegram=V2RayyNGvpn🇩🇪 #1'
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
@@ -174,11 +160,13 @@ proxies:
   sni: www.amd.com
   tls: false
   type: hysteria2
-- name: 8|📪81@oneclickvpnkeys
-  password: h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT
-  port: 8443
-  server: 185.90.61.28
-  sni: hopp-legend-se.roxa.org
+- name: 8|27@oneclickvpnkeys
+  obfs: salamander
+  obfs-password: lvy1Hw_j4Hwx8oIL2tEa315Sb4t7QrjF
+  password: hy2_czaawdhc
+  port: 443
+  server: 2.26.92.136
+  sni: nl2.cleanersaz.help
   tls: false
   type: hysteria2
 - name: 8|Telegram=V2RayyNGvpn🇵
