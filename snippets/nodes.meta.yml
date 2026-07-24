@@ -56,14 +56,7 @@ proxies:
   sni: www.oracle.com
   tls: false
   type: hysteria2
-- name: 8|34@oneclickvpnkeys
-  password: 68b4b16e-2759-47a4-8a69-33118edf5ce6
-  port: 443
-  server: ger.leontunel.ru
-  sni: ger.leontunel.ru
-  tls: false
-  type: hysteria2
-- name: 8|36@oneclickvpnkeys
+- name: 8|🧩36@oneclickvpnkeys
   password: 68b4b16e-2759-47a4-8a69-33118edf5ce6
   port: 443
   server: popa.leontunel.ru
@@ -160,12 +153,13 @@ proxies:
   sni: www.amd.com
   tls: false
   type: hysteria2
-- name: 8|27@oneclickvpnkeys
+- name: 8|@filembad
   obfs: salamander
   obfs-password: lvy1Hw_j4Hwx8oIL2tEa315Sb4t7QrjF
   password: hy2_czaawdhc
   port: 443
   server: 2.26.92.136
+  skip-cert-verify: false
   sni: nl2.cleanersaz.help
   tls: false
   type: hysteria2
