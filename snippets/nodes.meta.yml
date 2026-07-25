@@ -46,6 +46,13 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
+- name: 8|🧩91@oneclickvpnkeys
+  password: 042a1881-44e4-4781-bd40-bf75164faf4f
+  port: 443
+  server: nland1.noesissite.ru
+  sni: nland1.noesissite.ru
+  tls: false
+  type: hysteria2
 - name: 8|@V2RayyNGvpn🇨🇵
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
@@ -73,7 +80,7 @@ proxies:
   sni: 179.61.132.96
   tls: false
   type: hysteria2
-- name: 8|Telegram=V2RayyNGvpn🇪
+- name: 8|Telegram=V2RayyNGvpn
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
   password: V2RayyNGvpn
