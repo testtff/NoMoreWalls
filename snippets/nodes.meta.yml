@@ -53,6 +53,16 @@ proxies:
   sni: nland1.noesissite.ru
   tls: false
   type: hysteria2
+- name: 8|@Daily_Configs
+  obfs: salamander
+  obfs-password: fd3olglr2bmimgje
+  password: 4z2oldt85p494bgb
+  port: 52061
+  server: assets.gateway-stream.com
+  skip-cert-verify: false
+  sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
 - name: 8|@V2RayyNGvpn🇨🇵
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
@@ -87,7 +97,7 @@ proxies:
   sni: 179.61.132.96
   tls: false
   type: hysteria2
-- name: 8|Telegram=V2RayyNGvpn
+- name: 8|Telegra
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
   password: V2RayyNGvpn
@@ -134,7 +144,7 @@ proxies:
   sni: nl2.cleanersaz.help
   tls: false
   type: hysteria2
-- name: 8|Telegram=V2RayyNGvpn🇵
+- name: 8|Telegram=V2RayyNGvpn🇨🇵
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
   password: l6R1kundefinedu0Dm
@@ -164,7 +174,7 @@ proxies:
   sni: hy2.aspidnet.xyz
   tls: false
   type: hysteria2
-- name: 8|2@oneclickvpnkeys
+- name: 8|🎀2@oneclickvpnkeys
   password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
   port: 8443
   server: 205.237.109.212
