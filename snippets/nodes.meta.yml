@@ -69,6 +69,16 @@ proxies:
   type: hysteria2
 - name: 8|@filembad
   obfs: salamander
+  obfs-password: mtg2vchyir6la3et
+  password: 4z2oldt85p494bgb
+  port: 52021
+  server: assets.gateway-stream.com
+  skip-cert-verify: false
+  sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
+- name: 8|@FarazV2ray
+  obfs: salamander
   obfs-password: l960g2kn19nphlra
   password: 4z2oldt85p494bgb
   port: 52060
