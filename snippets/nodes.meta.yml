@@ -67,7 +67,7 @@ proxies:
   sni: ppl.myispace.xyz
   tls: false
   type: hysteria2
-- name: 8|@FarazV2ray
+- name: 8|@filembad
   obfs: salamander
   obfs-password: l960g2kn19nphlra
   password: 4z2oldt85p494bgb
@@ -94,7 +94,7 @@ proxies:
   sni: nederland.gamestocke.ru
   tls: false
   type: hysteria2
-- name: 8|49@oneclickvpnkeys
+- name: 8|🎴49@oneclickvpnkeys
   obfs: salamander
   obfs-password: ed56da70f1614311cbfc1e87
   password: 72bcd6fe388a12c386a1c40ff55f6c1e
@@ -200,16 +200,6 @@ proxies:
   sni: nl2.cleanersaz.help
   tls: false
   type: hysteria2
-- name: 8|Telegram=V2RayyNGvpn🇨🇵
-  obfs: salamander
-  obfs-password: t-me-V2RayyNGvpn
-  password: l6R1kundefinedu0Dm
-  port: 55809
-  server: 51.159.137.79
-  skip-cert-verify: true
-  sni: www.amd.com
-  tls: false
-  type: hysteria2
 - name: 8|71@oneclickvpnkeys
   obfs: salamander
   obfs-password: vwrgaergG
@@ -272,7 +262,7 @@ proxies:
   sni: grape-turbo-fr.roxa.org
   tls: false
   type: hysteria2
-- name: 8|48@oneclickvpnkeys
+- name: 8|🎴48@oneclickvpnkeys
   password: suAmQS9LlInNq4Wumh-FUF4GGlpgmG_g
   port: 8443
   server: 159.223.157.129

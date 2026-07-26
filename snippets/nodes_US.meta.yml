@@ -7,14 +7,6 @@ proxies:
   sni: mg2.mangshe.xyz
   tls: false
   type: hysteria2
-- name: 8|48@oneclickvpnkeys
-  password: suAmQS9LlInNq4Wumh-FUF4GGlpgmG_g
-  port: 8443
-  server: 159.223.157.129
-  skip-cert-verify: true
-  sni: www.microsoft.com
-  tls: false
-  type: hysteria2
 - name: 13,14|美国|@ripaojiedian
   network: tcp
   password: d1960ba9f0f6353353994fa844cf817b
