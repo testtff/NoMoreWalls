@@ -60,6 +60,16 @@ proxies:
   sni: ppl.myispace.xyz
   tls: false
   type: hysteria2
+- name: 8|@FarazV2ray
+  obfs: salamander
+  obfs-password: l960g2kn19nphlra
+  password: 4z2oldt85p494bgb
+  port: 52060
+  server: assets.gateway-stream.com
+  skip-cert-verify: false
+  sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
 - name: 8|@meliproxyy
   obfs: salamander
   obfs-password: fd3olglr2bmimgje
@@ -143,7 +153,7 @@ proxies:
   sni: hy2.123266.xyz
   tls: false
   type: hysteria2
-- name: 8|18@oneclickvpnkeys
+- name: 8|🎀18@oneclickvpnkeys
   password: d2e3768f-cb23-4cfc-a884-dbd6813cb70b
   port: 8433
   server: 172.86.95.17
