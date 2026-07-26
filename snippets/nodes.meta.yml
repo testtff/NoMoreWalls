@@ -53,13 +53,6 @@ proxies:
   sni: germany1.noesissite.ru
   tls: false
   type: hysteria2
-- name: 8|91@oneclickvpnkeys
-  password: 042a1881-44e4-4781-bd40-bf75164faf4f
-  port: 443
-  server: nland1.noesissite.ru
-  sni: nland1.noesissite.ru
-  tls: false
-  type: hysteria2
 - name: 8|🎀67@oneclickvpnkeys
   password: 419bfbd4-3097-4cef-a6b3-aebd78506ed7
   port: 8443
@@ -84,29 +77,12 @@ proxies:
   sni: nederland.gamestocke.ru
   tls: false
   type: hysteria2
-- name: 8|@V2RayyNGvpn🇨🇵
-  obfs: salamander
-  obfs-password: t-me-V2RayyNGvpn
-  password: 76TeSy4hi8
-  port: 55809
-  server: 51.159.137.79
-  skip-cert-verify: true
-  sni: www.amd.com
-  tls: false
-  type: hysteria2
-- name: 8|68@oneclickvpnkeys
+- name: 8|🎀68@oneclickvpnkeys
   password: 76dff95d-a720-4909-8ca6-3d848e786a9c
   port: 443
   server: 159.65.178.189
   skip-cert-verify: true
   sni: www.bing.com
-  tls: false
-  type: hysteria2
-- name: 8|🎀1@oneclickvpnkeys
-  password: 9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z
-  port: 8443
-  server: 76.164.202.213
-  sni: mercedes-grape.yyuyy.com
   tls: false
   type: hysteria2
 - name: 8|🎀72@oneclickvpnkeys
@@ -121,13 +97,6 @@ proxies:
   port: 443
   server: 54.245.180.117
   skip-cert-verify: true
-  tls: false
-  type: hysteria2
-- name: 8|88@oneclickvpnkeys
-  password: Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0
-  port: 8443
-  server: 93.114.194.117
-  sni: grape-zet-ro-turbo.bumbleshrimp.com
   tls: false
   type: hysteria2
 - name: 8|+@Azarakhsh_Proxy+
@@ -174,7 +143,7 @@ proxies:
   sni: hy2.123266.xyz
   tls: false
   type: hysteria2
-- name: 8|🎀18@oneclickvpnkeys
+- name: 8|18@oneclickvpnkeys
   password: d2e3768f-cb23-4cfc-a884-dbd6813cb70b
   port: 8433
   server: 172.86.95.17
