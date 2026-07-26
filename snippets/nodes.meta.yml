@@ -67,16 +67,6 @@ proxies:
   sni: ppl.myispace.xyz
   tls: false
   type: hysteria2
-- name: 8|🇫🇮FI-@VPNine1
-  obfs: salamander
-  obfs-password: l960g2kn19nphlra
-  password: 4z2oldt85p494bgb
-  port: 52060
-  server: assets.gateway-stream.com
-  skip-cert-verify: false
-  sni: assets.gateway-stream.com
-  tls: false
-  type: hysteria2
 - name: 8|@meliproxyy
   obfs: salamander
   obfs-password: fd3olglr2bmimgje
