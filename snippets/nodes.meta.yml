@@ -19,7 +19,7 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: 8|@filembad
+- name: 8|@FarazV2ray
   obfs: salamander
   obfs-password: l960g2kn19nphlra
   password: 4z2oldt85p494bgb
@@ -107,7 +107,7 @@ proxies:
   sni: www.amd.com
   tls: false
   type: hysteria2
-- name: 8|🇪AE-@VPNine1
+- name: '8|@mehrosaboran #1'
   obfs: salamander
   obfs-password: rG07s3COMIEvdnQipRyWzx_H_2xygNC3
   password: p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR
@@ -115,6 +115,13 @@ proxies:
   server: 130.49.161.70
   skip-cert-verify: true
   sni: hy2.aspidnet.xyz
+  tls: false
+  type: hysteria2
+- name: 8|41@oneclickvpnkeys
+  password: velluto_8325804083
+  port: 443
+  server: 31.76.30.79
+  sni: gretacoin.shop
   tls: false
   type: hysteria2
 - name: 8|86@oneclickvpnkeys
