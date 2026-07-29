@@ -10,7 +10,7 @@ proxies:
   tls: false
   type: hysteria2
 - client-fingerprint: chrome
-  name: 15|DE_speednode_0010
+  name: 15|DE_speednode_0002
   network: ws
   port: 2053
   server: 51.89.23.94
