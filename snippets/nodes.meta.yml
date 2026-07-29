@@ -24,7 +24,7 @@ proxies:
   sni: apic.dnso.ccwu.cc
   tls: false
   type: hysteria2
-- name: 8|@vmesskhodam
+- name: 8|@erfanandroid
   obfs: salamander
   obfs-password: iknjsvsjagi449mm
   password: 4z2oldt85p494bgb
@@ -44,16 +44,6 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: 8|@Alpha_v2rayIP
-  obfs: salamander
-  obfs-password: fd3olglr2bmimgje
-  password: 4z2oldt85p494bgb
-  port: 52061
-  server: assets.gateway-stream.com
-  skip-cert-verify: false
-  sni: assets.gateway-stream.com
-  tls: false
-  type: hysteria2
 - name: 8|🐰55@oneclickvpnkeys
   password: 68b4b16e-2759-47a4-8a69-33118edf5ce6
   port: 443
@@ -61,7 +51,7 @@ proxies:
   sni: ger.leontunel.ru
   tls: false
   type: hysteria2
-- name: 8|52@oneclickvpnkeys
+- name: 8|🐰52@oneclickvpnkeys
   password: 76713d07-5a6b-49c2-abd8-bc450a2fa7fc
   port: 443
   server: usa1.spectrumproxy.shop
@@ -163,7 +153,7 @@ proxies:
   sni: de1-hy2.veilvpn.life
   tls: false
   type: hysteria2
-- name: 8|56@oneclickvpnkeys
+- name: 8|🐰56@oneclickvpnkeys
   password: e04a51d1-0450-4919-b924-bd08501934bf
   port: 443
   server: 2.59.163.171
@@ -195,7 +185,7 @@ proxies:
   sni: nl2.cleanersaz.help
   tls: false
   type: hysteria2
-- name: 8|49@oneclickvpnkeys
+- name: 8|🐰49@oneclickvpnkeys
   password: mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj
   port: 443
   server: 91.196.32.163
@@ -241,21 +231,14 @@ proxies:
   sni: hy2.aspidnet.xyz
   tls: false
   type: hysteria2
-- name: 8|51@oneclickvpnkeys
+- name: 8|🐰51@oneclickvpnkeys
   password: uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r
   port: 443
   server: 185.225.19.39
   sni: ro.h2corp.org
   tls: false
   type: hysteria2
-- name: 8|41@oneclickvpnkeys
-  password: velluto_8325804083
-  port: 443
-  server: 31.76.30.79
-  sni: gretacoin.shop
-  tls: false
-  type: hysteria2
-- name: '8|@meliproxyy #3'
+- name: '8|@meliproxyy #2'
   obfs: salamander
   obfs-password: RedmEthIS-Join-V2RayyNGvpn-oBsPaHard183hgak
   password: voQTxwGh4I
