@@ -52,6 +52,41 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
+- name: 8|️️36@oneclickvpnkeys
+  password: 67a1454f-5a95-4e30-9723-1ffcbe7e97f9
+  port: 443
+  server: 107.181.134.90
+  sni: wopa7.api3-max.ru
+  tls: false
+  type: hysteria2
+- name: 8|️‍🗨️38@oneclickvpnkeys
+  password: 67a1454f-5a95-4e30-9723-1ffcbe7e97f9
+  port: 443
+  server: wopa3.api3-max.ru
+  sni: wopa3.api3-max.ru
+  tls: false
+  type: hysteria2
+- name: 8|️‍🗨️23@oneclickvpnkeys
+  password: 67a1454f-5a95-4e30-9723-1ffcbe7e97f9
+  port: 443
+  server: wopa5.api3-max.ru
+  sni: wopa5.api3-max.ru
+  tls: false
+  type: hysteria2
+- name: 8|👁️‍🗨️43@oneclickvpnkeys
+  password: 67a1454f-5a95-4e30-9723-1ffcbe7e97f9
+  port: 443
+  server: wopa7.api3-max.ru
+  sni: wopa7.api3-max.ru
+  tls: false
+  type: hysteria2
+- name: 8|👁️‍🗨️44@oneclickvpnkeys
+  password: 67a1454f-5a95-4e30-9723-1ffcbe7e97f9
+  port: 443
+  server: wopa9.api3-max.ru
+  sni: wopa9.api3-max.ru
+  tls: false
+  type: hysteria2
 - name: 8|@vmesskhodam
   obfs: salamander
   obfs-password: l960g2kn19nphlra
@@ -99,7 +134,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 8|79@oneclickvpnkeys
+- name: 8|61@oneclickvpnkeys
   password: dongtaiwang.com
   port: 44356
   server: 142.249.37.90
@@ -128,6 +163,14 @@ proxies:
   port: 8443
   server: 205.237.109.213
   sni: grape-turbo-fr.roxa.org
+  tls: false
+  type: hysteria2
+- name: 8|️‍🗨️16@oneclickvpnkeys
+  password: zhangyang
+  port: 6443
+  server: 130.61.50.75
+  skip-cert-verify: true
+  sni: dash.cloudflare.com
   tls: false
   type: hysteria2
 - cipher: aes-256-cfb
