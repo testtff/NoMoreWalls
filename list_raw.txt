@@ -6,7 +6,7 @@ hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52025?insecure=0&sni=asse
 hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52060?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=l960g2kn19nphlra#8%7C%EF%B8%8F%40ATLAS_V2VPN%EF%B8%8F%EF%B8%8F491%EF%B8%8F
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@107.181.134.90:443?sni=wopa7.api3-max.ru#8%7C%EF%B8%8F%EF%B8%8F36%40oneclickvpnkeys
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa3.api3-max.ru:443?sni=wopa3.api3-max.ru#8%7C%EF%B8%8F%E2%80%8D%F0%9F%97%A8%EF%B8%8F38%40oneclickvpnkeys
-hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa5.api3-max.ru:443?sni=wopa5.api3-max.ru#8%7C%EF%B8%8F%E2%80%8D%F0%9F%97%A8%EF%B8%8F23%40oneclickvpnkeys
+hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa5.api3-max.ru:443?sni=wopa5.api3-max.ru#8%7C%F0%9F%91%81%EF%B8%8F%E2%80%8D%F0%9F%97%A8%EF%B8%8F23%40oneclickvpnkeys
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa7.api3-max.ru:443?sni=wopa7.api3-max.ru#8%7C%F0%9F%91%81%EF%B8%8F%E2%80%8D%F0%9F%97%A8%EF%B8%8F43%40oneclickvpnkeys
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa9.api3-max.ru:443?sni=wopa9.api3-max.ru#8%7C%F0%9F%91%81%EF%B8%8F%E2%80%8D%F0%9F%97%A8%EF%B8%8F44%40oneclickvpnkeys
 hysteria2://84eyebdtl3tcbssn@assets.gateway-stream.com:52060?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=l960g2kn19nphlra#8%7C%40vmesskhodam
