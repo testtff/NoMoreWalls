@@ -39,13 +39,14 @@ proxies:
   sni: quic.tyr-agentstvo.tech
   tls: false
   type: hysteria2
-- name: 8|@confiig_hub
+- alpn:
+  - h3
+  name: 8|9iespx3vcm
   obfs: salamander
   obfs-password: dnwx30hvcobf7xcf
   password: 0ansucp5k6aop125
   port: 32950
   server: 185.47.172.226
-  skip-cert-verify: false
   sni: 185.47.172.226
   tls: false
   type: hysteria2
@@ -127,6 +128,13 @@ proxies:
   sni: wopa3.api3-max.ru
   tls: false
   type: hysteria2
+- name: 8|👁️‍🗨️23@oneclickvpnkeys
+  password: 67a1454f-5a95-4e30-9723-1ffcbe7e97f9
+  port: 443
+  server: wopa5.api3-max.ru
+  sni: wopa5.api3-max.ru
+  tls: false
+  type: hysteria2
 - name: 8|👁️‍🗨️58@oneclickvpnkeys
   password: 67a1454f-5a95-4e30-9723-1ffcbe7e97f9
   port: 443
@@ -163,7 +171,7 @@ proxies:
   sni: swe-one.quiet-rogue.site
   tls: false
   type: hysteria2
-- name: 8|@Napsternetvirani
+- name: 8|@FarazV2ray
   obfs: salamander
   obfs-password: 93lc6r07zfx4crct
   password: 76kyzc055ahiyfzy
