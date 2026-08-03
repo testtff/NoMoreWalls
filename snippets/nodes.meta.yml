@@ -135,7 +135,7 @@ proxies:
   sni: swe-one.quiet-rogue.site
   tls: false
   type: hysteria2
-- name: 8|@filembad
+- name: 8|@FarazV2ray
   obfs: salamander
   obfs-password: 93lc6r07zfx4crct
   password: 76kyzc055ahiyfzy
