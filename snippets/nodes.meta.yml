@@ -180,7 +180,7 @@ proxies:
   sni: de-two.quiet-rogue.site
   tls: false
   type: hysteria2
-- name: 7,8|75@oneclickvpnkeys
+- name: 7,8|💫75@oneclickvpnkeys
   password: 71cada65-d23e-418c-88e4-a06188d14689
   port: 443
   server: it-one.quiet-rogue.site
@@ -322,7 +322,7 @@ proxies:
   sni: www.linux.com
   tls: false
   type: hysteria2
-- name: 7,8|🤖72@oneclickvpnkeys
+- name: 7|芬兰
   password: h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT
   port: 8443
   server: 185.79.138.71
@@ -336,7 +336,7 @@ proxies:
   sni: grape-turbo-fr.roxa.org
   tls: false
   type: hysteria2
-- name: 8|@configprxy
+- name: 8|@confiig_hub
   obfs: salamander
   obfs-password: dnwx30hvcobf7xcf
   password: 0ansucp5k6aop125
@@ -384,24 +384,17 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: 8|88@oneclickvpnkeys
-  password: 67a1454f-5a95-4e30-9723-1ffcbe7e97f9
-  port: 443
-  server: 143.246.136.159
-  sni: taga2.api3-max.ru
-  tls: false
-  type: hysteria2
-- name: 8|🤖71@oneclickvpnkeys
-  password: 71cada65-d23e-418c-88e4-a06188d14689
-  port: 443
-  server: 87.121.105.108
-  sni: swe-one.quiet-rogue.site
-  tls: false
-  type: hysteria2
 - name: 8|️57@SHAHSERVER1
   password: 76713d07-5a6b-49c2-abd8-bc450a2fa7fc
   port: 443
   server: 138.124.68.188
+  sni: usa1.spectrumproxy.shop
+  tls: false
+  type: hysteria2
+- name: 8|🇺RU-@VPNine1
+  password: 76713d07-5a6b-49c2-abd8-bc450a2fa7fc
+  port: 443
+  server: usa1.spectrumproxy.shop
   sni: usa1.spectrumproxy.shop
   tls: false
   type: hysteria2
@@ -418,6 +411,14 @@ proxies:
   server: flkf3.mangshe.xyz
   skip-cert-verify: true
   sni: flkf3.mangshe.xyz
+  tls: false
+  type: hysteria2
+- name: 8|95@oneclickvpnkeys
+  password: 9d3356a0-c07e-43cc-b30e-450bd50521b8
+  port: 2056
+  server: xby.mangshe.xyz
+  skip-cert-verify: true
+  sni: mg2.mangshe.xyz
   tls: false
   type: hysteria2
 - name: 8|@Daily_Configs
@@ -514,12 +515,6 @@ proxies:
   server: hy2.aspidnet.xyz
   skip-cert-verify: false
   sni: hy2.aspidnet.xyz
-  tls: false
-  type: hysteria2
-- name: 8|🤖67@oneclickvpnkeys
-  password: qIg7TMxfJvx6t27er0c9P0osebAAPu2PYlB_aoWelV5kVVQ2
-  port: 443
-  server: fr2.h2corp.org
   tls: false
   type: hysteria2
 - name: 8|️16@SHAHSERVER1
