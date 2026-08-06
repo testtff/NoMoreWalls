@@ -314,7 +314,7 @@ proxies:
   sni: bel-03.node.lumixnet.com
   tls: false
   type: hysteria2
-- name: '7|荷兰 #1'
+- name: 7,8|🇱NL-@VPNine1
   password: gf1
   port: 443
   server: 5.129.235.85
@@ -391,7 +391,7 @@ proxies:
   sni: usa1.spectrumproxy.shop
   tls: false
   type: hysteria2
-- name: 8|🇺RU-@VPNine1
+- name: 8|5💫@oneclickvpnkeys
   password: 76713d07-5a6b-49c2-abd8-bc450a2fa7fc
   port: 443
   server: usa1.spectrumproxy.shop
@@ -413,7 +413,7 @@ proxies:
   sni: flkf3.mangshe.xyz
   tls: false
   type: hysteria2
-- name: 8|95@oneclickvpnkeys
+- name: 8|💫95@oneclickvpnkeys
   password: 9d3356a0-c07e-43cc-b30e-450bd50521b8
   port: 2056
   server: xby.mangshe.xyz
@@ -517,7 +517,7 @@ proxies:
   sni: hy2.aspidnet.xyz
   tls: false
   type: hysteria2
-- name: 8|️16@SHAHSERVER1
+- name: 8|️️16@SHAHSERVER1
   password: zhangyang
   port: 6443
   server: 130.61.50.75
