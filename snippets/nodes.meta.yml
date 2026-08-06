@@ -360,7 +360,7 @@ proxies:
   sni: www.amazon.com
   tls: false
   type: hysteria2
-- name: 7,8|33@oneclickvpnkeys
+- name: 7,8|🪁33@oneclickvpnkeys
   password: gf1
   port: 443
   server: 5.129.235.85
@@ -410,7 +410,7 @@ proxies:
   sni: social.klipp.su
   tls: false
   type: hysteria2
-- name: 8|️️@ATLAS_V2VPN️️491️
+- name: 8|️@ATLAS_V2VPN️️491️
   obfs: salamander
   obfs-password: l960g2kn19nphlra
   password: 4z2oldt85p494bgb
