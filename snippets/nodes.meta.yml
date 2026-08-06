@@ -314,7 +314,7 @@ proxies:
   sni: bel-03.node.lumixnet.com
   tls: false
   type: hysteria2
-- name: 7,8|🇱NL-@VPNine1
+- name: '7|荷兰 #1'
   password: gf1
   port: 443
   server: 5.129.235.85
