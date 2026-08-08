@@ -565,6 +565,16 @@ proxies:
   sni: vk.com
   tls: false
   type: hysteria2
+- name: '8|未命名 #12'
+  obfs: salamander
+  obfs-password: t72hzzenktxmrvgu
+  password: kjq3gpn1xom1ted9
+  port: 52024
+  server: assets.gateway-stream.com
+  skip-cert-verify: false
+  sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
 - name: 8|@Selinc
   obfs: salamander
   obfs-password: T-ME-V2RayyNGvpn
@@ -585,7 +595,7 @@ proxies:
   sni: hy2.aspidnet.xyz
   tls: false
   type: hysteria2
-- name: 8|49@oneclickvpnkeys
+- name: 8|🪁49@oneclickvpnkeys
   password: qIg7TMxfJvx6t27er0c9P0osebAAPu2PYlB_aoWelV5kVVQ2
   port: 443
   server: 194.180.174.69
