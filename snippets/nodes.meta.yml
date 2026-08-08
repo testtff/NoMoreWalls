@@ -139,7 +139,7 @@ proxies:
   sni: de-two.quiet-rogue.site
   tls: false
   type: hysteria2
-- name: 7,8|5🪁@oneclickvpnkeys
+- name: '7|德国 #1'
   password: 71cada65-d23e-418c-88e4-a06188d14689
   port: 443
   server: de-two.quiet-rogue.site
@@ -160,7 +160,7 @@ proxies:
   sni: cze-01.node.lumixnet.com
   tls: false
   type: hysteria2
-- name: 7,8|2🪁@oneclickvpnkeys
+- name: '7|荷兰 #2'
   password: 99800091-8337-4112-8756-8cc60eb1ffa8
   port: 10808
   server: nl2.unlockvpn.online
@@ -312,7 +312,7 @@ proxies:
   sni: grape-zet-turbo-nl.yyuyy.com
   tls: false
   type: hysteria2
-- name: 7|JP
+- name: 7|🇯🇵JP
   password: STYyftThFn
   port: 12765
   server: freedom.chenlan.top
@@ -371,6 +371,14 @@ proxies:
   port: 443
   server: bel-03.node.lumixnet.com
   sni: bel-03.node.lumixnet.com
+  tls: false
+  type: hysteria2
+- name: 7|BR
+  password: df8d55f9-fb51-442d-902a-bf8160dc051b
+  port: 11100
+  server: brb.nnpy.org
+  skip-cert-verify: true
+  sni: www.bing.com
   tls: false
   type: hysteria2
 - name: '7|未命名 #9'
@@ -443,27 +451,7 @@ proxies:
   sni: 185.47.172.226
   tls: false
   type: hysteria2
-- name: 8|86@oneclickvpnkeys
-  obfs: salamander
-  obfs-password: PQ$hN78bzXWN
-  password: 18cf8030-1ceb-4b7d-8c0c-c036413c144e
-  port: 10086
-  server: us1.xiaoliyu.cyou
-  skip-cert-verify: true
-  sni: us1.xiaoliyu.cyou
-  tls: false
-  type: hysteria2
-- name: 8|️@ATLAS_V2VPN️️491️
-  obfs: salamander
-  obfs-password: l960g2kn19nphlra
-  password: 4z2oldt85p494bgb
-  port: 52060
-  server: assets.gateway-stream.com
-  skip-cert-verify: false
-  sni: assets.gateway-stream.com
-  tls: false
-  type: hysteria2
-- name: 8|🆔@v2ray_configs_pool️Finland️H...
+- name: 8|@v2ray_configs_poolFinland️Hel...
   obfs: salamander
   obfs-password: 78mszx8jbd3mfivf
   password: 4z2oldt85p494bgb
@@ -539,7 +527,7 @@ proxies:
   sni: 179.61.132.96
   tls: false
   type: hysteria2
-- name: 8|️TELEGRAM@SHAHSERVER1
+- name: 8|🤴‼️TELEGRAM@SHAHSERVER1🪽
   obfs: salamander
   obfs-password: 83v9muumcyikh5ch
   password: TelegramVPNjey
@@ -569,6 +557,14 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
+- name: 8|6@oneclickvpnkeys
+  password: gf1
+  port: 443
+  server: 5.129.235.85
+  skip-cert-verify: true
+  sni: vk.com
+  tls: false
+  type: hysteria2
 - name: 8|@Selinc
   obfs: salamander
   obfs-password: T-ME-V2RayyNGvpn
@@ -589,7 +585,7 @@ proxies:
   sni: hy2.aspidnet.xyz
   tls: false
   type: hysteria2
-- name: 8|🪁49@oneclickvpnkeys
+- name: 8|49@oneclickvpnkeys
   password: qIg7TMxfJvx6t27er0c9P0osebAAPu2PYlB_aoWelV5kVVQ2
   port: 443
   server: 194.180.174.69
