@@ -412,14 +412,14 @@ proxies:
   sni: hopp-legend-se.roxa.org
   tls: false
   type: hysteria2
-- name: '7|兰 #2'
+- name: 7,8|✨20@oneclickvpnkeys
   password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
   port: 8443
   server: 205.237.109.216
   sni: grape-turbo-fr.roxa.org
   tls: false
   type: hysteria2
-- name: '7|罗马尼亚 #5'
+- name: 7,8|✨19@oneclickvpnkeys
   password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
   port: 8443
   server: 205.237.109.220
@@ -451,14 +451,6 @@ proxies:
   port: 443
   server: 138.124.68.188
   sni: usa1.spectrumproxy.shop
-  tls: false
-  type: hysteria2
-- name: 8|RU-@VPNine1
-  password: 7836b28e-8451-4596-ad3e-e3601b2335ba
-  port: 8443
-  server: 78.159.240.69
-  skip-cert-verify: true
-  sni: quic.tyr-agentstvo.tech
   tls: false
   type: hysteria2
 - name: 8|26@SHAHSERVER1
@@ -599,6 +591,76 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
+- name: 8|🇫🇮FI-🚀@VPNine1
+  obfs: salamander
+  obfs-password: dscbu47eev49tv84
+  password: kjq3gpn1xom1ted9
+  port: 52086
+  server: assets.gateway-stream.com
+  skip-cert-verify: false
+  sni: ''
+  tls: false
+  type: hysteria2
+- name: '8|🇫🇮FI-🚀@VPNine1 #1'
+  obfs: salamander
+  obfs-password: dscbu47eev49tv84
+  password: kjq3gpn1xom1ted9
+  port: 52086
+  server: assets.gateway-stream.com
+  skip-cert-verify: false
+  sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
+- name: '8|🇫🇮FI-🚀@VPNine1 #2'
+  obfs: salamander
+  obfs-password: bwgy7ppdoiz448uw
+  password: kjq3gpn1xom1ted9
+  port: 52087
+  server: assets.gateway-stream.com
+  skip-cert-verify: false
+  sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
+- name: '8|🇫🇮FI-🚀@VPNine1 #3'
+  obfs: salamander
+  obfs-password: qfsk2h15o2dm0msi
+  password: kjq3gpn1xom1ted9
+  port: 52088
+  server: assets.gateway-stream.com
+  skip-cert-verify: false
+  sni: ''
+  tls: false
+  type: hysteria2
+- name: '8|🇫🇮FI-🚀@VPNine1 #4'
+  obfs: salamander
+  obfs-password: qfsk2h15o2dm0msi
+  password: kjq3gpn1xom1ted9
+  port: 52088
+  server: assets.gateway-stream.com
+  skip-cert-verify: false
+  sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
+- name: '8|🇫🇮FI-🚀@VPNine1 #5'
+  obfs: salamander
+  obfs-password: hitar6eeayxd7imh
+  password: kjq3gpn1xom1ted9
+  port: 52089
+  server: assets.gateway-stream.com
+  skip-cert-verify: false
+  sni: ''
+  tls: false
+  type: hysteria2
+- name: '8|🇫🇮FI-🚀@VPNine1 #6'
+  obfs: salamander
+  obfs-password: hitar6eeayxd7imh
+  password: kjq3gpn1xom1ted9
+  port: 52089
+  server: assets.gateway-stream.com
+  skip-cert-verify: false
+  sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
 - name: 8|@Daily_Configs
   obfs: salamander
   obfs-password: rG07s3COMIEvdnQipRyWzx_H_2xygNC3
@@ -617,6 +679,20 @@ proxies:
   server: hy2.aspidnet.xyz
   skip-cert-verify: false
   sni: hy2.aspidnet.xyz
+  tls: false
+  type: hysteria2
+- name: 8|9@oneclickvpnkeys
+  password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
+  port: 8443
+  server: 205.237.109.212
+  sni: grape-turbo-fr.roxa.org
+  tls: false
+  type: hysteria2
+- name: 8|✨22@oneclickvpnkeys
+  password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
+  port: 8443
+  server: 205.237.109.213
+  sni: grape-turbo-fr.roxa.org
   tls: false
   type: hysteria2
 - name: 8|️️16@SHAHSERVER1
