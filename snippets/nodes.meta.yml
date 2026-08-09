@@ -543,7 +543,7 @@ proxies:
   sni: vk.com
   tls: false
   type: hysteria2
-- name: 8|6@oneclickvpnkeys
+- name: 8|🐻6@oneclickvpnkeys
   password: gf1
   port: 443
   server: 5.129.235.85
@@ -591,7 +591,7 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: 8|🇫🇮FI-🚀@VPNine1
+- name: 8|🇫🇮FI-@VPNine1
   obfs: salamander
   obfs-password: dscbu47eev49tv84
   password: kjq3gpn1xom1ted9
@@ -601,7 +601,7 @@ proxies:
   sni: ''
   tls: false
   type: hysteria2
-- name: '8|🇫🇮FI-🚀@VPNine1 #1'
+- name: 8|🇫🇮FI-🚀@VPNine1
   obfs: salamander
   obfs-password: dscbu47eev49tv84
   password: kjq3gpn1xom1ted9
@@ -611,7 +611,7 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: '8|🇫🇮FI-🚀@VPNine1 #2'
+- name: '8|🇫🇮FI-🚀@VPNine1 #1'
   obfs: salamander
   obfs-password: bwgy7ppdoiz448uw
   password: kjq3gpn1xom1ted9
@@ -621,7 +621,7 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: '8|🇫🇮FI-🚀@VPNine1 #3'
+- name: '8|🇫🇮FI-🚀@VPNine1 #2'
   obfs: salamander
   obfs-password: qfsk2h15o2dm0msi
   password: kjq3gpn1xom1ted9
@@ -631,7 +631,7 @@ proxies:
   sni: ''
   tls: false
   type: hysteria2
-- name: '8|🇫🇮FI-🚀@VPNine1 #4'
+- name: '8|🇫🇮FI-🚀@VPNine1 #3'
   obfs: salamander
   obfs-password: qfsk2h15o2dm0msi
   password: kjq3gpn1xom1ted9
@@ -641,7 +641,7 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: '8|🇫🇮FI-🚀@VPNine1 #5'
+- name: '8|🇫🇮FI-🚀@VPNine1 #4'
   obfs: salamander
   obfs-password: hitar6eeayxd7imh
   password: kjq3gpn1xom1ted9
@@ -651,7 +651,7 @@ proxies:
   sni: ''
   tls: false
   type: hysteria2
-- name: '8|🇫🇮FI-🚀@VPNine1 #6'
+- name: '8|🇫🇮FI-🚀@VPNine1 #5'
   obfs: salamander
   obfs-password: hitar6eeayxd7imh
   password: kjq3gpn1xom1ted9
