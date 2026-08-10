@@ -376,7 +376,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: 7,8|丹麦&insecure=1#🇩🇰DK-🚀@VPNine1
+- name: '7|未命名 #11'
   password: gf1
   port: 443
   server: 185.111.109.40
@@ -440,7 +440,7 @@ proxies:
   sni: nrealistic.nn-foto.ru
   tls: false
   type: hysteria2
-- name: 8|🇮🇹IT-@VPNine1
+- name: 8|✨94@oneclickvpnkeys
   password: 71cada65-d23e-418c-88e4-a06188d14689
   port: 443
   server: 31.76.113.32
@@ -542,14 +542,6 @@ proxies:
   port: 40308
   server: 156.226.175.33
   skip-cert-verify: true
-  tls: false
-  type: hysteria2
-- name: 8|🇫🇮FI-🚀@VPNine1
-  password: k1dom6dyqelryllv
-  port: 52020
-  server: assets.gateway-stream.com
-  skip-cert-verify: false
-  sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
 - alpn:
