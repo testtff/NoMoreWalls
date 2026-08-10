@@ -456,11 +456,14 @@ proxies:
   sni: 185.47.172.226
   tls: false
   type: hysteria2
-- name: 8|94@oneclickvpnkeys
-  password: 71cada65-d23e-418c-88e4-a06188d14689
-  port: 443
-  server: 31.76.113.32
-  sni: it-one.quiet-rogue.site
+- name: 8|@filembad
+  obfs: salamander
+  obfs-password: IL+pm5"K?4gef:Jvn8^G+:N,Neyy8
+  password: Configvibes
+  port: 2096
+  server: 107.181.155.107
+  skip-cert-verify: true
+  sni: ftp.debian.org
   tls: false
   type: hysteria2
 - name: 8|+@Azarakhsh_Proxy+
@@ -563,7 +566,7 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: 8|@v2rayng_Fast
+- name: 8|@FarazV2ray
   obfs: salamander
   obfs-password: dscbu47eev49tv84
   password: kjq3gpn1xom1ted9
@@ -573,7 +576,7 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: '8|@v2rayng_Fast #1'
+- name: '8|@FarazV2ray #1'
   obfs: salamander
   obfs-password: bwgy7ppdoiz448uw
   password: kjq3gpn1xom1ted9
@@ -583,7 +586,7 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: '8|@v2rayng_Fast #2'
+- name: '8|@FarazV2ray #2'
   obfs: salamander
   obfs-password: qfsk2h15o2dm0msi
   password: kjq3gpn1xom1ted9
@@ -593,7 +596,7 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: '8|@v2rayng_Fast #3'
+- name: '8|@FarazV2ray #3'
   obfs: salamander
   obfs-password: hitar6eeayxd7imh
   password: kjq3gpn1xom1ted9
