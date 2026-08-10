@@ -6,14 +6,6 @@ proxies:
   sni: nl1.noesissite.ru
   tls: false
   type: hysteria2
-- name: 7|JP
-  password: 0c3bd8c8-53db-4126-a98f-d12d908d5301
-  port: 11000
-  server: jpa.nnpy.org
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
 - name: '7|荷兰 #1'
   password: 16ab4d4a-fd81-4535-9b7b-346677226ce8
   port: 443
@@ -260,6 +252,13 @@ proxies:
   sni: grape-zet-ro-turbo.bumbleshrimp.com
   tls: false
   type: hysteria2
+- name: 7,8|53@oneclickvpnkeys
+  password: Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0
+  port: 8443
+  server: 93.114.194.122
+  sni: grape-zet-ro-turbo.bumbleshrimp.com
+  tls: false
+  type: hysteria2
 - name: '7|未命名 #8'
   password: LzMWgm6LaNWCm11bFTbynDPq2TqQj03t
   port: 443
@@ -315,6 +314,13 @@ proxies:
   sni: usaw2.awo-link.com
   tls: false
   type: hysteria2
+- name: '7|德国 #3'
+  password: c175d956-d1f4-4c53-b2b1-8493bf8529c6
+  port: 443
+  server: 87.120.84.189
+  sni: de1.apexvpn.space
+  tls: false
+  type: hysteria2
 - name: 7|🇺🇸US
   password: c2948c84-748f-47f6-bc7a-b949ef279f85
   port: 443
@@ -323,7 +329,7 @@ proxies:
   sni: quic.tyr-agentstvo.tech
   tls: false
   type: hysteria2
-- name: '7|德国 #3'
+- name: '7|德国 #4'
   password: d1224950-ffab-4b9a-8696-431b40a6cfbd
   port: 443
   server: bel-03.node.lumixnet.com
@@ -335,6 +341,13 @@ proxies:
   port: 55443
   server: host-vds2-fr.kvncococ.org
   sni: host-vds2-fr.kvncococ.org
+  tls: false
+  type: hysteria2
+- name: 7|波兰
+  password: df489ab2-2242-4952-a774-1074a3a31f41
+  port: 8443
+  server: eh-spl1.craft-supply.org
+  sni: eh-spl1.craft-supply.org
   tls: false
   type: hysteria2
 - name: 7|BR
@@ -352,7 +365,7 @@ proxies:
   sni: hy2.frdmhere.com
   tls: false
   type: hysteria2
-- name: '7|美国 #1'
+- name: 7|美国
   password: e0c7af35-e2db-47c7-b1a3-ce5ec0dd0474
   port: 8458
   server: hy2-us.frdmhere.com
@@ -374,7 +387,7 @@ proxies:
   sni: sg3.xiaoliyu.cyou
   tls: false
   type: hysteria2
-- name: '7|美国 #2'
+- name: '7|美国 #1'
   password: f64c72a1-7e1f-4dd1-8929-7e41682542e2
   port: 443
   server: us4.xiaoliyu.cyou
@@ -419,6 +432,13 @@ proxies:
   sni: grape-turbo-fr.roxa.org
   tls: false
   type: hysteria2
+- name: '7|荷兰 #8'
+  password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
+  port: 8443
+  server: 205.237.109.219
+  sni: grape-turbo-fr.roxa.org
+  tls: false
+  type: hysteria2
 - name: 7,8|✨19@oneclickvpnkeys
   password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
   port: 8443
@@ -441,13 +461,6 @@ proxies:
   port: 443
   server: 31.76.113.32
   sni: it-one.quiet-rogue.site
-  tls: false
-  type: hysteria2
-- name: 8|53@oneclickvpnkeys
-  password: Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0
-  port: 8443
-  server: 93.114.194.122
-  sni: grape-zet-ro-turbo.bumbleshrimp.com
   tls: false
   type: hysteria2
 - name: 8|+@Azarakhsh_Proxy+
@@ -506,15 +519,6 @@ proxies:
   server: 5.175.249.174
   skip-cert-verify: true
   sni: api.kermanshahi.org
-  tls: false
-  type: hysteria2
-- name: 8|ZOHAL-SVERVER-1
-  obfs: salamander
-  obfs-password: Jdb392b3j838dkdn3j$$ueh
-  password: gLkkfesaSD
-  port: 40308
-  server: 156.226.175.33
-  skip-cert-verify: true
   tls: false
   type: hysteria2
 - name: 8|🪢30@oneclickvpnkeys
