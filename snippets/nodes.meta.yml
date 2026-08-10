@@ -128,6 +128,13 @@ proxies:
   sni: it-one.quiet-rogue.site
   tls: false
   type: hysteria2
+- name: '7|未命名 #4'
+  password: 95e8532b-cc69-42d4-9553-e3c23292b15b
+  port: 8443
+  server: 176.124.222.180
+  sni: j47lq.pleiades.codes
+  tls: false
+  type: hysteria2
 - name: 7|法国
   password: 95e8532b-cc69-42d4-9553-e3c23292b15b
   port: 8443
@@ -142,7 +149,7 @@ proxies:
   sni: nl2.unlockvpn.online
   tls: false
   type: hysteria2
-- name: '7|未命名 #4'
+- name: '7|未命名 #5'
   password: 99800091-8337-4112-8756-8cc60eb1ffa8
   port: 10808
   server: nl6.unlockvpn.online
@@ -164,7 +171,7 @@ proxies:
   sni: nl9.unlockvpn.online
   tls: false
   type: hysteria2
-- name: '7|未命名 #5'
+- name: 7|罗
   password: 9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z
   port: 8443
   server: 76.164.202.217
@@ -414,11 +421,21 @@ proxies:
   sni: grape-turbo-fr.roxa.org
   tls: false
   type: hysteria2
-- name: '7|罗马尼亚 #5'
+- name: 7,8|✨19@oneclickvpnkeys
   password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
   port: 8443
   server: 205.237.109.220
   sni: grape-turbo-fr.roxa.org
+  tls: false
+  type: hysteria2
+- name: 8|@confiig_hub
+  obfs: salamander
+  obfs-password: dnwx30hvcobf7xcf
+  password: 0ansucp5k6aop125
+  port: 32950
+  server: 185.47.172.226
+  skip-cert-verify: false
+  sni: 185.47.172.226
   tls: false
   type: hysteria2
 - name: 8|✨87@oneclickvpnkeys
@@ -437,7 +454,7 @@ proxies:
   sni: it-one.quiet-rogue.site
   tls: false
   type: hysteria2
-- name: 8|57@SHAHSERVER1
+- name: 8|️57@SHAHSERVER1
   password: 76713d07-5a6b-49c2-abd8-bc450a2fa7fc
   port: 443
   server: 138.124.68.188
@@ -483,6 +500,14 @@ proxies:
   server: 179.61.132.96
   skip-cert-verify: true
   sni: 179.61.132.96
+  tls: false
+  type: hysteria2
+- name: 8|8@oneclickvpnkeys
+  password: Krab9Hyst2_Rk7pQ2xL
+  port: 36723
+  server: 95.164.123.231
+  skip-cert-verify: true
+  sni: www.cloudflare.com
   tls: false
   type: hysteria2
 - name: 8|🇩🇪@FreakConfig
@@ -532,6 +557,14 @@ proxies:
   port: 40308
   server: 156.226.175.33
   skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: 8|30@oneclickvpnkeys
+  password: gf1
+  port: 443
+  server: 173.212.201.85
+  skip-cert-verify: true
+  sni: www.docker.com
   tls: false
   type: hysteria2
 - alpn:
@@ -616,6 +649,13 @@ proxies:
   server: 130.49.161.70
   skip-cert-verify: false
   sni: hy2.aspidnet.xyz
+  tls: false
+  type: hysteria2
+- name: 8|22@oneclickvpnkeys
+  password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
+  port: 8443
+  server: 205.237.109.213
+  sni: grape-turbo-fr.roxa.org
   tls: false
   type: hysteria2
 - cipher: aes-256-cfb
