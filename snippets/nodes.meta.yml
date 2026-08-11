@@ -491,21 +491,31 @@ proxies:
   sni: 185.47.172.226
   tls: false
   type: hysteria2
-- name: 8|🇫🇮FI-🚀@VPNine1
+- name: 8|FI-🚀@VPNine1
   obfs: salamander
-  obfs-password: ielzukpwth087afx
+  obfs-password: v8h63irhnay97090
   password: 4ff4adfb8e7a4bae9c959c54fa5af52f
-  port: 52002
+  port: 52029
   server: assets.gateway-stream.com
   skip-cert-verify: false
-  sni: ''
+  sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
+- name: 8|🇫🇮FI-🚀@VPNine1
+  obfs: salamander
+  obfs-password: l960g2kn19nphlra
+  password: 4ff4adfb8e7a4bae9c959c54fa5af52f
+  port: 52060
+  server: assets.gateway-stream.com
+  skip-cert-verify: false
+  sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
 - name: '8|🇫🇮FI-🚀@VPNine1 #1'
   obfs: salamander
-  obfs-password: ielzukpwth087afx
+  obfs-password: fd3olglr2bmimgje
   password: 4ff4adfb8e7a4bae9c959c54fa5af52f
-  port: 52002
+  port: 52061
   server: assets.gateway-stream.com
   skip-cert-verify: false
   sni: assets.gateway-stream.com
@@ -571,7 +581,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: '8|未命名 #12'
+- name: 8|🇵
   obfs: salamander
   obfs-password: mtg2vchyir6la3et
   password: k1dom6dyqelryllv
@@ -665,7 +675,7 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: '8|未命名 #14'
+- name: '8|未命名 #13'
   obfs: salamander
   obfs-password: rG07s3COMIEvdnQipRyWzx_H_2xygNC3
   password: p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR
