@@ -59,7 +59,6 @@ hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.219:8443?sni=grap
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.220:8443?sni=grape-turbo-fr.roxa.org#7%7C%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A%20%234
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.221:8443?sni=grape-turbo-fr.roxa.org#7%2C8%7C%F0%9F%8E%97%EF%B8%8F37%40oneclickvpnkeys
 hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@144.31.207.60:443?insecure=1&sni=nl1.noesissite.ru#8%7C%F0%9F%8E%97%EF%B8%8F22%40oneclickvpnkeys
-hysteria2://0ansucp5k6aop125@185.47.172.226:32950?insecure=0&sni=185.47.172.226&obfs=salamander&obfs-password=dnwx30hvcobf7xcf#8%7C%40confiig_hub
 hysteria2://22j0d00lev7mq0yv@ipaste.4ippi.ru:1935?insecure=0&sni=ipaste.4ippi.ru&obfs=salamander&obfs-password=816ys5fceofhpwft#8%7C%40Daily_Configs
 hysteria2://22j0d00lev7mq0yv@social.klipp.su:443?sni=social.klipp.su&obfs=salamander&obfs-password=3sv5vpdl9xr84lyb#8%7C%F0%9F%8E%97%EF%B8%8F44%40oneclickvpnkeys
 hysteria2://2ef4cf10-34df-4c0f-9d82-bf6ca9e45025@103.27.156.125:443?sni=node-degame.bangboonet.ru#8%7C%F0%9F%8E%97%EF%B8%8F40%40oneclickvpnkeys
@@ -115,4 +114,5 @@ vless://53b59cb5-c741-3399-9065-93dc34685f5b@155.117.199.12:31877?allowInsecure=
 vless://53b59cb5-c741-3399-9065-93dc34685f5b@155.117.199.12:39395?allowInsecure=0&sni=cdnjs.cloudflare.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#15%7CUS_speednode_0125
 vless://53b59cb5-c741-3399-9065-93dc34685f5b@155.117.199.12:9713?allowInsecure=0&sni=cdnjs.cloudflare.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#15%7CUS_speednode_0127
 vless://53b59cb5-c741-3399-9065-93dc34685f5b@155.117.199.12:29709?allowInsecure=0&sni=cdnjs.cloudflare.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#15%7CUS_speednode_0137
+hhysteria2://0ansucp5k6aop125@185.47.172.226:32950?security=tls&obfs=salamander&obfs-password=dnwx30hvcobf7xcf&insecure=0&sni=185.47.172.226#@confiig_hub
 https://Nr5naf.absslk.xyz/e98af01c1d1a5c4506aead30efa93f08

@@ -465,16 +465,6 @@ proxies:
   sni: nl1.noesissite.ru
   tls: false
   type: hysteria2
-- name: 8|@confiig_hub
-  obfs: salamander
-  obfs-password: dnwx30hvcobf7xcf
-  password: 0ansucp5k6aop125
-  port: 32950
-  server: 185.47.172.226
-  skip-cert-verify: false
-  sni: 185.47.172.226
-  tls: false
-  type: hysteria2
 - name: 8|@Daily_Configs
   obfs: salamander
   obfs-password: 816ys5fceofhpwft
