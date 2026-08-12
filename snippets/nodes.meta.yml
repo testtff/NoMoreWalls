@@ -36,6 +36,14 @@ proxies:
   sni: es1.xiaoliyu.cyou
   tls: false
   type: hysteria2
+- name: 7|GB
+  password: 22d891f5-ad85-4824-b0b8-e30cf3d37eb5
+  port: 2056
+  server: yg3.mangshe.xyz
+  skip-cert-verify: true
+  sni: yg3.mangshe.xyz
+  tls: false
+  type: hysteria2
 - name: '7|兰 #1'
   obfs: salamander
   obfs-password: 8zzng75tz4tf82pj
@@ -69,6 +77,22 @@ proxies:
   server: hg1.yuanbaojc.site
   skip-cert-verify: true
   sni: 127.0.0.1
+  tls: false
+  type: hysteria2
+- name: 7|🇬SG
+  password: 4eee1b74-f71e-4c88-ac26-9eec362e40d1
+  port: 20007
+  server: hkt1.nekohub.xyz
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: false
+  type: hysteria2
+- name: 7|🇯🇵JP
+  password: 53f193c4-6482-45fb-8e00-60e0baf016ee
+  port: 48920
+  server: 207.56.227.226
+  skip-cert-verify: true
+  sni: www.bing.com
   tls: false
   type: hysteria2
 - name: 7|国3@wxgqlfx#美国
@@ -130,7 +154,7 @@ proxies:
   sni: j47lq.pleiades.codes
   tls: false
   type: hysteria2
-- name: 7,8|️20@oneclickvpnkeys
+- name: 7,8|🎗️20@oneclickvpnkeys
   password: 95e8532b-cc69-42d4-9553-e3c23292b15b
   port: 8443
   server: iq5ny.pleiades.codes
@@ -250,7 +274,7 @@ proxies:
   sni: grape-zet-turbo-nl.yyuyy.com
   tls: false
   type: hysteria2
-- name: 7,8|️25@oneclickvpnkeys
+- name: 7,8|🎗️25@oneclickvpnkeys
   password: Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s
   port: 8443
   server: 86.107.178.68
@@ -258,7 +282,7 @@ proxies:
   sni: grape-zet-turbo-nl.yyuyy.com
   tls: false
   type: hysteria2
-- name: 7,8|️24@oneclickvpnkeys
+- name: 7,8|🎗️24@oneclickvpnkeys
   password: Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s
   port: 8443
   server: 86.107.178.69
@@ -266,7 +290,7 @@ proxies:
   sni: grape-zet-turbo-nl.yyuyy.com
   tls: false
   type: hysteria2
-- name: 7|🇯🇵JP
+- name: '7|🇯🇵JP #1'
   password: STYyftThFn
   port: 12765
   server: freedom.chenlan.top
@@ -282,7 +306,7 @@ proxies:
   sni: 144.225.187.153
   tls: false
   type: hysteria2
-- name: 7|US
+- name: 7|🇸US
   obfs: salamander
   obfs-password: XBvVbvzQCq6Ovbnh
   password: bd37d63b-c75d-3e48-acbf-1d5954fe9cdc
@@ -398,7 +422,7 @@ proxies:
   sni: www.linux.com
   tls: false
   type: hysteria2
-- name: '7|芬兰 #1'
+- name: 7,8|️49@oneclickvpnkeys
   password: h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT
   port: 8443
   server: 185.79.138.71
@@ -412,7 +436,7 @@ proxies:
   sni: grape-turbo-fr.roxa.org
   tls: false
   type: hysteria2
-- name: 7,8|️42@oneclickvpnkeys
+- name: 7,8|🎗️42@oneclickvpnkeys
   password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
   port: 8443
   server: 205.237.109.219
@@ -426,14 +450,14 @@ proxies:
   sni: grape-turbo-fr.roxa.org
   tls: false
   type: hysteria2
-- name: 7,8|️37@oneclickvpnkeys
+- name: 7,8|🎗️37@oneclickvpnkeys
   password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
   port: 8443
   server: 205.237.109.221
   sni: grape-turbo-fr.roxa.org
   tls: false
   type: hysteria2
-- name: 8|️22@oneclickvpnkeys
+- name: 8|🎗️22@oneclickvpnkeys
   password: 042a1881-44e4-4781-bd40-bf75164faf4f
   port: 443
   server: 144.31.207.60
@@ -451,16 +475,17 @@ proxies:
   sni: 185.47.172.226
   tls: false
   type: hysteria2
-- name: 8|️41@oneclickvpnkeys
+- name: 8|@Daily_Configs
   obfs: salamander
   obfs-password: 816ys5fceofhpwft
   password: 22j0d00lev7mq0yv
   port: 1935
   server: ipaste.4ippi.ru
+  skip-cert-verify: false
   sni: ipaste.4ippi.ru
   tls: false
   type: hysteria2
-- name: 8|️44@oneclickvpnkeys
+- name: 8|🎗️44@oneclickvpnkeys
   obfs: salamander
   obfs-password: 3sv5vpdl9xr84lyb
   password: 22j0d00lev7mq0yv
@@ -469,11 +494,51 @@ proxies:
   sni: social.klipp.su
   tls: false
   type: hysteria2
-- name: 8|️40@oneclickvpnkeys
+- name: 8|🎗️40@oneclickvpnkeys
   password: 2ef4cf10-34df-4c0f-9d82-bf6ca9e45025
   port: 443
   server: 103.27.156.125
   sni: node-degame.bangboonet.ru
+  tls: false
+  type: hysteria2
+- name: 8|🇫🇮FI-@VPNine1
+  obfs: salamander
+  obfs-password: gu74jg3ym0e21zco
+  password: 3ff7b2e75ce84d05ae16572b60a9b707
+  port: 52000
+  server: assets.gateway-stream.com
+  skip-cert-verify: false
+  sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
+- name: 8|🇫🇮FI-🚀@VPNine1
+  obfs: salamander
+  obfs-password: 527zd9w4nuaccd7g
+  password: 3ff7b2e75ce84d05ae16572b60a9b707
+  port: 52001
+  server: assets.gateway-stream.com
+  skip-cert-verify: false
+  sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
+- name: '8|🇫🇮FI-🚀@VPNine1 #1'
+  obfs: salamander
+  obfs-password: ielzukpwth087afx
+  password: 3ff7b2e75ce84d05ae16572b60a9b707
+  port: 52002
+  server: assets.gateway-stream.com
+  skip-cert-verify: false
+  sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
+- name: '8|🇫🇮FI-🚀@VPNine1 #2'
+  obfs: salamander
+  obfs-password: 5xo4v7u2pv8bktvb
+  password: 3ff7b2e75ce84d05ae16572b60a9b707
+  port: 52003
+  server: assets.gateway-stream.com
+  skip-cert-verify: false
+  sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
 - name: 8|@vmess_ir
@@ -486,24 +551,34 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: 8|️13@oneclickvpnkeys
+- name: 8|🎗️13@oneclickvpnkeys
   password: 6f7a8009ecf6a12e10d03f9d88493c89
   port: 55443
   server: 167.179.34.13
   sni: gorbachev-th.kvnfreetest.uk
   tls: false
   type: hysteria2
-- name: 8|️16@oneclickvpnkeys
+- name: 8|🎗️16@oneclickvpnkeys
   password: 95e8532b-cc69-42d4-9553-e3c23292b15b
   port: 8443
   server: 151.247.193.5
   sni: iq5ny.pleiades.codes
   tls: false
   type: hysteria2
-- name: 8|🇹TR-@VPNine1
+- name: 8|@Configvibes
   obfs: salamander
   obfs-password: Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes
   password: '@Telegram@Configvibes'
+  port: 2096
+  server: 107.181.155.107
+  skip-cert-verify: true
+  sni: ftp.debian.org
+  tls: false
+  type: hysteria2
+- name: 8|@Configvibes🇹🇷
+  obfs: salamander
+  obfs-password: IL+pm5"K?4gef:Jvn8^G+:N,Neyy8
+  password: Configvibes
   port: 2096
   server: 107.181.155.107
   skip-cert-verify: true
@@ -558,6 +633,16 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
+- name: 8|️51@oneclickvpnkeys
+  obfs: salamander
+  obfs-password: 44f1c1e2f8b99e792ceed574627a1eb0
+  password: cd74c0a406664a5bc0bac098220a2468
+  port: 443
+  server: 144.31.237.219
+  skip-cert-verify: true
+  sni: nl2.sferavpn.pro
+  tls: false
+  type: hysteria2
 - name: '8|未命名 #9'
   obfs: salamander
   obfs-password: mtg2vchyir6la3et
@@ -592,7 +677,7 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: '8|未命名 #10'
+- name: 8|🇨
   obfs: salamander
   obfs-password: zducqb7ro143x0t2
   password: k1dom6dyqelryllv
