@@ -393,6 +393,16 @@ proxies:
   sni: nl1.noesissite.ru
   tls: false
   type: hysteria2
+- name: 8|@confiig_hub
+  obfs: salamander
+  obfs-password: dnwx30hvcobf7xcf
+  password: 0ansucp5k6aop125
+  port: 32950
+  server: 185.47.172.226
+  skip-cert-verify: false
+  sni: 185.47.172.226
+  tls: false
+  type: hysteria2
 - name: 8|@Daily_Configs
   obfs: salamander
   obfs-password: 816ys5fceofhpwft
@@ -403,7 +413,7 @@ proxies:
   sni: ipaste.4ippi.ru
   tls: false
   type: hysteria2
-- name: 8|100@oneclickvpnkeys
+- name: 8|🛗100@oneclickvpnkeys
   obfs: salamander
   obfs-password: lhfl2z9mjngb7csh
   password: 22j0d00lev7mq0yv
@@ -422,7 +432,7 @@ proxies:
   sni: social.klipp.su
   tls: false
   type: hysteria2
-- name: 8|️40@oneclickvpnkeys
+- name: 8|40@oneclickvpnkeys
   password: 2ef4cf10-34df-4c0f-9d82-bf6ca9e45025
   port: 443
   server: 103.27.156.125
@@ -434,26 +444,6 @@ proxies:
   obfs-password: hg7rfvz151ftjh0w
   password: 4ff4adfb8e7a4bae9c959c54fa5af52f
   port: 52062
-  server: assets.gateway-stream.com
-  skip-cert-verify: false
-  sni: assets.gateway-stream.com
-  tls: false
-  type: hysteria2
-- name: 8|🇫FI-@VPNine1
-  obfs: salamander
-  obfs-password: gu74jg3ym0e21zco
-  password: 544a7fdaa05a4dbe868288f8a9fb023c
-  port: 52000
-  server: assets.gateway-stream.com
-  skip-cert-verify: false
-  sni: ''
-  tls: false
-  type: hysteria2
-- name: 8|🇫🇮FI-🚀@VPNine1
-  obfs: salamander
-  obfs-password: gu74jg3ym0e21zco
-  password: 544a7fdaa05a4dbe868288f8a9fb023c
-  port: 52000
   server: assets.gateway-stream.com
   skip-cert-verify: false
   sni: assets.gateway-stream.com
@@ -471,46 +461,6 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: '8|🇫🇮FI-🚀@VPNine1 #1'
-  obfs: salamander
-  obfs-password: v8h63irhnay97090
-  password: 544a7fdaa05a4dbe868288f8a9fb023c
-  port: 52029
-  server: assets.gateway-stream.com
-  skip-cert-verify: false
-  sni: ''
-  tls: false
-  type: hysteria2
-- name: '8|🇫🇮FI-🚀@VPNine1 #2'
-  obfs: salamander
-  obfs-password: v8h63irhnay97090
-  password: 544a7fdaa05a4dbe868288f8a9fb023c
-  port: 52029
-  server: assets.gateway-stream.com
-  skip-cert-verify: false
-  sni: assets.gateway-stream.com
-  tls: false
-  type: hysteria2
-- name: '8|🇫🇮FI-🚀@VPNine1 #3'
-  obfs: salamander
-  obfs-password: 1n1g1xc7i50ga0v5
-  password: 544a7fdaa05a4dbe868288f8a9fb023c
-  port: 52043
-  server: assets.gateway-stream.com
-  skip-cert-verify: false
-  sni: ''
-  tls: false
-  type: hysteria2
-- name: '8|🇫🇮FI-🚀@VPNine1 #4'
-  obfs: salamander
-  obfs-password: 1n1g1xc7i50ga0v5
-  password: 544a7fdaa05a4dbe868288f8a9fb023c
-  port: 52043
-  server: assets.gateway-stream.com
-  skip-cert-verify: false
-  sni: assets.gateway-stream.com
-  tls: false
-  type: hysteria2
 - name: 8|@Configvibes🇹🇷
   obfs: salamander
   obfs-password: Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes
@@ -519,6 +469,13 @@ proxies:
   server: 107.181.155.107
   skip-cert-verify: true
   sni: ftp.debian.org
+  tls: false
+  type: hysteria2
+- name: 8|️34@oneclickvpnkeys
+  password: Apt1923_N9x234gn_Nal5Nx3j_s
+  port: 8443
+  server: 222.167.212.24
+  sni: grape-power-pl.ddnsguru.com
   tls: false
   type: hysteria2
 - name: '8|@Configvibes🇹🇷 #2'
@@ -570,6 +527,15 @@ proxies:
   sni: de2.sferavpn.pro
   tls: false
   type: hysteria2
+- name: 8|🛎️57@oneclickvpnkeys
+  obfs: salamander
+  obfs-password: 44f1c1e2f8b99e792ceed574627a1eb0
+  password: cd74c0a406664a5bc0bac098220a2468
+  port: 443
+  server: ru1.sferavpn.pro
+  sni: ru1.sferavpn.pro
+  tls: false
+  type: hysteria2
 - name: 8|🛗35@oneclickvpnkeys
   password: d1a0857bc1eb833a9edf96be4c1f999e
   port: 55443
@@ -578,7 +544,7 @@ proxies:
   sni: host-vds2-fr.kvncococ.org
   tls: false
   type: hysteria2
-- name: 8|🇦AE-🚀@VPNine1
+- name: 8|@meliproxyy
   obfs: salamander
   obfs-password: rG07s3COMIEvdnQipRyWzx_H_2xygNC3
   password: p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR
