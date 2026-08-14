@@ -50,7 +50,6 @@ hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.219:8443?sni=grap
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.220:8443?sni=grape-turbo-fr.roxa.org#7%7C%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A%20%235
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.221:8443?sni=grape-turbo-fr.roxa.org#7%2C8%7C%F0%9F%8E%97%EF%B8%8F37%40oneclickvpnkeys
 hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@193.23.194.78:443?insecure=1&sni=nl1.noesissite.ru#8%7C%F0%9F%9B%9721%40oneclickvpnkeys
-hysteria2://0ansucp5k6aop125@185.47.172.226:32950?insecure=0&sni=185.47.172.226&obfs=salamander&obfs-password=dnwx30hvcobf7xcf#8%7C%40confiig_hub
 hysteria2://22j0d00lev7mq0yv@ipaste.4ippi.ru:1935?insecure=0&sni=ipaste.4ippi.ru&obfs=salamander&obfs-password=816ys5fceofhpwft#8%7C%40Daily_Configs
 hysteria2://22j0d00lev7mq0yv@nrealistic.nn-foto.ru:1935?sni=nrealistic.nn-foto.ru&obfs=salamander&obfs-password=lhfl2z9mjngb7csh#8%7C100%40oneclickvpnkeys
 hysteria2://22j0d00lev7mq0yv@social.klipp.su:443?insecure=0&sni=social.klipp.su&obfs=salamander&obfs-password=3sv5vpdl9xr84lyb#8%7C%40Daily_Configs%20%231
@@ -63,7 +62,6 @@ hysteria2://544a7fdaa05a4dbe868288f8a9fb023c@assets.gateway-stream.com:52029?ins
 hysteria2://544a7fdaa05a4dbe868288f8a9fb023c@assets.gateway-stream.com:52029?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=v8h63irhnay97090#8%7C%F0%9F%87%AB%F0%9F%87%AEFI-%F0%9F%9A%80%40VPNine1%20%232
 hysteria2://544a7fdaa05a4dbe868288f8a9fb023c@assets.gateway-stream.com:52043?insecure=0&sni=&obfs=salamander&obfs-password=1n1g1xc7i50ga0v5#8%7C%F0%9F%87%AB%F0%9F%87%AEFI-%F0%9F%9A%80%40VPNine1%20%233
 hysteria2://544a7fdaa05a4dbe868288f8a9fb023c@assets.gateway-stream.com:52043?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=1n1g1xc7i50ga0v5#8%7C%F0%9F%87%AB%F0%9F%87%AEFI-%F0%9F%9A%80%40VPNine1%20%234
-hysteria2://544a7fdaa05a4dbe868288f8a9fb023c@assets.gateway-stream.com:52068?insecure=0&alpn=h3&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=ene2f0oo4n8i3inf#8%7C%F0%9F%87%AB%F0%9F%87%AEFI-%F0%9F%9A%80%40VPNine1%20%235
 hysteria2://%40Telegram%40Configvibes@107.181.155.107:2096?insecure=1&sni=ftp.debian.org&obfs=salamander&obfs-password=Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes#8%7C%40Configvibes%F0%9F%87%B9%F0%9F%87%B7
 hysteria2://Configvibes@107.181.155.107:2096?insecure=1&sni=ftp.debian.org&obfs=salamander&obfs-password=IL+pm5"K?4gef:Jvn8^G+:N,Neyy8#8%7C%40Configvibes%F0%9F%87%B9%F0%9F%87%B7%20%232
 hysteria2://KevinZakarian@179.61.132.96:8443?insecure=1&sni=179.61.132.96&obfs=salamander&obfs-password=KevinZakarian#8%7C%2B%40Azarakhsh_Proxy%2B
@@ -105,3 +103,4 @@ vless://53b59cb5-c741-3399-9065-93dc34685f5b@155.117.199.12:39395?allowInsecure=
 vless://53b59cb5-c741-3399-9065-93dc34685f5b@155.117.199.12:9713?allowInsecure=0&sni=cdnjs.cloudflare.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#15%7CUS_speednode_0127
 vless://53b59cb5-c741-3399-9065-93dc34685f5b@155.117.199.12:29709?allowInsecure=0&sni=cdnjs.cloudflare.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#15%7CUS_speednode_0137
 https://Nr5naf.absslk.xyz/e98af01c1d1a5c4506aead30efa93f08
+hhysteria2://0ansucp5k6aop125@185.47.172.226:32950?security=tls&obfs=salamander&obfs-password=dnwx30hvcobf7xcf&insecure=0&sni=185.47.172.226#@confiig_hub
