@@ -150,7 +150,7 @@ proxies:
   sni: xjp1.mangshe.xyz
   tls: false
   type: hysteria2
-- name: '7,8|@Configvibes🇹🇷 #1'
+- name: 7,8|@Configvibes🇹🇷
   obfs: salamander
   obfs-password: Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------
   password: '@Telegram@Configvibes'
@@ -376,14 +376,6 @@ proxies:
   sni: grape-turbo-fr.roxa.org
   tls: false
   type: hysteria2
-- name: 8|🛗21@oneclickvpnkeys
-  password: 042a1881-44e4-4781-bd40-bf75164faf4f
-  port: 443
-  server: 193.23.194.78
-  skip-cert-verify: true
-  sni: nl1.noesissite.ru
-  tls: false
-  type: hysteria2
 - name: 8|@confiig_hub
   obfs: salamander
   obfs-password: dnwx30hvcobf7xcf
@@ -404,7 +396,7 @@ proxies:
   sni: ipaste.4ippi.ru
   tls: false
   type: hysteria2
-- name: 8|🛗100@oneclickvpnkeys
+- name: 8|100@oneclickvpnkeys
   obfs: salamander
   obfs-password: lhfl2z9mjngb7csh
   password: 22j0d00lev7mq0yv
@@ -445,7 +437,17 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: 8|@Configvibes🇹🇷
+- name: 8|@FreakConfig
+  obfs: salamander
+  obfs-password: AIbOe_791iQ4k6kPUgdsO7B9
+  password: 9cc2113e-6b5b-4ced-9c46-70cf78d2c599
+  port: 2096
+  server: dns.devmrzero.ir
+  skip-cert-verify: false
+  sni: a26738d5774ad803.devmrzero.ir
+  tls: false
+  type: hysteria2
+- name: 8|@Configvibes🇹
   obfs: salamander
   obfs-password: Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes
   password: '@Telegram@Configvibes'
@@ -462,7 +464,7 @@ proxies:
   sni: grape-power-pl.ddnsguru.com
   tls: false
   type: hysteria2
-- name: '8|@Configvibes🇹🇷 #2'
+- name: '8|@Configvibes🇹🇷 #1'
   obfs: salamander
   obfs-password: IL+pm5"K?4gef:Jvn8^G+:N,Neyy8
   password: Configvibes
@@ -520,14 +522,6 @@ proxies:
   sni: ru1.sferavpn.pro
   tls: false
   type: hysteria2
-- name: 8|🛗35@oneclickvpnkeys
-  password: d1a0857bc1eb833a9edf96be4c1f999e
-  port: 55443
-  server: 94.183.188.132
-  skip-cert-verify: true
-  sni: host-vds2-fr.kvncococ.org
-  tls: false
-  type: hysteria2
 - name: 8|@meliproxyy
   obfs: salamander
   obfs-password: rG07s3COMIEvdnQipRyWzx_H_2xygNC3
@@ -538,7 +532,7 @@ proxies:
   sni: hy2.aspidnet.xyz
   tls: false
   type: hysteria2
-- name: 8|️7@oneclickvpnkeys
+- name: 8|🛎️7@oneclickvpnkeys
   password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
   port: 8443
   server: 205.237.109.218
