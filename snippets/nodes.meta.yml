@@ -601,7 +601,7 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: 8|@v2ray_configs_pool️Finland️He...
+- name: '8|@vmesskhodam #1'
   obfs: salamander
   obfs-password: fsc92dsh321o5h3r
   password: m3bqxk03mg221yi2
@@ -633,7 +633,7 @@ proxies:
   type: hysteria2
 - alpn:
   - h3
-  name: 8|🇫🇮FI-🚀@VPNine1
+  name: 8|FI-🚀@VPNine1
   obfs: salamander
   obfs-password: kf1lypzqidy6pimt
   password: m3bqxk03mg221yi2
@@ -643,9 +643,29 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
+- name: 8|🇫🇮FI-🚀@VPNine1
+  obfs: salamander
+  obfs-password: txwr28j1lntoy0sj
+  password: m3bqxk03mg221yi2
+  port: 52067
+  server: assets.gateway-stream.com
+  skip-cert-verify: false
+  sni: ''
+  tls: false
+  type: hysteria2
+- name: '8|🇫🇮FI-🚀@VPNine1 #1'
+  obfs: salamander
+  obfs-password: txwr28j1lntoy0sj
+  password: m3bqxk03mg221yi2
+  port: 52067
+  server: assets.gateway-stream.com
+  skip-cert-verify: false
+  sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
 - alpn:
   - h3
-  name: '8|🇫🇮FI-🚀@VPNine1 #1'
+  name: '8|🇫🇮FI-🚀@VPNine1 #2'
   obfs: salamander
   obfs-password: ene2f0oo4n8i3inf
   password: m3bqxk03mg221yi2
