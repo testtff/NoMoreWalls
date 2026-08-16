@@ -27,6 +27,13 @@ proxies:
   sni: pol.cryptoofarm.com
   tls: false
   type: hysteria2
+- name: 7|未命名
+  password: 22d891f5-ad85-4824-b0b8-e30cf3d37eb5
+  port: 2056
+  server: db1.mangshe.xyz
+  sni: db1.mangshe.xyz
+  tls: false
+  type: hysteria2
 - name: 7|DK
   password: 22d891f5-ad85-4824-b0b8-e30cf3d37eb5
   port: 2056
@@ -35,12 +42,12 @@ proxies:
   sni: lsj1.mangshe.xyz
   tls: false
   type: hysteria2
-- name: 7,8|⚛️53@oneclickvpnkeys
+- name: 7|SG
   password: 22d891f5-ad85-4824-b0b8-e30cf3d37eb5
-  port: 2056
-  server: yg3.mangshe.xyz
+  port: 2060
+  server: xjp4.mangshe.xyz
   skip-cert-verify: true
-  sni: yg3.mangshe.xyz
+  sni: xjp4.mangshe.xyz
   tls: false
   type: hysteria2
 - name: 7|波兰
@@ -53,7 +60,7 @@ proxies:
   sni: pl6.lckdwn.ru
   tls: false
   type: hysteria2
-- name: '7|未命名 #1'
+- name: '7|未命名 #2'
   password: 4e756809
   port: 12694
   server: 92.4.68.18
@@ -61,27 +68,18 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 7|🇬SG
-  password: 4eee1b74-f71e-4c88-ac26-9eec362e40d1
-  port: 20007
-  server: hkt1.nekohub.xyz
-  skip-cert-verify: true
-  sni: www.bing.com
+- name: '7|未命名 #3'
+  password: 53c76647-14d1-4df5-99cb-be99ad2e6bd9
+  port: 443
+  server: at133.mechvpn.online
+  sni: at133.mechvpn.online
   tls: false
   type: hysteria2
-- name: '7|未命名 #2'
+- name: '7|未命名 #4'
   password: 53c76647-14d1-4df5-99cb-be99ad2e6bd9
   port: 443
   server: us54.mechvpn.online
   sni: us54.mechvpn.online
-  tls: false
-  type: hysteria2
-- name: 7|JP
-  password: 53f193c4-6482-45fb-8e00-60e0baf016ee
-  port: 48920
-  server: 207.56.227.226
-  skip-cert-verify: true
-  sni: www.bing.com
   tls: false
   type: hysteria2
 - name: 7|🇸US
@@ -90,14 +88,6 @@ proxies:
   server: srvhy1.ezcon24.online
   skip-cert-verify: true
   sni: srvhy1.ezcon24.online
-  tls: false
-  type: hysteria2
-- name: 7|3@wxgqlfx#美国
-  password: 571e40e5-d597-4618-9204-535c94dca771
-  port: 36253
-  server: uswx3.wxgqlfx.vip
-  skip-cert-verify: true
-  sni: 144.225.187.184
   tls: false
   type: hysteria2
 - name: 7,8|FI-@VPNine1
@@ -117,21 +107,28 @@ proxies:
   sni: gorbachev-th.kvnfreetest.uk
   tls: false
   type: hysteria2
-- name: 7|国
+- name: '7|未命名 #5'
   password: 71cada65-d23e-418c-88e4-a06188d14689
   port: 443
   server: 144.31.166.91
   sni: de-two.quiet-rogue.site
   tls: false
   type: hysteria2
-- name: '7|未命名 #3'
+- name: '7|未命名 #6'
+  password: 85a88b70b5f2f73d0dcac92bd3934a5e
+  port: 50160
+  server: 211.22.154.26
+  sni: 211-22-154-26.liao.kdns.fr
+  tls: false
+  type: hysteria2
+- name: '7|未命名 #7'
   password: 95e8532b-cc69-42d4-9553-e3c23292b15b
   port: 8443
   server: 176.124.222.180
   sni: j47lq.pleiades.codes
   tls: false
   type: hysteria2
-- name: '7|国 #1'
+- name: 7|国
   password: 95e8532b-cc69-42d4-9553-e3c23292b15b
   port: 8443
   server: iq5ny.pleiades.codes
@@ -160,7 +157,7 @@ proxies:
   sni: mercedes-grape.yyuyy.com
   tls: false
   type: hysteria2
-- name: 7,8|@Configvibes🇹🇷
+- name: '7,8|@Configvibes🇹🇷 #1'
   obfs: salamander
   obfs-password: Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------
   password: '@Telegram@Configvibes'
@@ -177,7 +174,7 @@ proxies:
   sni: grape-power-pl.ddnsguru.com
   tls: false
   type: hysteria2
-- name: 7|美国
+- name: '7|国 #1'
   password: CJtE4HLmxz859YMNiZM1NTuDRy7jjs8t
   port: 1443
   server: pg-usa2-hy2.gigatapbot.top
@@ -266,14 +263,6 @@ proxies:
   sni: grape-zet-turbo-nl.yyuyy.com
   tls: false
   type: hysteria2
-- name: 7|美国4@wxgqlfx#美国
-  password: a000fb47-5dfd-4a6b-9739-2878883d6969
-  port: 36253
-  server: uswx4.wxgqlfx.vip
-  skip-cert-verify: true
-  sni: 144.225.187.153
-  tls: false
-  type: hysteria2
 - name: '7|波兰 #1'
   password: b11841e3-2acc-45ff-afe0-a9ed9a823aaa
   port: 443
@@ -298,7 +287,7 @@ proxies:
   sni: nl2.sferavpn.pro
   tls: false
   type: hysteria2
-- name: '7|美国 #1'
+- name: 7|美国
   obfs: salamander
   obfs-password: 44f1c1e2f8b99e792ceed574627a1eb0
   password: cd74c0a406664a5bc0bac098220a2468
@@ -335,27 +324,19 @@ proxies:
   sni: hy2.frdmhere.com
   tls: false
   type: hysteria2
-- name: '7|美国 #2'
+- name: '7|美国 #1'
   password: e0c7af35-e2db-47c7-b1a3-ce5ec0dd0474
   port: 8458
   server: hy2-us.frdmhere.com
   sni: hy2.frdmhere.com
   tls: false
   type: hysteria2
-- name: '7|未命名 #5'
+- name: '7|未命名 #9'
   password: gf1
   port: 443
   server: 185.111.109.40
   skip-cert-verify: true
   sni: www.dell.com
-  tls: false
-  type: hysteria2
-- name: 7,8|⚛️48@oneclickvpnkeys
-  password: gf1
-  port: 443
-  server: 5.129.235.85
-  skip-cert-verify: true
-  sni: www.linux.com
   tls: false
   type: hysteria2
 - name: '7|荷兰 #9'
@@ -373,13 +354,6 @@ proxies:
   tls: false
   type: hysteria2
 - name: '7|荷兰 #11'
-  password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
-  port: 8443
-  server: 205.237.109.216
-  sni: grape-turbo-fr.roxa.org
-  tls: false
-  type: hysteria2
-- name: '7|荷兰 #12'
   password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
   port: 8443
   server: 205.237.109.219
@@ -400,12 +374,26 @@ proxies:
   sni: grape-turbo-fr.roxa.org
   tls: false
   type: hysteria2
+- name: 7|尼亚
+  password: sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX
+  port: 443
+  server: cabinet.wwwinternetvideo.click
+  sni: cabinet.wwwinternetvideo.click
+  tls: false
+  type: hysteria2
 - name: 8|⚛️22@oneclickvpnkeys
   password: 042a1881-44e4-4781-bd40-bf75164faf4f
   port: 443
   server: 144.31.234.58
   skip-cert-verify: true
   sni: nl1.noesissite.ru
+  tls: false
+  type: hysteria2
+- name: 8|⚛️46@oneclickvpnkeys
+  password: 083417772bc618cd61f0cca23dd91680
+  port: 55443
+  server: 167.179.34.31
+  sni: gorbachev-new-th.kvnfreetest.uk
   tls: false
   type: hysteria2
 - name: 8|️88@oneclickvpnkeys
@@ -429,6 +417,14 @@ proxies:
   password: 22d891f5-ad85-4824-b0b8-e30cf3d37eb5
   port: 2056
   server: 109.176.30.146
+  skip-cert-verify: true
+  sni: yg3.mangshe.xyz
+  tls: false
+  type: hysteria2
+- name: 8|⚛️53@oneclickvpnkeys
+  password: 22d891f5-ad85-4824-b0b8-e30cf3d37eb5
+  port: 2056
+  server: yg3.mangshe.xyz
   skip-cert-verify: true
   sni: yg3.mangshe.xyz
   tls: false
@@ -476,7 +472,7 @@ proxies:
   sni: mercedes-grape.yyuyy.com
   tls: false
   type: hysteria2
-- name: 8|@FreakConfig
+- name: 8|🇩🇪@FreakConfig
   obfs: salamander
   obfs-password: AIbOe_791iQ4k6kPUgdsO7B9
   password: 9cc2113e-6b5b-4ced-9c46-70cf78d2c599
@@ -486,7 +482,7 @@ proxies:
   sni: a26738d5774ad803.devmrzero.ir
   tls: false
   type: hysteria2
-- name: 8|@Configvibes
+- name: 8|@Configvibes🇹🇷
   obfs: salamander
   obfs-password: Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes
   password: '@Telegram@Configvibes'
@@ -510,7 +506,7 @@ proxies:
   sni: grape-power-pl.ddnsguru.com
   tls: false
   type: hysteria2
-- name: '8|@Configvibes🇹🇷 #1'
+- name: '8|@Configvibes🇹🇷 #2'
   obfs: salamander
   obfs-password: IL+pm5"K?4gef:Jvn8^G+:N,Neyy8
   password: Configvibes
@@ -598,6 +594,14 @@ proxies:
   port: 1935
   server: nrealistic.nn-foto.ru
   sni: nrealistic.nn-foto.ru
+  tls: false
+  type: hysteria2
+- name: 8|⚛️48@oneclickvpnkeys
+  password: gf1
+  port: 443
+  server: 5.129.235.85
+  skip-cert-verify: true
+  sni: www.linux.com
   tls: false
   type: hysteria2
 - name: 8|@configprxy
