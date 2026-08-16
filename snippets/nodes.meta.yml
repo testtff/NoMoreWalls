@@ -492,7 +492,7 @@ proxies:
   sni: a26738d5774ad803.devmrzero.ir
   tls: false
   type: hysteria2
-- name: 8|@Configvibes🇷
+- name: 8|@Configvibes
   obfs: salamander
   obfs-password: Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes
   password: '@Telegram@Configvibes'
@@ -604,30 +604,6 @@ proxies:
   port: 1935
   server: nrealistic.nn-foto.ru
   sni: nrealistic.nn-foto.ru
-  tls: false
-  type: hysteria2
-- alpn:
-  - h3
-  name: 8|FI-@VPNine1
-  obfs: salamander
-  obfs-password: txwr28j1lntoy0sj
-  password: d86efa900c2f4bb6bde662f1ef6413b8
-  port: 52067
-  server: assets.gateway-stream.com
-  skip-cert-verify: false
-  sni: assets.gateway-stream.com
-  tls: false
-  type: hysteria2
-- alpn:
-  - h3
-  name: 8|🇫🇮FI-🚀@VPNine1
-  obfs: salamander
-  obfs-password: ene2f0oo4n8i3inf
-  password: d86efa900c2f4bb6bde662f1ef6413b8
-  port: 52068
-  server: assets.gateway-stream.com
-  skip-cert-verify: false
-  sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
 - name: 8|@configprxy
