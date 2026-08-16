@@ -90,7 +90,7 @@ proxies:
   sni: srvhy1.ezcon24.online
   tls: false
   type: hysteria2
-- name: 7|FI
+- name: 7,8|🇫🇮
   obfs: salamander
   obfs-password: uw9b2qq5rx
   password: 6aab8efdf13945829ae3699c342be406
@@ -438,6 +438,15 @@ proxies:
   sni: 185-22-155-81.liao.kdns.fr
   tls: false
   type: hysteria2
+- name: 8|🇫🇮FI-@VPNine1
+  obfs: salamander
+  obfs-password: uw9b2qq5rx
+  password: 6aab8efdf13945829ae3699c342be406
+  port: 443
+  server: fiproxy1.lockdwn.com
+  sni: ''
+  tls: false
+  type: hysteria2
 - name: 8|⚛️11@oneclickvpnkeys
   password: 9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z
   port: 8443
@@ -490,6 +499,13 @@ proxies:
   server: 18.118.193.169
   skip-cert-verify: true
   sni: vpn-us-003.fastervpn.world
+  tls: false
+  type: hysteria2
+- name: 8|59@oneclickvpnkeys
+  password: Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0
+  port: 8443
+  server: 85.204.107.165
+  sni: grape-zet-ro-turbo.bumbleshrimp.com
   tls: false
   type: hysteria2
 - name: 8|+@Azarakhsh_Proxy+
@@ -564,7 +580,7 @@ proxies:
   sni: nrealistic.nn-foto.ru
   tls: false
   type: hysteria2
-- name: 8|14@oneclickvpnkeys
+- name: 8|🦁14@oneclickvpnkeys
   password: dbab9df7-5c0a-4726-8574-11e34972b67d
   port: 33015
   server: 86.53.105.117
@@ -580,7 +596,7 @@ proxies:
   sni: www.linux.com
   tls: false
   type: hysteria2
-- name: 8|@configprxy
+- name: 8|bisto4_service
   obfs: salamander
   obfs-password: rG07s3COMIEvdnQipRyWzx_H_2xygNC3
   password: p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR
