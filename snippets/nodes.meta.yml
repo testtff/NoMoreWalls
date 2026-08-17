@@ -47,7 +47,7 @@ proxies:
   sni: pl6.lckdwn.ru
   tls: false
   type: hysteria2
-- name: 7|LT
+- name: 7,8|75@oneclickvpnkeys
   password: 425e9e31-b017-4e32-bbd3-656473466d5e
   port: 2443
   server: latvia.koalaexpress.ru
@@ -457,7 +457,7 @@ proxies:
   sni: play.google.com
   tls: false
   type: hysteria2
-- name: '8|@filembad #1'
+- name: 8|🇩🇪@FreakConfig
   obfs: salamander
   obfs-password: uw9b2qq5rx
   password: 6aab8efdf13945829ae3699c342be406
@@ -500,26 +500,10 @@ proxies:
   sni: 204.44.74.220
   tls: false
   type: hysteria2
-- name: 8|11@oneclickvpnkeys
-  password: 9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z
-  port: 8443
-  server: 162.249.124.102
-  skip-cert-verify: true
-  sni: mercedes-grape.yyuyy.com
-  tls: false
-  type: hysteria2
 - name: 8|🌀6@oneclickvpnkeys
   password: 9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z
   port: 8443
   server: 162.249.124.104
-  skip-cert-verify: true
-  sni: mercedes-grape.yyuyy.com
-  tls: false
-  type: hysteria2
-- name: 8|⚛️3@oneclickvpnkeys
-  password: 9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z
-  port: 8443
-  server: 162.249.124.99
   skip-cert-verify: true
   sni: mercedes-grape.yyuyy.com
   tls: false
@@ -600,14 +584,6 @@ proxies:
   sni: 179.61.132.96
   tls: false
   type: hysteria2
-- name: 8|⚛️33@oneclickvpnkeys
-  password: Krab9Hyst2_Rk7pQ2xL
-  port: 36723
-  server: 151.247.197.253
-  skip-cert-verify: true
-  sni: www.cloudflare.com
-  tls: false
-  type: hysteria2
 - name: 8|🌀47@oneclickvpnkeys
   password: YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc
   port: 443
@@ -677,7 +653,7 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: '8|@vmesskhodam #1'
+- name: '8|@vmesskhodam #2'
   obfs: salamander
   obfs-password: fsc92dsh321o5h3r
   password: m3bqxk03mg221yi2
@@ -697,7 +673,7 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: '8|@vmesskhodam #3'
+- name: '8|@vmesskhodam #4'
   obfs: salamander
   obfs-password: phos93w1zi0nj6uv
   password: m3bqxk03mg221yi2
@@ -742,6 +718,36 @@ proxies:
   sni: grape-turbo-fr.roxa.org
   tls: false
   type: hysteria2
+- name: 8|🇫🇮FI-🚀@VPNine1
+  obfs: salamander
+  obfs-password: fsc92dsh321o5h3r
+  password: t8t2qojzsykqazfu
+  port: 52016
+  server: assets.gateway-stream.com
+  skip-cert-verify: false
+  sni: ''
+  tls: false
+  type: hysteria2
+- name: '8|🇫🇮FI-🚀@VPNine1 #1'
+  obfs: salamander
+  obfs-password: fsc92dsh321o5h3r
+  password: t8t2qojzsykqazfu
+  port: 52016
+  server: assets.gateway-stream.com
+  skip-cert-verify: false
+  sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
+- name: '8|🇫🇮FI-🚀@VPNine1 #2'
+  obfs: salamander
+  obfs-password: 1wcfqg6gwoyxlplo
+  password: t8t2qojzsykqazfu
+  port: 52022
+  server: assets.gateway-stream.com
+  skip-cert-verify: false
+  sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
 - name: 8|🇫🇮@FreakConfig
   obfs: salamander
   obfs-password: d6pv15sghiq1onts
@@ -752,7 +758,27 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: 8|@freenettir🇫🇮️Finland️Helsinki...
+- name: '8|🇫🇮FI-🚀@VPNine1 #3'
+  obfs: salamander
+  obfs-password: l960g2kn19nphlra
+  password: t8t2qojzsykqazfu
+  port: 52060
+  server: assets.gateway-stream.com
+  skip-cert-verify: false
+  sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
+- name: '8|🇫🇮FI-🚀@VPNine1 #4'
+  obfs: salamander
+  obfs-password: fd3olglr2bmimgje
+  password: t8t2qojzsykqazfu
+  port: 52061
+  server: assets.gateway-stream.com
+  skip-cert-verify: false
+  sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
+- name: '8|🇫🇮FI-🚀@VPNine1 #5'
   obfs: salamander
   obfs-password: hg7rfvz151ftjh0w
   password: t8t2qojzsykqazfu
@@ -761,14 +787,24 @@ proxies:
   skip-cert-verify: false
   tls: false
   type: hysteria2
-- name: '8|未命名 #9'
+- name: '8|🇫🇮FI-🚀@VPNine1 #6'
   obfs: salamander
-  obfs-password: xdqynq1idjgm8x4p
-  password: u1agq9566pfrco2q
-  port: 15641
-  server: 45.74.158.242
+  obfs-password: hg7rfvz151ftjh0w
+  password: t8t2qojzsykqazfu
+  port: 52062
+  server: assets.gateway-stream.com
   skip-cert-verify: false
-  sni: ''
+  sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
+- name: '8|🇫🇮FI-🚀@VPNine1 #7'
+  obfs: salamander
+  obfs-password: zducqb7ro143x0t2
+  password: t8t2qojzsykqazfu
+  port: 52076
+  server: assets.gateway-stream.com
+  skip-cert-verify: false
+  sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
 - name: 8|62@oneclickvpnkeys
