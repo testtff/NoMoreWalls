@@ -320,7 +320,7 @@ proxies:
   sni: 193-122-104-200.liao.kdns.fr
   tls: false
   type: hysteria2
-- name: 7,8|3@oneclickvpnkeys
+- name: 7,8|🌀3@oneclickvpnkeys
   password: dsfa_k0123WFzerrf_kZ3490VNb03J_m30_s
   port: 8443
   server: 194.180.188.21
@@ -410,18 +410,71 @@ proxies:
   sni: node3.vpnushka.lol
   tls: false
   type: hysteria2
-- name: 8|25@oneclickvpnkeys
+- name: 8|🌀25@oneclickvpnkeys
   password: 1f619326-cd93-4d6b-aebe-e0b5f8831d02
   port: 10808
   server: nl1.unlockvpn.online
   sni: nl1.unlockvpn.online
   tls: false
   type: hysteria2
-- name: 8|22@oneclickvpnkeys
+- name: 8|42@oneclickvpnkeys
+  password: 1f619326-cd93-4d6b-aebe-e0b5f8831d02
+  port: 10808
+  server: nl10.unlockvpn.online
+  sni: nl10.unlockvpn.online
+  tls: false
+  type: hysteria2
+- name: 8|46@oneclickvpnkeys
+  password: 1f619326-cd93-4d6b-aebe-e0b5f8831d02
+  port: 10808
+  server: nl2.unlockvpn.online
+  sni: nl2.unlockvpn.online
+  tls: false
+  type: hysteria2
+- name: 8|40@oneclickvpnkeys
+  password: 1f619326-cd93-4d6b-aebe-e0b5f8831d02
+  port: 10808
+  server: nl3.unlockvpn.online
+  sni: nl3.unlockvpn.online
+  tls: false
+  type: hysteria2
+- name: 8|🌀22@oneclickvpnkeys
   password: 1f619326-cd93-4d6b-aebe-e0b5f8831d02
   port: 10808
   server: nl6.unlockvpn.online
   sni: nl6.unlockvpn.online
+  tls: false
+  type: hysteria2
+- name: 8|50@oneclickvpnkeys
+  password: 1f619326-cd93-4d6b-aebe-e0b5f8831d02
+  port: 10808
+  server: nl7.unlockvpn.online
+  sni: nl7.unlockvpn.online
+  tls: false
+  type: hysteria2
+- name: 8|43@oneclickvpnkeys
+  password: 1f619326-cd93-4d6b-aebe-e0b5f8831d02
+  port: 10808
+  server: nl9.unlockvpn.online
+  sni: nl9.unlockvpn.online
+  tls: false
+  type: hysteria2
+- name: 8|37@oneclickvpnkeys
+  password: 22d891f5-ad85-4824-b0b8-e30cf3d37eb5
+  port: 2056
+  server: flkf3.mangshe.xyz
+  skip-cert-verify: true
+  sni: flkf3.mangshe.xyz
+  tls: false
+  type: hysteria2
+- name: 8|@filembad
+  obfs: salamander
+  obfs-password: uw9b2qq5rx
+  password: 6aab8efdf13945829ae3699c342be406
+  port: 443
+  server: 31.76.80.69
+  skip-cert-verify: false
+  sni: fiproxy1.lockdwn.com
   tls: false
   type: hysteria2
 - name: 8|@meliproxyy
@@ -432,6 +485,14 @@ proxies:
   server: fiproxy1.lockdwn.com
   skip-cert-verify: false
   sni: fiproxy1.lockdwn.com
+  tls: false
+  type: hysteria2
+- name: 8|49@oneclickvpnkeys
+  password: 707db87b-9cbf-438f-b4c7-9d984c8e944a
+  port: 443
+  server: serv21.strettenvpn.com
+  skip-cert-verify: true
+  sni: serv21.strettenvpn.com
   tls: false
   type: hysteria2
 - name: 8|94@oneclickvpnkeys
@@ -449,7 +510,7 @@ proxies:
   sni: 204.44.74.220
   tls: false
   type: hysteria2
-- name: 8|11@oneclickvpnkeys
+- name: 8|️11@oneclickvpnkeys
   password: 9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z
   port: 8443
   server: 162.249.124.102
@@ -457,7 +518,7 @@ proxies:
   sni: mercedes-grape.yyuyy.com
   tls: false
   type: hysteria2
-- name: 8|6@oneclickvpnkeys
+- name: 8|🌀6@oneclickvpnkeys
   password: 9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z
   port: 8443
   server: 162.249.124.104
@@ -547,6 +608,13 @@ proxies:
   sni: www.cloudflare.com
   tls: false
   type: hysteria2
+- name: 8|🌀47@oneclickvpnkeys
+  password: YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc
+  port: 443
+  server: admin.wwwinternetvideo.click
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
 - name: 8|🦁71@oneclickvpnkeys
   password: YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc
   port: 443
@@ -575,7 +643,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 8|12@oneclickvpnkeys
+- name: 8|🌀12@oneclickvpnkeys
   password: c4a4d98d-8d64-4e76-bc50-096b07d82382
   port: 443
   server: 139.28.98.26
@@ -589,6 +657,14 @@ proxies:
   server: 86.53.105.117
   skip-cert-verify: true
   sni: www.bing.com
+  tls: false
+  type: hysteria2
+- name: 8|39@oneclickvpnkeys
+  password: f056b41dc9f2b516e333738d1345a6be46a8ca80a3870ffe
+  port: 443
+  server: n.nl.cleanersaz.help
+  skip-cert-verify: true
+  sni: n.nl.cleanersaz.help
   tls: false
   type: hysteria2
 - name: '8|kurdconfig #1'
