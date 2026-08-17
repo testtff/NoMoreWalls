@@ -31,26 +31,18 @@ proxies:
   sni: hy2.frdmhere.com
   tls: false
   type: hysteria2
-- name: 8|US-@VPNine1
-  password: 2b195c17-5ff5-4b0d-a809-210b92212394
-  port: 443
-  server: sanjose.nezhasu.com
-  skip-cert-verify: true
-  sni: SanJose.nezhasu.com
-  tls: false
-  type: hysteria2
 - name: 13,14|美国|@ripaojiedian
   network: tcp
   password: 6ec301428255a78a1d826988d86cc87e
   port: 28051
-  server: 16.162.109.29
+  server: 18.163.126.92
   skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
 - name: 13,14|美国2|@ripaojiedian
   network: tcp
   password: 6ec301428255a78a1d826988d86cc87e
-  port: 10418
+  port: 28051
   server: 16.162.192.182
   skip-cert-verify: true
   sni: www.nintendogames.net
@@ -58,8 +50,8 @@ proxies:
 - name: 13,14|美国3|@ripaojiedian
   network: tcp
   password: BxceQaOe
-  port: 10418
-  server: 95.40.29.163
+  port: 39024
+  server: 16.163.144.245
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
