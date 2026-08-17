@@ -7,7 +7,7 @@ proxies:
   sni: srvhy1.ezcon24.online
   tls: false
   type: hysteria2
-- name: 7|美国
+- name: 7,8|🦁98@oneclickvpnkeys
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
   port: 443
   server: 18.226.172.222
@@ -29,6 +29,14 @@ proxies:
   port: 8458
   server: hy2-us.frdmhere.com
   sni: hy2.frdmhere.com
+  tls: false
+  type: hysteria2
+- name: 8|US-@VPNine1
+  password: 2b195c17-5ff5-4b0d-a809-210b92212394
+  port: 443
+  server: sanjose.nezhasu.com
+  skip-cert-verify: true
+  sni: SanJose.nezhasu.com
   tls: false
   type: hysteria2
 - name: 13,14|美国|@ripaojiedian
