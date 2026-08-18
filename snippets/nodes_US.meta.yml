@@ -32,6 +32,14 @@ proxies:
   sni: 144.225.187.153
   tls: false
   type: hysteria2
+- name: 8|76@oneclickvpnkeys
+  password: 042a1881-44e4-4781-bd40-bf75164faf4f
+  port: 443
+  server: 150.241.102.127
+  skip-cert-verify: true
+  sni: 150.241.102.127
+  tls: false
+  type: hysteria2
 - name: 13,14|美国|@ripaojiedian
   network: tcp
   password: 6ec301428255a78a1d826988d86cc87e
