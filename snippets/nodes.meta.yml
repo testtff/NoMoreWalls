@@ -54,7 +54,7 @@ proxies:
   sni: swe.frkn.org
   tls: false
   type: hysteria2
-- name: 7,8|🌀75@oneclickvpnkeys
+- name: 7|LT
   password: 425e9e31-b017-4e32-bbd3-656473466d5e
   port: 2443
   server: latvia.koalaexpress.ru
@@ -114,7 +114,7 @@ proxies:
   sni: 211-22-154-26.liao.kdns.fr
   tls: false
   type: hysteria2
-- name: 7|🇺🇸US
+- name: 7|🇸US
   password: 90af65ff00ef2ff089d28d6a11fc10de
   port: 50160
   server: 23-19-231-152.liao.kdns.fr
@@ -336,7 +336,7 @@ proxies:
   sni: cabinet.wwwinternetvideo.click
   tls: false
   type: hysteria2
-- name: 8|76@oneclickvpnkeys
+- name: 8|🎈76@oneclickvpnkeys
   password: 042a1881-44e4-4781-bd40-bf75164faf4f
   port: 443
   server: 150.241.102.127
@@ -405,16 +405,6 @@ proxies:
   obfs: salamander
   obfs-password: Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes
   password: '@Telegram@Configvibes'
-  port: 2096
-  server: 107.181.155.107
-  skip-cert-verify: true
-  sni: ftp.debian.org
-  tls: false
-  type: hysteria2
-- name: '8|@Configvibes🇹🇷 #3'
-  obfs: salamander
-  obfs-password: IL+pm5"K?4gef:Jvn8^G+:N,Neyy8
-  password: Configvibes
   port: 2096
   server: 107.181.155.107
   skip-cert-verify: true

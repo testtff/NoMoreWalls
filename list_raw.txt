@@ -5,7 +5,7 @@ hysteria2://22d891f5-ad85-4824-b0b8-e30cf3d37eb5@lsj1.mangshe.xyz:2056?insecure=
 hysteria2://22d891f5-ad85-4824-b0b8-e30cf3d37eb5@xjp4.mangshe.xyz:2060?insecure=1&sni=xjp4.mangshe.xyz#7%7CSG
 hysteria2://2b5f7fc3d38f4798a0f62d4ef8876528@pl6.lckdwn.ru:443?insecure=1&sni=pl6.lckdwn.ru&obfs=salamander&obfs-password=1yvnm8sv41#7%7C%E6%B3%A2%E5%85%B0
 hysteria2://3b8c82ed-fe66-472d-915e-034ccb57103f@swe.frkn.org:8443?sni=swe.frkn.org#7%7C%E6%9C%AA%E5%91%BD%E5%90%8D%20%232
-hysteria2://425e9e31-b017-4e32-bbd3-656473466d5e@latvia.koalaexpress.ru:2443?insecure=1&sni=latvia.koalaexpress.ru#7%2C8%7C%F0%9F%8C%8075%40oneclickvpnkeys
+hysteria2://425e9e31-b017-4e32-bbd3-656473466d5e@latvia.koalaexpress.ru:2443?insecure=1&sni=latvia.koalaexpress.ru#7%7CLT
 hysteria2://4e756809@92.4.68.18:12694?insecure=1&sni=www.bing.com#7%7C%E6%9C%AA%E5%91%BD%E5%90%8D%20%233
 hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@at133.mechvpn.online:443?sni=at133.mechvpn.online#7%7C%E6%9C%AA%E5%91%BD%E5%90%8D%20%234
 hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr194.mechvpn.online:443?sni=fr194.mechvpn.online#7%7C%E6%9C%AA%E5%91%BD%E5%90%8D%20%235
@@ -13,7 +13,7 @@ hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@nl174.mechvpn.online:443?insecu
 hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@nl8.mechvpn.online:443?insecure=1&sni=nl8.mechvpn.online#7%7C%E8%8D%B7%E5%85%B0%20%232
 hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@us54.mechvpn.online:443?sni=us54.mechvpn.online#7%7C%E7%91%9E%E5%85%B8
 hysteria2://85a88b70b5f2f73d0dcac92bd3934a5e@211.22.154.26:50160?sni=211-22-154-26.liao.kdns.fr#7%7C%E6%9C%AA%E5%91%BD%E5%90%8D%20%236
-hysteria2://90af65ff00ef2ff089d28d6a11fc10de@23-19-231-152.liao.kdns.fr:50160?insecure=1&sni=23-19-231-152.liao.kdns.fr#7%7C%F0%9F%87%BA%F0%9F%87%B8US
+hysteria2://90af65ff00ef2ff089d28d6a11fc10de@23-19-231-152.liao.kdns.fr:50160?insecure=1&sni=23-19-231-152.liao.kdns.fr#7%7C%F0%9F%87%B8US
 hysteria2://95e8532b-cc69-42d4-9553-e3c23292b15b@176.124.222.180:8443?sni=j47lq.pleiades.codes#7%7C%E6%9C%AA%E5%91%BD%E5%90%8D%20%237
 hysteria2://%40Telegram%40Configvibes@45.92.219.237:8486?insecure=1&sni=ftp.debian.org&obfs=salamander&obfs-password=Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------#7%2C8%7C%40Configvibes%F0%9F%87%B9%F0%9F%87%B7%20%232
 hysteria2://Apt1923_N9x234gn_Nal5Nx3j_s@222.167.212.80:8443?sni=grape-power-pl.ddnsguru.com#7%7C%E5%85%B0%20%231
@@ -42,7 +42,7 @@ hysteria2://netherlands_3_hysteria2_fastlane_xr3nai71s@91.84.119.49:443?sni=nl4.
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.219:8443?sni=grape-turbo-fr.roxa.org#7%7C%E8%8D%B7%E5%85%B0%20%237
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.221:8443?sni=grape-turbo-fr.roxa.org#7%7C%E5%9B%BD%20%233
 hysteria2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@cabinet.wwwinternetvideo.click:443?sni=cabinet.wwwinternetvideo.click#7%7C%E5%B0%BC%E4%BA%9A
-hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@150.241.102.127:443?insecure=1&sni=150.241.102.127#8%7C76%40oneclickvpnkeys
+hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@150.241.102.127:443?insecure=1&sni=150.241.102.127#8%7C%F0%9F%8E%8876%40oneclickvpnkeys
 hysteria2://0ansucp5k6aop125@185.47.172.226:32950?insecure=0&sni=185.47.172.226&obfs=salamander&obfs-password=dnwx30hvcobf7xcf#8%7C%40confiig_hub
 hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?insecure=0&sni=fiproxy1.lockdwn.com&obfs=salamander&obfs-password=uw9b2qq5rx#8%7C%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 hysteria2://6aab8efdf13945829ae3699c342be406@fiproxy1.lockdwn.com:443?sni=fiproxy1.lockdwn.com&obfs=salamander&obfs-password=uw9b2qq5rx#8%7C%40Daily_Configs
@@ -50,7 +50,6 @@ hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.124.104:8443?insecure=1
 hysteria2://9cc2113e-6b5b-4ced-9c46-70cf78d2c599@dns.devmrzero.ir:2096?insecure=0&sni=a26738d5774ad803.devmrzero.ir&obfs=salamander&obfs-password=AIbOe_791iQ4k6kPUgdsO7B9#8%7C%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig%20%231
 hysteria2://%40Tel%40Configvibes@198.105.123.106:11504?insecure=1&sni=archive.ubuntu.com&obfs=salamander&obfs-password=Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------#8%7C%40Configvibes%F0%9F%87%B9%F0%9F%87%B7
 hysteria2://%40Telegram%40Configvibes@107.181.155.107:2096?insecure=1&sni=ftp.debian.org&obfs=salamander&obfs-password=Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes#8%7C%40Configvibes%F0%9F%87%B9%F0%9F%87%B7%20%231
-hysteria2://Configvibes@107.181.155.107:2096?insecure=1&sni=ftp.debian.org&obfs=salamander&obfs-password=IL+pm5"K?4gef:Jvn8^G+:N,Neyy8#8%7C%40Configvibes%F0%9F%87%B9%F0%9F%87%B7%20%233
 hysteria2://IJMFOXhvbQ@51.79.91.52:38871?insecure=1&sni=play.google.com&obfs=salamander&obfs-password=t-me-V2RayyNGvpn#8%7C%F0%9F%87%A6V2RayyNGvpn%F0%9F%87%A8%F0%9F%87%A6
 hysteria2://KevinZakarian@179.61.132.96:8443?insecure=1&sni=179.61.132.96&obfs=salamander&obfs-password=KevinZakarian#8%7C%2B%40Azarakhsh_Proxy%2B
 hysteria2://Telegram%40vpnjey@31.76.27.23:37009?insecure=1&alpn=h3&sni=de.vpnjey.store&obfs=salamander&obfs-password=Telegram@vpnjey#8%7CTelegram%40vpnjey
