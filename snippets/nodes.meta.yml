@@ -473,6 +473,7 @@ proxies:
   password: 6aab8efdf13945829ae3699c342be406
   port: 443
   server: fiproxy1.lockdwn.com
+  skip-cert-verify: false
   sni: fiproxy1.lockdwn.com
   tls: false
   type: hysteria2
@@ -564,6 +565,13 @@ proxies:
   server: 51.79.91.52
   skip-cert-verify: true
   sni: play.google.com
+  tls: false
+  type: hysteria2
+- name: 8|🦁59@oneclickvpnkeys
+  password: Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0
+  port: 8443
+  server: 85.204.107.165
+  sni: grape-zet-ro-turbo.bumbleshrimp.com
   tls: false
   type: hysteria2
 - name: 8|+@Azarakhsh_Proxy+
@@ -708,16 +716,6 @@ proxies:
   server: 46.229.243.132
   skip-cert-verify: true
   sni: grape-turbo-fr.roxa.org
-  tls: false
-  type: hysteria2
-- name: 8|🇫🇮FI-@VPNine1
-  obfs: salamander
-  obfs-password: kf1lypzqidy6pimt
-  password: t8t2qojzsykqazfu
-  port: 52009
-  server: assets.gateway-stream.com
-  skip-cert-verify: false
-  sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
 - name: '8|🇫🇮@FreakConfig #1'
