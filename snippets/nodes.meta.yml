@@ -47,6 +47,13 @@ proxies:
   sni: pl6.lckdwn.ru
   tls: false
   type: hysteria2
+- name: '7|未命名 #2'
+  password: 3b8c82ed-fe66-472d-915e-034ccb57103f
+  port: 8443
+  server: swe.frkn.org
+  sni: swe.frkn.org
+  tls: false
+  type: hysteria2
 - name: 7,8|🌀75@oneclickvpnkeys
   password: 425e9e31-b017-4e32-bbd3-656473466d5e
   port: 2443
@@ -55,7 +62,7 @@ proxies:
   sni: latvia.koalaexpress.ru
   tls: false
   type: hysteria2
-- name: '7|未命名 #2'
+- name: '7|未命名 #3'
   password: 4e756809
   port: 12694
   server: 92.4.68.18
@@ -63,14 +70,14 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '7|未命名 #3'
+- name: '7|未命名 #4'
   password: 53c76647-14d1-4df5-99cb-be99ad2e6bd9
   port: 443
   server: at133.mechvpn.online
   sni: at133.mechvpn.online
   tls: false
   type: hysteria2
-- name: '7|未命名 #4'
+- name: '7|未命名 #5'
   password: 53c76647-14d1-4df5-99cb-be99ad2e6bd9
   port: 443
   server: fr194.mechvpn.online
@@ -93,18 +100,11 @@ proxies:
   sni: nl8.mechvpn.online
   tls: false
   type: hysteria2
-- name: '7|未命名 #5'
+- name: 7|瑞典
   password: 53c76647-14d1-4df5-99cb-be99ad2e6bd9
   port: 443
   server: us54.mechvpn.online
   sni: us54.mechvpn.online
-  tls: false
-  type: hysteria2
-- name: '7|荷兰 #3'
-  password: 6f7a8009ecf6a12e10d03f9d88493c89
-  port: 55443
-  server: gorbachev-th.kvnfreetest.uk
-  sni: gorbachev-th.kvnfreetest.uk
   tls: false
   type: hysteria2
 - name: '7|未命名 #6'
@@ -114,7 +114,7 @@ proxies:
   sni: 211-22-154-26.liao.kdns.fr
   tls: false
   type: hysteria2
-- name: 7|🇸US
+- name: 7|🇺🇸US
   password: 90af65ff00ef2ff089d28d6a11fc10de
   port: 50160
   server: 23-19-231-152.liao.kdns.fr
@@ -127,13 +127,6 @@ proxies:
   port: 8443
   server: 176.124.222.180
   sni: j47lq.pleiades.codes
-  tls: false
-  type: hysteria2
-- name: 7|法国
-  password: 95e8532b-cc69-42d4-9553-e3c23292b15b
-  port: 8443
-  server: iq5ny.pleiades.codes
-  sni: iq5ny.pleiades.codes
   tls: false
   type: hysteria2
 - name: '7,8|@Configvibes🇹🇷 #2'
@@ -191,7 +184,7 @@ proxies:
   sni: grape-zet-ro-turbo.bumbleshrimp.com
   tls: false
   type: hysteria2
-- name: '7|法国 #1'
+- name: 7|法国
   password: Krab9Hyst2_Rk7pQ2xL
   port: 36723
   server: fr.vpn.legendaah.xyz
@@ -206,7 +199,7 @@ proxies:
   sni: grape-zet-turbo-nl.yyuyy.com
   tls: false
   type: hysteria2
-- name: '7|荷兰 #4'
+- name: '7|荷兰 #3'
   password: Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s
   port: 8443
   server: 86.107.178.72
@@ -243,7 +236,7 @@ proxies:
   sni: de1.apexvpn.space
   tls: false
   type: hysteria2
-- name: '7|荷兰 #5'
+- name: '7|荷兰 #4'
   obfs: salamander
   obfs-password: 44f1c1e2f8b99e792ceed574627a1eb0
   password: cd74c0a406664a5bc0bac098220a2468
@@ -269,13 +262,6 @@ proxies:
   sni: bel-03.node.lumixnet.com
   tls: false
   type: hysteria2
-- name: '7|法国 #2'
-  password: d1a0857bc1eb833a9edf96be4c1f999e
-  port: 55443
-  server: host-vds2-fr.kvncococ.org
-  sni: host-vds2-fr.kvncococ.org
-  tls: false
-  type: hysteria2
 - name: '7|波兰 #2'
   password: df489ab2-2242-4952-a774-1074a3a31f41
   port: 8443
@@ -299,21 +285,7 @@ proxies:
   sni: keyhop-offshore.roxa.org
   tls: false
   type: hysteria2
-- name: 7|芬兰
-  password: e0c7af35-e2db-47c7-b1a3-ce5ec0dd0474
-  port: 8458
-  server: hy2-fi.frdmhere.com
-  sni: hy2.frdmhere.com
-  tls: false
-  type: hysteria2
 - name: '7|美国 #2'
-  password: e0c7af35-e2db-47c7-b1a3-ce5ec0dd0474
-  port: 8458
-  server: hy2-us.frdmhere.com
-  sni: hy2.frdmhere.com
-  tls: false
-  type: hysteria2
-- name: '7|美国 #3'
   password: fe475179-d8a8-420d-a4ac-3e415ed8dc72
   port: 11683
   server: uswx4.wxgqlfx.vip
@@ -321,7 +293,7 @@ proxies:
   sni: 144.225.187.153
   tls: false
   type: hysteria2
-- name: '7|荷兰 #6'
+- name: '7|荷兰 #5'
   password: hysteria2_fastlane_9r63hua9f
   port: 443
   server: 144.31.135.204
@@ -336,14 +308,14 @@ proxies:
   sni: germany3.h2corp.local
   tls: false
   type: hysteria2
-- name: '7|荷兰 #7'
+- name: '7|荷兰 #6'
   password: netherlands_3_hysteria2_fastlane_xr3nai71s
   port: 443
   server: 91.84.119.49
   sni: nl4.h.fastlanehosting.ru
   tls: false
   type: hysteria2
-- name: '7|荷兰 #8'
+- name: '7|荷兰 #7'
   password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
   port: 8443
   server: 205.237.109.219
@@ -364,6 +336,14 @@ proxies:
   sni: cabinet.wwwinternetvideo.click
   tls: false
   type: hysteria2
+- name: 8|76@oneclickvpnkeys
+  password: 042a1881-44e4-4781-bd40-bf75164faf4f
+  port: 443
+  server: 150.241.102.127
+  skip-cert-verify: true
+  sni: 150.241.102.127
+  tls: false
+  type: hysteria2
 - name: 8|@confiig_hub
   obfs: salamander
   obfs-password: dnwx30hvcobf7xcf
@@ -372,49 +352,6 @@ proxies:
   server: 185.47.172.226
   skip-cert-verify: false
   sni: 185.47.172.226
-  tls: false
-  type: hysteria2
-- name: 8|42@oneclickvpnkeys
-  password: 1f619326-cd93-4d6b-aebe-e0b5f8831d02
-  port: 10808
-  server: nl10.unlockvpn.online
-  sni: nl10.unlockvpn.online
-  tls: false
-  type: hysteria2
-- name: 8|🌀46@oneclickvpnkeys
-  password: 1f619326-cd93-4d6b-aebe-e0b5f8831d02
-  port: 10808
-  server: nl2.unlockvpn.online
-  sni: nl2.unlockvpn.online
-  tls: false
-  type: hysteria2
-- name: 8|🌀40@oneclickvpnkeys
-  password: 1f619326-cd93-4d6b-aebe-e0b5f8831d02
-  port: 10808
-  server: nl3.unlockvpn.online
-  sni: nl3.unlockvpn.online
-  tls: false
-  type: hysteria2
-- name: 8|🌀50@oneclickvpnkeys
-  password: 1f619326-cd93-4d6b-aebe-e0b5f8831d02
-  port: 10808
-  server: nl7.unlockvpn.online
-  sni: nl7.unlockvpn.online
-  tls: false
-  type: hysteria2
-- name: 8|🌀43@oneclickvpnkeys
-  password: 1f619326-cd93-4d6b-aebe-e0b5f8831d02
-  port: 10808
-  server: nl9.unlockvpn.online
-  sni: nl9.unlockvpn.online
-  tls: false
-  type: hysteria2
-- name: 8|🌀37@oneclickvpnkeys
-  password: 22d891f5-ad85-4824-b0b8-e30cf3d37eb5
-  port: 2056
-  server: flkf3.mangshe.xyz
-  skip-cert-verify: true
-  sni: flkf3.mangshe.xyz
   tls: false
   type: hysteria2
 - name: 8|🇩🇪@FreakConfig
@@ -437,7 +374,7 @@ proxies:
   sni: fiproxy1.lockdwn.com@freenettir³
   tls: false
   type: hysteria2
-- name: '8|@meliproxyy #1'
+- name: 8|@Daily_Configs
   obfs: salamander
   obfs-password: uw9b2qq5rx
   password: 6aab8efdf13945829ae3699c342be406
@@ -446,15 +383,7 @@ proxies:
   sni: fiproxy1.lockdwn.com
   tls: false
   type: hysteria2
-- name: 8|🌀49@oneclickvpnkeys
-  password: 707db87b-9cbf-438f-b4c7-9d984c8e944a
-  port: 443
-  server: serv21.strettenvpn.com
-  skip-cert-verify: true
-  sni: serv21.strettenvpn.com
-  tls: false
-  type: hysteria2
-- name: 8|🌀6@oneclickvpnkeys
+- name: 8|6@oneclickvpnkeys
   password: 9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z
   port: 8443
   server: 162.249.124.104
@@ -546,13 +475,6 @@ proxies:
   sni: se.vpnjey2.dpdns.org
   tls: false
   type: hysteria2
-- name: 8|🌀47@oneclickvpnkeys
-  password: YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc
-  port: 443
-  server: admin.wwwinternetvideo.click
-  skip-cert-verify: true
-  tls: false
-  type: hysteria2
 - name: 8|@KAFING_2
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
@@ -573,7 +495,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 8|50@oneclickvpnkeys
+- name: 8|🎈50@oneclickvpnkeys
   password: bce6c821-200d-421f-bf3d-7159e5246ea0
   port: 33333
   server: 155.248.209.237
@@ -581,7 +503,7 @@ proxies:
   sni: 155.248.209.237
   tls: false
   type: hysteria2
-- name: 8|46@oneclickvpnkeys
+- name: 8|🎈46@oneclickvpnkeys
   password: ed77b662dbdf1a817d5eb75ae940cac4
   port: 50160
   server: 198-46-188-116.liao.kdns.fr
@@ -589,15 +511,7 @@ proxies:
   sni: 198-46-188-116.liao.kdns.fr
   tls: false
   type: hysteria2
-- name: 8|🌀39@oneclickvpnkeys
-  password: f056b41dc9f2b516e333738d1345a6be46a8ca80a3870ffe
-  port: 443
-  server: n.nl.cleanersaz.help
-  skip-cert-verify: true
-  sni: n.nl.cleanersaz.help
-  tls: false
-  type: hysteria2
-- name: '8|kurdconfig #1'
+- name: '8|kurdconfig #2'
   obfs: salamander
   obfs-password: gu74jg3ym0e21zco
   password: m3bqxk03mg221yi2
