@@ -15,7 +15,7 @@ proxies:
   sni: vpn-us-003.fastervpn.world
   tls: false
   type: hysteria2
-- name: '7|美国 #1'
+- name: 7,8|🇺🇸US-@VPNine1
   obfs: salamander
   obfs-password: 44f1c1e2f8b99e792ceed574627a1eb0
   password: cd74c0a406664a5bc0bac098220a2468
@@ -30,6 +30,14 @@ proxies:
   server: uswx4.wxgqlfx.vip
   skip-cert-verify: true
   sni: 144.225.187.153
+  tls: false
+  type: hysteria2
+- name: 8|64@oneclickvpnkeys
+  password: mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj
+  port: 443
+  server: 64.188.98.171
+  skip-cert-verify: true
+  sni: germany3.h2corp.local
   tls: false
   type: hysteria2
 - name: 13,14|美国|@ripaojiedian
