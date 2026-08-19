@@ -1,5 +1,13 @@
 proxies:
-- name: 8|рҹҸ50@oneclickvpnkeys
+- name: 7|法国
+  password: Krab9Hyst2_Rk7pQ2xL
+  port: 36723
+  server: fr.vpn.legendaah.xyz
+  skip-cert-verify: true
+  sni: www.cloudflare.com
+  tls: false
+  type: hysteria2
+- name: 8|50@oneclickvpnkeys
   password: dongtaiwang.com
   port: 22000
   server: 62.210.124.146
