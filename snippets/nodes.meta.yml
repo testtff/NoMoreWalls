@@ -129,7 +129,7 @@ proxies:
   sni: j47lq.pleiades.codes
   tls: false
   type: hysteria2
-- name: '7,8|@Configvibes🇹🇷 #2'
+- name: '7,8|@Configvibes🇹🇷 #1'
   obfs: salamander
   obfs-password: Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------
   password: '@Telegram@Configvibes'
@@ -269,7 +269,7 @@ proxies:
   sni: eh-spl1.craft-supply.org
   tls: false
   type: hysteria2
-- name: 7|KR
+- name: 7|🇷KR
   password: dfb54e674104158210fdfcac45e5679d
   port: 50160
   server: 193.122.104.200
@@ -354,6 +354,13 @@ proxies:
   sni: 185.47.172.226
   tls: false
   type: hysteria2
+- name: 8|🇰🇿KZ-@VPNine1
+  password: 3b8c82ed-fe66-472d-915e-034ccb57103f
+  port: 443
+  server: kz.frkn.org
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
 - name: 8|🇩🇪@FreakConfig
   obfs: salamander
   obfs-password: uw9b2qq5rx
@@ -391,7 +398,7 @@ proxies:
   sni: a26738d5774ad803.devmrzero.ir
   tls: false
   type: hysteria2
-- name: 8|@Configvibes🇹🇷
+- name: 8|@Configvibes🇷
   obfs: salamander
   obfs-password: Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------
   password: '@Tel@Configvibes'
@@ -401,7 +408,7 @@ proxies:
   sni: archive.ubuntu.com
   tls: false
   type: hysteria2
-- name: '8|@Configvibes🇹🇷 #1'
+- name: 8|@Configvibes🇹🇷
   obfs: salamander
   obfs-password: Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes
   password: '@Telegram@Configvibes'
@@ -411,7 +418,7 @@ proxies:
   sni: ftp.debian.org
   tls: false
   type: hysteria2
-- name: 8|🇦V2RayyNGvpn🇨🇦
+- name: 8|V2RayyNGvpn🇨🇦
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
   password: IJMFOXhvbQ
@@ -551,7 +558,7 @@ proxies:
   sni: hy2.aspidnet.xyz
   tls: false
   type: hysteria2
-- name: 8|7@oneclickvpnkeys
+- name: 8|🌀7@oneclickvpnkeys
   password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
   port: 8443
   server: 46.229.243.132
@@ -577,6 +584,14 @@ proxies:
   server: assets.gateway-stream.com
   skip-cert-verify: false
   sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
+- name: 8|🇩🇪DE-🚀@VPNine1
+  password: umnDU7jgFYUjpVjVM2sW9HL0rRYLJNgzVwRu2HzWEhyZKkRx
+  port: 443
+  server: 5.83.129.11
+  skip-cert-verify: true
+  sni: germany1.h2corp.local
   tls: false
   type: hysteria2
 - cipher: aes-256-cfb
