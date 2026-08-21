@@ -1,5 +1,5 @@
 proxies:
-- name: 7,8|33@oneclickvpnkeys
+- name: 7|US
   password: 22d891f5-ad85-4824-b0b8-e30cf3d37eb5
   port: 2056
   server: mg2.mangshe.xyz
