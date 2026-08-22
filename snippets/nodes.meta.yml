@@ -586,20 +586,6 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 8|78@oneclickvpnkeys
-  password: dongtaiwang.com
-  port: 44356
-  server: 142.249.37.90
-  sni: hy2.561891.xyz
-  tls: false
-  type: hysteria2
-- name: 8|🐦‍🔥80@oneclickvpnkeys
-  password: dongtaiwang.com
-  port: 44356
-  server: hy2.561891.xyz
-  sni: hy2.561891.xyz
-  tls: false
-  type: hysteria2
 - name: 8|🍥53@oneclickvpnkeys
   password: gf1
   port: 443
@@ -616,14 +602,6 @@ proxies:
   server: 130.49.161.70
   skip-cert-verify: false
   sni: hy2.aspidnet.xyz
-  tls: false
-  type: hysteria2
-- name: 8|🐦‍🔥85@oneclickvpnkeys
-  password: qQe1z5kU8kN6SlKnDt9Ru3Qp
-  port: 443
-  server: 44.255.13.86
-  skip-cert-verify: true
-  sni: vpn-us-002.fastervpn.world
   tls: false
   type: hysteria2
 - name: 8|🍥9@oneclickvpnkeys
