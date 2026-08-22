@@ -16,13 +16,21 @@ proxies:
   tls: false
   type: hysteria2
 - name: '7|德国 #2'
+  password: a6cf4b28-ba72-4e8c-90f8-6a884107ab3c
+  port: 443
+  server: ndge4.whit3.net
+  skip-cert-verify: true
+  sni: ndge4.whit3.net
+  tls: false
+  type: hysteria2
+- name: '7|德国 #3'
   password: d1224950-ffab-4b9a-8696-431b40a6cfbd
   port: 443
   server: bel-03.node.lumixnet.com
   sni: bel-03.node.lumixnet.com
   tls: false
   type: hysteria2
-- name: '7|德国 #3'
+- name: '7|德国 #4'
   password: dsfa_k0123WFzerrf_kZ3490VNb03J_m30_s
   port: 8443
   server: 194.180.188.104
@@ -30,7 +38,7 @@ proxies:
   sni: keyhop-offshore.roxa.org
   tls: false
   type: hysteria2
-- name: '7|德国 #4'
+- name: '7|德国 #5'
   password: dsfa_k0123WFzerrf_kZ3490VNb03J_m30_s
   port: 8443
   server: 194.180.188.97
@@ -38,7 +46,7 @@ proxies:
   sni: keyhop-offshore.roxa.org
   tls: false
   type: hysteria2
-- name: '7|德国 #5'
+- name: '7|德国 #6'
   password: mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj
   port: 443
   server: de.1.23.h2corp.org
