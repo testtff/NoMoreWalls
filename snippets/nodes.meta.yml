@@ -1,12 +1,12 @@
 proxies:
-- name: 7|иҚ·е…°
+- name: 7|荷兰
   password: 085178e12d2211ec
   port: 8445
   server: nl.prisma-access.club
   sni: nl.prisma-access.club
   tls: false
   type: hysteria2
-- name: 7|е…°
+- name: 7|兰
   password: 08794874-93d0-4cf2-b9d6-1f2774cdffeb
   port: 2101
   server: 144.31.5.9
@@ -14,7 +14,7 @@ proxies:
   sni: panel.vlessbotkey.ru
   tls: false
   type: hysteria2
-- name: 7|ж
+- name: 7|未命名
   password: 1427eb10-7529-4d38-a6a2-01b337868b37
   port: 4433
   server: hk2.xiaoliyu.cyou
@@ -22,7 +22,7 @@ proxies:
   sni: hk2.xiaoliyu.cyou
   tls: false
   type: hysteria2
-- name: 7,8|рҹ§®78@oneclickvpnkeys
+- name: 7,8|🧮78@oneclickvpnkeys
   password: 17aVvwmiSU
   port: 10929
   server: do.aigh.store
@@ -30,7 +30,7 @@ proxies:
   sni: do.aigh.store
   tls: false
   type: hysteria2
-- name: 7|рҹҮрҹҮHK
+- name: 7|HK
   obfs: salamander
   obfs-password: 1ol3tasb90
   password: 1dcc3b89-0b45-3908-9120-19741361d55d
@@ -40,7 +40,7 @@ proxies:
   sni: xk7q3.ckpfef.top
   tls: false
   type: hysteria2
-- name: 7|HK
+- name: '7|HK #1'
   obfs: salamander
   obfs-password: 1ol3tasb90
   password: 1dcc3b89-0b45-3908-9120-19741361d55d
@@ -49,14 +49,14 @@ proxies:
   sni: xk7qhk307.ckpfef.top
   tls: false
   type: hysteria2
-- name: 7|йи…
+- name: '7|未命名 #1'
   password: 22d891f5-ad85-4824-b0b8-e30cf3d37eb5
   port: 2056
   server: db1.mangshe.xyz
   sni: db1.mangshe.xyz
   tls: false
   type: hysteria2
-- name: 7|未命名
+- name: '7|未命名 #2'
   password: 22d891f5-ad85-4824-b0b8-e30cf3d37eb5
   port: 2056
   server: lsj1.mangshe.xyz
@@ -64,7 +64,7 @@ proxies:
   sni: lsj1.mangshe.xyz
   tls: false
   type: hysteria2
-- name: 7|рҹҮәрҹҮёUS
+- name: 7|🇺🇸US
   password: 22d891f5-ad85-4824-b0b8-e30cf3d37eb5
   port: 2056
   server: mg2.mangshe.xyz
@@ -72,7 +72,7 @@ proxies:
   sni: mg2.mangshe.xyz
   tls: false
   type: hysteria2
-- name: 7,8|рҹҚҘ16@oneclickvpnkeys
+- name: 7,8|16@oneclickvpnkeys
   password: 2vwMMy8t5Sjl5lfK9dNF1OrU9d0K25V2RNWLbTKwJ6o
   port: 443
   server: pixelcast.wwwinternetvideo.click
@@ -80,7 +80,7 @@ proxies:
   sni: pixelcast.wwwinternetvideo.click
   tls: false
   type: hysteria2
-- name: 7|жіўе…°
+- name: 7|波兰
   password: 3703ccc0-ae74-49bd-b9d7-0897192bf8c4
   port: 443
   server: node.embrofree.org
@@ -88,14 +88,14 @@ proxies:
   sni: node.embrofree.org
   tls: false
   type: hysteria2
-- name: 7|е…
+- name: '7|未命名 #4'
   password: 3b8c82ed-fe66-472d-915e-034ccb57103f
   port: 8443
   server: swe.frkn.org
   sni: swe.frkn.org
   tls: false
   type: hysteria2
-- name: 7|ееҰ
+- name: '7|未命名 #5'
   password: 4e756809
   port: 12694
   server: 92.4.68.18
@@ -103,28 +103,28 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 7|ее°е
+- name: '7|未命名 #6'
   password: 53c76647-14d1-4df5-99cb-be99ad2e6bd9
   port: 443
   server: at133.mechvpn.online
   sni: at133.mechvpn.online
   tls: false
   type: hysteria2
-- name: 7|дееҲ©ә
+- name: 7|利
   password: 53c76647-14d1-4df5-99cb-be99ad2e6bd9
   port: 443
   server: bg185.mechvpn.online
   sni: bg185.mechvpn.online
   tls: false
   type: hysteria2
-- name: 7|жіеӣҪ
+- name: 7|国
   password: 53c76647-14d1-4df5-99cb-be99ad2e6bd9
   port: 443
   server: fr194.mechvpn.online
   sni: fr194.mechvpn.online
   tls: false
   type: hysteria2
-- name: '7|иҚ·е…° #1'
+- name: '7|荷兰 #1'
   password: 53c76647-14d1-4df5-99cb-be99ad2e6bd9
   port: 443
   server: nl174.mechvpn.online
@@ -132,7 +132,7 @@ proxies:
   sni: nl174.mechvpn.online
   tls: false
   type: hysteria2
-- name: '7|иҚ·е…° #2'
+- name: '7|荷兰 #2'
   password: 53c76647-14d1-4df5-99cb-be99ad2e6bd9
   port: 443
   server: nl8.mechvpn.online
@@ -140,27 +140,27 @@ proxies:
   sni: nl8.mechvpn.online
   tls: false
   type: hysteria2
-- name: 7|иеӣҪ
+- name: '7|国 #1'
   password: 53c76647-14d1-4df5-99cb-be99ad2e6bd9
   port: 443
   server: uk196.mechvpn.online
   tls: false
   type: hysteria2
-- name: 7|з‘һе…ё
+- name: 7|瑞典
   password: 53c76647-14d1-4df5-99cb-be99ad2e6bd9
   port: 443
   server: us54.mechvpn.online
   sni: us54.mechvpn.online
   tls: false
   type: hysteria2
-- name: 7|е°№
+- name: '7|未命名 #7'
   password: 85a88b70b5f2f73d0dcac92bd3934a5e
   port: 50160
   server: 211.22.154.26
   sni: 211-22-154-26.liao.kdns.fr
   tls: false
   type: hysteria2
-- name: 7,8|рҹҚҘ71@oneclickvpnkeys
+- name: '7|波兰 #1'
   password: 865e271f7c97b549b024255c9d02cebe9cc0c2c070a82b1e11bb11b9cd88dd01
   port: 443
   server: streambox.wwwinternetvideo.click
@@ -168,7 +168,7 @@ proxies:
   sni: streambox.wwwinternetvideo.click
   tls: false
   type: hysteria2
-- name: 7|еҫ·еӣҪ
+- name: 7|德国
   password: 8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3
   port: 443
   server: deu0003ntrhy01.tcp-reset-club.net
@@ -176,7 +176,7 @@ proxies:
   sni: deu0003ntrhy01.tcp-reset-club.net
   tls: false
   type: hysteria2
-- name: 7|еие…
+- name: '7|未命名 #8'
   password: 9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z
   port: 8080
   server: 162.249.124.105
@@ -192,14 +192,14 @@ proxies:
   sni: vip-sg-1.hkd4fwmg.vip
   tls: false
   type: hysteria2
-- name: 7|рҹҮӯрҹҮ°HK
+- name: 7|🇭🇰HK
   password: 9q3Mb0IzSVbnwaqK
   port: 16001
   server: 18.162.42.61
   sni: hk-ls-r-1.czzhkractqqakfzdmrgd.cc
   tls: false
   type: hysteria2
-- name: '7,8|@ConfigvibesрҹҮ№рҹҮ· #1'
+- name: '7,8|@Configvibes🇹🇷 #1'
   obfs: salamander
   obfs-password: Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------
   password: '@Telegram@Configvibes'
@@ -209,14 +209,14 @@ proxies:
   sni: ftp.debian.org
   tls: false
   type: hysteria2
-- name: 7|Ҡе…°
+- name: '7|兰 #1'
   password: Apt1923_N9x234gn_Nal5Nx3j_s
   port: 8443
   server: 222.167.212.80
   sni: grape-power-pl.ddnsguru.com
   tls: false
   type: hysteria2
-- name: 7|зеӣҪ
+- name: '7|国 #2'
   password: CJtE4HLmxz859YMNiZM1NTuDRy7jjs8t
   port: 1443
   server: pg-usa2-hy2.gigatapbot.top
@@ -224,7 +224,7 @@ proxies:
   sni: pg-usa2-hy2.gigatapbot.top
   tls: false
   type: hysteria2
-- name: 7|Ҙң
+- name: '7|未命名 #9'
   password: Foc_Mcxi45rM9v3ve_N92fdrK_10_Ssc5
   port: 8443
   server: 185.39.31.117
@@ -232,7 +232,7 @@ proxies:
   sni: grape-beer.yyuyy.com
   tls: false
   type: hysteria2
-- name: 7,8|рҹ§®25@oneclickvpnkeys
+- name: 7,8|🧮25@oneclickvpnkeys
   password: GSPOBvG-ZwYcBFMr0ekFGO_Zga3wK6v_
   port: 8443
   server: hy2-germany.unlimited-access.ru
@@ -240,7 +240,7 @@ proxies:
   sni: hy2-germany.unlimited-access.ru
   tls: false
   type: hysteria2
-- name: 7|зҫҺеӣҪ
+- name: 7|美国
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
   port: 443
   server: 18.226.172.222
@@ -248,7 +248,7 @@ proxies:
   sni: vpn-us-003.fastervpn.world
   tls: false
   type: hysteria2
-- name: '7|иҚ·е…° #3'
+- name: '7|荷兰 #3'
   obfs: salamander
   obfs-password: HysteriaHowdy
   password: HowdyHysteria2023w0W
@@ -258,14 +258,14 @@ proxies:
   sni: sni-here.com
   tls: false
   type: hysteria2
-- name: 7|—¬едәҡ
+- name: 7|亚
   password: Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0
   port: 8443
   server: 85.204.107.164
   sni: grape-zet-ro-turbo.bumbleshrimp.com
   tls: false
   type: hysteria2
-- name: 7,8|рҹҘ75@oneclickvpnkeys
+- name: '7|德国 #1'
   password: Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0
   port: 8080
   server: 85.204.107.169
@@ -273,7 +273,7 @@ proxies:
   sni: grape-zet-ro-turbo.bumbleshrimp.com
   tls: false
   type: hysteria2
-- name: 7|жі•еӣҪ
+- name: 7|法国
   password: Krab9Hyst2_Rk7pQ2xL
   port: 36723
   server: fr.vpn.legendaah.xyz
@@ -281,14 +281,14 @@ proxies:
   sni: www.cloudflare.com
   tls: false
   type: hysteria2
-- name: 7|Қ·е…°
+- name: '7|荷兰 #4'
   password: Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s
   port: 8443
   server: 86.107.178.72
   sni: grape-zet-turbo-nl.yyuyy.com
   tls: false
   type: hysteria2
-- name: '7|иҚ·е…° #4'
+- name: '7|荷兰 #5'
   password: Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s
   port: 8443
   server: 86.107.178.75
@@ -296,7 +296,7 @@ proxies:
   sni: grape-zet-turbo-nl.yyuyy.com
   tls: false
   type: hysteria2
-- name: 7,8|рҹ§®17@oneclickvpnkeys
+- name: 7,8|🧮17@oneclickvpnkeys
   password: Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s
   port: 8443
   server: 86.107.178.78
@@ -304,7 +304,7 @@ proxies:
   sni: hopp-netherland-new.dynuddns.net
   tls: false
   type: hysteria2
-- name: 7|рҹҮёрҹҮSG
+- name: 7|🇸SG
   password: P6qkAwznuC076mbIR2cGPg==
   port: 34567
   server: 43.156.90.144
@@ -312,14 +312,14 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 7|ҫҺеӣҪ
+- name: '7|美国 #1'
   password: VB92_Ka9qwef143K_L23K1hz3_bF_Hz62uT_Bn1_sC
   port: 8080
   server: 82.39.214.98
   sni: hopp-us.yyuyy.com
   tls: false
   type: hysteria2
-- name: '7|жіўе…° #2'
+- name: '7|波兰 #2'
   password: YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc
   port: 443
   server: go.wwwinternetvideo.click
@@ -335,7 +335,7 @@ proxies:
   sni: vip-sg-2.hkd4fwmg.vip
   tls: false
   type: hysteria2
-- name: '7|еҫ·еӣҪ #1'
+- name: '7|德国 #2'
   password: a6cf4b28-ba72-4e8c-90f8-6a884107ab3c
   port: 443
   server: ndge4.whit3.net
@@ -343,14 +343,14 @@ proxies:
   sni: ndge4.whit3.net
   tls: false
   type: hysteria2
-- name: '7|жіўе…° #3'
+- name: '7|波兰 #3'
   password: b11841e3-2acc-45ff-afe0-a9ed9a823aaa
   port: 443
   server: rpc-2068.internet-booster.com
   sni: rpc-2068.internet-booster.com
   tls: false
   type: hysteria2
-- name: 7|жіееҲ©дәҡ
+- name: 7|利亚
   obfs: salamander
   obfs-password: b42d90fa667942aebc734d60
   password: b42d90fa667942aebc734d60
@@ -359,7 +359,7 @@ proxies:
   sni: rmgyvpn.rest
   tls: false
   type: hysteria2
-- name: 7|ж”Ҳ©—¶
+- name: '7|利 #1'
   password: belgium_hysteria2_fastlane_a118d9y0r
   port: 443
   server: 113.30.152.25
@@ -367,7 +367,7 @@ proxies:
   sni: be1.h.fastlanehosting.ru
   tls: false
   type: hysteria2
-- name: '7|зҫҺеӣҪ #1'
+- name: '7|美国 #2'
   obfs: salamander
   obfs-password: 44f1c1e2f8b99e792ceed574627a1eb0
   password: cd74c0a406664a5bc0bac098220a2468
@@ -376,14 +376,14 @@ proxies:
   sni: node1.sferavpn.pro
   tls: false
   type: hysteria2
-- name: '7|еҫ·еӣҪ #2'
+- name: '7|德国 #3'
   password: d1224950-ffab-4b9a-8696-431b40a6cfbd
   port: 443
   server: bel-03.node.lumixnet.com
   sni: bel-03.node.lumixnet.com
   tls: false
   type: hysteria2
-- name: '7|ҫ·еӣҪ #1'
+- name: '7|德国 #4'
   password: dsfa_k0123WFzerrf_kZ3490VNb03J_m30_s
   port: 8443
   server: 194.180.188.104
@@ -391,7 +391,7 @@ proxies:
   sni: keyhop-offshore.roxa.org
   tls: false
   type: hysteria2
-- name: '7|еҫ·еӣҪ #3'
+- name: '7|德国 #5'
   password: dsfa_k0123WFzerrf_kZ3490VNb03J_m30_s
   port: 8443
   server: 194.180.188.97
@@ -399,7 +399,7 @@ proxies:
   sni: keyhop-offshore.roxa.org
   tls: false
   type: hysteria2
-- name: 7|ж—Ҙжң¬
+- name: 7|日本
   password: ef18d810-719c-4bf1-83c6-615d01f217eb
   port: 443
   server: jp.cryptoofarm.com
@@ -407,7 +407,7 @@ proxies:
   sni: jp.cryptoofarm.com
   tls: false
   type: hysteria2
-- name: '7|зҫҺеӣҪ #2'
+- name: '7|美国 #3'
   password: fe475179-d8a8-420d-a4ac-3e415ed8dc72
   port: 11683
   server: uswx4.wxgqlfx.vip
@@ -415,7 +415,7 @@ proxies:
   sni: 144.225.187.153
   tls: false
   type: hysteria2
-- name: 7,8|рҹ§®60@oneclickvpnkeys
+- name: 7,8|🧮60@oneclickvpnkeys
   password: h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT
   port: 8080
   server: 138.124.0.168
@@ -423,7 +423,7 @@ proxies:
   sni: hopp-legend-se.roxa.org
   tls: false
   type: hysteria2
-- name: '7|иӢұеӣҪ #1'
+- name: '7|英国 #2'
   password: h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT
   port: 8080
   server: 222.167.212.81
@@ -431,14 +431,14 @@ proxies:
   sni: hopp-legend-se.roxa.org
   tls: false
   type: hysteria2
-- name: '7|Қ·е…° #2'
+- name: '7|荷兰 #7'
   password: hysteria2_fastlane_9r63hua9f
   port: 443
   server: 144.31.135.204
   sni: nl2.h.fastlanehosting.ru
   tls: false
   type: hysteria2
-- name: '7|еҫ·еӣҪ #4'
+- name: '7|德国 #6'
   password: mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj
   port: 443
   server: de.1.23.h2corp.org
@@ -446,7 +446,7 @@ proxies:
   sni: germany3.h2corp.local
   tls: false
   type: hysteria2
-- name: '7|иҚ·е…° #5'
+- name: '7|荷兰 #8'
   password: netherlands_3_hysteria2_fastlane_xr3nai71s
   port: 443
   server: 91.84.119.49
@@ -461,7 +461,7 @@ proxies:
   sni: vip-jp-4.hkd4fwmg.vip
   tls: false
   type: hysteria2
-- name: 7|°е е
+- name: 7|加
   password: qQe1z5kU8kN6SlKnDt9Ru3Qp
   port: 443
   server: 47.129.155.42
@@ -469,7 +469,7 @@ proxies:
   sni: vpn-sg-001.fastervpn.world
   tls: false
   type: hysteria2
-- name: '7|иҚ·е…° #6'
+- name: '7|兰 #2'
   password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
   port: 8443
   server: 46.229.243.139
@@ -477,14 +477,14 @@ proxies:
   sni: grape-turbo-fr.roxa.org
   tls: false
   type: hysteria2
-- name: 7|зұе°јдәҡ
+- name: 7|尼亚
   password: sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX
   port: 443
   server: cabinet.wwwinternetvideo.click
   sni: cabinet.wwwinternetvideo.click
   tls: false
   type: hysteria2
-- name: 8|рҹ§®36@oneclickvpnkeys
+- name: 8|🧮36@oneclickvpnkeys
   password: 083417772bc618cd61f0cca23dd91680
   port: 55443
   server: 167.179.34.31
@@ -492,7 +492,7 @@ proxies:
   sni: gorbachev-new-th.kvnfreetest.uk
   tls: false
   type: hysteria2
-- name: 8|рҹ§®37@oneclickvpnkeys
+- name: 8|🧮37@oneclickvpnkeys
   password: 083417772bc618cd61f0cca23dd91680
   port: 55443
   server: gorbachev-new-th.kvnfreetest.uk
@@ -510,15 +510,7 @@ proxies:
   sni: 185.47.172.226
   tls: false
   type: hysteria2
-- name: 8|рҹ72@oneclickvpnkeys
-  password: 22d891f5-ad85-4824-b0b8-e30cf3d37eb5
-  port: 2056
-  server: xby.mangshe.xyz
-  skip-cert-verify: true
-  sni: mg2.mangshe.xyz
-  tls: false
-  type: hysteria2
-- name: 8|рҹрҹҮ@FreakConfig
+- name: 8|Telegram:@v2rayng3
   obfs: salamander
   obfs-password: uw9b2qq5rx
   password: 6aab8efdf13945829ae3699c342be406
@@ -528,7 +520,7 @@ proxies:
   sni: fiproxy1.lockdwn.com
   tls: false
   type: hysteria2
-- name: 8|рҹ§®57@oneclickvpnkeys
+- name: 8|🧮57@oneclickvpnkeys
   password: 8569e507-8ef7-481d-9108-6bc7f040c2ff
   port: 9443
   server: newos.klzvezdi.ru
@@ -536,7 +528,7 @@ proxies:
   sni: newos.klzvezdi.ru
   tls: false
   type: hysteria2
-- name: 8|рҹ§®46@oneclickvpnkeys
+- name: 8|🧮46@oneclickvpnkeys
   password: 8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3
   port: 443
   server: che01plrhy01.tcp-reset-club.net
@@ -544,7 +536,7 @@ proxies:
   sni: che01plrhy01.tcp-reset-club.net
   tls: false
   type: hysteria2
-- name: 8|рҹ§®7@oneclickvpnkeys
+- name: 8|🧮7@oneclickvpnkeys
   password: 9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z
   port: 8443
   server: 162.249.124.108
@@ -552,7 +544,7 @@ proxies:
   sni: hopp-germany-new.ddnsguru.com
   tls: false
   type: hysteria2
-- name: 8|рҹ§®3@oneclickvpnkeys
+- name: 8|🧮3@oneclickvpnkeys
   password: 9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z
   port: 8443
   server: 162.249.124.109
@@ -560,7 +552,7 @@ proxies:
   sni: hopp-germany-new.ddnsguru.com
   tls: false
   type: hysteria2
-- name: 8|рҹ§®4@oneclickvpnkeys
+- name: 8|🧮4@oneclickvpnkeys
   password: 9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z
   port: 8443
   server: 162.249.124.111
@@ -568,7 +560,7 @@ proxies:
   sni: hopp-germany-new.ddnsguru.com
   tls: false
   type: hysteria2
-- name: '8|kurdconfig #1'
+- name: 8|kurdconfig
   obfs: salamander
   obfs-password: AIbOe_791iQ4k6kPUgdsO7B9
   password: 9cc2113e-6b5b-4ced-9c46-70cf78d2c599
@@ -578,7 +570,7 @@ proxies:
   sni: a26738d5774ad803.devmrzero.ir
   tls: false
   type: hysteria2
-- name: 8|@ConfigvibesрҹҮрҹҮ
+- name: 8|@Configvibes
   obfs: salamander
   obfs-password: Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------
   password: '@Tel@Configvibes'
@@ -588,7 +580,7 @@ proxies:
   sni: archive.ubuntu.com
   tls: false
   type: hysteria2
-- name: 8|@ConfigvibesрҹҮ№рҹҮ·
+- name: 8|@Configvibes🇹🇷
   obfs: salamander
   obfs-password: Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes
   password: '@Telegram@Configvibes'
@@ -598,7 +590,7 @@ proxies:
   sni: ftp.debian.org
   tls: false
   type: hysteria2
-- name: 8|рҹ§®90@oneclickvpnkeys
+- name: 8|🧮90@oneclickvpnkeys
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
   port: 443
   server: 202.146.222.29
@@ -606,7 +598,7 @@ proxies:
   sni: 202.146.222.29
   tls: false
   type: hysteria2
-- name: 8|рҹ§®89@oneclickvpnkeys
+- name: 8|🧮89@oneclickvpnkeys
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
   port: 443
   server: 3.36.96.245
@@ -614,7 +606,7 @@ proxies:
   sni: vpn-kr-003.fastervpn.world
   tls: false
   type: hysteria2
-- name: 8|рҹ+@Azarakhsh_Proxy+рҹ©·
+- name: 8|+@Azarakhsh_Proxy+
   obfs: salamander
   obfs-password: KevinZakarian
   password: KevinZakarian
@@ -624,7 +616,7 @@ proxies:
   sni: 179.61.132.96
   tls: false
   type: hysteria2
-- name: 8|рҹ§®19@oneclickvpnkeys
+- name: 8|🧮19@oneclickvpnkeys
   password: Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s
   port: 8443
   server: 86.107.178.76
@@ -666,7 +658,7 @@ proxies:
   sni: se.vpnjey2.dpdns.org
   tls: false
   type: hysteria2
-- name: 8|рҹҚҘ80@oneclickvpnkeys
+- name: 8|🍥80@oneclickvpnkeys
   password: V1UQuwa-4PRIDW2paxrPe58RcxXHPGyFIGS-5QojaM8
   port: 443
   server: player.wwwinternetvideo.click
@@ -694,7 +686,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 8|1рҹ§®@oneclickvpnkeys
+- name: 8|1🧮@oneclickvpnkeys
   password: dsfa_k0123WFzerrf_kZ3490VNb03J_m30_s
   port: 8443
   server: 194.180.188.120
@@ -702,15 +694,7 @@ proxies:
   sni: keyhop-offshore.roxa.org
   tls: false
   type: hysteria2
-- name: 8|рҹҚҘ53@oneclickvpnkeys
-  password: gf1
-  port: 443
-  server: 173.212.201.85
-  skip-cert-verify: true
-  sni: www.docker.com
-  tls: false
-  type: hysteria2
-- name: 8|рҹ§®41@oneclickvpnkeys
+- name: 8|41@oneclickvpnkeys
   password: h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT
   port: 8443
   server: 103.246.248.226
@@ -718,14 +702,14 @@ proxies:
   sni: hopp-legend-se.roxa.org
   tls: false
   type: hysteria2
-- name: 8|рҹҘ9@oneclickvpnkeys
+- name: 8|9@oneclickvpnkeys
   password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
   port: 8443
   server: 46.229.243.137
   sni: grape-turbo-fr.roxa.org
   tls: false
   type: hysteria2
-- name: '8|kurdconfig #2'
+- name: 8|@Azaranv2ray
   obfs: salamander
   obfs-password: d6pv15sghiq1onts
   password: t8t2qojzsykqazfu
