@@ -447,14 +447,12 @@ proxies:
   sni: cabinet.wwwinternetvideo.click
   tls: false
   type: hysteria2
-- name: 8|@confiig_hub
-  obfs: salamander
-  obfs-password: dnwx30hvcobf7xcf
-  password: 0ansucp5k6aop125
-  port: 32950
-  server: 185.47.172.226
-  skip-cert-verify: false
-  sni: 185.47.172.226
+- name: 8|🏓33@oneclickvpnkeys
+  password: 0bacdaea-099b-462b-b625-d7d44c89aace
+  port: 55000
+  server: 94.156.250.67
+  skip-cert-verify: true
+  sni: www.bing.com
   tls: false
   type: hysteria2
 - name: 8|89@oneclickvpnkeys
@@ -648,7 +646,7 @@ proxies:
   sni: hys22.wba-pn.ru
   tls: false
   type: hysteria2
-- name: 8|🇪AE-🚀@VPNine1
+- name: 8|@v2raybaaz
   obfs: salamander
   obfs-password: rG07s3COMIEvdnQipRyWzx_H_2xygNC3
   password: p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR
