@@ -1,5 +1,5 @@
 proxies:
-- name: 7,8|🏓75@oneclickvpnkeys
+- name: 7,8|75@oneclickvpnkeys
   password: 8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3
   port: 443
   server: deu0003ntrhy01.tcp-reset-club.net
@@ -37,5 +37,13 @@ proxies:
   server: 194.180.188.97
   skip-cert-verify: true
   sni: keyhop-offshore.roxa.org
+  tls: false
+  type: hysteria2
+- name: '7|德国 #5'
+  password: mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj
+  port: 443
+  server: de.1.23.h2corp.org
+  skip-cert-verify: true
+  sni: germany3.h2corp.local
   tls: false
   type: hysteria2
