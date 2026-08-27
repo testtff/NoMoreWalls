@@ -1,8 +1,1 @@
-proxies:
-- name: 8|80@oneclickvpnkeys
-  password: GSPOBvG-ZwYcBFMr0ekFGO_Zga3wK6v_
-  port: 443
-  server: hy2-switzerlandgopota.unlimited-access.ru
-  sni: hy2-switzerlandgopota.unlimited-access.ru
-  tls: false
-  type: hysteria2
+proxies: []
