@@ -1,11 +1,4 @@
 proxies:
-- name: 7|HK
-  password: 9q3Mb0IzSVbnwaqK
-  port: 16001
-  server: 18.162.42.61
-  sni: hk-ls-r-1.czzhkractqqakfzdmrgd.cc
-  tls: false
-  type: hysteria2
 - alterId: 2
   cipher: auto
   name: 13|🇭🇰 香港|@ripaojiedian
