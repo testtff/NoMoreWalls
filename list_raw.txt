@@ -50,11 +50,12 @@ hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.139:8443?insecure=
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.141:8080?sni=grape-turbo-fr.roxa.org#7%7C%E6%9C%AA%E5%91%BD%E5%90%8D%20%235
 hysteria2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@faq.wwwinternetvideo.click:443?insecure=1&sni=cabinet.wwwinternetvideo.click#7%2C8%7C92%40oneclickvpnkeys
 hysteria2://umnDU7jgFYUjpVjVM2sW9HL0rRYLJNgzVwRu2HzWEhyZKkRx@hold.wwwinternetvideo.click:443?insecure=1&sni=germany1.h2corp.local#7%7C%E5%BE%B7%E5%9B%BD%20%236
-hysteria2://41f0d6d3-4a45-4635-8225-2abd2284189b@mg3.mangshe.xyz:2056?insecure=1&sni=mg3.mangshe.xyz#8%7C67%40oneclickvpnkeys
+hysteria2://41f0d6d3-4a45-4635-8225-2abd2284189b@mg3.mangshe.xyz:2056?insecure=1&sni=mg3.mangshe.xyz#8%7C%F0%9F%93%8D67%40oneclickvpnkeys
 hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?insecure=0&sni=fiproxy1.lockdwn.com&obfs=salamander&obfs-password=uw9b2qq5rx#8%7C%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
+hysteria2://76ivwa51ce2gauym@giftcard.gateway-stream.com:52037?insecure=0&alpn=h3&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#8%7C%F0%9F%87%AB%F0%9F%87%AEConfigV2RayNG
 hysteria2://84a506ca5aca505696a454d828420b3f@140.238.213.114:50160?insecure=1&sni=www.bing.com#8%7C77%40oneclickvpnkeys
 hysteria2://8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3@usa0003rlbhy01.tcp-reset-club.net:443?sni=usa0003rlbhy01.tcp-reset-club.net#8%7C82%40oneclickvpnkeys
-hysteria2://AstroVPN_official@ptserv.accuratenetworkchecker.ir:36896?insecure=0&sni=lms22.gelzaro.ir&obfs=salamander&obfs-password=pr317jpnr2arr09j#8%7CConfigV2RayNG%20%231
+hysteria2://AstroVPN_official@ptserv.accuratenetworkchecker.ir:36896?insecure=0&sni=lms22.gelzaro.ir&obfs=salamander&obfs-password=pr317jpnr2arr09j#8%7C%40B2Hub
 hysteria2://BWAFlp8g53@hys28.wba-pn.ru:443?insecure=1#8%7C%F0%9F%AA%9E35%40oneclickvpnkeys
 hysteria2://C91FbOXGY9XRymrcEebtax9R1Nj62UizoT8S6kCb7xwey8IE@fast.wwwinternetvideo.click:443?insecure=1&sni=fast.wwwinternetvideo.click#8%7C%F0%9F%AA%9E69%40oneclickvpnkeys
 hysteria2://CnVfXXvMzh@hys13.wba-pn.ru:443?insecure=1&sni=hys13.wba-pn.ru#8%7C%F0%9F%AA%9E34%40oneclickvpnkeys
