@@ -30,7 +30,7 @@ proxies:
   sni: ndge4.whit3.net
   tls: false
   type: hysteria2
-- name: 7,8|4🐲@oneclickvpnkeys
+- name: '7|德国 #4'
   password: umnDU7jgFYUjpVjVM2sW9HL0rRYLJNgzVwRu2HzWEhyZKkRx
   port: 443
   server: hold.wwwinternetvideo.click
