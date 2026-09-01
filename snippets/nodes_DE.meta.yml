@@ -23,14 +23,6 @@ proxies:
   tls: false
   type: hysteria2
 - name: '7|德国 #3'
-  password: a6cf4b28-ba72-4e8c-90f8-6a884107ab3c
-  port: 443
-  server: ndge4.whit3.net
-  skip-cert-verify: true
-  sni: ndge4.whit3.net
-  tls: false
-  type: hysteria2
-- name: '7|德国 #4'
   password: umnDU7jgFYUjpVjVM2sW9HL0rRYLJNgzVwRu2HzWEhyZKkRx
   port: 443
   server: hold.wwwinternetvideo.click
