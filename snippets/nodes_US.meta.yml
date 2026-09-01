@@ -7,7 +7,7 @@ proxies:
   sni: mkm.icu
   tls: false
   type: hysteria2
-- name: 7,8|🪆74@oneclickvpnkeys
+- name: '7|美国 #1'
   obfs: salamander
   obfs-password: 44f1c1e2f8b99e792ceed574627a1eb0
   password: cd74c0a406664a5bc0bac098220a2468
