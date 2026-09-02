@@ -144,7 +144,7 @@ proxies:
   sni: hopp-germany-new.ddnsguru.com
   tls: false
   type: hysteria2
-- name: 7,8|🇫🇮FI-@VPNine1
+- name: 7,8|5🔒@oneclickvpnkeys
   password: BPvdjudCGodsF67hRP3xgBYvcKp48coTsh6ANydLhQs=
   port: 443
   server: fin14qr.wwwinternetvideo.click
@@ -819,16 +819,6 @@ proxies:
   port: 443
   server: 45.140.205.58
   sni: ch3.h.fastlanehosting.ru
-  tls: false
-  type: hysteria2
-- name: 8|@Azaranv2ray
-  obfs: salamander
-  obfs-password: d6pv15sghiq1onts
-  password: t8t2qojzsykqazfu
-  port: 52026
-  server: assets.gateway-stream.com
-  skip-cert-verify: false
-  sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
 - name: '8|@meliproxyy #2'
