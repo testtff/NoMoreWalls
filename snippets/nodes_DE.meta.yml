@@ -7,7 +7,7 @@ proxies:
   sni: hopp-romania-new.roxa.org
   tls: false
   type: hysteria2
-- name: '7|德国 #1'
+- name: 7,8|⛑️88@oneclickvpnkeys
   password: Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0
   port: 8080
   server: 85.204.107.178
@@ -15,11 +15,19 @@ proxies:
   sni: hopp-romania-new.roxa.org
   tls: false
   type: hysteria2
-- name: '7|德国 #2'
+- name: 7,8|⛑️85@oneclickvpnkeys
   password: Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0
   port: 8080
   server: 85.204.107.181
+  skip-cert-verify: true
   sni: hopp-romania-new.roxa.org
+  tls: false
+  type: hysteria2
+- name: 7|DE
+  password: dffb4c3d-1e84-4938-8881-cad917e8efb2
+  port: 443
+  server: de1.apexvpn.space
+  sni: de1.apexvpn.space
   tls: false
   type: hysteria2
 - name: '7|德国 #3'
@@ -33,8 +41,8 @@ proxies:
 - name: 8|🇩🇪AZARBAYJAB1
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
-  password: 8f0gvz5eul6omhq4
-  port: 52021
+  password: 7nob86hyaj5rm0en
+  port: 52022
   server: giftcard.gateway-stream.com
   skip-cert-verify: false
   sni: giftcard.gateway-stream.com
