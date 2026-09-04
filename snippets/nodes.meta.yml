@@ -191,7 +191,7 @@ proxies:
   sni: hopp-romania-new.roxa.org
   tls: false
   type: hysteria2
-- name: 7,8|⛑️88@oneclickvpnkeys
+- name: 7,8|️88@oneclickvpnkeys
   password: Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0
   port: 8080
   server: 85.204.107.178
@@ -357,13 +357,6 @@ proxies:
   sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
-- name: 8|32@oneclickvpnkeys
-  password: 2_hysteria2_fastlane_udfa4x14j
-  port: 443
-  server: 2.27.25.75
-  sni: de11.h.fastlanehosting.ru
-  tls: false
-  type: hysteria2
 - name: 8|@Daily_Configs
   password: 4savc5ig1n3549e4
   port: 52023
@@ -443,6 +436,14 @@ proxies:
   sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
+- name: 8|14@oneclickvpnkeys
+  password: 9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z
+  port: 8443
+  server: 162.249.126.2
+  skip-cert-verify: true
+  sni: hopp-germany-new.ddnsguru.com
+  tls: false
+  type: hysteria2
 - name: 8|+@Azarakhsh_Proxy+
   obfs: salamander
   obfs-password: KevinZakarian
@@ -451,6 +452,21 @@ proxies:
   server: 179.61.132.96
   skip-cert-verify: true
   sni: 179.61.132.96
+  tls: false
+  type: hysteria2
+- name: 8|🩳18@oneclickvpnkeys
+  password: Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s
+  port: 8443
+  server: 205.237.109.166
+  sni: hopp-netherland-new.dynuddns.net
+  tls: false
+  type: hysteria2
+- name: 8|🩳20@oneclickvpnkeys
+  password: Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s
+  port: 8443
+  server: 205.237.109.168
+  skip-cert-verify: true
+  sni: hopp-netherland-new.dynuddns.net
   tls: false
   type: hysteria2
 - name: 8|⛑️13@oneclickvpnkeys
@@ -592,6 +608,14 @@ proxies:
   server: 130.49.161.70
   skip-cert-verify: false
   sni: hy2.aspidnet.xyz
+  tls: false
+  type: hysteria2
+- name: 8|🩳19@oneclickvpnkeys
+  password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
+  port: 8443
+  server: 46.229.243.149
+  skip-cert-verify: true
+  sni: grape-turbo-fr.roxa.org
   tls: false
   type: hysteria2
 - name: 8|⛑️15@oneclickvpnkeys
