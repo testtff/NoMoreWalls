@@ -409,7 +409,7 @@ proxies:
   sni: hopp-germany-new.ddnsguru.com
   tls: false
   type: hysteria2
-- name: 8|84@oneclickvpnkeys
+- name: 8|🩳84@oneclickvpnkeys
   password: C91FbOXGY9XRymrcEebtax9R1Nj62UizoT8S6kCb7xwey8IE
   port: 443
   server: fast.wwwinternetvideo.click
@@ -442,7 +442,7 @@ proxies:
   sni: hopp-netherland-new.dynuddns.net
   tls: false
   type: hysteria2
-- name: 8|️13@oneclickvpnkeys
+- name: 8|13@oneclickvpnkeys
   password: Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s
   port: 8443
   server: 205.237.109.174
@@ -546,7 +546,7 @@ proxies:
   sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
-- name: '8|@Daily_Configs #4'
+- name: 8|@proxy_kafee
   password: fmaznn1lrzys7ddy
   port: 52050
   server: giftcard.gateway-stream.com
@@ -577,7 +577,7 @@ proxies:
   sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
-- name: 8|32@oneclickvpnkeys
+- name: 8|🩳32@oneclickvpnkeys
   password: gf1
   port: 443
   server: 5.129.235.85
