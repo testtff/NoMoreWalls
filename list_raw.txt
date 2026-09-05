@@ -34,17 +34,14 @@ hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@103.246.248.234:8080?insecure=1&
 hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@138.124.0.168:8080?insecure=1&sni=hopp-legend-se.roxa.org#7%7C%E8%8B%B1%E5%9B%BD%20%231
 hysteria2://umnDU7jgFYUjpVjVM2sW9HL0rRYLJNgzVwRu2HzWEhyZKkRx@hold.wwwinternetvideo.click:443?insecure=1&sni=germany1.h2corp.local#7%7C%E5%BE%B7%E5%9B%BD%20%233
 hysteria2://1m1xfvpaa5ek4omq@giftcard.gateway-stream.com:52029?insecure=0&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#8%7C%40v2ray_phoenix
-hysteria2://1m1xfvpaa5ek4omq@giftcard.gateway-stream.com:52030?insecure=0&alpn=h3&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#8%7CVCONFING
-hysteria2://1m1xfvpaa5ek4omq@giftcard.gateway-stream.com:52030?insecure=0&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#8%7C%40v2ray_phoenix%20%231
-hysteria2://1m1xfvpaa5ek4omq@giftcard.gateway-stream.com:52033?insecure=0&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#8%7C%40v2ray_phoenix%20%232
-hysteria2://1w61o8j0slf0q9yj@giftcard.gateway-stream.com:52030?insecure=0&alpn=h3&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#8%7CVCONFING%20%231
+hysteria2://1m1xfvpaa5ek4omq@giftcard.gateway-stream.com:52033?insecure=0&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#8%7C%40v2ray_phoenix%20%231
 hysteria2://4savc5ig1n3549e4@giftcard.gateway-stream.com:52023?sni=giftcard.gateway-stream.com#8%7C%40Daily_Configs
-hysteria2://4savc5ig1n3549e4@giftcard.gateway-stream.com:52034?insecure=0&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#8%7C%40v2ray_phoenix%20%233
+hysteria2://4savc5ig1n3549e4@giftcard.gateway-stream.com:52034?insecure=0&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#8%7C%40v2ray_phoenix%20%232
 hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?insecure=0&sni=fiproxy1.lockdwn.com&obfs=salamander&obfs-password=uw9b2qq5rx#8%7CTelegram%3A%40v2rayng3
 hysteria2://8f0gvz5eul6omhq4@giftcard.gateway-stream.com:52016?insecure=0&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#8%7C%40Daily_Configs%20%231
 hysteria2://8f0gvz5eul6omhq4@giftcard.gateway-stream.com:52022?insecure=0&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#8%7C%40Daily_Configs%20%232
 hysteria2://8f0gvz5eul6omhq4@giftcard.gateway-stream.com:52024?insecure=0&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#8%7C%40Daily_Configs%20%233
-hysteria2://8f0gvz5eul6omhq4@giftcard.gateway-stream.com:52030?insecure=0&alpn=h3&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#8%7CVCONFING%20%232
+hysteria2://8f0gvz5eul6omhq4@giftcard.gateway-stream.com:52030?insecure=0&alpn=h3&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#8%7CVCONFING
 hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.126.2:8443?insecure=1&sni=hopp-germany-new.ddnsguru.com#8%7C14%40oneclickvpnkeys
 hysteria2://C91FbOXGY9XRymrcEebtax9R1Nj62UizoT8S6kCb7xwey8IE@fast.wwwinternetvideo.click:443?insecure=1&sni=fast.wwwinternetvideo.click#8%7C%F0%9F%A9%B384%40oneclickvpnkeys
 hysteria2://GSPOBvG-ZwYcBFMr0ekFGO_Zga3wK6v_@85.159.228.22:443?sni=hy2-latvia2.unlimited-access.ru#8%7C%F0%9F%A9%B396%40oneclickvpnkeys
@@ -60,8 +57,8 @@ hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?insecure=1&
 hysteria2://bfmf6a05bp4fjwuh@giftcard.gateway-stream.com:52022?insecure=0&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#8%7C%F0%9F%87%A9%F0%9F%87%AA%40AZARBAYJAB1
 hysteria2://bfmf6a05bp4fjwuh@giftcard.gateway-stream.com:52043?insecure=0&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#8%7C%F0%9F%87%B9%40AZARBAYJAB1
 hysteria2://cd74c0a406664a5bc0bac098220a2468@144.31.49.138:443?insecure=0&sni=ru1.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#8%7C%F0%9F%87%B7%F0%9F%87%BA%40FreakConfig
-hysteria2://clz08qwil91241w7@giftcard.gateway-stream.com:52030?insecure=0&alpn=h3&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#8%7CVCONFING%20%233
-hysteria2://fmaznn1lrzys7ddy@giftcard.gateway-stream.com:52006?insecure=0&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#8%7C%40v2ray_phoenix%20%234
+hysteria2://clz08qwil91241w7@giftcard.gateway-stream.com:52030?insecure=0&alpn=h3&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#8%7CVCONFING%20%231
+hysteria2://fmaznn1lrzys7ddy@giftcard.gateway-stream.com:52006?insecure=0&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#8%7C%40v2ray_phoenix%20%233
 hysteria2://fmaznn1lrzys7ddy@giftcard.gateway-stream.com:52050?sni=giftcard.gateway-stream.com#8%7C%40proxy_kafee
 hysteria2://g2d0ooqq3ykzsacc@giftcard.gateway-stream.com:52029?insecure=0&alpn=h3&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#8%7C%40B2Hub
 hysteria2://g2d0ooqq3ykzsacc@giftcard.gateway-stream.com:52067?insecure=0&alpn=h3&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#8%7C%40B2Hub%20%231
@@ -111,4 +108,5 @@ vless://055dce30-0ee3-44c3-b680-be1c95b8d6e7@107.151.250.68:443?allowInsecure=0&
 vless://9638a83e-f1f7-4cc8-a602-924965d9534f@wr28-6njjgu.linenheath.site:443?allowInsecure=0&sni=www.cloudflare.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#15%7CUS_speednode_0139
 vless://f06c6039-a489-3d78-a676-ed43be6deca3@155.117.199.13:39211?allowInsecure=0&sni=cdnjs.cloudflare.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#15%7CUS_speednode_0142
 vless://ec31f6d7-c71a-413d-93aa-24296805a594@nsuc-znkbig.avonex.top:443?allowInsecure=0&sni=www.bing.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#15%7CUS_speednode_0144
+hhysteria2://1m1xfvpaa5ek4omq@giftcard.gateway-stream.com:52030?security=tls&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com#@v2ray_phoenix
 https://Nr5naf.absslk.xyz/e98af01c1d1a5c4506aead30efa93f08
