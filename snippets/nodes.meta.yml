@@ -8,6 +8,12 @@ proxies:
   tls: false
   type: hysteria2
 - name: 7|未命名
+  password: 14f7504c-bd01-4d88-bd42-80dc6bf6b202
+  port: 443
+  server: samurai.h4ck.me
+  tls: false
+  type: hysteria2
+- name: '7|未命名 #1'
   password: 1671a252e2a97dc2bda4e515475931da
   port: 50160
   server: 132.226.226.189
@@ -15,7 +21,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '7|未命名 #1'
+- name: '7|未命名 #2'
   password: 184cdec28da5a09450803c8debcd2cc9
   port: 50160
   server: 138.3.208.26
@@ -31,7 +37,7 @@ proxies:
   sni: sg1.xiaoliyu.cyou
   tls: false
   type: hysteria2
-- name: '7|未命名 #2'
+- name: '7|未命名 #3'
   password: 1ba59989-225e-4f1c-ab62-9bd7366009cb
   port: 443
   server: 194.135.34.130
@@ -55,7 +61,7 @@ proxies:
   sni: us.frkn.org
   tls: false
   type: hysteria2
-- name: '7|未命名 #3'
+- name: '7|未命名 #4'
   password: 41f0d6d3-4a45-4635-8225-2abd2284189b
   port: 2056
   server: lmny.mangshe.xyz
@@ -81,7 +87,7 @@ proxies:
   sni: msk2.nebuchadnezzar.ink
   tls: false
   type: hysteria2
-- name: '7|未命名 #4'
+- name: '7|未命名 #5'
   password: 60e2a548-96aa-4850-a279-1edab743c39b
   port: 443
   server: md1.cnyvpn.com
@@ -153,7 +159,7 @@ proxies:
   sni: css.rbxcdn.com
   tls: false
   type: hysteria2
-- name: '7|未命名 #5'
+- name: '7|未命名 #6'
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
   port: 443
   server: vpn-in-001.fastervpn.world
@@ -301,7 +307,6 @@ proxies:
   password: 8f0gvz5eul6omhq4
   port: 52016
   server: giftcard.gateway-stream.com
-  skip-cert-verify: false
   sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
@@ -311,7 +316,6 @@ proxies:
   password: 8f0gvz5eul6omhq4
   port: 52022
   server: giftcard.gateway-stream.com
-  skip-cert-verify: false
   sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
@@ -321,7 +325,6 @@ proxies:
   password: 8f0gvz5eul6omhq4
   port: 52024
   server: giftcard.gateway-stream.com
-  skip-cert-verify: false
   sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
@@ -352,19 +355,19 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: 8|🩳84@oneclickvpnkeys
-  password: C91FbOXGY9XRymrcEebtax9R1Nj62UizoT8S6kCb7xwey8IE
-  port: 443
-  server: fast.wwwinternetvideo.click
-  skip-cert-verify: true
-  sni: fast.wwwinternetvideo.click
-  tls: false
-  type: hysteria2
 - name: 8|🩳96@oneclickvpnkeys
   password: GSPOBvG-ZwYcBFMr0ekFGO_Zga3wK6v_
   port: 443
   server: 85.159.228.22
   sni: hy2-latvia2.unlimited-access.ru
+  tls: false
+  type: hysteria2
+- name: 8|☺️97@oneclickvpnkeys
+  password: Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0
+  port: 8080
+  server: 85.204.107.174
+  skip-cert-verify: true
+  sni: hopp-romania-new.roxa.org
   tls: false
   type: hysteria2
 - name: 8|+@Azarakhsh_Proxy+
@@ -397,15 +400,6 @@ proxies:
   server: 205.237.109.168
   skip-cert-verify: true
   sni: hopp-netherland-new.dynuddns.net
-  tls: false
-  type: hysteria2
-- name: 8|🩳70@oneclickvpnkeys
-  obfs: salamander
-  obfs-password: Telegram@vpnjey
-  password: Telegram@vpnjey
-  port: 37009
-  server: 31.76.27.23
-  sni: de.vpnjey.store
   tls: false
   type: hysteria2
 - alpn:
@@ -462,6 +456,16 @@ proxies:
   sni: ru1.sferavpn.pro
   tls: false
   type: hysteria2
+- name: 8|5☺️@oneclickvpnkeys
+  obfs: salamander
+  obfs-password: 44f1c1e2f8b99e792ceed574627a1eb0
+  password: cd74c0a406664a5bc0bac098220a2468
+  port: 443
+  server: 2.27.59.206
+  skip-cert-verify: true
+  sni: de1.sferavpn.pro
+  tls: false
+  type: hysteria2
 - name: 8|☺️65@oneclickvpnkeys
   obfs: salamander
   obfs-password: 44f1c1e2f8b99e792ceed574627a1eb0
@@ -511,6 +515,12 @@ proxies:
   server: giftcard.gateway-stream.com
   skip-cert-verify: false
   sni: giftcard.gateway-stream.com
+  tls: false
+  type: hysteria2
+- name: 8|☺️84@oneclickvpnkeys
+  password: kVfzhSpshc
+  port: 443
+  server: hys1.wba-pn.ru
   tls: false
   type: hysteria2
 - name: 8|☺️43@oneclickvpnkeys
@@ -578,7 +588,7 @@ proxies:
   sni: musicclips.videolinks.ru
   tls: false
   type: hysteria2
-- name: 8|@outline_ir
+- name: '8|@V2rayng_Fast #1'
   obfs: salamander
   obfs-password: b6d1f3888ab1d90dd11aac1dce427b81
   password: tnnls
