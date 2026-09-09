@@ -33,7 +33,6 @@ hysteria2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@news.gazette.help:443?sni=news.
 hysteria2://sxc15led4b0vp5fy@musicclips.videolinks.ru:8443?sni=musicclips.videolinks.ru&obfs=salamander&obfs-password=8zzng75tz4tf82pj#7%7C%E8%8A%AC%E5%85%B0%20%232
 hysteria2://umnDU7jgFYUjpVjVM2sW9HL0rRYLJNgzVwRu2HzWEhyZKkRx@hold.wwwinternetvideo.click:443?insecure=1&sni=germany1.h2corp.local#7%7C%E5%BE%B7%E5%9B%BD%20%231
 hysteria2://3b8c82ed-fe66-472d-915e-034ccb57103f@labs.frkn.org:443?insecure=1&sni=labs.frkn.org#8%7C%F0%9F%93%8053%40oneclickvpnkeys
-hysteria2://4fb82973-a7f1-4fc2-9958-cb21f5162f06@che01plrhy01.tcp-reset-club.net:443?sni=che01plrhy01.tcp-reset-club.net#8%7C%F0%9F%93%8060%40oneclickvpnkeys
 hysteria2://4fb82973-a7f1-4fc2-9958-cb21f5162f06@rou0001ntrhy01.tcp-reset-club.net:443?sni=rou0001ntrhy01.tcp-reset-club.net#8%7C%F0%9F%93%8049%40oneclickvpnkeys
 hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?insecure=0&sni=fiproxy1.lockdwn.com&obfs=salamander&obfs-password=uw9b2qq5rx#8%7CTelegram%3A%40v2rayng3
 hysteria2://6f716a3e-2843-4930-94ab-d21af3b4927f@forever.h4ck.me:443?sni=forever.h4ck.me#8%7C%E2%9C%8559%40oneclickvpnkeys
@@ -55,6 +54,7 @@ hysteria2://Telegram%40vpnjey@77.110.96.201:36264?insecure=1&alpn=h3&sni=se.vpnj
 hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@144.31.93.126:443?insecure=1&sni=admin.wwwinternetvideo.click#8%7C%F0%9F%93%8068%40oneclickvpnkeys
 hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@45.192.12.93:443?sni=admin.wwwinternetvideo.click#8%7C%E2%9C%8562%40oneclickvpnkeys
 hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@admin.wwwinternetvideo.click:443?insecure=1&sni=admin.wwwinternetvideo.click#8%7C%E2%9C%8577%40oneclickvpnkeys
+hysteria2://b0d431139ded4333aa805a1567c761bb@dep.charsoulink3.ir:53062?insecure=0&sni=dep.charsoulink3.ir&obfs=salamander&obfs-password=t38lc9pdw1uhtgn6#8%7C%40V2raySaman%20%231
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#8%7C%40KAFING_2
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#8%7C%40KAFING_2%20%232
 hysteria2://cd74c0a406664a5bc0bac098220a2468@144.31.49.138:443?insecure=0&sni=ru1.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#8%7C%F0%9F%87%B7%F0%9F%87%BA%40FreakConfig
@@ -66,7 +66,7 @@ hysteria2://e0b9fb0f-1bbd-478b-9580-c2294778338b@nlq7hy.pleiades.codes:8444?sni=
 hysteria2://ed76d01a068000d9f034144d47baf1a4@134.65.60.88:443?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=02c4876afcc37c4298f71796b09a55da#8%7C%F0%9F%93%8054%40oneclickvpnkeys
 hysteria2://fmaznn1lrzys7ddy@giftcard.gateway-stream.com:52006?insecure=0&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#8%7C%40v2ray_phoenix
 hysteria2://gf1@173.212.201.85:443?insecure=1&sni=www.docker.com#8%7C%F0%9F%93%8046%40oneclickvpnkeys
-hysteria2://gf1@66.94.121.46:443?insecure=1&sni=www.broadcom.com#8%7C89%40oneclickvpnkeys
+hysteria2://gf1@66.94.121.46:443?insecure=1&sni=www.broadcom.com#8%7C%F0%9F%93%8089%40oneclickvpnkeys
 hysteria2://nqlool6l2dnfg45q@giftcard.gateway-stream.com:52030?insecure=0&alpn=h3&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#8%7CVCONFING
 hysteria2://nqlool6l2dnfg45q@giftcard.gateway-stream.com:52030?insecure=0&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#8%7CTel-%40ProxyMtAlpha5
 hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?insecure=0&sni=hy2.aspidnet.xyz&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#8%7C%40confiig_hub%20%231
@@ -78,7 +78,7 @@ hysteria2://s6gt5e4mof43sfg8@giftcard.gateway-stream.com:52030?alpn=h3&fp=chrome
 hysteria2://s6gt5e4mof43sfg8@giftcard.gateway-stream.com:52033?alpn=h3&fp=chrome&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#8%7C%F0%9F%87%A74%40JKVPN
 hysteria2://s6gt5e4mof43sfg8@giftcard.gateway-stream.com:52050?alpn=h3&fp=chrome&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#8%7C%F0%9F%87%B3%F0%9F%87%B15%40JKVPN
 hysteria2://s6gt5e4mof43sfg8@giftcard.gateway-stream.com:52067?alpn=h3&fp=chrome&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#8%7C%F0%9F%87%B9%F0%9F%87%B76%40JKVPN
-hysteria2://s6gt5e4mof43sfg8@giftcard.gateway-stream.com:52069?alpn=h3&fp=chrome&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#8%7C%F0%9F%87%B87%40JKVPN
+hysteria2://s6gt5e4mof43sfg8@giftcard.gateway-stream.com:52069?alpn=h3&fp=chrome&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#8%7C7%40JKVPN
 hysteria2://s6gt5e4mof43sfg8@giftcard.gateway-stream.com:52071?alpn=h3&fp=chrome&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#8%7C%F0%9F%87%B88%40JKVPN
 hysteria2://s6gt5e4mof43sfg8@giftcard.gateway-stream.com:52088?alpn=h3&fp=chrome&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#8%7C%F0%9F%87%BA%F0%9F%87%B89%40JKVPN
 hysteria2://suAmQS9LlInNq4Wumh-FUF4GGlpgmG_g@159.223.157.129:8443?insecure=1&sni=www.microsoft.com#8%7C4%E2%9C%85%40oneclickvpnkeys
@@ -118,3 +118,4 @@ vless://9638a83e-f1f7-4cc8-a602-924965d9534f@wr28-6njjgu.linenheath.site:443?all
 vless://f06c6039-a489-3d78-a676-ed43be6deca3@155.117.199.13:39211?allowInsecure=0&sni=cdnjs.cloudflare.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#15%7CUS_speednode_0142
 vless://ec31f6d7-c71a-413d-93aa-24296805a594@nsuc-znkbig.avonex.top:443?allowInsecure=0&sni=www.bing.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#15%7CUS_speednode_0144
 https://Nr5naf.absslk.xyz/e98af01c1d1a5c4506aead30efa93f08
+hhysteria2://4fb82973-a7f1-4fc2-9958-cb21f5162f06@che01plrhy01.tcp-reset-club.net:443/?sni=che01plrhy01.tcp-reset-club.net#📀60@oneclickvpnkeys

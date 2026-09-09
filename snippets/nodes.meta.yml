@@ -282,13 +282,6 @@ proxies:
   sni: labs.frkn.org
   tls: false
   type: hysteria2
-- name: 8|📀60@oneclickvpnkeys
-  password: 4fb82973-a7f1-4fc2-9958-cb21f5162f06
-  port: 443
-  server: che01plrhy01.tcp-reset-club.net
-  sni: che01plrhy01.tcp-reset-club.net
-  tls: false
-  type: hysteria2
 - name: 8|📀49@oneclickvpnkeys
   password: 4fb82973-a7f1-4fc2-9958-cb21f5162f06
   port: 443
@@ -475,6 +468,16 @@ proxies:
   sni: admin.wwwinternetvideo.click
   tls: false
   type: hysteria2
+- name: '8|@V2raySaman #1'
+  obfs: salamander
+  obfs-password: t38lc9pdw1uhtgn6
+  password: b0d431139ded4333aa805a1567c761bb
+  port: 53062
+  server: dep.charsoulink3.ir
+  skip-cert-verify: false
+  sni: dep.charsoulink3.ir
+  tls: false
+  type: hysteria2
 - name: 8|@KAFING_2
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
@@ -580,7 +583,7 @@ proxies:
   sni: www.docker.com
   tls: false
   type: hysteria2
-- name: 8|89@oneclickvpnkeys
+- name: 8|📀89@oneclickvpnkeys
   password: gf1
   port: 443
   server: 66.94.121.46
@@ -712,7 +715,7 @@ proxies:
 - alpn:
   - h3
   fingerprint: chrome
-  name: 8|🇸7@JKVPN
+  name: 8|7@JKVPN
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
   password: s6gt5e4mof43sfg8
