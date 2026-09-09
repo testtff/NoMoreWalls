@@ -242,7 +242,7 @@ proxies:
   sni: hopp-legend-se.roxa.org
   tls: false
   type: hysteria2
-- name: 7|罗
+- name: 7,8|60@oneclickvpnkeys
   password: mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj
   port: 443
   server: gta.internet-card.sbs
@@ -250,7 +250,7 @@ proxies:
   sni: gta.internet-card.sbs
   tls: false
   type: hysteria2
-- name: '7|未命名 #8'
+- name: 7,8|71@oneclickvpnkeys
   password: sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX
   port: 443
   server: news.gazette.help
@@ -310,6 +310,16 @@ proxies:
   sni: rou0001ntrhy01.tcp-reset-club.net
   tls: false
   type: hysteria2
+- name: 8|67@oneclickvpnkeys
+  obfs: salamander
+  obfs-password: 73221641ddc56c49b02bf110ac85afdb
+  password: 5319f194c3164cd0f0dce502e83d60aa
+  port: 443
+  server: 23.95.28.131
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: false
+  type: hysteria2
 - name: 8|Telegram:@v2rayng3
   obfs: salamander
   obfs-password: uw9b2qq5rx
@@ -320,12 +330,11 @@ proxies:
   sni: fiproxy1.lockdwn.com
   tls: false
   type: hysteria2
-- name: 8|📀11@oneclickvpnkeys
-  password: 84a506ca5aca505696a454d828420b3f
-  port: 50160
-  server: 140.238.213.114
-  skip-cert-verify: true
-  sni: www.bing.com
+- name: 8|79@oneclickvpnkeys
+  password: 8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3
+  port: 443
+  server: 46.247.41.120
+  sni: kz03hy01.tcp-reset-club.net
   tls: false
   type: hysteria2
 - name: 8|📀73@oneclickvpnkeys
@@ -460,17 +469,10 @@ proxies:
   sni: admin.wwwinternetvideo.click
   tls: false
   type: hysteria2
-- name: 8|✅62@oneclickvpnkeys
+- name: 8|59@oneclickvpnkeys
   password: YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc
   port: 443
-  server: 45.192.12.93
-  sni: admin.wwwinternetvideo.click
-  tls: false
-  type: hysteria2
-- name: 8|✅77@oneclickvpnkeys
-  password: YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc
-  port: 443
-  server: admin.wwwinternetvideo.click
+  server: go1.wwwinternetvideo.click
   skip-cert-verify: true
   sni: admin.wwwinternetvideo.click
   tls: false
@@ -598,6 +600,27 @@ proxies:
   password: fr9p9ji70krwnup6
   port: 52009
   server: giftcard.gateway-stream.com
+  skip-cert-verify: false
+  sni: giftcard.gateway-stream.com
+  tls: false
+  type: hysteria2
+- name: '8|🏴‍☠️@FreakConfig #1'
+  obfs: salamander
+  obfs-password: fuw2k1ddrouwxr3u
+  password: fr9p9ji70krwnup6
+  port: 52018
+  server: giftcard.gateway-stream.com
+  skip-cert-verify: false
+  sni: giftcard.gateway-stream.com
+  tls: false
+  type: hysteria2
+- name: 8|🇱@FreakConfig
+  obfs: salamander
+  obfs-password: fuw2k1ddrouwxr3u
+  password: fr9p9ji70krwnup6
+  port: 52056
+  server: giftcard.gateway-stream.com
+  skip-cert-verify: false
   sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
@@ -607,6 +630,7 @@ proxies:
   password: fr9p9ji70krwnup6
   port: 52058
   server: giftcard.gateway-stream.com
+  skip-cert-verify: false
   sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
@@ -616,6 +640,7 @@ proxies:
   password: fr9p9ji70krwnup6
   port: 52067
   server: giftcard.gateway-stream.com
+  skip-cert-verify: false
   sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
@@ -633,18 +658,6 @@ proxies:
   server: 66.94.121.46
   skip-cert-verify: true
   sni: www.broadcom.com
-  tls: false
-  type: hysteria2
-- alpn:
-  - h3
-  name: 8|VCONFING
-  obfs: salamander
-  obfs-password: fuw2k1ddrouwxr3u
-  password: nqlool6l2dnfg45q
-  port: 52030
-  server: giftcard.gateway-stream.com
-  skip-cert-verify: false
-  sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
 - name: 8|Tel-@ProxyMtAlpha5
@@ -667,21 +680,36 @@ proxies:
   sni: hy2.aspidnet.xyz
   tls: false
   type: hysteria2
-- name: 8|✅100@oneclickvpnkeys
-  obfs: salamander
-  obfs-password: rG07s3COMIEvdnQipRyWzx_H_2xygNC3
-  password: p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR
-  port: 443
-  server: hy2.aspidnet.xyz
-  sni: hy2.aspidnet.xyz
-  tls: false
-  type: hysteria2
 - name: 8|4📀@oneclickvpnkeys
   password: qQe1z5kU8kN6SlKnDt9Ru3Qp
   port: 443
   server: 13.212.76.106
   skip-cert-verify: true
   sni: vk.com
+  tls: false
+  type: hysteria2
+- name: 8|65@oneclickvpnkeys
+  password: qQe1z5kU8kN6SlKnDt9Ru3Qp
+  port: 443
+  server: 13.250.120.9
+  skip-cert-verify: true
+  sni: 13.250.120.9
+  tls: false
+  type: hysteria2
+- name: 8|🎡69@oneclickvpnkeys
+  password: qQe1z5kU8kN6SlKnDt9Ru3Qp
+  port: 443
+  server: 47.129.0.20
+  skip-cert-verify: true
+  sni: speedtest.tinkoff.ru
+  tls: false
+  type: hysteria2
+- name: 8|64@oneclickvpnkeys
+  password: qQe1z5kU8kN6SlKnDt9Ru3Qp
+  port: 443
+  server: 54.151.142.26
+  skip-cert-verify: true
+  sni: whatsapp.com
   tls: false
   type: hysteria2
 - alpn:
@@ -759,7 +787,7 @@ proxies:
 - alpn:
   - h3
   fingerprint: chrome
-  name: 8|7@JKVPN
+  name: 8|🇸7@JKVPN
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
   password: s6gt5e4mof43sfg8
@@ -792,12 +820,12 @@ proxies:
   sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
-- name: 8|4✅@oneclickvpnkeys
-  password: suAmQS9LlInNq4Wumh-FUF4GGlpgmG_g
-  port: 8443
-  server: 159.223.157.129
+- name: 8|61@oneclickvpnkeys
+  password: sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX
+  port: 443
+  server: 31.76.71.63
   skip-cert-verify: true
-  sni: www.microsoft.com
+  sni: cabinet.wwwinternetvideo.click
   tls: false
   type: hysteria2
 - name: '8|@V2ray_confiig #4'
