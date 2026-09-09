@@ -9,14 +9,6 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 8|59@oneclickvpnkeys
-  password: YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc
-  port: 443
-  server: go1.wwwinternetvideo.click
-  skip-cert-verify: true
-  sni: admin.wwwinternetvideo.click
-  tls: false
-  type: hysteria2
 - alpn:
   - h3
   fingerprint: chrome
@@ -27,14 +19,6 @@ proxies:
   port: 52088
   server: giftcard.gateway-stream.com
   sni: giftcard.gateway-stream.com
-  tls: false
-  type: hysteria2
-- name: 8|61@oneclickvpnkeys
-  password: sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX
-  port: 443
-  server: 31.76.71.63
-  skip-cert-verify: true
-  sni: cabinet.wwwinternetvideo.click
   tls: false
   type: hysteria2
 - cipher: aes-256-gcm
