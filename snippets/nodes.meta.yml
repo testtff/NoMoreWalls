@@ -271,7 +271,7 @@ proxies:
   sni: musicclips.videolinks.ru
   tls: false
   type: hysteria2
-- name: 8|59@oneclickvpnkeys
+- name: 8|☸️59@oneclickvpnkeys
   password: 29ffde49-e1d6-4dcd-a135-352920f9f0b8
   port: 25443
   server: se-node.rumedia-cdn.com
@@ -532,7 +532,6 @@ proxies:
   password: fr9p9ji70krwnup6
   port: 52067
   server: giftcard.gateway-stream.com
-  skip-cert-verify: false
   sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2

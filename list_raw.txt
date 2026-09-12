@@ -32,7 +32,7 @@ hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@gta.internet-card.sbs:443?i
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.241.226:443?insecure=1&sni=vpn-sg-001.fastervpn.world#7%7C%E6%9C%AA%E5%91%BD%E5%90%8D%20%2310
 hysteria2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@news.gazette.help:443?sni=news.gazette.help#7%7C%E6%9C%AA%E5%91%BD%E5%90%8D%20%2311
 hysteria2://sxc15led4b0vp5fy@musicclips.videolinks.ru:8443?sni=musicclips.videolinks.ru&obfs=salamander&obfs-password=8zzng75tz4tf82pj#7%7C%E8%8A%AC%E5%85%B0%20%232
-hysteria2://29ffde49-e1d6-4dcd-a135-352920f9f0b8@se-node.rumedia-cdn.com:25443?sni=cf2.rumedia-cdn.com#8%7C59%40oneclickvpnkeys
+hysteria2://29ffde49-e1d6-4dcd-a135-352920f9f0b8@se-node.rumedia-cdn.com:25443?sni=cf2.rumedia-cdn.com#8%7C%E2%98%B8%EF%B8%8F59%40oneclickvpnkeys
 hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?insecure=0&sni=fiproxy1.lockdwn.com&obfs=salamander&obfs-password=uw9b2qq5rx#8%7CTelegram%3A%40v2rayng3
 hysteria2://975e9f98b4a1b01285ffdb8158ced798@107.172.76.105:443?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=c8d95078e61be690c18e2fbbefe5e2ef#8%7C%40V2ray_confiig
 hysteria2://BWAFlp8g53@72.56.102.31:443?insecure=1#8%7C%EF%B8%8F31%40oneclickvpnkeys
@@ -58,7 +58,7 @@ hysteria2://dmbbfqabkdu46mo3@giftcard.gateway-stream.com:52003?insecure=0&sni=gi
 hysteria2://fr9p9ji70krwnup6@giftcard.gateway-stream.com:52009?insecure=0&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#8%7C%40Sparrk_VPN
 hysteria2://fr9p9ji70krwnup6@giftcard.gateway-stream.com:52056?insecure=0&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#8%7C%40vmess_ir%20%231
 hysteria2://fr9p9ji70krwnup6@giftcard.gateway-stream.com:52058?insecure=0&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#8%7C%40Sparrk_VPN%20%231
-hysteria2://fr9p9ji70krwnup6@giftcard.gateway-stream.com:52067?insecure=0&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#8%7C%40Sparrk_VPN%20%232
+hysteria2://fr9p9ji70krwnup6@giftcard.gateway-stream.com:52067?sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#8%7C%40Sparrk_VPN%20%232
 hysteria2://gf1@5.129.235.85:443?insecure=1&sni=www.linux.com#8%7C%E2%98%B8%EF%B8%8F7%40oneclickvpnkeys
 hysteria2://gf1@66.94.121.46:443?insecure=1&sni=www.broadcom.com#8%7C%EF%B8%8F98%40oneclickvpnkeys
 hysteria2://ijrixp6yh62ectfw@giftcard.gateway-stream.com:52021?insecure=0&alpn=h3&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#8%7C%40ICV2RAY
