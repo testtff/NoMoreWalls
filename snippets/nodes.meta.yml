@@ -271,7 +271,7 @@ proxies:
   sni: musicclips.videolinks.ru
   tls: false
   type: hysteria2
-- name: 8|🇺🇸US-@VPNine1
+- name: 8|☸️83@oneclickvpnkeys
   password: 18bd49994f2eea74ff62798bd75fb7d1
   port: 443
   server: 107.175.219.48
@@ -292,7 +292,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: 8|🇺🇸US-🚀@VPNine1
+- name: 8|☸️80@oneclickvpnkeys
   password: 4c858cccff331e64c711a199a6cb256a
   port: 443
   server: clash2.deep-links.com
@@ -352,6 +352,13 @@ proxies:
   server: 179.61.132.96
   skip-cert-verify: true
   sni: 179.61.132.96
+  tls: false
+  type: hysteria2
+- name: 8|☸️96@oneclickvpnkeys
+  password: Q3mAdf68GvbGEGqTAXkWjg
+  port: 8443
+  server: 173.249.210.76
+  skip-cert-verify: true
   tls: false
   type: hysteria2
 - name: 8|@proxy_kafee
@@ -478,6 +485,13 @@ proxies:
   password: bffee427-8571-4618-b421-65a44984b294
   port: 8080
   server: de.892622.xyz
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: 8|☸️99@oneclickvpnkeys
+  password: c2356e22-b026-4f12-8508-cf61f0b0c867
+  port: 4356
+  server: 107.174.255.14
   skip-cert-verify: true
   tls: false
   type: hysteria2
@@ -766,7 +780,7 @@ proxies:
   sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
-- name: '8|@Daily_Configs #3'
+- name: 8|@tootffarangi🍓-1
   obfs: salamander
   obfs-password: b6d1f3888ab1d90dd11aac1dce427b81
   password: tnnls
