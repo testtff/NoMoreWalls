@@ -479,15 +479,6 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 8|🛠️69@oneclickvpnkeys
-  obfs: salamander
-  obfs-password: 8UvZKC28AwgZHsHV
-  password: bffee427-8571-4618-b421-65a44984b294
-  port: 8080
-  server: de.892622.xyz
-  skip-cert-verify: true
-  tls: false
-  type: hysteria2
 - name: 8|☸️99@oneclickvpnkeys
   password: c2356e22-b026-4f12-8508-cf61f0b0c867
   port: 4356
@@ -654,22 +645,6 @@ proxies:
   server: 130.49.161.70
   skip-cert-verify: false
   sni: hy2.aspidnet.xyz
-  tls: false
-  type: hysteria2
-- name: 8|🛠️64@oneclickvpnkeys
-  password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
-  port: 8443
-  server: 46.229.243.145
-  skip-cert-verify: true
-  sni: grape-turbo-fr.roxa.org
-  tls: false
-  type: hysteria2
-- name: 8|🛠️63@oneclickvpnkeys
-  password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
-  port: 8443
-  server: 46.229.243.152
-  skip-cert-verify: true
-  sni: grape-turbo-fr.roxa.org
   tls: false
   type: hysteria2
 - alpn:
