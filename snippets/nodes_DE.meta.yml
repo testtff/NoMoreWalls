@@ -1,11 +1,4 @@
 proxies:
-- name: 7|德国
-  password: Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0
-  port: 8080
-  server: 85.204.107.181
-  sni: hopp-romania-new.roxa.org
-  tls: false
-  type: hysteria2
 - name: 7|DE
   password: dffb4c3d-1e84-4938-8881-cad917e8efb2
   port: 443
