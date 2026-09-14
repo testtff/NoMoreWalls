@@ -454,7 +454,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 8|⛽46@oneclickvpnkeys
+- name: 8|46@oneclickvpnkeys
   obfs: salamander
   obfs-password: 5c8f1a3e7b2d9046c1f8a5e3b7d04f2a
   password: c4d7e69958b226a426157a6e80eb9406
@@ -482,16 +482,6 @@ proxies:
   server: 2.27.249.79
   skip-cert-verify: false
   sni: nl1.sferavpn.pro
-  tls: false
-  type: hysteria2
-- name: '8|@Daily_Configs #3'
-  obfs: salamander
-  obfs-password: 44f1c1e2f8b99e792ceed574627a1eb0
-  password: cd74c0a406664a5bc0bac098220a2468
-  port: 443
-  server: 2.27.59.206
-  skip-cert-verify: true
-  sni: de1.sferavpn.pro
   tls: false
   type: hysteria2
 - name: 8|@Sparrk_VPN
@@ -650,7 +640,7 @@ proxies:
 - alpn:
   - h3
   fingerprint: chrome
-  name: 8|🇸7@JKVPN
+  name: 8|7@JKVPN
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
   password: s6gt5e4mof43sfg8
