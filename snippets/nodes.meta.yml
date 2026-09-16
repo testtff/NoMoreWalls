@@ -219,16 +219,6 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 8|@V2ray_confiig
-  obfs: salamander
-  obfs-password: c8d95078e61be690c18e2fbbefe5e2ef
-  password: 975e9f98b4a1b01285ffdb8158ced798
-  port: 443
-  server: 107.172.76.105
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
 - name: 8|⚙️40@oneclickvpnkeys
   password: 9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z
   port: 8443
@@ -249,14 +239,6 @@ proxies:
   server: 72.56.16.243
   skip-cert-verify: true
   sni: hys34.wba-pn.ru
-  tls: false
-  type: hysteria2
-- name: '8|@V2ray_confiig #1'
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: 443
-  server: 15.223.122.197
-  skip-cert-verify: true
-  sni: t.me
   tls: false
   type: hysteria2
 - name: 8|⚙️90@oneclickvpnkeys
@@ -391,14 +373,6 @@ proxies:
   server: 77.110.96.201
   skip-cert-verify: true
   sni: se.vpnjey2.dpdns.org
-  tls: false
-  type: hysteria2
-- name: '8|@V2ray_confiig #3'
-  password: YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc
-  port: 443
-  server: 144.31.93.126
-  skip-cert-verify: true
-  sni: admin.wwwinternetvideo.click
   tls: false
   type: hysteria2
 - name: 8|@KAFING_2
