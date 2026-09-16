@@ -12,6 +12,18 @@ proxies:
 - alpn:
   - h3
   fingerprint: chrome
+  name: 8|🇺🇸7@JKVPN
+  obfs: salamander
+  obfs-password: fuw2k1ddrouwxr3u
+  password: s6gt5e4mof43sfg8
+  port: 52069
+  server: giftcard.gateway-stream.com
+  sni: giftcard.gateway-stream.com
+  tls: false
+  type: hysteria2
+- alpn:
+  - h3
+  fingerprint: chrome
   name: 8|🇺🇸8@JKVPN
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
