@@ -12,7 +12,7 @@ proxies:
 - alpn:
   - h3
   fingerprint: chrome
-  name: 8|🇩🇪1@JKVPN
+  name: 8|🇩🇪1@RK_VPS
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
   password: s6gt5e4mof43sfg8
