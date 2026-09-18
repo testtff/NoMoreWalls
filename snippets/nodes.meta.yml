@@ -56,14 +56,6 @@ proxies:
   sni: whatsapp.com
   tls: false
   type: hysteria2
-- name: '7|未命名 #2'
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: 443
-  server: vpn-in-001.fastervpn.world
-  skip-cert-verify: true
-  sni: vpn-in-001.fastervpn.world
-  tls: false
-  type: hysteria2
 - name: 7|国
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
   port: 443
@@ -80,7 +72,7 @@ proxies:
   sni: vpn-uk-002.fastervpn.world
   tls: false
   type: hysteria2
-- name: '7|未命名 #3'
+- name: '7|未命名 #2'
   password: YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc
   port: 443
   server: go.wwwinternetvideo.click
@@ -94,7 +86,7 @@ proxies:
   server: msk.frkn.org
   tls: false
   type: hysteria2
-- name: '7|未命名 #4'
+- name: '7|未命名 #3'
   password: mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj
   port: 443
   server: gta.internet-card.sbs
@@ -102,7 +94,7 @@ proxies:
   sni: gta.internet-card.sbs
   tls: false
   type: hysteria2
-- name: '7|未命名 #5'
+- name: '7|咕 #1'
   password: qQe1z5kU8kN6SlKnDt9Ru3Qp
   port: 443
   server: 47.129.241.226
@@ -110,14 +102,14 @@ proxies:
   sni: vpn-sg-001.fastervpn.world
   tls: false
   type: hysteria2
-- name: '7|未命名 #6'
+- name: '7|未命名 #4'
   password: sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX
   port: 443
   server: news.gazette.help
   sni: news.gazette.help
   tls: false
   type: hysteria2
-- name: '7|未命名 #7'
+- name: '7|未命名 #5'
   obfs: salamander
   obfs-password: 8zzng75tz4tf82pj
   password: sxc15led4b0vp5fy
@@ -126,7 +118,7 @@ proxies:
   sni: musicclips.videolinks.ru
   tls: false
   type: hysteria2
-- name: 8|59@oneclickvpnkeys
+- name: 8|🐊59@oneclickvpnkeys
   password: 29ffde49-e1d6-4dcd-a135-352920f9f0b8
   port: 25443
   server: de-node.rumedia-cdn.com
@@ -317,15 +309,6 @@ proxies:
   sni: de1.sferavpn.pro
   tls: false
   type: hysteria2
-- name: 8|🇺🇸US-@VPNine1
-  obfs: salamander
-  obfs-password: 5c8f1a3e7b2d9046c1f8a5e3b7d04f2a
-  password: d4a705d40356ef719212045528e04594
-  port: 443
-  server: 45.149.172.80
-  skip-cert-verify: true
-  tls: false
-  type: hysteria2
 - name: 8|17
   password: dongtaiwang.com
   port: 44356
@@ -353,122 +336,6 @@ proxies:
   password: s6gt5e4mof43sfg8
   port: 52021
   server: giftcard.gateway-stream.com
-  sni: giftcard.gateway-stream.com
-  tls: false
-  type: hysteria2
-- alpn:
-  - h3
-  fingerprint: chrome
-  name: 8|2@RK_VPS
-  obfs: salamander
-  obfs-password: fuw2k1ddrouwxr3u
-  password: s6gt5e4mof43sfg8
-  port: 52026
-  server: giftcard.gateway-stream.com
-  sni: giftcard.gateway-stream.com
-  tls: false
-  type: hysteria2
-- alpn:
-  - h3
-  fingerprint: chrome
-  name: 8|🇷3@RK_VPS
-  obfs: salamander
-  obfs-password: fuw2k1ddrouwxr3u
-  password: s6gt5e4mof43sfg8
-  port: 52030
-  server: giftcard.gateway-stream.com
-  sni: giftcard.gateway-stream.com
-  tls: false
-  type: hysteria2
-- alpn:
-  - h3
-  fingerprint: chrome
-  name: 8|4@RK_VPS
-  obfs: salamander
-  obfs-password: fuw2k1ddrouwxr3u
-  password: s6gt5e4mof43sfg8
-  port: 52033
-  server: giftcard.gateway-stream.com
-  sni: giftcard.gateway-stream.com
-  tls: false
-  type: hysteria2
-- alpn:
-  - h3
-  fingerprint: chrome
-  name: 8|🇱5@RK_VPS
-  obfs: salamander
-  obfs-password: fuw2k1ddrouwxr3u
-  password: s6gt5e4mof43sfg8
-  port: 52050
-  server: giftcard.gateway-stream.com
-  sni: giftcard.gateway-stream.com
-  tls: false
-  type: hysteria2
-- alpn:
-  - h3
-  fingerprint: chrome
-  name: 8|🇷6@RK_VPS
-  obfs: salamander
-  obfs-password: fuw2k1ddrouwxr3u
-  password: s6gt5e4mof43sfg8
-  port: 52067
-  server: giftcard.gateway-stream.com
-  sni: giftcard.gateway-stream.com
-  tls: false
-  type: hysteria2
-- alpn:
-  - h3
-  fingerprint: chrome
-  name: 8|🇸7@RK_VPS
-  obfs: salamander
-  obfs-password: fuw2k1ddrouwxr3u
-  password: s6gt5e4mof43sfg8
-  port: 52069
-  server: giftcard.gateway-stream.com
-  sni: giftcard.gateway-stream.com
-  tls: false
-  type: hysteria2
-- alpn:
-  - h3
-  fingerprint: chrome
-  name: 8|🇸8@RK_VPS
-  obfs: salamander
-  obfs-password: fuw2k1ddrouwxr3u
-  password: s6gt5e4mof43sfg8
-  port: 52071
-  server: giftcard.gateway-stream.com
-  sni: giftcard.gateway-stream.com
-  tls: false
-  type: hysteria2
-- alpn:
-  - h3
-  fingerprint: chrome
-  name: 8|🇺🇸9@RK_VPS
-  obfs: salamander
-  obfs-password: fuw2k1ddrouwxr3u
-  password: s6gt5e4mof43sfg8
-  port: 52088
-  server: giftcard.gateway-stream.com
-  sni: giftcard.gateway-stream.com
-  tls: false
-  type: hysteria2
-- name: 8|🇩🇪@AZARBAYJAB1
-  obfs: salamander
-  obfs-password: fuw2k1ddrouwxr3u
-  password: vz86jgszv4zszchv
-  port: 52021
-  server: giftcard.gateway-stream.com
-  skip-cert-verify: false
-  sni: giftcard.gateway-stream.com
-  tls: false
-  type: hysteria2
-- name: 8|🇫🇷@AZARBAYJAB1
-  obfs: salamander
-  obfs-password: fuw2k1ddrouwxr3u
-  password: vz86jgszv4zszchv
-  port: 52030
-  server: giftcard.gateway-stream.com
-  skip-cert-verify: false
   sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
