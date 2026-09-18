@@ -118,6 +118,13 @@ proxies:
   sni: musicclips.videolinks.ru
   tls: false
   type: hysteria2
+- name: 8|🐊92@oneclickvpnkeys
+  password: 19f72087-4591-4d72-930b-2697078ec2be
+  port: 4433
+  server: es1.xiaoliyu.cyou
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
 - name: 8|🐊59@oneclickvpnkeys
   password: 29ffde49-e1d6-4dcd-a135-352920f9f0b8
   port: 25443
@@ -136,14 +143,14 @@ proxies:
   sni: fiproxy1.lockdwn.com
   tls: false
   type: hysteria2
-- name: 8|75@oneclickvpnkeys
+- name: 8|🐊75@oneclickvpnkeys
   password: 865e271f7c97b549b024255c9d02cebe9cc0c2c070a82b1e11bb11b9cd88dd01
   port: 443
   server: streambox.wwwinternetvideo.click
   sni: streambox.wwwinternetvideo.click
   tls: false
   type: hysteria2
-- name: 8|87@oneclickvpnkeys
+- name: 8|🐊87@oneclickvpnkeys
   password: 8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3
   port: 443
   server: nl01ntrhy01.tcp-reset-club.net
@@ -151,7 +158,7 @@ proxies:
   sni: 127.0.0.1
   tls: false
   type: hysteria2
-- name: 8|98@oneclickvpnkeys
+- name: 8|🐊98@oneclickvpnkeys
   password: Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0
   port: 8080
   server: 85.204.107.178
@@ -159,7 +166,7 @@ proxies:
   sni: hopp-romania-new.roxa.org
   tls: false
   type: hysteria2
-- name: 8|91@oneclickvpnkeys
+- name: 8|🐊91@oneclickvpnkeys
   password: Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0
   port: 8443
   server: 85.204.107.183
@@ -323,14 +330,6 @@ proxies:
   server: 2.27.59.206
   skip-cert-verify: false
   sni: de1.sferavpn.pro
-  tls: false
-  type: hysteria2
-- name: 8|17
-  password: dongtaiwang.com
-  port: 44356
-  server: 142.249.37.90
-  skip-cert-verify: false
-  sni: hy2.561891.xyz
   tls: false
   type: hysteria2
 - name: '8|@confiig_hub #1'
