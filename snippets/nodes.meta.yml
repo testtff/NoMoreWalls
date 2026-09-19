@@ -32,11 +32,10 @@ proxies:
   sni: 152-69-231-175.liao.kdns.fr
   tls: false
   type: hysteria2
-- name: 7,8|🐊54@oneclickvpnkeys
+- name: 7|咕咕
   password: 9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z
   port: 8443
   server: 162.249.126.7
-  skip-cert-verify: true
   sni: hopp-germany-new.ddnsguru.com
   tls: false
   type: hysteria2
@@ -183,7 +182,7 @@ proxies:
   sni: 151.247.197.253
   tls: false
   type: hysteria2
-- name: '8|@filembad #1'
+- name: 8|@AZARBAYJAB1
   obfs: salamander
   obfs-password: c1b4086fea89914496c7e10967a419216566
   password: QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s
