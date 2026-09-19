@@ -125,14 +125,6 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: 8|🐊59@oneclickvpnkeys
-  password: 29ffde49-e1d6-4dcd-a135-352920f9f0b8
-  port: 25443
-  server: de-node.rumedia-cdn.com
-  skip-cert-verify: true
-  sni: cf6.rumedia-cdn.com
-  tls: false
-  type: hysteria2
 - name: 8|Telegram:@v2rayng3
   obfs: salamander
   obfs-password: uw9b2qq5rx
@@ -191,7 +183,7 @@ proxies:
   sni: 151.247.197.253
   tls: false
   type: hysteria2
-- name: 8|@AZARBAYJAB1
+- name: '8|@filembad #1'
   obfs: salamander
   obfs-password: c1b4086fea89914496c7e10967a419216566
   password: QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s
