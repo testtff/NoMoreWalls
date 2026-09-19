@@ -109,13 +109,6 @@ proxies:
   sni: musicclips.videolinks.ru
   tls: false
   type: hysteria2
-- name: 8|🐊92@oneclickvpnkeys
-  password: 19f72087-4591-4d72-930b-2697078ec2be
-  port: 4433
-  server: es1.xiaoliyu.cyou
-  skip-cert-verify: true
-  tls: false
-  type: hysteria2
 - name: 8|Telegram:@v2rayng3
   obfs: salamander
   obfs-password: uw9b2qq5rx
@@ -124,36 +117,6 @@ proxies:
   server: 31.76.80.69
   skip-cert-verify: false
   sni: fiproxy1.lockdwn.com
-  tls: false
-  type: hysteria2
-- name: 8|🐊75@oneclickvpnkeys
-  password: 865e271f7c97b549b024255c9d02cebe9cc0c2c070a82b1e11bb11b9cd88dd01
-  port: 443
-  server: streambox.wwwinternetvideo.click
-  sni: streambox.wwwinternetvideo.click
-  tls: false
-  type: hysteria2
-- name: 8|🐊87@oneclickvpnkeys
-  password: 8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3
-  port: 443
-  server: nl01ntrhy01.tcp-reset-club.net
-  skip-cert-verify: true
-  sni: 127.0.0.1
-  tls: false
-  type: hysteria2
-- name: 8|🐊98@oneclickvpnkeys
-  password: Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0
-  port: 8080
-  server: 85.204.107.178
-  skip-cert-verify: true
-  sni: hopp-romania-new.roxa.org
-  tls: false
-  type: hysteria2
-- name: 8|🐊91@oneclickvpnkeys
-  password: Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0
-  port: 8443
-  server: 85.204.107.183
-  sni: hopp-romania-new.roxa.org
   tls: false
   type: hysteria2
 - name: 8|+@Azarakhsh_Proxy+
@@ -166,15 +129,7 @@ proxies:
   sni: 179.61.132.96
   tls: false
   type: hysteria2
-- name: 8|🐊33@oneclickvpnkeys
-  password: Krab9Hyst2_Rk7pQ2xL
-  port: 36723
-  server: 151.247.197.253
-  skip-cert-verify: true
-  sni: 151.247.197.253
-  tls: false
-  type: hysteria2
-- name: 8|@AZARBAYJAB1
+- name: 8|@filembad
   obfs: salamander
   obfs-password: c1b4086fea89914496c7e10967a419216566
   password: QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s
@@ -305,7 +260,7 @@ proxies:
   sni: nl1.sferavpn.pro
   tls: false
   type: hysteria2
-- name: '8|@Daily_Configs #1'
+- name: '8|@filembad #1'
   obfs: salamander
   obfs-password: 44f1c1e2f8b99e792ceed574627a1eb0
   password: cd74c0a406664a5bc0bac098220a2468
@@ -313,6 +268,26 @@ proxies:
   server: 2.27.59.206
   skip-cert-verify: false
   sni: de1.sferavpn.pro
+  tls: false
+  type: hysteria2
+- name: 8|🇩🇪DE-@VPNine1
+  obfs: salamander
+  obfs-password: ue1s9nuqmy5fd9j5
+  password: hdgvcjrpa23fi9bk
+  port: 53033
+  server: mirage.ehsanazizi-speed-server.com
+  skip-cert-verify: false
+  sni: ''
+  tls: false
+  type: hysteria2
+- name: 8|🇩🇪DE-🚀@VPNine1
+  obfs: salamander
+  obfs-password: ue1s9nuqmy5fd9j5
+  password: hdgvcjrpa23fi9bk
+  port: 53033
+  server: mirage.ehsanazizi-speed-server.com
+  skip-cert-verify: false
+  sni: mirage.ehsanazizi-speed-server.com
   tls: false
   type: hysteria2
 - name: '8|@confiig_hub #1'
