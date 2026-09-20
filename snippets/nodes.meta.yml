@@ -129,7 +129,7 @@ proxies:
   sni: 179.61.132.96
   tls: false
   type: hysteria2
-- name: '8|@filembad #1'
+- name: 8|@AZARBAYJAB1
   obfs: salamander
   obfs-password: c1b4086fea89914496c7e10967a419216566
   password: QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s
@@ -260,7 +260,7 @@ proxies:
   sni: nl1.sferavpn.pro
   tls: false
   type: hysteria2
-- name: '8|@filembad #3'
+- name: '8|@Daily_Configs #1'
   obfs: salamander
   obfs-password: 44f1c1e2f8b99e792ceed574627a1eb0
   password: cd74c0a406664a5bc0bac098220a2468
