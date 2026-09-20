@@ -280,7 +280,7 @@ proxies:
   sni: hy2.aspidnet.xyz
   tls: false
   type: hysteria2
-- name: '8|@filembad #3'
+- name: '8|@Daily_Configs #2'
   obfs: salamander
   obfs-password: mtg2vchyir6la3et
   password: xbr3ppxk7rv068c4
