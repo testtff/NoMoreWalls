@@ -14,7 +14,7 @@ hysteria2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@news.gazette.help:443?sni=news.
 hysteria2://sxc15led4b0vp5fy@musicclips.videolinks.ru:8443?sni=musicclips.videolinks.ru&obfs=salamander&obfs-password=8zzng75tz4tf82pj#7%7C%E6%9C%AA%E5%91%BD%E5%90%8D%20%236
 hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?insecure=0&sni=fiproxy1.lockdwn.com&obfs=salamander&obfs-password=uw9b2qq5rx#8%7CTelegram%3A%40v2rayng3
 hysteria2://KevinZakarian@179.61.132.96:8443?insecure=1&sni=179.61.132.96&obfs=salamander&obfs-password=KevinZakarian#8%7C%2B%40Azarakhsh_Proxy%2B
-hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?insecure=0&sni=hy2-new.aspidnet.xyz&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566#8%7C%E2%99%BE%EF%B8%8F%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%E2%9E%A0%F0%9F%86%94%EF%B8%8F%40ATLAS_V2VPN%F0%9F%86%93%EF%B8%8F%F0%9F%93%B6%E2%80%8E%F0%9F%9B%B0%EF%B8%8F575...
+hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?insecure=0&sni=hy2-new.aspidnet.xyz&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566#8%7C%40filembad
 hysteria2://Telegram-vpnjey@31.76.27.23:37009?insecure=1&alpn=h3&sni=de.vpnjey.store&obfs=salamander&obfs-password=Telegram@vpnjey#8%7CTelegram%40vpnjey
 hysteria2://Telegram-vpnjey@77.110.96.201:36264?insecure=1&alpn=h3&sni=se.vpnjey2.dpdns.org&obfs=salamander&obfs-password=Telegram@vpnjey#8%7CTelegram%40vpnjey%20%231
 hysteria2://Telegram@31.76.27.23:443?insecure=1&alpn=h3&sni=de.vpnjey.store&obfs=salamander&obfs-password=Telegram@vpnjey#8%7CTelegram%40vpnjey%20%232
