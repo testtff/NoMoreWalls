@@ -17,7 +17,7 @@ proxies:
   sni: es1.xiaoliyu.cyou
   tls: false
   type: hysteria2
-- name: 7|嘎嘎
+- name: 7,8|🛖93@oneclickvpnkeys
   password: 19f72087-4591-4d72-930b-2697078ec2be
   port: 4433
   server: se.xiaoliyu.cyou
@@ -100,12 +100,13 @@ proxies:
   sni: news.gazette.help
   tls: false
   type: hysteria2
-- name: '7|未命名 #6'
+- name: 7,8|🛖97@oneclickvpnkeys
   obfs: salamander
   obfs-password: 8zzng75tz4tf82pj
   password: sxc15led4b0vp5fy
   port: 8443
   server: musicclips.videolinks.ru
+  skip-cert-verify: true
   sni: musicclips.videolinks.ru
   tls: false
   type: hysteria2
@@ -117,6 +118,14 @@ proxies:
   server: 31.76.80.69
   skip-cert-verify: false
   sni: fiproxy1.lockdwn.com
+  tls: false
+  type: hysteria2
+- name: 8|91@oneclickvpnkeys
+  password: BWAFlp8g53
+  port: 443
+  server: hys28.wba-pn.ru
+  skip-cert-verify: true
+  sni: hys28.wba-pn.ru
   tls: false
   type: hysteria2
 - name: 8|+@Azarakhsh_Proxy+
@@ -260,7 +269,7 @@ proxies:
   sni: de1.sferavpn.pro
   tls: false
   type: hysteria2
-- name: 8|60@oneclickvpnkeys
+- name: 8|🛖60@oneclickvpnkeys
   password: gf1
   port: 443
   server: 173.212.201.85
@@ -276,6 +285,14 @@ proxies:
   server: 130.49.161.70
   skip-cert-verify: false
   sni: hy2.aspidnet.xyz
+  tls: false
+  type: hysteria2
+- name: 8|🛖94@oneclickvpnkeys
+  password: sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX
+  port: 443
+  server: 217.60.182.79
+  skip-cert-verify: true
+  sni: cabinet.wwwinternetvideo.click
   tls: false
   type: hysteria2
 - name: 8|🛖70@oneclickvpnkeys
