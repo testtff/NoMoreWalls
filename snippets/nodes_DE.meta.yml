@@ -1,1 +1,11 @@
-proxies: []
+proxies:
+- name: '8|🇩🇪@FreakConfig #1'
+  obfs: salamander
+  obfs-password: V2RayyNGvpn
+  password: Telegram=V2RayyNGvpn
+  port: 443
+  server: 91.107.150.74
+  skip-cert-verify: false
+  sni: Play.google.com
+  tls: false
+  type: hysteria2
