@@ -2,7 +2,7 @@ hysteria2://19f72087-4591-4d72-930b-2697078ec2be@es1.xiaoliyu.cyou:4433?insecure
 hysteria2://19f72087-4591-4d72-930b-2697078ec2be@se.xiaoliyu.cyou:4433?insecure=1&sni=se.xiaoliyu.cyou#7%7C%E5%98%8E%E5%98%8E
 hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?insecure=0&sni=fiproxy1.lockdwn.com&obfs=salamander&obfs-password=uw9b2qq5rx#8%7CTelegram%3A%40v2rayng3
 hysteria2://KevinZakarian@179.61.132.96:8443?insecure=1&sni=179.61.132.96&obfs=salamander&obfs-password=KevinZakarian#8%7C%2B%40Azarakhsh_Proxy%2B
-hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?insecure=0&sni=hy2-new.aspidnet.xyz&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566#8%7C%40Daily_Configs
+hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?insecure=0&sni=hy2-new.aspidnet.xyz&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566#8%7C%EF%B8%8F%F0%9F%86%94%EF%B8%8F%40ATLAS_V2VPN%EF%B8%8F%EF%B8%8F575%EF%B8%8F
 hysteria2://Telegram%3DV2RayyNGvpn@91.107.150.74:443?insecure=0&sni=Play.google.com&obfs=salamander&obfs-password=V2RayyNGvpn#8%7Ckurdconfig%20%231
 hysteria2://V2RayyNGvpn@168.222.43.35:443?insecure=0&sni=Play.google.com&obfs=salamander&obfs-password=V2RayyNGvpn#8%7Ckurdconfig%20%232
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#8%7C%40KAFING_2
