@@ -25,28 +25,6 @@ proxies:
   sni: fiproxy1.lockdwn.com
   tls: false
   type: hysteria2
-- name: 8|34@oneclickvpnkeys
-  password: 9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z
-  port: 8443
-  server: 162.249.127.135
-  skip-cert-verify: true
-  sni: hop-germany-september.dynuddns.com
-  tls: false
-  type: hysteria2
-- name: 8|🫒31@oneclickvpnkeys
-  password: 9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z
-  port: 8443
-  server: 162.249.127.136
-  sni: hop-germany-september.dynuddns.com
-  tls: false
-  type: hysteria2
-- name: 8|10@oneclickvpnkeys
-  password: 9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z
-  port: 8443
-  server: 162.249.127.137
-  sni: hop-germany-september.dynuddns.com
-  tls: false
-  type: hysteria2
 - name: 8|+@Azarakhsh_Proxy+
   obfs: salamander
   obfs-password: KevinZakarian
@@ -114,7 +92,7 @@ proxies:
   sni: media.embrofree.org
   tls: false
   type: hysteria2
-- name: 8|️73@oneclickvpnkeys
+- name: 8|🗳️73@oneclickvpnkeys
   password: e3c3b722-1264-4cdc-a97c-b0a1bb73cd67
   port: 9443
   server: 104.165.205.142
@@ -122,14 +100,14 @@ proxies:
   sni: onecloudstream.com
   tls: false
   type: hysteria2
-- name: 8|️72@oneclickvpnkeys
+- name: 8|🗳️72@oneclickvpnkeys
   password: e3c3b722-1264-4cdc-a97c-b0a1bb73cd67
   port: 9443
   server: 104.165.205.250
   sni: onecloudstream.com
   tls: false
   type: hysteria2
-- name: 8|️75@oneclickvpnkeys
+- name: 8|🗳️75@oneclickvpnkeys
   password: e3c3b722-1264-4cdc-a97c-b0a1bb73cd67
   port: 9443
   server: 104.165.205.43
@@ -137,20 +115,12 @@ proxies:
   sni: onecloudstream.com
   tls: false
   type: hysteria2
-- name: 8|️37@oneclickvpnkeys
+- name: 8|🗳️37@oneclickvpnkeys
   password: e3c3b722-1264-4cdc-a97c-b0a1bb73cd67
   port: 9443
   server: 95.85.252.78
   skip-cert-verify: true
   sni: onecloudstream.com
-  tls: false
-  type: hysteria2
-- name: 8|🫒41@oneclickvpnkeys
-  password: gf1
-  port: 443
-  server: 5.129.235.85
-  skip-cert-verify: true
-  sni: www.linux.com
   tls: false
   type: hysteria2
 - name: '8|@confiig_hub #1'
@@ -169,14 +139,6 @@ proxies:
   server: 77.74.123.102
   skip-cert-verify: false
   sni: grape-test-italy.dynuddns.net
-  tls: false
-  type: hysteria2
-- name: 8|92@oneclickvpnkeys
-  password: we9_I1893UFj3149xbr1_k8qvJ8734ic_Mx82gH
-  port: 8443
-  server: 82.38.64.235
-  skip-cert-verify: true
-  sni: hopp-swizland-new.mysynology.net
   tls: false
   type: hysteria2
 - name: 8|@V2ray_confiig
