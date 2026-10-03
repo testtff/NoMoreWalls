@@ -40,6 +40,22 @@ proxies:
   sni: speedtestmark.com
   tls: false
   type: hysteria2
+- name: 8|70@oneclickvpnkeys
+  password: 4291c983-c520-46ac-82cc-48f14bef573f
+  port: 35013
+  server: 129.213.91.185
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: false
+  type: hysteria2
+- name: 8|75@oneclickvpnkeys
+  password: 5d0a6445-a30d-4522-bb1f-94f1d3ad63be
+  port: 2060
+  server: els.mangshe.xyz
+  skip-cert-verify: true
+  sni: els.mangshe.xyz
+  tls: false
+  type: hysteria2
 - name: 8|Telegram:@v2rayng3
   obfs: salamander
   obfs-password: uw9b2qq5rx
@@ -50,7 +66,7 @@ proxies:
   sni: fiproxy1.lockdwn.com
   tls: false
   type: hysteria2
-- name: 8|75@oneclickvpnkeys
+- name: '8|75@oneclickvpnkeys #1'
   password: 6c077487-06af-4fb1-9e46-d485d98f0a31
   port: 51285
   server: 108.181.5.106
@@ -68,14 +84,14 @@ proxies:
   sni: sg4.dexlos.com
   tls: false
   type: hysteria2
-- name: 8|14@oneclickvpnkeys
+- name: 8|🪙14@oneclickvpnkeys
   password: 9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z
   port: 8443
   server: 162.249.127.141
   sni: hop-germany-september.dynuddns.com
   tls: false
   type: hysteria2
-- name: 8|8@oneclickvpnkeys
+- name: 8|🪙8@oneclickvpnkeys
   password: 9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z
   port: 8443
   server: 162.249.127.143
@@ -83,7 +99,7 @@ proxies:
   sni: hop-germany-september.dynuddns.com
   tls: false
   type: hysteria2
-- name: 8|6@oneclickvpnkeys
+- name: 8|🪙6@oneclickvpnkeys
   password: 9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z
   port: 8443
   server: 162.249.127.144
@@ -91,7 +107,7 @@ proxies:
   sni: hop-germany-september.dynuddns.com
   tls: false
   type: hysteria2
-- name: 8|5@oneclickvpnkeys
+- name: 8|🪙5@oneclickvpnkeys
   password: 9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z
   port: 8443
   server: 162.249.127.146
