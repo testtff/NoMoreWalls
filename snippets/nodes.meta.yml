@@ -15,11 +15,20 @@ proxies:
   sni: se.xiaoliyu.cyou
   tls: false
   type: hysteria2
-- name: 8|@tootffarangi-2
+- name: 8|@meliproxyy
+  obfs: salamander
+  obfs-password: eba1b4766d2a26d6c167e2d2e9efabf4
+  password: 033dc6b532
+  port: 11592
+  server: 77.232.139.128
+  skip-cert-verify: false
+  sni: srv-8718e6.frd21.ru
+  tls: false
+  type: hysteria2
+- name: 8|39@oneclickvpnkeys
   password: 06e88dd6-e264-4981-8c26-d7ab17348ab2
   port: 443
   server: 144.31.232.216
-  skip-cert-verify: false
   sni: fi01.clgate.network
   tls: false
   type: hysteria2
@@ -33,7 +42,7 @@ proxies:
   sni: fiproxy1.lockdwn.com
   tls: false
   type: hysteria2
-- name: 8|75@oneclickvpnkeys
+- name: 8|🌟75@oneclickvpnkeys
   password: 6c077487-06af-4fb1-9e46-d485d98f0a31
   port: 51285
   server: 108.181.5.106
@@ -127,6 +136,14 @@ proxies:
   server: 222.167.245.240
   skip-cert-verify: false
   sni: api-test-udp-traffic.kaneki.cfd
+  tls: false
+  type: hysteria2
+- name: '8|@ICV2RAY #1'
+  password: e19b5aa3-16c9-435a-8bc9-76f2f6ddff43
+  port: 28015
+  server: 64.188.119.177
+  skip-cert-verify: false
+  sni: api-test-udp-trf.kaneki.cfd
   tls: false
   type: hysteria2
 - name: '8|@confiig_hub #1'
