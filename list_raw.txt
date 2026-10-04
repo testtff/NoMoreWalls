@@ -1,7 +1,5 @@
 hysteria2://033dc6b532@77.232.139.128:11592?insecure=0&sni=srv-8718e6.frd21.ru&obfs=salamander&obfs-password=eba1b4766d2a26d6c167e2d2e9efabf4#8%7C%40meliproxyy
 hysteria2://19f72087-4591-4d72-930b-2697078ec2be@ru1.xiaoliyu.cyou:18333?insecure=1&sni=ru1.xiaoliyu.cyou#8%7C96%40oneclickvpnkeys
-hysteria2://4291c983-c520-46ac-82cc-48f14bef573f@129.213.91.185:35013?insecure=1&sni=www.bing.com#8%7C%F0%9F%AA%9970%40oneclickvpnkeys
-hysteria2://5d0a6445-a30d-4522-bb1f-94f1d3ad63be@els.mangshe.xyz:2060?insecure=1&sni=els.mangshe.xyz#8%7C%F0%9F%AA%9975%40oneclickvpnkeys
 hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?insecure=0&sni=fiproxy1.lockdwn.com&obfs=salamander&obfs-password=uw9b2qq5rx#8%7CTelegram%3A%40v2rayng3
 hysteria2://8A9905B7-801B-41AF-BFC9-2034212770F6@sg4.dexlos.com:20654?insecure=0&sni=sg4.dexlos.com&obfs=salamander&obfs-password=xK9mN2pLq5vR8wB3#8%7C%40vmesskhodam
 hysteria2://9ed56ba1c7c44bbab670d83a435591b8@mhzedir.qzz.io:51791?insecure=0&sni=mhzedir.qzz.io&obfs=salamander&obfs-password=7y0p9k93w7ryw8tz#8%7C%40vasl_bashim
@@ -10,12 +8,13 @@ hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?inse
 hysteria2://TPey1Zqj9th9y2JKyiuqVPRTvfjQC-nB@fastly.vexogf.ir:5443?insecure=0&sni=tun-a-1.bexait.ir&obfs=salamander&obfs-password=6ccfcef2e116b03ce9047333#8%7C%EF%B8%8F%F0%9F%86%94%EF%B8%8F%40ATLAS_V2VPN%EF%B8%8F%EF%B8%8F597
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#8%7C%40KAFING_2
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#8%7C%40KAFING_2%20%232
+hysteria2://ca78f919e6@155.94.134.183:11592?insecure=0&alpn=h3&sni=srv-3fc7c9.21freedom.net&obfs=salamander&obfs-password=ec66908dbc46e6920143d9b684adf277#8%7C%40ICV2RAY
 hysteria2://capadm96216165@208.69.78.217:443?insecure=1&sni=vpn.local&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq#8%7C15%40oneclickvpnkeys
 hysteria2://cd74c0a406664a5bc0bac098220a2468@144.31.49.138:443?insecure=0&sni=ru1.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#8%7C%F0%9F%87%B7%F0%9F%87%BA%40FreakConfig
 hysteria2://cd74c0a406664a5bc0bac098220a2468@2.27.59.206:443?insecure=0&sni=de1.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#8%7C%40B2Hub%20%231
 hysteria2://d042d150716709bb778cc73889cddb02@138.2.89.249:443?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=309502c4a8df10b46fb976d4a8c43f42#8%7C%F0%9F%AA%9998%40oneclickvpnkeys
-hysteria2://e19b5aa3-16c9-435a-8bc9-76f2f6ddff43@222.167.245.240:28015?insecure=0&sni=api-test-udp-traffic.kaneki.cfd#8%7C%40ICV2RAY
-hysteria2://e19b5aa3-16c9-435a-8bc9-76f2f6ddff43@64.188.119.177:28015?insecure=0&sni=api-test-udp-trf.kaneki.cfd#8%7C%40ICV2RAY%20%231
+hysteria2://e19b5aa3-16c9-435a-8bc9-76f2f6ddff43@222.167.245.240:28015?insecure=0&sni=api-test-udp-traffic.kaneki.cfd#8%7C%40ICV2RAY%20%231
+hysteria2://e19b5aa3-16c9-435a-8bc9-76f2f6ddff43@64.188.119.177:28015?insecure=0&sni=api-test-udp-trf.kaneki.cfd#8%7C%40ICV2RAY%20%232
 hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?insecure=0&sni=hy2.aspidnet.xyz&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#8%7C%40confiig_hub%20%231
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@77.74.123.102:8443?insecure=0&sni=grape-test-italy.dynuddns.net#8%7C8
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@77.74.123.99:8443?insecure=1&sni=grape-test-italy.dynuddns.net#8%7C%F0%9F%AA%993%40oneclickvpnkeys
