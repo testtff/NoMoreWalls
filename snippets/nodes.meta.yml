@@ -1,12 +1,19 @@
 proxies:
 - name: 8|@meliproxyy
   obfs: salamander
-  obfs-password: eba1b4766d2a26d6c167e2d2e9efabf4
-  password: 033dc6b532
+  obfs-password: 87d72c2949c0ca85bbda09459244e374
+  password: 35d26d53bc
   port: 11592
-  server: 77.232.139.128
+  server: 109.104.153.124
   skip-cert-verify: false
-  sni: srv-8718e6.frd21.ru
+  sni: srv-0e5387.frd21.ru
+  tls: false
+  type: hysteria2
+- name: 8|️64@oneclickvpnkeys
+  password: 529f1911-04d5-4427-94b9-c851fd459a27
+  port: 443
+  server: nl-hy-test.tcp-reset-club.net
+  sni: tcp-reset-club.net
   tls: false
   type: hysteria2
 - name: 8|Telegram:@v2rayng3
@@ -29,6 +36,13 @@ proxies:
   sni: sg4.dexlos.com
   tls: false
   type: hysteria2
+- name: 8|🛠️38@oneclickvpnkeys
+  password: 9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z
+  port: 8443
+  server: 162.249.127.136
+  sni: hop-germany-september.dynuddns.com
+  tls: false
+  type: hysteria2
 - name: 8|@vasl_bashim
   obfs: salamander
   obfs-password: 7y0p9k93w7ryw8tz
@@ -49,7 +63,7 @@ proxies:
   sni: 179.61.132.96
   tls: false
   type: hysteria2
-- name: 8|@FarazV2ray
+- name: '8|@FarazV2ray #1'
   obfs: salamander
   obfs-password: c1b4086fea89914496c7e10967a419216566
   password: QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s
@@ -89,9 +103,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- alpn:
-  - h3
-  name: 8|@ICV2RAY
+- name: 8|🇷@FreakConfig
   obfs: salamander
   obfs-password: ec66908dbc46e6920143d9b684adf277
   password: ca78f919e6
@@ -101,7 +113,9 @@ proxies:
   sni: srv-3fc7c9.21freedom.net
   tls: false
   type: hysteria2
-- name: 8|🇷@FreakConfig
+- alpn:
+  - h3
+  name: '8|@V2raySaman #1'
   obfs: salamander
   obfs-password: ec66908dbc46e6920143d9b684adf277
   password: ca78f919e6
@@ -175,7 +189,7 @@ proxies:
   sni: grape-test-italy.dynuddns.net
   tls: false
   type: hysteria2
-- name: 8|️15@oneclickvpnkeys
+- name: 8|🛠️15@oneclickvpnkeys
   password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
   port: 8443
   server: 77.74.123.104
@@ -183,18 +197,11 @@ proxies:
   sni: grape-test-italy.dynuddns.net
   tls: false
   type: hysteria2
-- name: 8|️13@oneclickvpnkeys
+- name: 8|🛠️13@oneclickvpnkeys
   password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
   port: 8443
   server: 77.74.123.105
   sni: grape-test-italy.dynuddns.net
-  tls: false
-  type: hysteria2
-- name: 8|@V2ray_confiig
-  password: we9_I1893UFj3149xbr1_k8qvJ8734ic_Mx82gH
-  port: 8443
-  server: 82.38.64.239
-  sni: hopp-swizland-new.mysynology.net
   tls: false
   type: hysteria2
 - cipher: aes-256-cfb
