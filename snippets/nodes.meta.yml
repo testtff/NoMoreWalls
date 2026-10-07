@@ -47,6 +47,14 @@ proxies:
   sni: mhzedir.qzz.io
   tls: false
   type: hysteria2
+- name: 8|13@oneclickvpnkeys
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 13.38.44.64
+  skip-cert-verify: true
+  sni: 'off'
+  tls: false
+  type: hysteria2
 - name: 8|+@Azarakhsh_Proxy+
   obfs: salamander
   obfs-password: KevinZakarian
@@ -57,7 +65,7 @@ proxies:
   sni: 179.61.132.96
   tls: false
   type: hysteria2
-- name: '8|@FarazV2ray #1'
+- name: 8|@FarazV2ray
   obfs: salamander
   obfs-password: c1b4086fea89914496c7e10967a419216566
   password: QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s
@@ -173,6 +181,14 @@ proxies:
   server: 64.188.119.177
   skip-cert-verify: false
   sni: api-test-udp-trf.kaneki.cfd
+  tls: false
+  type: hysteria2
+- name: 8|14@oneclickvpnkeys
+  password: mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj
+  port: 443
+  server: 91.196.32.163
+  skip-cert-verify: true
+  sni: germany3.h2corp.local
   tls: false
   type: hysteria2
 - name: '8|@confiig_hub #1'
