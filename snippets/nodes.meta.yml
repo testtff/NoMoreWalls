@@ -1,10 +1,11 @@
 proxies:
-- name: 8|✈️71@oneclickvpnkeys
+- name: 8|@meliproxyy
   obfs: salamander
   obfs-password: eba1b4766d2a26d6c167e2d2e9efabf4
   password: 033dc6b532
   port: 11592
   server: 77.232.139.128
+  skip-cert-verify: false
   sni: srv-8718e6.frd21.ru
   tls: false
   type: hysteria2
@@ -42,13 +43,6 @@ proxies:
   sni: hy.quattro-tech.ru
   tls: false
   type: hysteria2
-- name: 8|🍁75@oneclickvpnkeys
-  password: 41edb44c8e
-  port: 11592
-  server: 103.88.243.142
-  sni: srv-17e124.21freedom.net
-  tls: false
-  type: hysteria2
 - name: 8|✈️44@oneclickvpnkeys
   password: 41edb44c8e
   port: 11592
@@ -75,7 +69,7 @@ proxies:
   sni: fiproxy1.lockdwn.com
   tls: false
   type: hysteria2
-- name: 8|@meliproxyy
+- name: '8|@meliproxyy #1'
   obfs: salamander
   obfs-password: 9VK3Nqd0bcXGPxcay9hRLY28HBtKo5
   password: 77f73bd5-51bf-4143-8ebd-02f56ba376f4
@@ -133,14 +127,6 @@ proxies:
   server: 91.196.161.47
   skip-cert-verify: false
   sni: hy.kirian.su
-  tls: false
-  type: hysteria2
-- name: 8|🍁65@oneclickvpnkeys
-  password: 84a506ca5aca505696a454d828420b3f
-  port: 50160
-  server: 140.238.213.114
-  skip-cert-verify: true
-  sni: www.bing.com
   tls: false
   type: hysteria2
 - name: 8|✈️35@oneclickvpnkeys
@@ -209,18 +195,19 @@ proxies:
   sni: tun-a-1.bexait.ir
   tls: false
   type: hysteria2
-- name: 8|US-@VPNine1
+- name: 8|✈️94@oneclickvpnkeys
+  password: WvH8ooM9hom4KOOJHFJz1x5umE0aV4R0
+  port: 8443
+  server: 43.156.36.253
+  skip-cert-verify: true
+  sni: tx-hy2
+  tls: false
+  type: hysteria2
+- name: 8|✈️73@oneclickvpnkeys
   password: YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc
   port: 443
   server: 144.31.49.47
   skip-cert-verify: true
-  sni: admin.wwwinternetvideo.click
-  tls: false
-  type: hysteria2
-- name: 8|63@oneclickvpnkeys
-  password: YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc
-  port: 443
-  server: 45.192.12.93
   sni: admin.wwwinternetvideo.click
   tls: false
   type: hysteria2
