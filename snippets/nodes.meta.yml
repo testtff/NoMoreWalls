@@ -47,7 +47,7 @@ proxies:
   sni: hy.kirian.su
   tls: false
   type: hysteria2
-- name: 8|🇫🇮@FreakConfig
+- name: 8|@Azaranv2ray
   obfs: salamander
   obfs-password: 9VK3Nqd0bcXGPxcay9hRLY28HBtKo5
   password: 77f73bd5-51bf-4143-8ebd-02f56ba376f4
@@ -165,18 +165,6 @@ proxies:
   server: 5.175.249.174
   skip-cert-verify: true
   sni: api.kermanshahi.org
-  tls: false
-  type: hysteria2
-- alpn:
-  - h3
-  name: '8|@V2raySaman #2'
-  obfs: salamander
-  obfs-password: ec66908dbc46e6920143d9b684adf277
-  password: ca78f919e6
-  port: 11592
-  server: 155.94.134.183
-  skip-cert-verify: false
-  sni: srv-3fc7c9.21freedom.net
   tls: false
   type: hysteria2
 - name: '8|@V2rayng_mar_ket #1'
