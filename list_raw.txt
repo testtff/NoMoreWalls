@@ -25,8 +25,7 @@ hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?insecure=1&
 hysteria2://ca78f919e6@155.94.134.183:11592?insecure=0&alpn=h3&sni=srv-3fc7c9.21freedom.net&obfs=salamander&obfs-password=ec66908dbc46e6920143d9b684adf277#8%7C%40V2raySaman%20%232
 hysteria2://ca78f919e6@155.94.134.183:11592?insecure=0&sni=srv-3fc7c9.21freedom.net&obfs=salamander&obfs-password=ec66908dbc46e6920143d9b684adf277#8%7C%40V2rayng_mar_ket%20%231
 hysteria2://cd74c0a406664a5bc0bac098220a2468@144.31.49.138:443?insecure=0&sni=ru1.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#8%7Ckurdconfig
-hysteria2://cd74c0a406664a5bc0bac098220a2468@2.27.59.206:443?insecure=0&sni=de1.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#8%7C%40B2Hub
-hysteria2://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@104.165.205.21:9443?sni=onecloudstream.com#8%7C42%40oneclickvpnkeys
+hysteria2://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@104.165.205.21:9443?sni=onecloudstream.com#8%7C%F0%9F%8D%8442%40oneclickvpnkeys
 hysteria2://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@lv02.gotosvo.com:9443?insecure=1&sni=onecloudstream.com#8%7C%E2%9C%88%EF%B8%8F42%40oneclickvpnkeys
 hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@94.198.54.132:443?insecure=1&sni=msk.frkn.org#8%7C%E2%9C%88%EF%B8%8F39%40oneclickvpnkeys
 hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?insecure=0&sni=hy2.aspidnet.xyz&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#8%7C%40confiig_hub%20%231
