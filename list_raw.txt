@@ -1,7 +1,7 @@
 hysteria2://267b3a79-81f2-42ac-a409-c23b05b6329d@188.241.241.33:443?insecure=1&sni=dehy.bbobr.win#8%7C36%40oneclickvpnkeys
 hysteria2://35d26d53bc@109.104.153.124:11592?insecure=0&sni=srv-0e5387.frd21.ru&obfs=salamander&obfs-password=87d72c2949c0ca85bbda09459244e374#8%7C%40V2rayng_mar_ket
 hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?insecure=0&sni=fiproxy1.lockdwn.com&obfs=salamander&obfs-password=uw9b2qq5rx#8%7CTelegram%3A%40v2rayng3
-hysteria2://77f73bd5-51bf-4143-8ebd-02f56ba376f4@79.137.206.157:21000?insecure=0&sni=hy.kirian.su&obfs=salamander&obfs-password=9VK3Nqd0bcXGPxcay9hRLY28HBtKo5#8%7C%40Azaranv2ray
+hysteria2://77f73bd5-51bf-4143-8ebd-02f56ba376f4@79.137.206.157:21000?insecure=0&sni=hy.kirian.su&obfs=salamander&obfs-password=9VK3Nqd0bcXGPxcay9hRLY28HBtKo5#8%7C%F0%9F%87%AB%40Azaranv2ray
 hysteria2://81d953a0-f0cf-4452-a669-747d32efd6c1@177.1.195.242:24000?insecure=0&sni=hy.kirian.su&obfs=salamander&obfs-password=9VK3Nqd0bcXGPxcay9hRLY28HBtKo5#8%7C%40tootffarangi-6
 hysteria2://81d953a0-f0cf-4452-a669-747d32efd6c1@78.17.53.9:26000?insecure=0&sni=hy.kirian.su&obfs=salamander&obfs-password=9VK3Nqd0bcXGPxcay9hRLY28HBtKo5#8%7C%40tootffarangi%F0%9F%8D%93-8
 hysteria2://81d953a0-f0cf-4452-a669-747d32efd6c1@79.137.206.157:21000?insecure=0&sni=hy.kirian.su&obfs=salamander&obfs-password=9VK3Nqd0bcXGPxcay9hRLY28HBtKo5#8%7C%40tootffarangi%F0%9F%8D%93-5
