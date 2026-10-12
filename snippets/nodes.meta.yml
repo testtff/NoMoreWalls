@@ -1,4 +1,14 @@
 proxies:
+- name: 8|@iranping24
+  obfs: salamander
+  obfs-password: WM0CSORkdxWByZqumlLav9pU7irma8IV
+  password: 0637f970-5223-4d8e-86b4-07c62509c6e8
+  port: 13188
+  server: 153.76.204.223
+  skip-cert-verify: false
+  sni: audio-forwarder.nord-central.duckdns.org
+  tls: false
+  type: hysteria2
 - name: 8|@V2rayng_mar_ket
   obfs: salamander
   obfs-password: 87d72c2949c0ca85bbda09459244e374
@@ -141,17 +151,7 @@ proxies:
   sni: srv-3fc7c9.21freedom.net
   tls: false
   type: hysteria2
-- name: 8|🇭🇰@FreakConfig
-  obfs: salamander
-  obfs-password: 7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9
-  password: eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ
-  port: 5010
-  server: nas.aizhzo.com
-  skip-cert-verify: false
-  sni: nas.aizhzo.com
-  tls: false
-  type: hysteria2
-- name: 8|6@oneclickvpnkeys
+- name: 8|🫡6@oneclickvpnkeys
   password: f317b5d6-d399-4d3d-a051-89d674ae953c
   port: 443
   server: 94.198.54.132
