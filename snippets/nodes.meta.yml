@@ -36,31 +36,6 @@ proxies:
   sni: match-stream.lovkisport.blog
   tls: false
   type: hysteria2
-- name: 8|38@oneclickvpnkeys
-  password: 8bd04756-3beb-4348-82c9-d35453df50ce
-  port: 20326
-  server: 177.3.218.191
-  sni: finkawwwbroy5.qcloud.surf
-  tls: false
-  type: hysteria2
-- name: 8|🫡39@oneclickvpnkeys
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: 443
-  server: 3.123.42.12
-  skip-cert-verify: true
-  sni: vpn-de-002.fastervpn.world
-  tls: false
-  type: hysteria2
-- name: 8|🇳🇱NL-@VPNine1
-  obfs: salamander
-  obfs-password: HysteriaHowdy
-  password: HowdyHysteria2023w0W
-  port: 8443
-  server: 51.15.19.206
-  skip-cert-verify: true
-  sni: viber.com
-  tls: false
-  type: hysteria2
 - name: 8|+@Azarakhsh_Proxy+
   obfs: salamander
   obfs-password: KevinZakarian
@@ -109,14 +84,6 @@ proxies:
   server: 155.94.134.183
   skip-cert-verify: false
   sni: srv-3fc7c9.21freedom.net
-  tls: false
-  type: hysteria2
-- name: 8|🫡6@oneclickvpnkeys
-  password: f317b5d6-d399-4d3d-a051-89d674ae953c
-  port: 443
-  server: 94.198.54.132
-  skip-cert-verify: true
-  sni: msk.frkn.org
   tls: false
   type: hysteria2
 - name: '8|@confiig_hub #1'
