@@ -1,4 +1,4 @@
-hysteria2://033dc6b532@77.232.139.128:11592?sni=srv-8718e6.frd21.ru#8%7C%40meliproxyy
+hysteria2://033dc6b532@77.232.139.128:11592?sni=srv-8718e6.frd21.ru#8%7Cvpnsal
 hysteria2://35d26d53bc@109.104.153.124:11592?insecure=0&sni=srv-0e5387.frd21.ru&obfs=salamander&obfs-password=87d72c2949c0ca85bbda09459244e374#8%7C%40V2rayng_mar_ket
 hysteria2://56ff50da-a238-4646-95ab-dd159634bd87@37.9.4.112:17701?sni=ru03.arpanet-cdn.com&obfs=salamander&obfs-password=588c76723192f87cfe6d6786816177cd2bd9773acdc545928d7d1d5e8338d4ce#8%7C66%40oneclickvpnkeys
 hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?insecure=0&sni=fiproxy1.lockdwn.com&obfs=salamander&obfs-password=uw9b2qq5rx#8%7CTelegram%3A%40v2rayng3
