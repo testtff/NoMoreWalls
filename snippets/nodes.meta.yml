@@ -16,6 +16,20 @@ proxies:
   sni: srv-0e5387.frd21.ru
   tls: false
   type: hysteria2
+- name: 8|62@oneclickvpnkeys
+  password: 43212c32-01f2-4356-b216-67dc1c178262
+  port: 5443
+  server: ees92.shhflow.xyz
+  sni: ees92.shhflow.xyz
+  tls: false
+  type: hysteria2
+- name: 8|67@oneclickvpnkeys
+  password: 6656cc0a-5908-4d04-a436-64f5843c0c7a
+  port: 20326
+  server: finkawwwbroy5.qcloud.surf
+  sni: finkawwwbroy5.qcloud.surf
+  tls: false
+  type: hysteria2
 - name: 8|Telegram:@v2rayng3
   obfs: salamander
   obfs-password: uw9b2qq5rx
@@ -86,6 +100,16 @@ proxies:
   sni: srv-3fc7c9.21freedom.net
   tls: false
   type: hysteria2
+- name: 8|🍂33@oneclickvpnkeys
+  obfs: salamander
+  obfs-password: ypvL8T4HFIBLoH8q
+  password: capadm54312235
+  port: 443
+  server: 51.15.16.68
+  skip-cert-verify: true
+  sni: vpn.local
+  tls: false
+  type: hysteria2
 - name: 8|🇭@FreakConfig
   obfs: salamander
   obfs-password: 7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9
@@ -94,6 +118,13 @@ proxies:
   server: nas.aizhzo.com
   skip-cert-verify: false
   sni: nas.aizhzo.com
+  tls: false
+  type: hysteria2
+- name: 8|🍂45@oneclickvpnkeys
+  password: mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj
+  port: 443
+  server: 91.196.32.163
+  skip-cert-verify: true
   tls: false
   type: hysteria2
 - name: '8|@confiig_hub #1'
