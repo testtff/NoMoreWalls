@@ -16,14 +16,14 @@ proxies:
   sni: srv-8718e6.frd21.ru
   tls: false
   type: hysteria2
-- name: 8|️40@oneclickvpnkeys
+- name: 8|40@oneclickvpnkeys
   password: 082f5694-9019-4110-b67b-8125dbb9bab8
   port: 54183
   server: 189.74.106.162
   sni: outh.yandex-cloud.org
   tls: false
   type: hysteria2
-- name: 8|️15@oneclickvpnkeys
+- name: 8|🛩️15@oneclickvpnkeys
   password: 082f5694-9019-4110-b67b-8125dbb9bab8
   port: 54183
   server: 189.74.114.2
@@ -47,7 +47,17 @@ proxies:
   sni: srv-0e5387.frd21.ru
   tls: false
   type: hysteria2
-- name: 8|@vasl_bashim
+- name: 8|️61@oneclickvpnkeys
+  obfs: salamander
+  obfs-password: c13f29db6a638ad2b211b9ce2669ef27
+  password: 3a702d4d1de4949005d8431220e040fb
+  port: 443
+  server: 152.67.75.161
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: false
+  type: hysteria2
+- name: 8|@vpnbaz
   obfs: salamander
   obfs-password: 588c76723192f87cfe6d6786816177cd2bd9773acdc545928d7d1d5e8338d4ce
   password: 56ff50da-a238-4646-95ab-dd159634bd87
@@ -144,12 +154,12 @@ proxies:
   sni: srv-3fc7c9.21freedom.net
   tls: false
   type: hysteria2
-- name: 8|33@oneclickvpnkeys
+- name: 8|🛩️64@oneclickvpnkeys
   obfs: salamander
-  obfs-password: ypvL8T4HFIBLoH8q
-  password: capadm54312235
+  obfs-password: ChY5QQQT3ZtUdNT8
+  password: capadmbd5f18bd
   port: 443
-  server: 51.15.16.68
+  server: 51.77.217.70
   skip-cert-verify: true
   sni: vpn.local
   tls: false
@@ -178,19 +188,12 @@ proxies:
   sni: nas.aizhzo.com
   tls: false
   type: hysteria2
-- name: 8|️39@oneclickvpnkeys
+- name: 8|🛩️39@oneclickvpnkeys
   password: gf1
   port: 443
   server: 173.212.201.85
   skip-cert-verify: true
   sni: www.docker.com
-  tls: false
-  type: hysteria2
-- name: 8|45@oneclickvpnkeys
-  password: mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj
-  port: 443
-  server: 91.196.32.163
-  skip-cert-verify: true
   tls: false
   type: hysteria2
 - name: '8|@confiig_hub #1'
