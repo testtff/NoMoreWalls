@@ -47,7 +47,7 @@ proxies:
   sni: srv-0e5387.frd21.ru
   tls: false
   type: hysteria2
-- name: 8|️61@oneclickvpnkeys
+- name: 8|🛩️61@oneclickvpnkeys
   obfs: salamander
   obfs-password: c13f29db6a638ad2b211b9ce2669ef27
   password: 3a702d4d1de4949005d8431220e040fb
@@ -171,7 +171,7 @@ proxies:
   sni: hy2.561891.xyz
   tls: false
   type: hysteria2
-- name: 8|️31@oneclickvpnkeys
+- name: 8|🛩️31@oneclickvpnkeys
   password: e625f8ef-f935-4c7d-a259-0f154b6842fd
   port: 443
   server: 177.3.209.226
