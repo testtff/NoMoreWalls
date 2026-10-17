@@ -1,8 +1,1 @@
-proxies:
-- name: 8|92@oneclickvpnkeys
-  password: 9yOIR2_QAChKs26rYaiX_aoNnOALd0aU
-  port: 443
-  server: nl1server.rabstvo.shop
-  skip-cert-verify: true
-  tls: false
-  type: hysteria2
+proxies: []
