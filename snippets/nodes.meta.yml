@@ -16,6 +16,13 @@ proxies:
   sni: srv-8718e6.frd21.ru
   tls: false
   type: hysteria2
+- name: 8|️40@oneclickvpnkeys
+  password: 082f5694-9019-4110-b67b-8125dbb9bab8
+  port: 54183
+  server: 189.74.106.162
+  sni: outh.yandex-cloud.org
+  tls: false
+  type: hysteria2
 - name: 8|️15@oneclickvpnkeys
   password: 082f5694-9019-4110-b67b-8125dbb9bab8
   port: 54183
@@ -70,7 +77,7 @@ proxies:
   sni: hy.kirian.su
   tls: false
   type: hysteria2
-- name: 8|92@oneclickvpnkeys
+- name: 8|🫑92@oneclickvpnkeys
   password: 9yOIR2_QAChKs26rYaiX_aoNnOALd0aU
   port: 443
   server: nl1server.rabstvo.shop
@@ -154,6 +161,13 @@ proxies:
   sni: hy2.561891.xyz
   tls: false
   type: hysteria2
+- name: 8|️31@oneclickvpnkeys
+  password: e625f8ef-f935-4c7d-a259-0f154b6842fd
+  port: 443
+  server: 177.3.209.226
+  sni: hy-se.bypassme.online
+  tls: false
+  type: hysteria2
 - name: 8|kurdconfig
   obfs: salamander
   obfs-password: 7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9
@@ -162,6 +176,14 @@ proxies:
   server: nas.aizhzo.com
   skip-cert-verify: false
   sni: nas.aizhzo.com
+  tls: false
+  type: hysteria2
+- name: 8|️39@oneclickvpnkeys
+  password: gf1
+  port: 443
+  server: 173.212.201.85
+  skip-cert-verify: true
+  sni: www.docker.com
   tls: false
   type: hysteria2
 - name: 8|45@oneclickvpnkeys
