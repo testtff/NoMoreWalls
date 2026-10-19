@@ -1,1 +1,8 @@
-proxies: []
+proxies:
+- name: 8|71@oneclickvpnkeys
+  password: 36cd82d2-50b1-0029-b520-2acc9a8a6b40
+  port: 443
+  server: 194.55.235.77
+  sni: api-l1-2.northvale.cloud
+  tls: false
+  type: hysteria2
