@@ -1,5 +1,5 @@
 proxies:
-- name: 8|@V2ray_confiig
+- name: 8|vpnsal
   password: 033dc6b532
   port: 11592
   server: 77.232.139.128
@@ -24,6 +24,20 @@ proxies:
   server: 109.104.153.124
   skip-cert-verify: false
   sni: srv-0e5387.frd21.ru
+  tls: false
+  type: hysteria2
+- name: 8|37@oneclickvpnkeys
+  password: 36cd82d2-50b1-400d-b520-2acc9a8a6b40
+  port: 443
+  server: de.northvale.cloud
+  sni: de.northvale.cloud
+  tls: false
+  type: hysteria2
+- name: 8|42@oneclickvpnkeys
+  password: 36cd82d2-50b1-400d-b520-2acc9a8a6b40
+  port: 443
+  server: nl.northvale.cloud
+  sni: nl.northvale.cloud
   tls: false
   type: hysteria2
 - name: 8|98@oneclickvpnkeys
@@ -183,7 +197,7 @@ proxies:
   sni: hy2.aspidnet.xyz
   tls: false
   type: hysteria2
-- name: '8|@meliproxyy #1'
+- name: 8|@meliproxyy
   password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
   port: 8443
   server: 46.229.243.132
