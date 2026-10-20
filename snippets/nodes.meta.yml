@@ -23,35 +23,35 @@ proxies:
   sni: api-l1-2.northvale.cloud
   tls: false
   type: hysteria2
-- name: 8|37@oneclickvpnkeys
+- name: 8|🌍37@oneclickvpnkeys
   password: 36cd82d2-50b1-400d-b520-2acc9a8a6b40
   port: 443
   server: de.northvale.cloud
   sni: de.northvale.cloud
   tls: false
   type: hysteria2
-- name: 8|68@oneclickvpnkeys
+- name: 8|🌍68@oneclickvpnkeys
   password: 36cd82d2-50b1-400d-b520-2acc9a8a6b40
   port: 443
   server: fi.northvale.cloud
   sni: fi.northvale.cloud
   tls: false
   type: hysteria2
-- name: 8|69@oneclickvpnkeys
+- name: 8|🌍69@oneclickvpnkeys
   password: 36cd82d2-50b1-400d-b520-2acc9a8a6b40
   port: 443
   server: lv1.northvale.cloud
   sni: lv.northvale.cloud
   tls: false
   type: hysteria2
-- name: 8|42@oneclickvpnkeys
+- name: 8|🌍42@oneclickvpnkeys
   password: 36cd82d2-50b1-400d-b520-2acc9a8a6b40
   port: 443
   server: nl.northvale.cloud
   sni: nl.northvale.cloud
   tls: false
   type: hysteria2
-- name: 8|66@oneclickvpnkeys
+- name: 8|🌍66@oneclickvpnkeys
   password: 36cd82d2-50b1-400d-b520-2acc9a8a6b40
   port: 443
   server: sw.northvale.cloud
@@ -66,7 +66,7 @@ proxies:
   sni: 129.213.91.185
   tls: false
   type: hysteria2
-- name: 8|@vpnbaz
+- name: 8|@vasl_bashim
   obfs: salamander
   obfs-password: 588c76723192f87cfe6d6786816177cd2bd9773acdc545928d7d1d5e8338d4ce
   password: 56ff50da-a238-4646-95ab-dd159634bd87
@@ -86,7 +86,7 @@ proxies:
   sni: fiproxy1.lockdwn.com
   tls: false
   type: hysteria2
-- name: 8|🇫🇮@Azaranv2ray
+- name: 8|@Azaranv2ray
   obfs: salamander
   obfs-password: 9VK3Nqd0bcXGPxcay9hRLY28HBtKo5
   password: 77f73bd5-51bf-4143-8ebd-02f56ba376f4
@@ -186,7 +186,7 @@ proxies:
   sni: srv-3fc7c9.21freedom.net
   tls: false
   type: hysteria2
-- name: 8|kurdconfig
+- name: 8|@vmess_ir
   obfs: salamander
   obfs-password: 7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9
   password: eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ
@@ -211,15 +211,6 @@ proxies:
   port: 443
   server: 130.49.161.70
   skip-cert-verify: false
-  sni: hy2.aspidnet.xyz
-  tls: false
-  type: hysteria2
-- name: 8|🍎64@oneclickvpnkeys
-  obfs: salamander
-  obfs-password: rG07s3COMIEvdnQipRyWzx_H_2xygNC3
-  password: p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR
-  port: 443
-  server: hy2.aspidnet.xyz
   sni: hy2.aspidnet.xyz
   tls: false
   type: hysteria2
