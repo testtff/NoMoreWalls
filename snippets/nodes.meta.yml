@@ -182,14 +182,6 @@ proxies:
   sni: nas.aizhzo.com
   tls: false
   type: hysteria2
-- name: 8|🌍100@oneclickvpnkeys
-  password: lh92eQnxIpeg2odHHDg0SrcczqwS4e8Y
-  port: 443
-  server: 179.255.104.98
-  skip-cert-verify: true
-  sni: dl1.yuanshicheng.com
-  tls: false
-  type: hysteria2
 - name: '8|@confiig_hub #1'
   obfs: salamander
   obfs-password: rG07s3COMIEvdnQipRyWzx_H_2xygNC3
