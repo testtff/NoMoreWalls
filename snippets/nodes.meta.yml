@@ -6,14 +6,6 @@ proxies:
   sni: srv-8718e6.frd21.ru
   tls: false
   type: hysteria2
-- name: 8|97@oneclickvpnkeys
-  password: 099830134df5ac3a04a4b21d39b8c395
-  port: 50160
-  server: 163.192.14.135
-  skip-cert-verify: true
-  sni: vk.com
-  tls: false
-  type: hysteria2
 - name: 8|@V2rayng_mar_ket
   obfs: salamander
   obfs-password: 87d72c2949c0ca85bbda09459244e374
@@ -64,6 +56,13 @@ proxies:
   sni: 179.61.132.96
   tls: false
   type: hysteria2
+- name: 8|@meliproxyy
+  password: M8LP9DztTr3znqCkmf-r08CQLBLLFK1r
+  port: 7443
+  server: me17.msjia8844.site
+  sni: me17.msjia8844.site
+  tls: false
+  type: hysteria2
 - name: 8|@FarazV2ray
   obfs: salamander
   obfs-password: c1b4086fea89914496c7e10967a419216566
@@ -83,9 +82,19 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
+- name: '8|Telegram@vpnjey #1'
+  obfs: salamander
+  obfs-password: Telegram@vpnjey
+  password: Telegram-vpnjey
+  port: 36264
+  server: 179.61.138.145
+  skip-cert-verify: true
+  sni: de2.jey.cc.cd
+  tls: false
+  type: hysteria2
 - alpn:
   - h3
-  name: '8|Telegram@vpnjey #1'
+  name: '8|Telegram@vpnjey #2'
   obfs: salamander
   obfs-password: Telegram@vpnjey
   password: Telegram-vpnjey
@@ -97,7 +106,7 @@ proxies:
   type: hysteria2
 - alpn:
   - h3
-  name: '8|Telegram@vpnjey #2'
+  name: '8|Telegram@vpnjey #3'
   obfs: salamander
   obfs-password: Telegram@vpnjey
   password: Telegram-vpnjey
@@ -107,7 +116,7 @@ proxies:
   sni: se.vpnjey2.dpdns.org
   tls: false
   type: hysteria2
-- name: '8|@meliproxyy #1'
+- name: '8|@meliproxyy #2'
   obfs: salamander
   obfs-password: Telegram@vpnjey
   password: Telegram
@@ -119,7 +128,7 @@ proxies:
   type: hysteria2
 - alpn:
   - h3
-  name: '8|Telegram@vpnjey #4'
+  name: '8|Telegram@vpnjey #5'
   obfs: salamander
   obfs-password: Telegram@vpnjey
   password: Telegram
@@ -131,7 +140,7 @@ proxies:
   type: hysteria2
 - alpn:
   - h3
-  name: '8|Telegram@vpnjey #5'
+  name: '8|Telegram@vpnjey #6'
   obfs: salamander
   obfs-password: Telegram@vpnjey
   password: Telegram
@@ -141,33 +150,13 @@ proxies:
   sni: se.vpnjey2.dpdns.org
   tls: false
   type: hysteria2
-- name: '8|Telegram@vpnjey #6'
+- name: '8|Telegram@vpnjey #7'
   obfs: salamander
   obfs-password: Telegram@vpnjey
   password: Telegram@vpnjey
   port: 54759
   server: 179.61.138.145
   skip-cert-verify: true
-  tls: false
-  type: hysteria2
-- alpn:
-  - h3
-  name: 8|@tootffarangi🍓
-  password: Un62Uyh8P2Scl8x-9DSxFnpNO4GBs4pw
-  port: 8090
-  server: 185.139.7.254
-  skip-cert-verify: true
-  sni: 185.139.7.254
-  tls: false
-  type: hysteria2
-- alpn:
-  - h3
-  name: '8|@tootffarangi🍓 #1'
-  password: Un62Uyh8P2Scl8x-9DSxFnpNO4GBs4pw
-  port: 8090
-  server: 3.24.240.43
-  skip-cert-verify: true
-  sni: 3.24.240.43
   tls: false
   type: hysteria2
 - name: 8|@KAFING_2
@@ -198,16 +187,6 @@ proxies:
   server: 155.94.134.183
   skip-cert-verify: false
   sni: srv-3fc7c9.21freedom.net
-  tls: false
-  type: hysteria2
-- name: '8|@tootffarangi🍓 #2'
-  obfs: salamander
-  obfs-password: 7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9
-  password: eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ
-  port: 5010
-  server: 152.32.254.68
-  skip-cert-verify: false
-  sni: nas.aizhzo.com
   tls: false
   type: hysteria2
 - name: 8|@vmess_ir
@@ -515,31 +494,41 @@ proxies:
   skip-cert-verify: true
   sni: m.ctrip.com
   type: trojan
-- name: 15|AT_speednode_0001
+- name: 15|CA_speednode_0001
   port: 443
-  server: 146.70.244.2
+  server: 35.183.131.26
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 15|DE_speednode_0002
-  password: None
-  port: 9443
-  server: 87.249.132.97
-  skip-cert-verify: true
-  tls: true
-  type: http
+- http-opts:
+    headers:
+      Host:
+      - play.googleapis.com
+    method: GET
+    path:
+    - /
+  name: 15|DE_speednode_0002
+  network: http
+  port: 443
+  server: 3.79.233.186
+  servername: play.googleapis.com
+  skip-cert-verify: false
+  tls: false
+  type: vless
   udp: true
+  uuid: 7060231d-b9ba-495f-a218-bf427940cf3e
 - name: 15|DE_speednode_0003
+  password: None
   port: 443
-  server: 149.36.50.1
+  server: 213.109.163.119
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
 - name: 15|DE_speednode_0004
   port: 443
-  server: 149.36.50.157
+  server: 213.109.163.119
   skip-cert-verify: true
   tls: true
   type: http
@@ -553,195 +542,225 @@ proxies:
   udp: true
 - name: 15|DK_speednode_0006
   port: 9002
-  server: 158.173.154.3
+  server: 158.173.154.5
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
 - name: 15|DK_speednode_0007
   port: 9002
-  server: 158.173.154.4
+  server: 158.173.154.1
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
 - name: 15|FR_speednode_0008
-  port: 9443
-  server: 138.199.47.247
-  skip-cert-verify: true
-  tls: true
-  type: http
-  udp: true
-- name: 15|GB_speednode_0009
-  password: None
   port: 443
-  server: 212.102.63.61
+  server: 82.65.162.76
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 15|GB_speednode_0010
+- name: 15|FR_speednode_0009
   port: 443
-  server: 212.102.63.61
+  server: 51.158.243.91
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 15|JP_speednode_0011
-  port: 343
-  server: 133.18.200.207
-  skip-cert-verify: true
-  tls: true
-  type: http
-  udp: true
-- name: 15|NL_speednode_0012
+- name: 15|FR_speednode_0010
   port: 443
-  server: 185.238.168.20
+  server: 51.210.167.149
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 15|NL_speednode_0013
-  port: 9443
-  server: 149.36.51.161
+- name: 15|FR_speednode_0011
+  password: 'null'
+  port: 23856
+  server: 51.159.225.196
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 15|NL_speednode_0014
-  port: 9443
-  server: 149.36.51.157
+  username: 'null'
+- name: 15|FR_speednode_0012
+  port: 8090
+  server: 83.206.1.225
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 15|NL_speednode_0015
-  password: None
-  port: 9002
-  server: 84.17.47.125
-  skip-cert-verify: true
-  tls: true
-  type: http
-  udp: true
-- name: 15|NL_speednode_0016
-  port: 9002
-  server: 84.17.47.147
-  skip-cert-verify: true
-  tls: true
-  type: http
-  udp: true
-- name: 15|NL_speednode_0017
-  port: 9002
-  server: 84.17.47.150
-  skip-cert-verify: true
-  tls: true
-  type: http
-  udp: true
-- name: 15|NL_speednode_0018
-  port: 9002
-  server: 84.17.47.148
-  skip-cert-verify: true
-  tls: true
-  type: http
-  udp: true
-- name: 15|NL_speednode_0019
-  port: 9002
-  server: 84.17.47.125
-  skip-cert-verify: true
-  tls: true
-  type: http
-  udp: true
-- name: 15|NL_speednode_0020
-  password: None
-  port: 9002
-  server: 84.17.47.148
-  skip-cert-verify: true
-  tls: true
-  type: http
-  udp: true
-- name: 15|NL_speednode_0021
-  port: 9002
-  server: 84.17.47.146
-  skip-cert-verify: true
-  tls: true
-  type: http
-  udp: true
-- name: 15|NL_speednode_0022
-  port: 9002
-  server: 84.17.47.149
-  skip-cert-verify: true
-  tls: true
-  type: http
-  udp: true
-- name: 15|RO_speednode_0023
-  port: 9002
-  server: 193.176.84.20
-  skip-cert-verify: true
-  tls: true
-  type: http
-  udp: true
-- name: 15|RO_speednode_0024
+- flow: xtls-rprx-vision
+  name: 15|GB_speednode_0013
+  network: tcp
   port: 443
-  server: 185.163.110.194
-  skip-cert-verify: true
-  tls: true
-  type: http
-  udp: true
-- name: 15|RS_speednode_0025
-  password: None
-  port: 443
-  server: 146.70.221.34
-  skip-cert-verify: true
-  tls: true
-  type: http
-  udp: true
-- name: 15|RS_speednode_0026
-  port: 443
-  server: 146.70.221.18
-  skip-cert-verify: true
-  tls: true
-  type: http
-  udp: true
-- name: 15|SE_speednode_0027
-  port: 443
-  server: 79.142.77.63
-  skip-cert-verify: true
-  tls: true
-  type: http
-  udp: true
-- name: 15|US_speednode_0028
-  port: 443
-  server: 38.247.141.135
-  skip-cert-verify: true
-  tls: true
-  type: http
-  udp: true
-- name: 15|US_speednode_0029
-  port: 9443
-  server: 213.139.9.142
-  skip-cert-verify: true
-  tls: true
-  type: http
-  udp: true
-- name: 15|US_speednode_0030
-  port: 9002
-  server: 138.199.35.214
-  skip-cert-verify: true
-  tls: true
-  type: http
-  udp: true
-- client-fingerprint: random
-  name: 15|US_speednode_0031
-  network: ws
-  port: 443
-  server: freev2.cloudflare.182682.xyz
-  servername: jp-osa.862400.xyz
+  reality-opts:
+    public-key: ui9MLRYZIz7S6_1E4fZgoamwTypfQAMwJ1olxGcWomE
+    short-id: fc70174007a393b4
+  server: netherlands02.azotvpn.xyz
+  servername: netherlands02.azotvpn.xyz
   skip-cert-verify: false
   tls: true
   type: vless
   udp: true
-  uuid: ed6ae8d0-0ad4-4828-8fee-621a650abb39
-  ws-opts:
-    headers:
-      Host: jp-osa.862400.xyz
-    path: /announcement?ed=2048
+  uuid: a500be68-4ff6-433b-9968-472be69fab14
+- name: 15|GB_speednode_0014
+  port: 8443
+  server: 198.105.124.180
+  skip-cert-verify: true
+  tls: true
+  type: http
+  udp: true
+- name: 15|IE_speednode_0015
+  port: 443
+  server: 18.200.158.139
+  skip-cert-verify: true
+  tls: true
+  type: http
+  udp: true
+- name: 15|IL_speednode_0016
+  port: 443
+  server: 62.90.77.30
+  skip-cert-verify: true
+  tls: true
+  type: http
+  udp: true
+- name: 15|LV_speednode_0027
+  port: 443
+  server: 185.219.159.15
+  skip-cert-verify: true
+  tls: true
+  type: http
+  udp: true
+- name: 15|NL_speednode_0028
+  port: 9002
+  server: 84.17.47.124
+  skip-cert-verify: true
+  tls: true
+  type: http
+  udp: true
+- name: 15|NL_speednode_0029
+  password: None
+  port: 9002
+  server: 84.17.47.123
+  skip-cert-verify: true
+  tls: true
+  type: http
+  udp: true
+- name: 15|NL_speednode_0030
+  port: 9002
+  server: 84.17.47.125
+  skip-cert-verify: true
+  tls: true
+  type: http
+  udp: true
+- name: 15|NL_speednode_0031
+  password: None
+  port: 9002
+  server: 84.17.47.148
+  skip-cert-verify: true
+  tls: true
+  type: http
+  udp: true
+- name: 15|RO_speednode_0032
+  port: 9002
+  server: 193.176.84.24
+  skip-cert-verify: true
+  tls: true
+  type: http
+  udp: true
+- name: 15|RO_speednode_0033
+  port: 9002
+  server: 193.176.84.36
+  skip-cert-verify: true
+  tls: true
+  type: http
+  udp: true
+- name: 15|RO_speednode_0034
+  port: 9002
+  server: 193.176.84.38
+  skip-cert-verify: true
+  tls: true
+  type: http
+  udp: true
+- name: 15|RO_speednode_0035
+  port: 9002
+  server: 193.176.84.26
+  skip-cert-verify: true
+  tls: true
+  type: http
+  udp: true
+- name: 15|RO_speednode_0036
+  port: 9002
+  server: 193.176.84.19
+  skip-cert-verify: true
+  tls: true
+  type: http
+  udp: true
+- name: 15|RO_speednode_0037
+  port: 9002
+  server: 193.176.84.21
+  skip-cert-verify: true
+  tls: true
+  type: http
+  udp: true
+- name: 15|RO_speednode_0038
+  port: 9002
+  server: 193.176.84.34
+  skip-cert-verify: true
+  tls: true
+  type: http
+  udp: true
+- name: 15|US_speednode_0039
+  port: 9002
+  server: 138.199.35.215
+  skip-cert-verify: true
+  tls: true
+  type: http
+  udp: true
+- name: 15|US_speednode_0040
+  port: 9002
+  server: 138.199.35.195
+  skip-cert-verify: true
+  tls: true
+  type: http
+  udp: true
+- name: 15|US_speednode_0041
+  port: 443
+  server: 64.98.50.100
+  skip-cert-verify: true
+  tls: true
+  type: http
+  udp: true
+- name: 15|US_speednode_0042
+  password: None
+  port: 9002
+  server: 138.199.35.213
+  skip-cert-verify: true
+  tls: true
+  type: http
+  udp: true
+- name: 15|US_speednode_0043
+  password: 'null'
+  port: 9002
+  server: 138.199.35.202
+  skip-cert-verify: true
+  tls: true
+  type: http
+  udp: true
+  username: 'null'
+- name: 15|US_speednode_0044
+  port: 9002
+  server: 138.199.35.217
+  skip-cert-verify: true
+  tls: true
+  type: http
+  udp: true
+- name: 15|US_speednode_0045
+  port: 8443
+  server: 44.248.167.117
+  skip-cert-verify: true
+  tls: true
+  type: http
+  udp: true
