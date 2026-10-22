@@ -150,6 +150,26 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
+- alpn:
+  - h3
+  name: 8|@tootffarangi🍓
+  password: Un62Uyh8P2Scl8x-9DSxFnpNO4GBs4pw
+  port: 8090
+  server: 185.139.7.254
+  skip-cert-verify: true
+  sni: 185.139.7.254
+  tls: false
+  type: hysteria2
+- alpn:
+  - h3
+  name: '8|@tootffarangi🍓 #1'
+  password: Un62Uyh8P2Scl8x-9DSxFnpNO4GBs4pw
+  port: 8090
+  server: 3.24.240.43
+  skip-cert-verify: true
+  sni: 3.24.240.43
+  tls: false
+  type: hysteria2
 - name: 8|@KAFING_2
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
@@ -178,6 +198,16 @@ proxies:
   server: 155.94.134.183
   skip-cert-verify: false
   sni: srv-3fc7c9.21freedom.net
+  tls: false
+  type: hysteria2
+- name: '8|@tootffarangi🍓 #2'
+  obfs: salamander
+  obfs-password: 7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9
+  password: eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ
+  port: 5010
+  server: 152.32.254.68
+  skip-cert-verify: false
+  sni: nas.aizhzo.com
   tls: false
   type: hysteria2
 - name: 8|@vmess_ir
