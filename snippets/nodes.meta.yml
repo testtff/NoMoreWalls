@@ -1,4 +1,11 @@
 proxies:
+- name: 8|vpnsal
+  password: 033dc6b532
+  port: 11592
+  server: 77.232.139.128
+  sni: srv-8718e6.frd21.ru
+  tls: false
+  type: hysteria2
 - name: 8|97@oneclickvpnkeys
   password: 099830134df5ac3a04a4b21d39b8c395
   port: 50160
