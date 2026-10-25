@@ -1,12 +1,4 @@
 proxies:
-- name: 8|🇩🇪DE-@VPNine1
-  password: wdXYbPlYLa5yLB7LF2Ambo
-  port: 443
-  server: 46.225.10.16
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
 - name: 15|DE_speednode_0007
   port: 443
   server: 213.109.163.119
