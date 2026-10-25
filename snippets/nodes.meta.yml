@@ -1,5 +1,5 @@
 proxies:
-- name: 8|@Shh_Proxy-New¹
+- name: 8|@V2rayng_mar_ket
   obfs: salamander
   obfs-password: 87d72c2949c0ca85bbda09459244e374
   password: 35d26d53bc
@@ -29,16 +29,6 @@ proxies:
   sni: tcp-reset-club.net
   tls: false
   type: hysteria2
-- name: 8|@v2ray_phoenix
-  obfs: salamander
-  obfs-password: 588c76723192f87cfe6d6786816177cd2bd9773acdc545928d7d1d5e8338d4ce
-  password: 56ff50da-a238-4646-95ab-dd159634bd87
-  port: 17701
-  server: 37.9.4.112
-  skip-cert-verify: false
-  sni: ru03.arpanet-cdn.com
-  tls: false
-  type: hysteria2
 - name: 8|Telegram:@v2rayng3
   obfs: salamander
   obfs-password: uw9b2qq5rx
@@ -57,20 +47,6 @@ proxies:
   server: 79.137.206.157
   skip-cert-verify: false
   sni: hy.kirian.su
-  tls: false
-  type: hysteria2
-- name: 8|🐙71@oneclickvpnkeys
-  password: 78559873-84ef-4cab-a0b2-46d4cd20de4a
-  port: 2053
-  server: 144.31.230.51
-  sni: sweden.luxes.network
-  tls: false
-  type: hysteria2
-- name: 8|🐙62@oneclickvpnkeys
-  password: 78559873-84ef-4cab-a0b2-46d4cd20de4a
-  port: 2053
-  server: 2.26.48.112
-  sni: noway.luxes.network
   tls: false
   type: hysteria2
 - name: 8|‍🟫74@oneclickvpnkeys
@@ -230,7 +206,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 8|@V2rayng_mar_ket
+- name: '8|@V2rayng_mar_ket #1'
   obfs: salamander
   obfs-password: ec66908dbc46e6920143d9b684adf277
   password: ca78f919e6
@@ -279,21 +255,19 @@ proxies:
   sni: r5ycmuko.zibayeman.com
   tls: false
   type: hysteria2
-- name: 8|@pass_net
-  obfs: salamander
-  obfs-password: 546e172a11c77094
-  password: fb2defa0-2ee5-4ad9-90b7-dde7cbf3f01f
-  port: 20161
-  server: 51.75.118.5
-  skip-cert-verify: true
-  sni: www.google.com
-  tls: false
-  type: hysteria2
 - name: 8|🍄‍🟫41@oneclickvpnkeys
   password: miaoge110
   port: 51511
   server: 5.45.100.100
   skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: 8|‍🟫97@oneclickvpnkeys
+  password: mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj
+  port: 443
+  server: 64.188.98.171
+  skip-cert-verify: true
+  sni: germany3.h2corp.local
   tls: false
   type: hysteria2
 - name: '8|@confiig_hub #1'
