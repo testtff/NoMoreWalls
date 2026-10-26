@@ -49,7 +49,7 @@ proxies:
   sni: hy.kirian.su
   tls: false
   type: hysteria2
-- name: 8|‍🟫74@oneclickvpnkeys
+- name: 8|🍄‍🟫74@oneclickvpnkeys
   password: 84a506ca5aca505696a454d828420b3f
   port: 50160
   server: 140.238.213.114
