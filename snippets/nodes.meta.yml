@@ -1,5 +1,5 @@
 proxies:
-- name: 8|@V2rayng_mar_ket
+- name: 8|@Shh_Proxy-New¹
   obfs: salamander
   obfs-password: 87d72c2949c0ca85bbda09459244e374
   password: 35d26d53bc
@@ -7,19 +7,6 @@ proxies:
   server: 109.104.153.124
   skip-cert-verify: false
   sni: srv-0e5387.frd21.ru
-  tls: false
-  type: hysteria2
-- name: 8|97@oneclickvpnkeys
-  password: 41edb44c8e
-  port: 11592
-  server: 103.88.243.142
-  sni: srv-17e124.21freedom.net
-  tls: false
-  type: hysteria2
-- name: 8|🐙99@oneclickvpnkeys
-  password: 41edb44c8e
-  port: 11592
-  server: srv-17e124.21freedom.net
   tls: false
   type: hysteria2
 - name: 8|7@oneclickvpnkeys
@@ -206,7 +193,35 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: '8|@V2rayng_mar_ket #1'
+- name: 8|8@oneclickvpnkeys
+  password: c0242d1b-db7a-4dcf-95ff-e10a3ef1c1a3
+  port: 4443
+  server: 31.77.8.44
+  sni: de4.shvpn.ru
+  tls: false
+  type: hysteria2
+- name: 8|9@oneclickvpnkeys
+  password: c0242d1b-db7a-4dcf-95ff-e10a3ef1c1a3
+  port: 4443
+  server: 31.77.8.55
+  sni: de5.shvpn.ru
+  tls: false
+  type: hysteria2
+- name: '8|7@oneclickvpnkeys #1'
+  password: c0242d1b-db7a-4dcf-95ff-e10a3ef1c1a3
+  port: 4443
+  server: 94.103.169.109
+  sni: de3.shvpn.ru
+  tls: false
+  type: hysteria2
+- name: 8|15@oneclickvpnkeys
+  password: c0242d1b-db7a-4dcf-95ff-e10a3ef1c1a3
+  port: 4443
+  server: 94.103.169.80
+  sni: de2.shvpn.ru
+  tls: false
+  type: hysteria2
+- name: 8|@V2rayng_mar_ket
   obfs: salamander
   obfs-password: ec66908dbc46e6920143d9b684adf277
   password: ca78f919e6
@@ -216,20 +231,7 @@ proxies:
   sni: srv-3fc7c9.21freedom.net
   tls: false
   type: hysteria2
-- name: 8|🐙32@oneclickvpnkeys
-  password: d4ca9415f0eac7897472e1e5b86d2e96
-  port: 443
-  server: 50.7.38.243
-  sni: promo.betust.net
-  tls: false
-  type: hysteria2
-- name: 8|🐙93@oneclickvpnkeys
-  password: d4ca9415f0eac7897472e1e5b86d2e96
-  port: 443
-  server: promo.betust.net
-  tls: false
-  type: hysteria2
-- name: 8|‍🟫73@oneclickvpnkeys
+- name: 8|🍄‍🟫73@oneclickvpnkeys
   password: dd50a499-7e43-4589-8490-f3b9c2451473
   port: 443
   server: nl-hy-test.tcp-reset-club.net
@@ -253,6 +255,14 @@ proxies:
   server: r5ycmuko.zibayeman.com
   skip-cert-verify: false
   sni: r5ycmuko.zibayeman.com
+  tls: false
+  type: hysteria2
+- name: 8|🐍13@oneclickvpnkeys
+  password: mhsl
+  port: 14444
+  server: 88.99.213.222
+  skip-cert-verify: true
+  sni: bing.com
   tls: false
   type: hysteria2
 - name: 8|🍄‍🟫41@oneclickvpnkeys
