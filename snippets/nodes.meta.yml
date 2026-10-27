@@ -1,14 +1,4 @@
 proxies:
-- name: 8|@V2rayng_mar_ket
-  obfs: salamander
-  obfs-password: 87d72c2949c0ca85bbda09459244e374
-  password: 35d26d53bc
-  port: 11592
-  server: 109.104.153.124
-  skip-cert-verify: false
-  sni: srv-0e5387.frd21.ru
-  tls: false
-  type: hysteria2
 - name: 8|Telegram:@v2rayng3
   obfs: salamander
   obfs-password: uw9b2qq5rx
@@ -155,7 +145,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: '8|@V2rayng_mar_ket #1'
+- name: 8|@V2rayng_mar_ket
   obfs: salamander
   obfs-password: ec66908dbc46e6920143d9b684adf277
   password: ca78f919e6
@@ -175,7 +165,7 @@ proxies:
   sni: nas.aizhzo.com
   tls: false
   type: hysteria2
-- name: 8|🆔️@ATLAS_V2VPN️️631
+- name: 8|️🆔️@ATLAS_V2VPN️️631
   obfs: salamander
   obfs-password: hfwq51con9efdxx6
   password: f04i31zq8sy80v9b
