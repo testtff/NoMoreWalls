@@ -1,4 +1,21 @@
 proxies:
+- name: 8|🇪AE-@VPNine1
+  password: 329e13e4-ee7c-4802-ac72-5fcab79c2402
+  port: 443
+  server: 217.60.72.225
+  sni: forshynewh.duckdns.org
+  tls: false
+  type: hysteria2
+- name: 8|@V2rayng_mar_ket
+  obfs: salamander
+  obfs-password: 87d72c2949c0ca85bbda09459244e374
+  password: 35d26d53bc
+  port: 11592
+  server: 109.104.153.124
+  skip-cert-verify: false
+  sni: srv-0e5387.frd21.ru
+  tls: false
+  type: hysteria2
 - name: 8|Telegram:@v2rayng3
   obfs: salamander
   obfs-password: uw9b2qq5rx
@@ -135,7 +152,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 8|@V2rayng_mar_ket
+- name: '8|@V2rayng_mar_ket #1'
   obfs: salamander
   obfs-password: ec66908dbc46e6920143d9b684adf277
   password: ca78f919e6
@@ -143,16 +160,6 @@ proxies:
   server: 155.94.134.183
   skip-cert-verify: false
   sni: srv-3fc7c9.21freedom.net
-  tls: false
-  type: hysteria2
-- name: 8|🇫🇷FR-@VPNine1
-  obfs: salamander
-  obfs-password: a56415ff1be77383
-  password: de698ab0-709d-413f-b21f-a914e5e7c603
-  port: 20230
-  server: 51.75.118.79
-  skip-cert-verify: true
-  sni: www.google.com
   tls: false
   type: hysteria2
 - name: 8|@vmess_ir
