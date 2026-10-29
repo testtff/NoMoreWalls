@@ -9,16 +9,6 @@ proxies:
   sni: srv-0e5387.frd21.ru
   tls: false
   type: hysteria2
-- name: 8|🇫🇷FR-🚀@VPNine1
-  obfs: salamander
-  obfs-password: ad7088dafb02115c
-  password: 418ddc75-aa9c-4e5d-a9a3-82c50a5a02b6
-  port: 20222
-  server: 51.75.118.5
-  skip-cert-verify: true
-  sni: www.google.com
-  tls: false
-  type: hysteria2
 - name: 8|Telegram:@v2rayng3
   obfs: salamander
   obfs-password: uw9b2qq5rx
@@ -29,14 +19,17 @@ proxies:
   sni: fiproxy1.lockdwn.com
   tls: false
   type: hysteria2
-- name: 8|🇫@Azaranv2ray
-  obfs: salamander
-  obfs-password: 9VK3Nqd0bcXGPxcay9hRLY28HBtKo5
-  password: 77f73bd5-51bf-4143-8ebd-02f56ba376f4
-  port: 21000
-  server: 79.137.206.157
-  skip-cert-verify: false
-  sni: hy.kirian.su
+- name: 8|🇳🇱NL-@VPNine1
+  password: 6da2c981-8c77-4340-bda3-93399b7aea26
+  port: 443
+  server: 144.124.245.52
+  sni: store.blog-forme.ru
+  tls: false
+  type: hysteria2
+- name: 8|🇳🇱NL-🚀@VPNine1
+  password: 6da2c981-8c77-4340-bda3-93399b7aea26
+  port: 443
+  server: store.blog-forme.ru
   tls: false
   type: hysteria2
 - name: 8|+@Azarakhsh_Proxy+
