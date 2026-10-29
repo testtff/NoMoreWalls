@@ -1,11 +1,4 @@
 proxies:
-- name: 8|🇫🇷FR-@VPNine1
-  password: 1953e43b-605c-4262-83eb-41a80646b801
-  port: 443
-  server: 31.185.105.12
-  sni: fr.song69.fun
-  tls: false
-  type: hysteria2
 - name: 8|@V2rayng_mar_ket
   obfs: salamander
   obfs-password: 87d72c2949c0ca85bbda09459244e374
@@ -14,6 +7,16 @@ proxies:
   server: 109.104.153.124
   skip-cert-verify: false
   sni: srv-0e5387.frd21.ru
+  tls: false
+  type: hysteria2
+- name: 8|🇫🇷FR-🚀@VPNine1
+  obfs: salamander
+  obfs-password: ad7088dafb02115c
+  password: 418ddc75-aa9c-4e5d-a9a3-82c50a5a02b6
+  port: 20222
+  server: 51.75.118.5
+  skip-cert-verify: true
+  sni: www.google.com
   tls: false
   type: hysteria2
 - name: 8|Telegram:@v2rayng3
@@ -99,37 +102,23 @@ proxies:
   sni: de2.jey.cc.cd
   tls: false
   type: hysteria2
-- alpn:
-  - h3
-  name: '8|Telegram@vpnjey #5'
-  obfs: salamander
-  obfs-password: Telegram@vpnjey
-  password: Telegram
-  port: 443
-  server: 31.76.27.23
-  skip-cert-verify: true
-  sni: de.vpnjey.store
-  tls: false
-  type: hysteria2
-- alpn:
-  - h3
-  name: '8|Telegram@vpnjey #6'
-  obfs: salamander
-  obfs-password: Telegram@vpnjey
-  password: Telegram
-  port: 443
-  server: 77.110.96.201
-  skip-cert-verify: true
-  sni: se.vpnjey2.dpdns.org
-  tls: false
-  type: hysteria2
-- name: '8|Telegram@vpnjey #7'
+- name: '8|Telegram@vpnjey #5'
   obfs: salamander
   obfs-password: Telegram@vpnjey
   password: Telegram@vpnjey
   port: 54759
   server: 179.61.138.145
   skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: '8|Telegram@vpnjey #6'
+  obfs: salamander
+  obfs-password: Telegram@vpnjey
+  password: VPNJEY
+  port: 36264
+  server: 179.61.138.145
+  skip-cert-verify: true
+  sni: de2.jey.cc.cd
   tls: false
   type: hysteria2
 - name: 8|@KAFING_2
@@ -192,7 +181,7 @@ proxies:
   sni: hy2.aspidnet.xyz
   tls: false
   type: hysteria2
-- name: '8|Telegram@vpnjey #8'
+- name: '8|Telegram@vpnjey #7'
   obfs: salamander
   obfs-password: Telegram@vpnjey
   password: vpnjey
