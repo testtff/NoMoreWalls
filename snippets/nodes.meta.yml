@@ -19,6 +19,36 @@ proxies:
   sni: fiproxy1.lockdwn.com
   tls: false
   type: hysteria2
+- name: 8|@tootffarangi
+  obfs: salamander
+  obfs-password: 9765192816a553687801bb170ee1c351
+  password: EjPhwMiHdy7zTIeM5kP0ZA
+  port: 25000
+  server: fenrir.cc.cd
+  skip-cert-verify: false
+  sni: fenrir.cc.cd
+  tls: false
+  type: hysteria2
+- name: 8|NL-@VPNine1
+  obfs: salamander
+  obfs-password: HysteriaHowdy
+  password: HowdyHysteria2023w0W
+  port: 8443
+  server: hysteria.udpgw.com
+  skip-cert-verify: true
+  sni: sni-here.com
+  tls: false
+  type: hysteria2
+- name: 8|@tootffarangi🍓
+  obfs: salamander
+  obfs-password: 9765192816a553687801bb170ee1c351
+  password: HyWarp_1Duy5hQD__8PVu-k
+  port: 25000
+  server: fenrir.cc.cd
+  skip-cert-verify: false
+  sni: fenrir.cc.cd
+  tls: false
+  type: hysteria2
 - name: 8|+@Azarakhsh_Proxy+
   obfs: salamander
   obfs-password: KevinZakarian

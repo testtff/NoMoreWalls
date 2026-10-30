@@ -1,5 +1,8 @@
 hysteria2://35d26d53bc@109.104.153.124:11592?insecure=0&sni=srv-0e5387.frd21.ru&obfs=salamander&obfs-password=87d72c2949c0ca85bbda09459244e374#8%7C%40V2rayng_mar_ket
 hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?insecure=0&sni=fiproxy1.lockdwn.com&obfs=salamander&obfs-password=uw9b2qq5rx#8%7CTelegram%3A%40v2rayng3
+hysteria2://EjPhwMiHdy7zTIeM5kP0ZA@fenrir.cc.cd:25000?insecure=0&sni=fenrir.cc.cd&obfs=salamander&obfs-password=9765192816a553687801bb170ee1c351#8%7C%40tootffarangi
+hysteria2://HowdyHysteria2023w0W@hysteria.udpgw.com:8443?insecure=1&sni=sni-here.com&obfs=salamander&obfs-password=HysteriaHowdy#8%7CNL-%40VPNine1
+hysteria2://HyWarp_1Duy5hQD__8PVu-k@fenrir.cc.cd:25000?insecure=0&sni=fenrir.cc.cd&obfs=salamander&obfs-password=9765192816a553687801bb170ee1c351#8%7C%40tootffarangi%F0%9F%8D%93
 hysteria2://KevinZakarian@179.61.132.96:8443?insecure=1&sni=179.61.132.96&obfs=salamander&obfs-password=KevinZakarian#8%7C%2B%40Azarakhsh_Proxy%2B
 hysteria2://Telegram-Vpnjey@179.61.138.145:54759?insecure=1&obfs=salamander&obfs-password=Telegram@vpnjey#8%7CTelegram%40vpnjey
 hysteria2://Telegram-vpnjey@179.61.138.145:36264?insecure=1&sni=de2.jey.cc.cd&obfs=salamander&obfs-password=Telegram@vpnjey#8%7CTelegram%40vpnjey%20%231
