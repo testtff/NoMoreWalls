@@ -9,6 +9,13 @@ proxies:
   sni: fiproxy1.lockdwn.com
   tls: false
   type: hysteria2
+- name: 8|🇳🇱NL-@VPNine1
+  password: 6da2c981-8c77-4340-bda3-93399b7aea26
+  port: 443
+  server: 195.63.146.10
+  sni: video.blog-forme.ru
+  tls: false
+  type: hysteria2
 - name: 8|+@Azarakhsh_Proxy+
   obfs: salamander
   obfs-password: KevinZakarian
