@@ -1,16 +1,4 @@
 proxies:
-- alpn:
-  - h3
-  name: 8|@FXxNET⚡️
-  obfs: salamander
-  obfs-password: litevpn
-  password: 59018379-d5df-4314-ab23-df0e838d7953
-  port: 443
-  server: 198.13.140.193
-  skip-cert-verify: false
-  sni: efa11.lumariqis.com
-  tls: false
-  type: hysteria2
 - name: 8|Telegram:@v2rayng3
   obfs: salamander
   obfs-password: uw9b2qq5rx
@@ -131,6 +119,13 @@ proxies:
   server: 5.175.249.174
   skip-cert-verify: true
   sni: api.kermanshahi.org
+  tls: false
+  type: hysteria2
+- name: 8|🇳🇱NL-🚀@VPNine1
+  password: e48078c8-21ae-4d27-9438-b85492972894
+  port: 443
+  server: 84.245.18.209
+  sni: hy.gerqix.autos
   tls: false
   type: hysteria2
 - name: 8|@vmess_ir
