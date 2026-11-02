@@ -1,4 +1,43 @@
 proxies:
+- name: 8|🎃62@oneclickvpnkeys
+  password: 2a0fc918-9c61-451b-a9ad-e8f796e70f52
+  port: 443
+  server: 177.3.220.9
+  sni: nl1.obxodvpn.us
+  tls: false
+  type: hysteria2
+- name: 8|🎃44@oneclickvpnkeys
+  password: 2a0fc918-9c61-451b-a9ad-e8f796e70f52
+  port: 443
+  server: 45.192.12.83
+  skip-cert-verify: true
+  sni: nl1.obxodvpn.us
+  tls: false
+  type: hysteria2
+- name: 8|🎃12@oneclickvpnkeys
+  password: 2a0fc918-9c61-451b-a9ad-e8f796e70f52
+  port: 443
+  server: 9.247.54.69
+  skip-cert-verify: true
+  sni: nl1.obxodvpn.us
+  tls: false
+  type: hysteria2
+- name: 8|7@oneclickvpnkeys
+  obfs: salamander
+  obfs-password: litevpn
+  password: 59018379-d5df-4314-ab23-df0e838d7953
+  port: 443
+  server: 198.13.140.193
+  sni: efa11.lumariqis.com
+  tls: false
+  type: hysteria2
+- name: 8|🇺🇸US-@VPNine1
+  password: 63e1b9462d708b56d5d5a0267cffecdc
+  port: 443
+  server: 88.216.195.188
+  sni: promo3.goonars.com
+  tls: false
+  type: hysteria2
 - name: 8|Telegram:@v2rayng3
   obfs: salamander
   obfs-password: uw9b2qq5rx
@@ -9,6 +48,44 @@ proxies:
   sni: fiproxy1.lockdwn.com
   tls: false
   type: hysteria2
+- name: 8|🎃37@oneclickvpnkeys
+  password: 6da2c981-8c77-4340-bda3-93399b7aea26
+  port: 443
+  server: 163.245.41.48
+  sni: blogs.blog-forme.ru
+  tls: false
+  type: hysteria2
+- name: 8|🎃91@oneclickvpnkeys
+  password: 6da2c981-8c77-4340-bda3-93399b7aea26
+  port: 443
+  server: 195.63.146.10
+  sni: video.blog-forme.ru
+  tls: false
+  type: hysteria2
+- name: 8|🎃71@oneclickvpnkeys
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 18.193.79.104
+  skip-cert-verify: true
+  sni: 18.193.79.104
+  tls: false
+  type: hysteria2
+- name: 8|🎃96@oneclickvpnkeys
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 3.76.221.4
+  skip-cert-verify: true
+  sni: 3.76.221.4
+  tls: false
+  type: hysteria2
+- name: 8|⚡73@oneclickvpnkeys
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: vpn-de-002.fastervpn.world
+  skip-cert-verify: true
+  sni: vpn-de-002.fastervpn.world
+  tls: false
+  type: hysteria2
 - name: 8|+@Azarakhsh_Proxy+
   obfs: salamander
   obfs-password: KevinZakarian
@@ -17,16 +94,6 @@ proxies:
   server: 179.61.132.96
   skip-cert-verify: true
   sni: 179.61.132.96
-  tls: false
-  type: hysteria2
-- name: 8|@vpnbaz
-  obfs: salamander
-  obfs-password: SalamanderNL2026
-  password: NL2026hy
-  port: 8443
-  server: 147.45.149.88
-  skip-cert-verify: false
-  sni: nl.nobelchat.ru
   tls: false
   type: hysteria2
 - name: 8|Telegram@vpnjey
@@ -101,6 +168,29 @@ proxies:
   sni: de2.jey.cc.cd
   tls: false
   type: hysteria2
+- name: 8|🎃93@oneclickvpnkeys
+  password: a35c508f-4d5d-4531-842e-6e9d43c762c0
+  port: 4444
+  server: 13.143.189.105
+  skip-cert-verify: true
+  sni: pl2.nexfile.net
+  tls: false
+  type: hysteria2
+- name: 8|🎃94@oneclickvpnkeys
+  password: a35c508f-4d5d-4531-842e-6e9d43c762c0
+  port: 4444
+  server: 13.143.189.106
+  sni: pl2.nexfile.net
+  tls: false
+  type: hysteria2
+- name: 8|🎃34@oneclickvpnkeys
+  password: a35c508f-4d5d-4531-842e-6e9d43c762c0
+  port: 4444
+  server: 13.143.189.96
+  skip-cert-verify: true
+  sni: pl3.nexfile.net
+  tls: false
+  type: hysteria2
 - name: 8|@KAFING_2
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
@@ -119,6 +209,20 @@ proxies:
   server: 5.175.249.174
   skip-cert-verify: true
   sni: api.kermanshahi.org
+  tls: false
+  type: hysteria2
+- name: 8|⚡15@oneclickvpnkeys
+  password: e48078c8-21ae-4d27-9438-b85492972894
+  port: 443
+  server: 84.245.18.209
+  sni: hy.gerqix.autos
+  tls: false
+  type: hysteria2
+- name: 8|⚡8@oneclickvpnkeys
+  password: e5ec2586-59b3-40fa-91b7-bb37a2f7744e
+  port: 443
+  server: 45.88.12.26
+  sni: crt.onecloudstream.com
   tls: false
   type: hysteria2
 - name: 8|@vmess_ir
@@ -141,7 +245,15 @@ proxies:
   sni: r5ycmuko.zibayeman.com
   tls: false
   type: hysteria2
-- name: 8|@vpnbaz🍂
+- name: 8|39@oneclickvpnkeys
+  password: gf1
+  port: 443
+  server: 173.212.201.85
+  skip-cert-verify: true
+  sni: www.docker.com
+  tls: false
+  type: hysteria2
+- name: 8|🇪AE-🚀@VPNine1
   obfs: salamander
   obfs-password: rG07s3COMIEvdnQipRyWzx_H_2xygNC3
   password: p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR
