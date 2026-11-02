@@ -1,13 +1,22 @@
 proxies:
-- name: 8|🎃44@oneclickvpnkeys
-  password: 2a0fc918-9c61-451b-a9ad-e8f796e70f52
-  port: 443
-  server: 45.192.12.83
-  skip-cert-verify: true
-  sni: nl1.obxodvpn.us
+- name: 7|@VPNConnectd
+  obfs: salamander
+  obfs-password: qkdqum5rllpyup7h
+  password: dq6rfcyex30h1b6z
+  port: 22357
+  server: ll5xoe8j.easyiran.org
+  sni: ll5xoe8j.easyiran.org
   tls: false
   type: hysteria2
-- name: 8|⚡7@oneclickvpnkeys
+- name: 8|⏳74@oneclickvpnkeys
+  password: 1671a252e2a97dc2bda4e515475931da
+  port: 50160
+  server: 132.226.226.189
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: false
+  type: hysteria2
+- name: 8|7@oneclickvpnkeys
   obfs: salamander
   obfs-password: litevpn
   password: 59018379-d5df-4314-ab23-df0e838d7953
@@ -33,7 +42,7 @@ proxies:
   sni: fiproxy1.lockdwn.com
   tls: false
   type: hysteria2
-- name: 8|🎃37@oneclickvpnkeys
+- name: 8|37@oneclickvpnkeys
   password: 6da2c981-8c77-4340-bda3-93399b7aea26
   port: 443
   server: 163.245.41.48
@@ -47,12 +56,27 @@ proxies:
   sni: video.blog-forme.ru
   tls: false
   type: hysteria2
-- name: 8|🎃71@oneclickvpnkeys
+- name: 8|⏳1@oneclickvpnkeys
+  password: 70043bfa-d6fb-4980-b27e-773e9e8b2004
+  port: 443
+  server: 141.0.187.15
+  sni: crt.onecloudstream.com
+  tls: false
+  type: hysteria2
+- name: 8|🇸🇪SE-@VPNine1
+  password: 769f34f0-1500-488f-b414-03bc90666502
+  port: 443
+  server: se.mimowhat.online
+  skip-cert-verify: false
+  sni: se.mimowhat.online
+  tls: false
+  type: hysteria2
+- name: 8|⏳71@oneclickvpnkeys
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
   port: 443
-  server: 18.193.79.104
+  server: 160.187.100.109
   skip-cert-verify: true
-  sni: 18.193.79.104
+  sni: 160.187.100.109
   tls: false
   type: hysteria2
 - name: 8|🎃96@oneclickvpnkeys
@@ -153,14 +177,6 @@ proxies:
   sni: de2.jey.cc.cd
   tls: false
   type: hysteria2
-- name: 8|@FXxNET⚡️
-  password: a35c508f-4d5d-4531-842e-6e9d43c762c0
-  port: 4444
-  server: 13.143.188.143
-  skip-cert-verify: true
-  sni: bl1.nexfile.net
-  tls: false
-  type: hysteria2
 - name: 8|🎃93@oneclickvpnkeys
   password: a35c508f-4d5d-4531-842e-6e9d43c762c0
   port: 4444
@@ -211,7 +227,7 @@ proxies:
   sni: hy.gerqix.autos
   tls: false
   type: hysteria2
-- name: 8|⚡8@oneclickvpnkeys
+- name: 8|8@oneclickvpnkeys
   password: e5ec2586-59b3-40fa-91b7-bb37a2f7744e
   port: 443
   server: 45.88.12.26
@@ -226,6 +242,16 @@ proxies:
   server: nas.aizhzo.com
   skip-cert-verify: false
   sni: nas.aizhzo.com
+  tls: false
+  type: hysteria2
+- name: 8|@tootffarangi🍓-1
+  obfs: salamander
+  obfs-password: egnqz8stetfo2ci9
+  password: eik6hcffscbuqdbt
+  port: 46183
+  server: kp09bn7y.easyiran.org
+  skip-cert-verify: false
+  sni: kp09bn7y.easyiran.org
   tls: false
   type: hysteria2
 - name: 8|️🆔️@ATLAS_V2VPN️️631
@@ -244,6 +270,14 @@ proxies:
   server: 173.212.201.85
   skip-cert-verify: true
   sni: www.docker.com
+  tls: false
+  type: hysteria2
+- name: 8|⏳73@oneclickvpnkeys
+  password: maintell
+  port: 2053
+  server: 152.70.237.123
+  skip-cert-verify: true
+  sni: bing.com
   tls: false
   type: hysteria2
 - name: '8|@confiig_hub #1'
