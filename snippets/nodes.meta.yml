@@ -16,20 +16,18 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 8|7@oneclickvpnkeys
-  obfs: salamander
-  obfs-password: litevpn
-  password: 59018379-d5df-4314-ab23-df0e838d7953
-  port: 443
-  server: 198.13.140.193
-  sni: efa11.lumariqis.com
-  tls: false
-  type: hysteria2
-- name: 8|⚡96@oneclickvpnkeys
+- name: 8|96@oneclickvpnkeys
   password: 63e1b9462d708b56d5d5a0267cffecdc
   port: 443
   server: 88.216.195.188
   sni: promo3.goonars.com
+  tls: false
+  type: hysteria2
+- name: 8|⏳94@oneclickvpnkeys
+  password: 69e41e64-a832-471a-b740-94577ca85520
+  port: 443
+  server: forshynewh.duckdns.org
+  sni: forshynewh.duckdns.org
   tls: false
   type: hysteria2
 - name: 8|Telegram:@v2rayng3
@@ -42,33 +40,11 @@ proxies:
   sni: fiproxy1.lockdwn.com
   tls: false
   type: hysteria2
-- name: 8|37@oneclickvpnkeys
-  password: 6da2c981-8c77-4340-bda3-93399b7aea26
-  port: 443
-  server: 163.245.41.48
-  sni: blogs.blog-forme.ru
-  tls: false
-  type: hysteria2
-- name: 8|🎃91@oneclickvpnkeys
-  password: 6da2c981-8c77-4340-bda3-93399b7aea26
-  port: 443
-  server: 195.63.146.10
-  sni: video.blog-forme.ru
-  tls: false
-  type: hysteria2
 - name: 8|⏳1@oneclickvpnkeys
   password: 70043bfa-d6fb-4980-b27e-773e9e8b2004
   port: 443
   server: 141.0.187.15
   sni: crt.onecloudstream.com
-  tls: false
-  type: hysteria2
-- name: 8|🇸🇪SE-@VPNine1
-  password: 769f34f0-1500-488f-b414-03bc90666502
-  port: 443
-  server: se.mimowhat.online
-  skip-cert-verify: false
-  sni: se.mimowhat.online
   tls: false
   type: hysteria2
 - name: 8|⏳71@oneclickvpnkeys
@@ -77,14 +53,6 @@ proxies:
   server: 160.187.100.109
   skip-cert-verify: true
   sni: 160.187.100.109
-  tls: false
-  type: hysteria2
-- name: 8|🎃96@oneclickvpnkeys
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: 443
-  server: 3.76.221.4
-  skip-cert-verify: true
-  sni: 3.76.221.4
   tls: false
   type: hysteria2
 - name: 8|⚡73@oneclickvpnkeys
@@ -177,29 +145,6 @@ proxies:
   sni: de2.jey.cc.cd
   tls: false
   type: hysteria2
-- name: 8|🎃93@oneclickvpnkeys
-  password: a35c508f-4d5d-4531-842e-6e9d43c762c0
-  port: 4444
-  server: 13.143.189.105
-  skip-cert-verify: true
-  sni: pl2.nexfile.net
-  tls: false
-  type: hysteria2
-- name: 8|🎃94@oneclickvpnkeys
-  password: a35c508f-4d5d-4531-842e-6e9d43c762c0
-  port: 4444
-  server: 13.143.189.106
-  sni: pl2.nexfile.net
-  tls: false
-  type: hysteria2
-- name: 8|🎃34@oneclickvpnkeys
-  password: a35c508f-4d5d-4531-842e-6e9d43c762c0
-  port: 4444
-  server: 13.143.189.96
-  skip-cert-verify: true
-  sni: pl3.nexfile.net
-  tls: false
-  type: hysteria2
 - name: 8|@KAFING_2
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
@@ -220,20 +165,6 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 8|⚡15@oneclickvpnkeys
-  password: e48078c8-21ae-4d27-9438-b85492972894
-  port: 443
-  server: 84.245.18.209
-  sni: hy.gerqix.autos
-  tls: false
-  type: hysteria2
-- name: 8|8@oneclickvpnkeys
-  password: e5ec2586-59b3-40fa-91b7-bb37a2f7744e
-  port: 443
-  server: 45.88.12.26
-  sni: crt.onecloudstream.com
-  tls: false
-  type: hysteria2
 - name: 8|@vmess_ir
   obfs: salamander
   obfs-password: 7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9
@@ -242,16 +173,6 @@ proxies:
   server: nas.aizhzo.com
   skip-cert-verify: false
   sni: nas.aizhzo.com
-  tls: false
-  type: hysteria2
-- name: 8|@tootffarangi🍓-1
-  obfs: salamander
-  obfs-password: egnqz8stetfo2ci9
-  password: eik6hcffscbuqdbt
-  port: 46183
-  server: kp09bn7y.easyiran.org
-  skip-cert-verify: false
-  sni: kp09bn7y.easyiran.org
   tls: false
   type: hysteria2
 - name: 8|️🆔️@ATLAS_V2VPN️️631
@@ -264,12 +185,21 @@ proxies:
   sni: r5ycmuko.zibayeman.com
   tls: false
   type: hysteria2
-- name: 8|39@oneclickvpnkeys
-  password: gf1
+- name: 8|13@oneclickvpnkeys
+  password: f4b80b26-b6d4-49a6-a460-f50efb7a457c
   port: 443
-  server: 173.212.201.85
-  skip-cert-verify: true
-  sni: www.docker.com
+  server: 45.91.237.78
+  sni: node.aweom.su
+  tls: false
+  type: hysteria2
+- name: 8|@ConfigV2RayNG
+  obfs: salamander
+  obfs-password: 7922smqtd5qm70fu
+  password: h05ff7mbgbj6dhwy
+  port: 2098
+  server: panel.trapxan.ir
+  skip-cert-verify: false
+  sni: panel.trapxan.ir
   tls: false
   type: hysteria2
 - name: 8|⏳73@oneclickvpnkeys
