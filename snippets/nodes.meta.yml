@@ -7,6 +7,16 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
+- name: 8|@tootffarangi
+  obfs: salamander
+  obfs-password: 6ae3fff53efc6d7e
+  password: 541d46d8-5fc6-4d57-a7c4-9ccd3b5966eb
+  port: 20222
+  server: 51.75.118.5
+  skip-cert-verify: true
+  sni: www.google.com
+  tls: false
+  type: hysteria2
 - name: 8|⏳94@oneclickvpnkeys
   password: 69e41e64-a832-471a-b740-94577ca85520
   port: 443
@@ -121,7 +131,7 @@ proxies:
   sni: de2.jey.cc.cd
   tls: false
   type: hysteria2
-- name: 8|66@oneclickvpnkeys
+- name: 8|🍪66@oneclickvpnkeys
   password: a35c508f-4d5d-4531-842e-6e9d43c762c0
   port: 4444
   server: 13.143.188.143
@@ -129,7 +139,7 @@ proxies:
   sni: bl1.nexfile.net
   tls: false
   type: hysteria2
-- name: 8|@vasl_bashim
+- name: '8|@vasl_bashim #1'
   password: a35c508f-4d5d-4531-842e-6e9d43c762c0
   port: 4444
   server: 13.143.189.105
@@ -153,7 +163,7 @@ proxies:
   sni: pl3.nexfile.net
   tls: false
   type: hysteria2
-- name: 8|61@oneclickvpnkeys
+- name: 8|🍪61@oneclickvpnkeys
   password: a35c508f-4d5d-4531-842e-6e9d43c762c0
   port: 4444
   server: 13.143.189.143
@@ -176,7 +186,15 @@ proxies:
   sni: pl2.nexfile.net
   tls: false
   type: hysteria2
-- name: 8|73@oneclickvpnkeys
+- name: '8|@vasl_bashim #6'
+  password: a35c508f-4d5d-4531-842e-6e9d43c762c0
+  port: 4444
+  server: 13.143.189.96
+  skip-cert-verify: false
+  sni: pl3.nexfile.net
+  tls: false
+  type: hysteria2
+- name: 8|🍪73@oneclickvpnkeys
   password: a35c508f-4d5d-4531-842e-6e9d43c762c0
   port: 4444
   server: pl3.nexfile.net
@@ -228,16 +246,6 @@ proxies:
   port: 443
   server: 45.91.237.78
   sni: node.aweom.su
-  tls: false
-  type: hysteria2
-- name: 8|@ConfigV2RayNG
-  obfs: salamander
-  obfs-password: 7922smqtd5qm70fu
-  password: h05ff7mbgbj6dhwy
-  port: 2098
-  server: panel.trapxan.ir
-  skip-cert-verify: false
-  sni: panel.trapxan.ir
   tls: false
   type: hysteria2
 - name: 8|⏳73@oneclickvpnkeys
