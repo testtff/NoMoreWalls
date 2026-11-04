@@ -1,26 +1,10 @@
 proxies:
-- name: 7|@VPNConnectd
-  obfs: salamander
-  obfs-password: qkdqum5rllpyup7h
-  password: dq6rfcyex30h1b6z
-  port: 22357
-  server: ll5xoe8j.easyiran.org
-  sni: ll5xoe8j.easyiran.org
-  tls: false
-  type: hysteria2
 - name: 8|⏳74@oneclickvpnkeys
   password: 1671a252e2a97dc2bda4e515475931da
   port: 50160
   server: 132.226.226.189
   skip-cert-verify: true
   sni: www.bing.com
-  tls: false
-  type: hysteria2
-- name: 8|96@oneclickvpnkeys
-  password: 63e1b9462d708b56d5d5a0267cffecdc
-  port: 443
-  server: 88.216.195.188
-  sni: promo3.goonars.com
   tls: false
   type: hysteria2
 - name: 8|⏳94@oneclickvpnkeys
@@ -55,14 +39,6 @@ proxies:
   sni: 160.187.100.109
   tls: false
   type: hysteria2
-- name: 8|⚡73@oneclickvpnkeys
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: 443
-  server: vpn-de-002.fastervpn.world
-  skip-cert-verify: true
-  sni: vpn-de-002.fastervpn.world
-  tls: false
-  type: hysteria2
 - name: 8|+@Azarakhsh_Proxy+
   obfs: salamander
   obfs-password: KevinZakarian
@@ -71,14 +47,6 @@ proxies:
   server: 179.61.132.96
   skip-cert-verify: true
   sni: 179.61.132.96
-  tls: false
-  type: hysteria2
-- name: 8|@tootffarangi
-  password: Telegram--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X-
-  port: 26503
-  server: ir.config7x.site
-  skip-cert-verify: false
-  sni: hy.config7x.site
   tls: false
   type: hysteria2
 - name: 8|Telegram@vpnjey
@@ -153,7 +121,15 @@ proxies:
   sni: de2.jey.cc.cd
   tls: false
   type: hysteria2
-- name: '8|@tootffarangi🍓 #1'
+- name: 8|66@oneclickvpnkeys
+  password: a35c508f-4d5d-4531-842e-6e9d43c762c0
+  port: 4444
+  server: 13.143.188.143
+  skip-cert-verify: true
+  sni: bl1.nexfile.net
+  tls: false
+  type: hysteria2
+- name: 8|@vasl_bashim
   password: a35c508f-4d5d-4531-842e-6e9d43c762c0
   port: 4444
   server: 13.143.189.105
@@ -161,7 +137,7 @@ proxies:
   sni: pl2.nexfile.net
   tls: false
   type: hysteria2
-- name: '8|@tootffarangi🍓 #3'
+- name: 8|@vpnbaz
   password: a35c508f-4d5d-4531-842e-6e9d43c762c0
   port: 4444
   server: 13.143.189.106
@@ -169,7 +145,7 @@ proxies:
   sni: pl2.nexfile.net
   tls: false
   type: hysteria2
-- name: '8|@tootffarangi🍓 #5'
+- name: '8|@vpnbaz #1'
   password: a35c508f-4d5d-4531-842e-6e9d43c762c0
   port: 4444
   server: 13.143.189.142
@@ -177,7 +153,14 @@ proxies:
   sni: pl3.nexfile.net
   tls: false
   type: hysteria2
-- name: '8|@tootffarangi🍓 #7'
+- name: 8|61@oneclickvpnkeys
+  password: a35c508f-4d5d-4531-842e-6e9d43c762c0
+  port: 4444
+  server: 13.143.189.143
+  sni: pl3.nexfile.net
+  tls: false
+  type: hysteria2
+- name: '8|@vpnbaz #2'
   password: a35c508f-4d5d-4531-842e-6e9d43c762c0
   port: 4444
   server: 13.143.189.147
@@ -185,12 +168,19 @@ proxies:
   sni: pl2.nexfile.net
   tls: false
   type: hysteria2
-- name: '8|@tootffarangi🍓 #9'
+- name: '8|@vpnbaz #3'
   password: a35c508f-4d5d-4531-842e-6e9d43c762c0
   port: 4444
   server: 13.143.189.149
   skip-cert-verify: false
   sni: pl2.nexfile.net
+  tls: false
+  type: hysteria2
+- name: 8|73@oneclickvpnkeys
+  password: a35c508f-4d5d-4531-842e-6e9d43c762c0
+  port: 4444
+  server: pl3.nexfile.net
+  sni: pl3.nexfile.net
   tls: false
   type: hysteria2
 - name: 8|@KAFING_2
@@ -223,7 +213,7 @@ proxies:
   sni: nas.aizhzo.com
   tls: false
   type: hysteria2
-- name: 8|️🆔️@ATLAS_V2VPN️️631
+- name: 8|️️@ATLAS_V2VPN️️631
   obfs: salamander
   obfs-password: hfwq51con9efdxx6
   password: f04i31zq8sy80v9b
@@ -268,7 +258,7 @@ proxies:
   sni: hy2.aspidnet.xyz
   tls: false
   type: hysteria2
-- name: 8|42@oneclickvpnkeys
+- name: 8|🍪42@oneclickvpnkeys
   obfs: salamander
   obfs-password: 7kydvvvn3bwt66ff
   password: ripa841juk7gwn4t
