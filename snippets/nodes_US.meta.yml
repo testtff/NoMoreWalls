@@ -1,4 +1,13 @@
 proxies:
+- name: 8|🇺🇸US-@VPNine1
+  obfs: salamander
+  obfs-password: sbxbz19890604
+  password: 41d4f8b3-2a45-4531-a33b-938e2eebb939
+  port: 443
+  server: oh.sbbz.tech
+  sni: oh.sbbz.tech
+  tls: false
+  type: hysteria2
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
   name: 13,14|🇺🇸US02|@ripaojiedian
