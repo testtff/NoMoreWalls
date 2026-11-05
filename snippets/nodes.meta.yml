@@ -15,15 +15,6 @@ proxies:
   sni: b8c1a181-tmm5c0-twuk0i-1hzyr.los.hyhuawei.com
   tls: false
   type: hysteria2
-- name: 8|🇺🇸US-@VPNine1
-  obfs: salamander
-  obfs-password: sbxbz19890604
-  password: 41d4f8b3-2a45-4531-a33b-938e2eebb939
-  port: 443
-  server: oh.sbbz.tech
-  sni: oh.sbbz.tech
-  tls: false
-  type: hysteria2
 - name: 8|95@oneclickvpnkeys
   password: 5a4c13ae-6673-11ee-a149-f23c9164ca5d
   port: 443
@@ -329,7 +320,21 @@ proxies:
   sni: de2.jey.cc.cd
   tls: false
   type: hysteria2
-- name: 8|@tootffarangi🍓
+- alpn:
+  - h3
+  - h2
+  - http/1.1
+  name: 8|@tootffarangi🍓
+  obfs: salamander
+  obfs-password: a99lje1n7ystml9q
+  password: xo43w4tc13ou2h3x
+  port: 50000
+  server: mein-1.octavia.dpdns.org
+  skip-cert-verify: false
+  sni: main-1.octavia.dpdns.org
+  tls: false
+  type: hysteria2
+- name: '8|@tootffarangi🍓 #1'
   obfs: salamander
   obfs-password: ckwudzzsfoltmbmi
   password: xo43w4tc13ou2h3x
