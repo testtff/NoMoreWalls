@@ -13,9 +13,8 @@ hysteria2://Telegram%40vpnjey@179.61.138.145:54759?insecure=1&obfs=salamander&ob
 hysteria2://VPNJEY@179.61.138.145:36264?insecure=1&sni=de2.jey.cc.cd&obfs=salamander&obfs-password=Telegram@vpnjey#8%7CTelegram%40vpnjey%20%234
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.142:4444?insecure=0&sni=pl3.nexfile.net#8%7C%40vasl_bashim%20%231
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.149:4444?insecure=0&sni=pl2.nexfile.net#8%7C%40vasl_bashim%20%232
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.80:4444?insecure=1&sni=pl3.nexfile.net#8%7C63%40oneclickvpnkeys
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.96:4444?insecure=0&sni=pl3.nexfile.net#8%7C%40vasl_bashim%20%233
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@2.27.210.6:4444?insecure=1&sni=lv2.nexfile.net#8%7C45%40oneclickvpnkeys
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@2.27.210.6:4444?insecure=1&sni=lv2.nexfile.net#8%7C%F0%9F%9A%A945%40oneclickvpnkeys
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#8%7C%40KAFING_2
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#8%7C%40KAFING_2%20%232
 hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@nas.aizhzo.com:5010?insecure=0&sni=nas.aizhzo.com&obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9#8%7C%40Selinc
@@ -78,5 +77,5 @@ vless://bcf07b50-9da7-44dc-a955-43302f12e1e5@37.235.249.12:443?allowInsecure=0&s
 vless://fd0a5c32-afc0-4d57-b95a-ca6ec8f93e87@193.160.141.27:443?allowInsecure=0&sni=abuse.ozon.ru&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#15%7CTR_speednode_0038
 vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@mx001.zestapp778.com:19167?allowInsecure=0&sni=mx001.zestapp778.com&fp=chrome&security=tls#15%7CUS_speednode_0042
 vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@130.94.18.208:54857?allowInsecure=0&sni=us001.zestapp778.com&fp=firefox&security=tls#15%7CUS_speednode_0043
-https://Nr5naf.absslk.xyz/e98af01c1d1a5c4506aead30efa93f08
 anytls://2f4c3fc5-8fa2-4576-a583-8f98a6026887@tw.ccwink.cc:6549/?insecure=1&sni=baidu.com#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BE%EF%BD%9C02%EF%BD%9CHiNet
+https://Nr5naf.absslk.xyz/e98af01c1d1a5c4506aead30efa93f08

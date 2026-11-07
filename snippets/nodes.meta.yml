@@ -137,14 +137,6 @@ proxies:
   sni: pl2.nexfile.net
   tls: false
   type: hysteria2
-- name: 8|63@oneclickvpnkeys
-  password: a35c508f-4d5d-4531-842e-6e9d43c762c0
-  port: 4444
-  server: 13.143.189.80
-  skip-cert-verify: true
-  sni: pl3.nexfile.net
-  tls: false
-  type: hysteria2
 - name: '8|@vasl_bashim #3'
   password: a35c508f-4d5d-4531-842e-6e9d43c762c0
   port: 4444
@@ -153,7 +145,7 @@ proxies:
   sni: pl3.nexfile.net
   tls: false
   type: hysteria2
-- name: 8|45@oneclickvpnkeys
+- name: 8|🚩45@oneclickvpnkeys
   password: a35c508f-4d5d-4531-842e-6e9d43c762c0
   port: 4444
   server: 2.27.210.6
