@@ -121,31 +121,7 @@ proxies:
   sni: de2.jey.cc.cd
   tls: false
   type: hysteria2
-- name: '8|@vasl_bashim #1'
-  password: a35c508f-4d5d-4531-842e-6e9d43c762c0
-  port: 4444
-  server: 13.143.189.142
-  skip-cert-verify: false
-  sni: pl3.nexfile.net
-  tls: false
-  type: hysteria2
-- name: '8|@vasl_bashim #2'
-  password: a35c508f-4d5d-4531-842e-6e9d43c762c0
-  port: 4444
-  server: 13.143.189.149
-  skip-cert-verify: false
-  sni: pl2.nexfile.net
-  tls: false
-  type: hysteria2
-- name: '8|@vasl_bashim #3'
-  password: a35c508f-4d5d-4531-842e-6e9d43c762c0
-  port: 4444
-  server: 13.143.189.96
-  skip-cert-verify: false
-  sni: pl3.nexfile.net
-  tls: false
-  type: hysteria2
-- name: 8|🚩45@oneclickvpnkeys
+- name: 8|45@oneclickvpnkeys
   password: a35c508f-4d5d-4531-842e-6e9d43c762c0
   port: 4444
   server: 2.27.210.6
@@ -181,6 +157,16 @@ proxies:
   server: nas.aizhzo.com
   skip-cert-verify: false
   sni: nas.aizhzo.com
+  tls: false
+  type: hysteria2
+- name: 8|12138@proxy_online_net
+  obfs: salamander
+  obfs-password: 7922smqtd5qm70fu
+  password: h05ff7mbgbj6dhwy
+  port: 2098
+  server: vip.trapxan.ir
+  skip-cert-verify: false
+  sni: vip.trapxan.ir
   tls: false
   type: hysteria2
 - name: 8|@vpnbaz
