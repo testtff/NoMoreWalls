@@ -8,7 +8,7 @@ proxies:
   sni: ll5xoe8j.easyiran.org
   tls: false
   type: hysteria2
-- name: 8|@FreakConfig
+- name: 8|@vmesskhodam
   obfs: salamander
   obfs-password: MeJA9qgoYMH4UMunHowisrbd
   password: 02df03e3-3029-4c95-bffe-8f211b480672
@@ -46,7 +46,7 @@ proxies:
   sni: hy6b373d.w-mebel.pro
   tls: false
   type: hysteria2
-- name: 8|42@oneclickvpnkeys
+- name: 8|💫42@oneclickvpnkeys
   password: 4fa0ca1b-0742-419d-8fd2-3f698e06b206
   port: 20444
   server: 88.216.60.117
@@ -71,15 +71,6 @@ proxies:
   server: 109.70.74.213
   skip-cert-verify: false
   sni: 109.70.74.213
-  tls: false
-  type: hysteria2
-- name: 8|@FXxNET⚡️
-  obfs: salamander
-  obfs-password: 7922smqtd5qm70fu
-  password: 5ictxgawam84vgrp
-  port: 2098
-  server: arsalanvpn.trapxan.ir
-  sni: arsalanvpn.trapxan.ir
   tls: false
   type: hysteria2
 - name: 8|Telegram:@v2rayng3
@@ -108,6 +99,14 @@ proxies:
   server: 179.61.132.96
   skip-cert-verify: true
   sni: 179.61.132.96
+  tls: false
+  type: hysteria2
+- name: 8|92@oneclickvpnkeys
+  password: MZKlrFbG73bKvCDe8VPul5PR9xQm
+  port: 20999
+  server: 35.207.53.51
+  skip-cert-verify: true
+  sni: www.apple.com
   tls: false
   type: hysteria2
 - name: 8|Telegram@vpnjey
@@ -158,7 +157,7 @@ proxies:
   sni: de2.jey.cc.cd
   tls: false
   type: hysteria2
-- name: 8|61@oneclickvpnkeys
+- name: 8|💫61@oneclickvpnkeys
   obfs: salamander
   obfs-password: ZuPf4OcXKvotJdDxlTus
   password: YV1sd3tfCZngTtnvRmy7
@@ -196,7 +195,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 8|31@oneclickvpnkeys
+- name: 8|💫31@oneclickvpnkeys
   password: ba3aeb91-2ed0-45d3-8dcf-81e5ed45168b
   port: 8443
   server: 89.105.218.106
