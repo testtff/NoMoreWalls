@@ -16,20 +16,6 @@ proxies:
   sni: fi1.obxodvpn.us
   tls: false
   type: hysteria2
-- name: 8|💫32@oneclickvpnkeys
-  password: 4fa0ca1b-0742-419d-8fd2-3f698e06b206
-  port: 20443
-  server: 84.32.98.84
-  sni: hy6b373d.w-mebel.pro
-  tls: false
-  type: hysteria2
-- name: 8|💫42@oneclickvpnkeys
-  password: 4fa0ca1b-0742-419d-8fd2-3f698e06b206
-  port: 20444
-  server: 88.216.60.117
-  sni: hy60c117-2.w-mebel.pro
-  tls: false
-  type: hysteria2
 - name: 8|@V2ray_confiig
   obfs: salamander
   obfs-password: 7922smqtd5qm70fu
@@ -40,7 +26,7 @@ proxies:
   sni: 109.70.74.213
   tls: false
   type: hysteria2
-- name: 8|@tootffarangi
+- name: 8|@V2raySaman
   obfs: salamander
   obfs-password: 7922smqtd5qm70fu
   password: 5ictxgawam84vgrp
@@ -125,16 +111,17 @@ proxies:
 - name: '8|Telegram@vpnjey #3'
   obfs: salamander
   obfs-password: Telegram@vpnjey
-  password: Telegram@vpnjey
-  port: 54759
+  password: VPNJEY
+  port: 36264
   server: 179.61.138.145
   skip-cert-verify: true
+  sni: de2.jey.cc.cd
   tls: false
   type: hysteria2
 - name: '8|Telegram@vpnjey #4'
   obfs: salamander
   obfs-password: Telegram@vpnjey
-  password: VPNJEY
+  password: VPNJey
   port: 36264
   server: 179.61.138.145
   skip-cert-verify: true
@@ -149,14 +136,6 @@ proxies:
   server: 206.189.229.48
   skip-cert-verify: true
   sni: www.microsoft.com
-  tls: false
-  type: hysteria2
-- name: 8|@FXxNET⚡️
-  password: a35c508f-4d5d-4531-842e-6e9d43c762c0
-  port: 4444
-  server: 13.143.188.143
-  skip-cert-verify: false
-  sni: bl1.nexfile.net
   tls: false
   type: hysteria2
 - name: 8|@KAFING_2
@@ -186,12 +165,12 @@ proxies:
   sni: speedtestmark.com
   tls: false
   type: hysteria2
-- name: 8|@Selinc
+- name: 8|@tootffarangi
   obfs: salamander
   obfs-password: 7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9
   password: eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ
   port: 5010
-  server: nas.aizhzo.com
+  server: 152.32.254.68
   skip-cert-verify: false
   sni: nas.aizhzo.com
   tls: false
@@ -204,6 +183,13 @@ proxies:
   server: vip.trapxan.ir
   skip-cert-verify: false
   sni: vip.trapxan.ir
+  tls: false
+  type: hysteria2
+- name: 8|🇷🇺RU-@VPNine1
+  password: kKd2watTl7WACOoIAjkzt4MW6ak6I3c1Un8c4-oNMtU
+  port: 5443
+  server: 84.252.100.138
+  sni: nl.vip-get.ru
   tls: false
   type: hysteria2
 - name: '8|@confiig_hub #1'
