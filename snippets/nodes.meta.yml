@@ -1,4 +1,40 @@
 proxies:
+- name: 7|@FXxNET
+  password: 184cdec28da5a09450803c8debcd2cc9
+  port: 50160
+  server: 138.3.208.26
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: 7|@FXxNET⚡️
+  password: 184cdec28da5a09450803c8debcd2cc9
+  port: 50160
+  server: 138.3.208.26
+  skip-cert-verify: true
+  sni: 138.3.208.26
+  tls: false
+  type: hysteria2
+- name: 7|@tootffarangi
+  password: 54d2f622-fd71-4f5f-8813-832b68f4ca3b
+  port: 8443
+  server: 104.165.205.42
+  sni: speedtestmark.com
+  tls: false
+  type: hysteria2
+- name: '7|@FXxNET⚡️ #2'
+  password: 96ab5cd282733fd4c312a61f972f330a
+  port: 443
+  server: 45.32.10.7
+  sni: vp3.yysyy.online
+  tls: false
+  type: hysteria2
+- name: '7|@FXxNET⚡️ #3'
+  password: u63SxILNwtrQZ7Y1ZrFaZfsA
+  port: 8443
+  server: 8.211.175.236
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
 - name: 8|kurdconfig
   obfs: salamander
   obfs-password: MeJA9qgoYMH4UMunHowisrbd
@@ -165,7 +201,7 @@ proxies:
   sni: speedtestmark.com
   tls: false
   type: hysteria2
-- name: 8|@tootffarangi
+- name: 8|@ConfigV2RayNG
   obfs: salamander
   obfs-password: 7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9
   password: eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ
@@ -183,13 +219,6 @@ proxies:
   server: vip.trapxan.ir
   skip-cert-verify: false
   sni: vip.trapxan.ir
-  tls: false
-  type: hysteria2
-- name: 8|🇷🇺RU-@VPNine1
-  password: kKd2watTl7WACOoIAjkzt4MW6ak6I3c1Un8c4-oNMtU
-  port: 5443
-  server: 84.252.100.138
-  sni: nl.vip-get.ru
   tls: false
   type: hysteria2
 - name: '8|@confiig_hub #1'
