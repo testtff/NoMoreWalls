@@ -9,6 +9,13 @@ proxies:
   sni: hank.hankli1214.xyz
   tls: false
   type: hysteria2
+- name: 8|@meliproxyy
+  password: 54d2f622-fd71-4f5f-8813-832b68f4ca3b
+  port: 8443
+  server: 104.165.205.42
+  sni: speedtestmark.com
+  tls: false
+  type: hysteria2
 - name: 8|@V2ray_confiig
   obfs: salamander
   obfs-password: 7922smqtd5qm70fu
@@ -37,14 +44,6 @@ proxies:
   server: 31.76.80.69
   skip-cert-verify: false
   sni: fiproxy1.lockdwn.com
-  tls: false
-  type: hysteria2
-- name: 8|6@exclavevpn
-  password: 95c61940-2823-4665-a033-d4f2218329b6
-  port: 443
-  server: 46.8.210.209
-  skip-cert-verify: true
-  sni: ru3.kinotorg.net
   tls: false
   type: hysteria2
 - name: 8|+@Azarakhsh_Proxy+
@@ -86,6 +85,15 @@ proxies:
   sni: de2.jey.cc.cd
   tls: false
   type: hysteria2
+- name: 8|@V2rayNPVTConfig
+  obfs: salamander
+  obfs-password: 5P1G9AdY6Jx8giZJCuS4w_gV
+  password: UrKhE2HmJfmWi5Iuotyumfo2ZZUHPEAL
+  port: 443
+  server: proel.jetservistr.ir
+  sni: wufpel.ir
+  tls: false
+  type: hysteria2
 - name: '8|Telegram@vpnjey #3'
   obfs: salamander
   obfs-password: Telegram@vpnjey
@@ -104,6 +112,20 @@ proxies:
   server: 179.61.138.145
   skip-cert-verify: true
   sni: de2.jey.cc.cd
+  tls: false
+  type: hysteria2
+- name: '8|@meliproxyy #1'
+  password: a35c508f-4d5d-4531-842e-6e9d43c762c0
+  port: 4444
+  server: 13.143.189.71
+  sni: pl3.nexfile.net
+  tls: false
+  type: hysteria2
+- name: '8|@meliproxyy #2'
+  password: a35c508f-4d5d-4531-842e-6e9d43c762c0
+  port: 4444
+  server: 31.76.62.148
+  sni: lv2.nexfile.net
   tls: false
   type: hysteria2
 - name: 8|@KAFING_2
