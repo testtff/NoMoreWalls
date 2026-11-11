@@ -65,15 +65,6 @@ proxies:
   sni: de2.jey.cc.cd
   tls: false
   type: hysteria2
-- name: 8|@V2rayNPVTConfig
-  obfs: salamander
-  obfs-password: 5P1G9AdY6Jx8giZJCuS4w_gV
-  password: UrKhE2HmJfmWi5Iuotyumfo2ZZUHPEAL
-  port: 443
-  server: proel.jetservistr.ir
-  sni: wufpel.ir
-  tls: false
-  type: hysteria2
 - name: '8|Telegram@vpnjey #3'
   obfs: salamander
   obfs-password: Telegram@vpnjey
@@ -92,6 +83,14 @@ proxies:
   server: 179.61.138.145
   skip-cert-verify: true
   sni: de2.jey.cc.cd
+  tls: false
+  type: hysteria2
+- name: 8|31@oneclickvpnkeys
+  password: a2c74ce7-5daa-4bee-a1eb-52863873b3c3
+  port: 443
+  server: 194.48.250.233
+  skip-cert-verify: true
+  sni: mol.ultimagamest.com
   tls: false
   type: hysteria2
 - name: 8|@vasl_bashim
@@ -154,7 +153,7 @@ proxies:
   sni: nas.aizhzo.com
   tls: false
   type: hysteria2
-- name: '8|@confiig_hub #1'
+- name: 8|@vpnbaz
   obfs: salamander
   obfs-password: rG07s3COMIEvdnQipRyWzx_H_2xygNC3
   password: p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR
