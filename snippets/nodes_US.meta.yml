@@ -1,4 +1,12 @@
 proxies:
+- name: 7|🇺🇸12@exclavevpn
+  password: 146d567c-6335-4e63-a8aa-7ec068642440
+  port: 443
+  server: nlll.obxodvpn.us
+  skip-cert-verify: true
+  sni: nlll.obxodvpn.us
+  tls: false
+  type: hysteria2
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
   name: 13,14|美国|@ripaojiedian

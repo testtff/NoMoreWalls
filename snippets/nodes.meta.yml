@@ -1,12 +1,34 @@
 proxies:
-- name: 8|12@oneclickvpnkeys
+- name: 7|🇺🇸12@exclavevpn
+  password: 146d567c-6335-4e63-a8aa-7ec068642440
+  port: 443
+  server: nlll.obxodvpn.us
+  skip-cert-verify: true
+  sni: nlll.obxodvpn.us
+  tls: false
+  type: hysteria2
+- name: 8|🫆12@oneclickvpnkeys
   password: 2be4ee40-0d2a-43cb-a267-8769df96da2a
   port: 443
   server: 45.88.12.158
   sni: va.stream-room.com
   tls: false
   type: hysteria2
-- name: 8|@meliproxyy
+- name: 8|🫆34@oneclickvpnkeys
+  password: 4b13c29ebe735e47
+  port: 443
+  server: 213.21.232.4
+  sni: mytubeproxy10.duckdns.org
+  tls: false
+  type: hysteria2
+- name: 8|🫆43@oneclickvpnkeys
+  password: 549766c3-fa5f-471e-8031-ffc1f8d5064f
+  port: 443
+  server: guide.blog-forme.ru
+  sni: guide.blog-forme.ru
+  tls: false
+  type: hysteria2
+- name: 8|@vpnsal
   password: 54d2f622-fd71-4f5f-8813-832b68f4ca3b
   port: 8443
   server: 104.165.205.42
@@ -92,7 +114,7 @@ proxies:
   sni: de2.jey.cc.cd
   tls: false
   type: hysteria2
-- name: 8|🗼31@oneclickvpnkeys
+- name: 8|31@oneclickvpnkeys
   password: a2c74ce7-5daa-4bee-a1eb-52863873b3c3
   port: 443
   server: 194.48.250.233
@@ -168,15 +190,6 @@ proxies:
   server: 130.49.161.70
   skip-cert-verify: false
   sni: hy2.aspidnet.xyz
-  tls: false
-  type: hysteria2
-- name: 8|@tootffarangi
-  obfs: salamander
-  obfs-password: vzngnxxk9uzl5lfy
-  password: pcr3f3ve1mvek9es
-  port: 8446
-  server: 163.61.182.194
-  skip-cert-verify: false
   tls: false
   type: hysteria2
 - name: '8|Telegram@vpnjey #5'
