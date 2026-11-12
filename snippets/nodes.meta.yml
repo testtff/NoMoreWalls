@@ -1,4 +1,11 @@
 proxies:
+- name: 8|12@oneclickvpnkeys
+  password: 2be4ee40-0d2a-43cb-a267-8769df96da2a
+  port: 443
+  server: 45.88.12.158
+  sni: va.stream-room.com
+  tls: false
+  type: hysteria2
 - name: 8|@meliproxyy
   password: 54d2f622-fd71-4f5f-8813-832b68f4ca3b
   port: 8443
@@ -161,6 +168,15 @@ proxies:
   server: 130.49.161.70
   skip-cert-verify: false
   sni: hy2.aspidnet.xyz
+  tls: false
+  type: hysteria2
+- name: 8|@tootffarangi
+  obfs: salamander
+  obfs-password: vzngnxxk9uzl5lfy
+  password: pcr3f3ve1mvek9es
+  port: 8446
+  server: 163.61.182.194
+  skip-cert-verify: false
   tls: false
   type: hysteria2
 - name: '8|Telegram@vpnjey #5'
