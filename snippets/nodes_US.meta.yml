@@ -7,6 +7,16 @@ proxies:
   sni: nlll.obxodvpn.us
   tls: false
   type: hysteria2
+- name: 8|32@oneclickvpnkeys
+  obfs: salamander
+  obfs-password: sFQIE4F3SbaXCYoCQTY-4YvYiif8__By
+  password: 247802ca-0fbb-428a-b807-91a6e571b5c7
+  port: 443
+  server: 201.58.190.235
+  skip-cert-verify: true
+  sni: hy2-pl.snobvpn.online
+  tls: false
+  type: hysteria2
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
   name: 13,14|美国|@ripaojiedian
