@@ -25,7 +25,7 @@ proxies:
   sni: hy2-fi2.snobvpn.online
   tls: false
   type: hysteria2
-- name: 8|32@oneclickvpnkeys
+- name: 8|🪅32@oneclickvpnkeys
   obfs: salamander
   obfs-password: sFQIE4F3SbaXCYoCQTY-4YvYiif8__By
   password: 247802ca-0fbb-428a-b807-91a6e571b5c7
@@ -67,7 +67,8 @@ proxies:
   sni: shorts.blog-forme.ru
   tls: false
   type: hysteria2
-- name: '8|@OutlineReleasedKey #1'
+- fingerprint: chrome
+  name: '8|@OutlineReleasedKey #2'
   password: 549766c3-fa5f-471e-8031-ffc1f8d5064f
   port: 24433
   server: 94.183.164.119
@@ -98,7 +99,7 @@ proxies:
   sni: 109.70.74.213
   tls: false
   type: hysteria2
-- name: '8|@OutlineReleasedKey #2'
+- name: '8|@OutlineReleasedKey #3'
   password: 63e1b9462d708b56d5d5a0267cffecdc
   port: 443
   server: 88.216.195.188
@@ -115,7 +116,7 @@ proxies:
   sni: fiproxy1.lockdwn.com
   tls: false
   type: hysteria2
-- name: '8|@OutlineReleasedKey #3'
+- name: '8|@OutlineReleasedKey #4'
   password: 92bd8c68-6434-11ee-b644-f23c91cfbbc9
   port: 443
   server: 88f7008b-tmm5c0-tonrqx-1khwf.nw4.hyhuawei.com
@@ -131,6 +132,14 @@ proxies:
   sni: vpn-de-002.fastervpn.world
   tls: false
   type: hysteria2
+- name: 8|@V2rayNPVTConfig
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 3.76.203.180
+  skip-cert-verify: true
+  sni: 127.0.0.1
+  tls: false
+  type: hysteria2
 - name: 8|+@Azarakhsh_Proxy+
   obfs: salamander
   obfs-password: KevinZakarian
@@ -141,7 +150,7 @@ proxies:
   sni: 179.61.132.96
   tls: false
   type: hysteria2
-- name: '8|@OutlineReleasedKey #4'
+- name: '8|@OutlineReleasedKey #5'
   password: STYyftThFn
   port: 12765
   server: 85.121.123.197
@@ -151,15 +160,6 @@ proxies:
 - name: 8|Telegram@vpnjey
   obfs: salamander
   obfs-password: Telegram@vpnjey
-  password: Telegram-Vpnjey
-  port: 54759
-  server: 179.61.138.145
-  skip-cert-verify: true
-  tls: false
-  type: hysteria2
-- name: '8|Telegram@vpnjey #1'
-  obfs: salamander
-  obfs-password: Telegram@vpnjey
   password: Telegram-vpnjey
   port: 36264
   server: 179.61.138.145
@@ -167,7 +167,7 @@ proxies:
   sni: de2.jey.cc.cd
   tls: false
   type: hysteria2
-- name: '8|Telegram@vpnjey #2'
+- name: '8|Telegram@vpnjey #1'
   obfs: salamander
   obfs-password: Telegram@vpnjey
   password: Telegram
@@ -177,7 +177,7 @@ proxies:
   sni: de2.jey.cc.cd
   tls: false
   type: hysteria2
-- name: '8|Telegram@vpnjey #3'
+- name: '8|Telegram@vpnjey #2'
   obfs: salamander
   obfs-password: Telegram@vpnjey
   password: VPNJEY
@@ -187,7 +187,7 @@ proxies:
   sni: de2.jey.cc.cd
   tls: false
   type: hysteria2
-- name: '8|Telegram@vpnjey #4'
+- name: '8|Telegram@vpnjey #3'
   obfs: salamander
   obfs-password: Telegram@vpnjey
   password: VPNJey
@@ -197,7 +197,7 @@ proxies:
   sni: de2.jey.cc.cd
   tls: false
   type: hysteria2
-- name: '8|@OutlineReleasedKey #5'
+- name: '8|@OutlineReleasedKey #6'
   password: a35c508f-4d5d-4531-842e-6e9d43c762c0
   port: 4444
   server: 13.143.189.101
@@ -220,7 +220,7 @@ proxies:
   sni: pl3.nexfile.net
   tls: false
   type: hysteria2
-- name: '8|@OutlineReleasedKey #6'
+- name: '8|@OutlineReleasedKey #7'
   password: a35c508f-4d5d-4531-842e-6e9d43c762c0
   port: 4444
   server: 13.143.189.96
@@ -228,20 +228,11 @@ proxies:
   sni: pl3.nexfile.net
   tls: false
   type: hysteria2
-- name: '8|@OutlineReleasedKey #7'
+- name: '8|@OutlineReleasedKey #8'
   password: a35c508f-4d5d-4531-842e-6e9d43c762c0
   port: 4444
   server: 2.27.210.6
   skip-cert-verify: true
-  sni: lv2.nexfile.net
-  tls: false
-  type: hysteria2
-- alpn:
-  - h3
-  name: '8|@OutlineReleasedKey #8'
-  password: a35c508f-4d5d-4531-842e-6e9d43c762c0
-  port: 4444
-  server: 2.27.210.6
   sni: lv2.nexfile.net
   tls: false
   type: hysteria2
@@ -250,13 +241,6 @@ proxies:
   port: 4444
   server: 31.76.62.148
   sni: lv2.nexfile.net
-  tls: false
-  type: hysteria2
-- name: '8|@OutlineReleasedKey #9'
-  password: a35c508f-4d5d-4531-842e-6e9d43c762c0
-  port: 4444
-  server: bl1.nexfile.net
-  sni: bl1.nexfile.net
   tls: false
   type: hysteria2
 - name: 8|@KAFING_2
@@ -299,7 +283,7 @@ proxies:
   sni: hy2.aspidnet.xyz
   tls: false
   type: hysteria2
-- name: '8|Telegram@vpnjey #5'
+- name: '8|Telegram@vpnjey #4'
   obfs: salamander
   obfs-password: Telegram@vpnjey
   password: vpnJey
@@ -309,7 +293,7 @@ proxies:
   sni: de2.jey.cc.cd
   tls: false
   type: hysteria2
-- name: '8|Telegram@vpnjey #6'
+- name: '8|Telegram@vpnjey #5'
   obfs: salamander
   obfs-password: Telegram@vpnjey
   password: vpnjey
