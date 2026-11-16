@@ -1,24 +1,9 @@
 proxies:
-- name: 7|🇺🇸12@exclavevpn
-  password: 146d567c-6335-4e63-a8aa-7ec068642440
-  port: 443
-  server: nlll.obxodvpn.us
-  skip-cert-verify: true
-  sni: nlll.obxodvpn.us
-  tls: false
-  type: hysteria2
-- name: '7,8|69@oneclickvpnkeys #1'
+- name: 7,8|69@oneclickvpnkeys
   password: 307ee0e53ea04dfd86a7f2f9fcd53844
   port: 443
   server: s5.libertyrunet.store
   sni: s5.libertyrunet.store
-  tls: false
-  type: hysteria2
-- name: 7|@tootffarangi
-  password: 833539ec-fbba-40e8-ba6c-ac31bf6b3b4c
-  port: 443
-  server: 144.31.168.201
-  sni: fastconv-mirror.ru
   tls: false
   type: hysteria2
 - name: '7,8|@OutlineReleasedKey #8'
@@ -51,6 +36,13 @@ proxies:
   server: 138.2.89.249
   skip-cert-verify: true
   sni: www.bing.com
+  tls: false
+  type: hysteria2
+- name: 7|@tootffarangi
+  password: yO8pug5XmwkBXBAjleYIaVt
+  port: 443
+  server: 192.255.152.147
+  skip-cert-verify: true
   tls: false
   type: hysteria2
 - name: 8|⚕️15@oneclickvpnkeys
@@ -114,6 +106,22 @@ proxies:
   server: 88f7008b-tmm5c0-tonrqx-1khwf.nw4.hyhuawei.com
   skip-cert-verify: true
   sni: 88f7008b-tmm5c0-tonrqx-1khwf.nw4.hyhuawei.com
+  tls: false
+  type: hysteria2
+- name: '8|@tootffarangi #1'
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 18.194.242.173
+  skip-cert-verify: true
+  sni: 18.194.242.173
+  tls: false
+  type: hysteria2
+- name: 8|@tootffarangi🍓
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 3.76.203.180
+  skip-cert-verify: true
+  sni: 3.76.203.180
   tls: false
   type: hysteria2
 - name: 8|+@Azarakhsh_Proxy+
