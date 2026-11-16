@@ -14,6 +14,13 @@ proxies:
   sni: s5.libertyrunet.store
   tls: false
   type: hysteria2
+- name: 7|@tootffarangi
+  password: 833539ec-fbba-40e8-ba6c-ac31bf6b3b4c
+  port: 443
+  server: 144.31.168.201
+  sni: fastconv-mirror.ru
+  tls: false
+  type: hysteria2
 - name: '7,8|@OutlineReleasedKey #8'
   password: b36a14f8-fc3f-4142-968f-48031cf5f330
   port: 443
@@ -67,14 +74,6 @@ proxies:
   server: steel7.hadsvpn.com
   skip-cert-verify: false
   sni: steel7.hadsvpn.com
-  tls: false
-  type: hysteria2
-- name: 8|🇯🇵JP-@VPNine1
-  password: 3OAaD9HeUplLnOOA0StMZG
-  port: 443
-  server: 43.239.249.178
-  skip-cert-verify: true
-  sni: www.bing.com
   tls: false
   type: hysteria2
 - fingerprint: chrome
@@ -205,13 +204,6 @@ proxies:
   server: 2.27.210.6
   skip-cert-verify: true
   sni: lv2.nexfile.net
-  tls: false
-  type: hysteria2
-- name: 8|🙏15@oneclickvpnkeys
-  password: a35c508f-4d5d-4531-842e-6e9d43c762c0
-  port: 4444
-  server: 48.102.214.167
-  sni: fl5.edgeport.cloud
   tls: false
   type: hysteria2
 - name: 8|@KAFING_2
