@@ -1,47 +1,8 @@
 proxies:
-- name: 7,8|69@oneclickvpnkeys
-  password: 307ee0e53ea04dfd86a7f2f9fcd53844
+- name: 7|🇺🇲16@exclavevpn
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
   port: 443
-  server: s5.libertyrunet.store
-  sni: s5.libertyrunet.store
-  tls: false
-  type: hysteria2
-- name: '7,8|@OutlineReleasedKey #8'
-  password: b36a14f8-fc3f-4142-968f-48031cf5f330
-  port: 443
-  server: hy2-eee-1.aloranode.top
-  skip-cert-verify: false
-  sni: hy2-eee-1.aloranode.top
-  tls: false
-  type: hysteria2
-- name: 7|67@oneclickvpnkeys
-  password: b36a14f8-fc3f-4142-968f-48031cf5f330
-  port: 25515
-  server: tr3.h1cloud.net
-  sni: 2c74e5t.tr3.h1clayd.click
-  tls: false
-  type: hysteria2
-- name: 7|🙏68@oneclickvpnkeys
-  password: ccb8ff48-3934-4250-b4ec-bb76b95d154f
-  port: 443
-  server: 185.126.237.178
-  sni: 185.126.237.178
-  tls: false
-  type: hysteria2
-- name: 7|🙏33@oneclickvpnkeys
-  obfs: salamander
-  obfs-password: 309502c4a8df10b46fb976d4a8c43f42
-  password: d042d150716709bb778cc73889cddb02
-  port: 443
-  server: 138.2.89.249
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
-- name: 7|@tootffarangi
-  password: yO8pug5XmwkBXBAjleYIaVt
-  port: 443
-  server: 192.255.152.147
+  server: 13.184.166.19
   skip-cert-verify: true
   tls: false
   type: hysteria2
@@ -64,12 +25,18 @@ proxies:
   password: 23c82941-70f4-4381-90db-bd28e9a902e9
   port: 443
   server: steel7.hadsvpn.com
+  tls: false
+  type: hysteria2
+- name: '8|@OutlineReleasedKey #2'
+  password: 23c82941-70f4-4381-90db-bd28e9a902e9
+  port: 443
+  server: steel7.hadsvpn.com
   skip-cert-verify: false
   sni: steel7.hadsvpn.com
   tls: false
   type: hysteria2
 - fingerprint: chrome
-  name: '8|@OutlineReleasedKey #3'
+  name: '8|@OutlineReleasedKey #4'
   password: 549766c3-fa5f-471e-8031-ffc1f8d5064f
   port: 24433
   server: 94.183.164.119
@@ -81,13 +48,6 @@ proxies:
   port: 8443
   server: 104.165.205.42
   sni: speedtestmark.com
-  tls: false
-  type: hysteria2
-- name: '8|@OutlineReleasedKey #4'
-  password: 63e1b9462d708b56d5d5a0267cffecdc
-  port: 443
-  server: 88.216.195.188
-  sni: promo3.goonars.com
   tls: false
   type: hysteria2
 - name: 8|Telegram:@v2rayng3
@@ -106,22 +66,6 @@ proxies:
   server: 88f7008b-tmm5c0-tonrqx-1khwf.nw4.hyhuawei.com
   skip-cert-verify: true
   sni: 88f7008b-tmm5c0-tonrqx-1khwf.nw4.hyhuawei.com
-  tls: false
-  type: hysteria2
-- name: '8|@tootffarangi #1'
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: 443
-  server: 18.194.242.173
-  skip-cert-verify: true
-  sni: 18.194.242.173
-  tls: false
-  type: hysteria2
-- name: 8|@tootffarangi🍓
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: 443
-  server: 3.76.203.180
-  skip-cert-verify: true
-  sni: 3.76.203.180
   tls: false
   type: hysteria2
 - name: 8|+@Azarakhsh_Proxy+
@@ -182,22 +126,6 @@ proxies:
   sni: de2.jey.cc.cd
   tls: false
   type: hysteria2
-- name: 8|@vasl_bashim
-  password: a35c508f-4d5d-4531-842e-6e9d43c762c0
-  port: 4444
-  server: 13.143.189.101
-  skip-cert-verify: false
-  sni: pl1.nexfile.net
-  tls: false
-  type: hysteria2
-- name: '8|@vasl_bashim #1'
-  password: a35c508f-4d5d-4531-842e-6e9d43c762c0
-  port: 4444
-  server: 13.143.189.146
-  skip-cert-verify: false
-  sni: pl3.nexfile.net
-  tls: false
-  type: hysteria2
 - name: '8|@OutlineReleasedKey #6'
   password: a35c508f-4d5d-4531-842e-6e9d43c762c0
   port: 4444
@@ -212,6 +140,14 @@ proxies:
   server: 2.27.210.6
   skip-cert-verify: true
   sni: lv2.nexfile.net
+  tls: false
+  type: hysteria2
+- name: '8|@OutlineReleasedKey #8'
+  password: b36a14f8-fc3f-4142-968f-48031cf5f330
+  port: 443
+  server: hy2-eee-1.aloranode.top
+  skip-cert-verify: false
+  sni: hy2-eee-1.aloranode.top
   tls: false
   type: hysteria2
 - name: 8|@KAFING_2
@@ -234,7 +170,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 8|telegram:@pirozi_ArGaP
+- name: 8|@ICV2RAY
   obfs: salamander
   obfs-password: km9oqmefh2km1i5n
   password: d1gkicdgem3bsoaa
@@ -242,6 +178,13 @@ proxies:
   server: panel.autonetshop.ir
   skip-cert-verify: false
   sni: panel.autonetshop.ir
+  tls: false
+  type: hysteria2
+- name: '8|@OutlineReleasedKey #9'
+  password: d4ca9415f0eac7897472e1e5b86d2e96
+  port: 443
+  server: 50.7.38.243
+  sni: promo.betust.net
   tls: false
   type: hysteria2
 - name: 8|@ConfigV2RayNG
@@ -261,7 +204,7 @@ proxies:
   sni: germany.cloudhouse1.ru
   tls: false
   type: hysteria2
-- name: 8|@vpnbaz
+- name: '8|@confiig_hub #1'
   obfs: salamander
   obfs-password: rG07s3COMIEvdnQipRyWzx_H_2xygNC3
   password: p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR
