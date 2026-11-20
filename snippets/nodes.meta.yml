@@ -1,11 +1,4 @@
 proxies:
-- name: 7|🇺🇲16@exclavevpn
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: 443
-  server: 13.184.166.19
-  skip-cert-verify: true
-  tls: false
-  type: hysteria2
 - name: 8|@OutlineReleasedKey
   password: 23c82941-70f4-4381-90db-bd28e9a902e9
   port: 443
@@ -19,14 +12,7 @@ proxies:
   server: steel7.hadsvpn.com
   tls: false
   type: hysteria2
-- name: 8|9@oneclickvpnkeys
-  password: 2d399e38-245c-4f07-abf2-cfce7397ba9c
-  port: 8443
-  server: 31.76.106.92
-  sni: va.stream-room.com
-  tls: false
-  type: hysteria2
-- name: 8|🔹71@oneclickvpnkeys
+- name: 8|71@oneclickvpnkeys
   password: 3a17ce52-4547-45aa-9820-a7d03ad5faca
   port: 443
   server: 45.86.74.193
@@ -239,7 +225,7 @@ proxies:
   sni: cloudehouse24.ru
   tls: false
   type: hysteria2
-- name: 8|100@oneclickvpnkeys
+- name: 8|🔵100@oneclickvpnkeys
   password: linlin-2026
   port: 36712
   server: 13.55.52.44
