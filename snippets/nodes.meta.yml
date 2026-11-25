@@ -1,4 +1,12 @@
 proxies:
+- name: 7|25@exclavevpn
+  password: 900c8c92-1979-4c7c-8f2f-63e87d53d8fe
+  port: 13337
+  server: 128.254.186.57
+  skip-cert-verify: true
+  sni: mother-earth.fyi
+  tls: false
+  type: hysteria2
 - name: 8|🆓13@oneclickvpnkeys
   password: 04920673-035c-410d-94e4-5b1469d3fb6f
   port: 42848
@@ -6,27 +14,10 @@ proxies:
   sni: 171.22.183.158
   tls: false
   type: hysteria2
-- name: 8|@V2rayNPVTConfig
-  password: 04920673-035c-410d-94e4-5b1469d3fb6f
-  port: 42848
-  server: 171.22.183.158
-  skip-cert-verify: false
-  tls: false
-  type: hysteria2
 - name: 8|66@oneclickvpnkeys
   password: 04920673-035c-410d-94e4-5b1469d3fb6f
   port: 42848
   server: 91.211.27.231
-  sni: 171.22.183.158
-  tls: false
-  type: hysteria2
-- alpn:
-  - h3
-  name: '8|@V2rayNPVTConfig #1'
-  password: 04920673-035c-410d-94e4-5b1469d3fb6f
-  port: 42848
-  server: 91.211.27.231
-  skip-cert-verify: false
   sni: 171.22.183.158
   tls: false
   type: hysteria2
@@ -47,36 +38,14 @@ proxies:
   sni: us1.taptapvpn.top
   tls: false
   type: hysteria2
-- name: 8|🔰33@oneclickvpnkeys
-  obfs: salamander
-  obfs-password: S4iBMpc3aIzLC1c-6fE6rU15ZzXyfjr0ciGdh0A3alI
-  password: 247802ca-0fbb-428a-b807-91a6e571b5c7
+- name: '8|@VPsave #1'
+  password: 4dea9141-914b-4a25-86b4-c5f98616cb8d
   port: 443
-  server: 166.0.28.140
-  sni: static-de.snobmenu.xyz
+  server: 177.3.252.187
+  sni: quattro-vpn-zalupa.cxhub.su
   tls: false
   type: hysteria2
-- name: 8|13401@proxy_online_net
-  obfs: salamander
-  obfs-password: a7rK-GlWiXFjHnfCYQeiNGqPgqj7sfRr
-  password: 247802ca-0fbb-428a-b807-91a6e571b5c7
-  port: 443
-  server: 48.102.139.88
-  skip-cert-verify: false
-  sni: static-se2.snobvpn.online
-  tls: false
-  type: hysteria2
-- alpn:
-  - h3
-  name: 8|@OutlineReleasedKey
-  password: 549766c3-fa5f-471e-8031-ffc1f8d5064f
-  port: 443
-  server: 212.34.137.105
-  skip-cert-verify: true
-  sni: shorts.blog-forme.ru
-  tls: false
-  type: hysteria2
-- name: '8|@OutlineReleasedKey #1'
+- name: 8|@OutlineReleasedKey
   password: 549766c3-fa5f-471e-8031-ffc1f8d5064f
   port: 443
   server: 212.34.137.105
@@ -85,7 +54,7 @@ proxies:
   tls: false
   type: hysteria2
 - fingerprint: chrome
-  name: '8|@OutlineReleasedKey #2'
+  name: '8|@OutlineReleasedKey #1'
   password: 549766c3-fa5f-471e-8031-ffc1f8d5064f
   port: 24403
   server: 94.183.164.119
@@ -104,7 +73,7 @@ proxies:
   type: hysteria2
 - alpn:
   - h3
-  name: '8|@VPsave #1'
+  name: '8|@VPsave #2'
   obfs: salamander
   obfs-password: 6fltjteoyab7fjf1
   password: 57beeeb0-03fc-4fc9-94da-7604488a7134
@@ -124,7 +93,7 @@ proxies:
   sni: bgsg2.hikigo.com
   tls: false
   type: hysteria2
-- name: '8|@VPsave #2'
+- name: '8|@VPsave #3'
   obfs: salamander
   obfs-password: re61ep4ancwplwh8
   password: 57beeeb0-03fc-4fc9-94da-7604488a7134
@@ -176,20 +145,19 @@ proxies:
   sni: 216.73.157.142
   tls: false
   type: hysteria2
-- name: 8|KR-@VPNine1
-  password: 7e68e32f-8015-4f37-9082-70e8b0b58043
-  port: 443
-  server: 43.203.228.99
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
-- name: '8|@OutlineReleasedKey #3'
+- name: '8|@OutlineReleasedKey #2'
   password: 87bb2ac4-b7a1-0001-b11d-2107709ea6cb
   port: 443
   server: 136.148.83.69
   skip-cert-verify: true
   sni: szqbx-ru-77dc.my-fade.cloud
+  tls: false
+  type: hysteria2
+- name: '8|@OutlineReleasedKey #3'
+  password: 900c8c92-1979-4c7c-8f2f-63e87d53d8fe
+  port: 13337
+  server: uk-tube-01.stre4m.net
+  sni: mother-earth.fyi
   tls: false
   type: hysteria2
 - name: 8|🇷24@exclavevpn
@@ -308,7 +276,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: '8|@VPsave #3'
+- name: '8|@VPsave #4'
   password: c358d323-c2c7-4457-bfdb-dd736ba16d38
   port: 443
   server: 177.3.252.187
@@ -334,7 +302,7 @@ proxies:
   sni: tomsk.gosgenarchive.com
   tls: false
   type: hysteria2
-- name: '8|@VPsave #4'
+- name: '8|@VPsave #5'
   password: d0975db4-e8c8-41f7-a5f3-a3d1d432e499
   port: 443
   server: 194.93.61.120
@@ -364,13 +332,6 @@ proxies:
   port: 10444
   server: 195.63.128.21
   sni: germany.cloudhouse1.ru
-  tls: false
-  type: hysteria2
-- name: '8|@OutlineReleasedKey #9'
-  password: fa937345-6d3e-4ff4-8127-1a836987a0db
-  port: 10444
-  server: 195.63.138.212
-  sni: cloudehouse24.ru
   tls: false
   type: hysteria2
 - name: '8|@confiig_hub #1'
