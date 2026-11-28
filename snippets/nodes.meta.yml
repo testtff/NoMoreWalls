@@ -1,5 +1,5 @@
 proxies:
-- name: '7,8|@OutlineReleasedKey #4'
+- name: '7,8|@OutlineReleasedKey #5'
   password: 900c8c92-1979-4c7c-8f2f-63e87d53d8fe
   port: 13337
   server: 128.254.186.57
@@ -63,13 +63,6 @@ proxies:
   sni: fiproxy1.lockdwn.com
   tls: false
   type: hysteria2
-- name: 8|@VPsave
-  password: 6ac6d17d-040c-4fab-940e-8f5d72c3fed6
-  port: 443
-  server: 135.126.21.107
-  sni: de2-balance.rezproffx.ru
-  tls: false
-  type: hysteria2
 - alpn:
   - h3
   name: 8|@mehrosaboran
@@ -82,7 +75,7 @@ proxies:
   sni: 216.73.157.142
   tls: false
   type: hysteria2
-- name: 8|TEHRANARGO@
+- name: 8|TEHRANARGO🇩🇪@
   obfs: salamander
   obfs-password: qrl-03E8Q6JaUlAkOPHXQBwN
   password: 74bec046f0004aa5bc280ecc4ab50465
@@ -92,18 +85,11 @@ proxies:
   sni: 216.73.157.142
   tls: false
   type: hysteria2
-- name: 8|KR-@VPNine1
-  password: 7e68e32f-8015-4f37-9082-70e8b0b58043
-  port: 443
-  server: 3.35.174.64
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
-- name: '8|@OutlineReleasedKey #3'
+- name: '8|@OutlineReleasedKey #4'
   password: 87bb2ac4-b7a1-0001-b11d-2107709ea6cb
   port: 443
   server: 136.148.83.69
+  skip-cert-verify: true
   sni: szqbx-ru-77dc.my-fade.cloud
   tls: false
   type: hysteria2
@@ -128,7 +114,7 @@ proxies:
   sni: mother-earth.fyi
   tls: false
   type: hysteria2
-- name: '8|@OutlineReleasedKey #5'
+- name: '8|@OutlineReleasedKey #6'
   password: 900c8c92-1979-4c7c-8f2f-63e87d53d8fe
   port: 13337
   server: uk-tube-01.stre4m.net
@@ -152,7 +138,7 @@ proxies:
   sni: 185.200.199.179
   tls: false
   type: hysteria2
-- name: 8|🇷24@exclavevpn
+- name: 8|24@exclavevpn
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
   port: 443
   server: 13.36.234.11
@@ -250,7 +236,7 @@ proxies:
   sni: de2.jey.cc.cd
   tls: false
   type: hysteria2
-- name: '8|@OutlineReleasedKey #7'
+- name: '8|@OutlineReleasedKey #8'
   password: a35c508f-4d5d-4531-842e-6e9d43c762c0
   port: 4444
   server: 179.254.191.251
@@ -290,7 +276,7 @@ proxies:
   sni: tomsk.gosgenarchive.com
   tls: false
   type: hysteria2
-- name: 8|🇱24@exclavevpn
+- name: 8|🇳🇱24@exclavevpn
   password: d4ca9415f0eac7897472e1e5b86d2e96
   port: 443
   server: 50.7.38.243
@@ -300,7 +286,7 @@ proxies:
   type: hysteria2
 - alpn:
   - h3
-  name: '8|@OutlineReleasedKey #8'
+  name: '8|@OutlineReleasedKey #9'
   password: lvu_3390f238bef4e3058ac47c87473755cf_07cd5acf7265adf5c1210040ca46facf
   port: 443
   server: n42.neproxy.net
@@ -442,21 +428,6 @@ proxies:
   sni: px.ads.linkedin.com
   type: anytls
   udp: true
-- flow: xtls-rprx-vision
-  name: 13|🇭🇰 香港|@ripaojiedian
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: KBPuCiAKJQQtlsodm5MIBFfYf-TGsrjCK5GGJzJJli4
-    short-id: 6a3c0a718181
-  server: jp2mqtt.jumpernode.site
-  servername: stg.nvbugspro.nvidia.com
-  skip-cert-verify: true
-  tfo: false
-  tls: true
-  type: vless
-  udp: true
-  uuid: 330a570e-c0ba-4a9d-8e37-d20540cc8eaa
 - cipher: aes-256-gcm
   name: 13|🇮🇹 意大利2|@ripaojiedian
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
@@ -624,6 +595,37 @@ proxies:
       Host: itunes.apple.com
     path: /ws
     v2ray-http-upgrade: false
+- name: 13|🇭🇰 香港|@ripaojiedian
+  network: ws
+  port: 1891
+  server: 216.236.51.44
+  servername: senflarelink-node-71i.pages.dev
+  skip-cert-verify: true
+  tfo: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: e9923122-5d88-43f1-8548-5771d7750ef5
+  ws-opts:
+    headers:
+      Host: senflarelink-node-71i.pages.dev
+    path: /
+    v2ray-http-upgrade: false
+- flow: xtls-rprx-vision
+  name: 13,14|香港3|@ripaojiedian
+  network: tcp
+  port: 28418
+  reality-opts:
+    public-key: mfxE6lW_fuPZKWtrySdTx9HOh0vtX3-7aMiYDCh2YCA
+    short-id: ddd21e20
+  server: 38.207.172.59
+  servername: op.gg
+  skip-cert-verify: true
+  tfo: false
+  tls: false
+  type: vless
+  udp: true
+  uuid: e6552569-97ce-430c-a324-53ad1c546e05
 - flow: ''
   name: 14|日本3|@ripaojiedian
   network: ws
